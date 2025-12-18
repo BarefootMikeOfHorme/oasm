@@ -1,0 +1,121 @@
+# Script Template Generator
+# Creates PowerShell/Python/Rust scripts from templates
+
+name: "Script Template Generator"
+version: "1.0.0"
+type: "meta_template"
+
+description: |
+  Generates executable scripts from high-level templates.
+  Supports PowerShell (PS 2026), Python 3.12, and Rust.
+
+templates:
+  powershell:
+    file_extension: ".ps1"
+    shebang: null
+    common_imports: |
+      # PowerShell 2026 - OASM Integration
+      using namespace System.Collections.Generic
+      $ErrorActionPreference = "Stop"
+
+    structure: |
+      # Script: {script_name}
+      # Purpose: {description}
+      # Generated: {timestamp}
+
+      {common_imports}
+
+      # === Configuration ===
+      {config_block}
+
+      # === Main Logic ===
+      function Main {
+          {main_logic}
+      }
+
+      # === Execute ===
+      try {
+          Main
+          Write-Host "Success: {script_name} completed" -ForegroundColor Green
+      }
+      catch {
+          Write-Error "Failed: $_"
+          exit 1
+      }
+
+  python:
+    file_extension: ".py"
+    shebang: "#!/usr/bin/env python3"
+    common_imports: |
+      """
+      {description}
+      Generated: {timestamp}
+      """
+      import sys
+      import json
+      from pathlib import Path
+      from typing import Dict, List, Optional
+
+    structure: |
+      {shebang}
+      {common_imports}
+
+      # === Configuration ===
+      {config_block}
+
+      # === Main Logic ===
+      def main():
+          \"\"\"{description}\"\"\"
+          {main_logic}
+
+      if __name__ == "__main__":
+          try:
+              main()
+              print(f"✓ Success: {script_name} completed")
+          except Exception as e:
+              print(f"✗ Error: {{e}}", file=sys.stderr)
+              sys.exit(1)
+
+  rust:
+    file_extension: ".rs"
+    shebang: null
+    common_imports: |
+      //! {description}
+      //! Generated: {timestamp}
+
+      use anyhow::{{Result, Context}};
+      use std::path::PathBuf;
+
+    structure: |
+      {common_imports}
+
+      // === Configuration ===
+      {config_block}
+
+      // === Main Logic ===
+      fn main() -> Result<()> {{
+          {main_logic}
+
+          println!("✓ Success: {script_name} completed");
+          Ok(())
+      }}
+
+placeholders:
+  - "{script_name}"
+  - "{description}"
+  - "{timestamp}"
+  - "{config_block}"
+  - "{main_logic}"
+  - "{author}"
+  - "{version}"
+
+usage_examples:
+  - name: "Data Collection Script"
+    language: "powershell"
+    description: "Collect codebase metrics"
+    config: |
+      $RootPath = "C:\\Users\\Administrator\\Desktop\\Projects\\oasm"
+      $OutputPath = "logs/metrics.json"
+    logic: |
+      $metrics = Get-CodebaseMetrics -Path $RootPath
+      $metrics | ConvertTo-Json -Depth 10 | Out-File $OutputPath

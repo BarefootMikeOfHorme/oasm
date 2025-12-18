@@ -1,0 +1,23 @@
+# OASM Default Configuration (Fallback)
+# Used when runtime.yaml is not available
+
+profile_name: "fallback"
+version: "0.1.0"
+environment: "dev"
+lifecycle: Loading
+
+modules:
+  - name: "minimal_shell"
+    enabled: true
+    validated: false
+
+executive_function:
+  task_tracking: false
+  history_enabled: false
+  structured_prompts: true
+  error_recovery_hints: true
+
+security:
+  capabilities: []
+  audit_logging: false
+  lineage_tracking: false

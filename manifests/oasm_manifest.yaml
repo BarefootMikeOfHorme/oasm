@@ -1,0 +1,7 @@
+name: OASM Demo Manifest
+version: 0.1.0
+entry: build/demo.exe
+capabilities:
+  - file
+  - ipc
+description: First-run manifest for OASM demo execution

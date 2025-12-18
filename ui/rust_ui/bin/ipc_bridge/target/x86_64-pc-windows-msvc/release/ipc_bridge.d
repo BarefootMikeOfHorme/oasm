@@ -1,0 +1,1 @@
+C:\Users\Administrator\Desktop\Projects\oasm\ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\ipc_bridge.dll: C:\Users\Administrator\Desktop\Projects\oasm\ui\rust_ui\bin\ipc_bridge\src\lib.rs

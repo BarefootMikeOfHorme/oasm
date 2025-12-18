@@ -1,0 +1,13 @@
+profile_name: default
+env:
+  oasm_mode: production
+  ps_profile: default
+  wpsh_enabled: true
+  cli_enabled: true
+  ui_enabled: true
+  bindings_enabled: true
+dll_paths:
+  - bin/core_math.dll
+  - bin/ipc_bridge.dll
+  - bin/validation.dll
+  - bin/plugin_loader.dll

@@ -1,0 +1,12 @@
+{
+  "type":"object",
+  "properties":{
+    "n":{"type":"integer"},
+    "alias":{"type":"string"},
+    "relPath":{"type":"string"},
+    "link":{"type":"string"},
+    "totals":{"type":"object","properties":{"crit":{"type":"integer"},"block":{"type":"integer"},"warn":{"type":"integer"}}},
+    "diagnostics":{"type":"array","items":{"type":"string"}}
+  },
+  "required":["n","alias","relPath","link","totals","diagnostics"]
+}

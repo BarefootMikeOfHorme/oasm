@@ -1,0 +1,21 @@
+; OASM Assembly Example - Parametric Gear
+; This demonstrates OASM assembly for CAD operations
+
+; Create a parametric gear
+CREATE gear
+  SET teeth = 20
+  SET module = 2.5
+  SET pressure_angle = 20
+  SET bore_diameter = 10
+
+; Apply operations
+EXTRUDE z_axis, 10
+FILLET edges[0..3], 2
+
+; Validate geometry
+VALIDATE topology
+VALIDATE constraints
+
+; Export
+EXPORT step, "output/gear.step"
+EXPORT stl, "output/gear.stl"

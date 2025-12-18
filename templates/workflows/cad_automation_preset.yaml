@@ -1,0 +1,88 @@
+# CAD Automation Workflow Preset
+# Executive function: Structured CAD task management
+
+name: "CAD Design Workflow"
+version: "1.0.0"
+type: "workflow_preset"
+category: "cad_automation"
+
+description: |
+  Preset workflow for parametric CAD design with executive function support.
+  Guides user through design → validate → export → document cycle.
+
+phases:
+  - phase: "01_Design"
+    description: "Create or modify SmartObject"
+    tasks:
+      - name: "Select primitive"
+        type: "user_choice"
+        options: ["cube", "cylinder", "sphere", "gear", "custom"]
+
+      - name: "Set parameters"
+        type: "parameter_input"
+        template: "smartobject_container"
+
+      - name: "Apply behaviors"
+        type: "behavior_selection"
+        available: ["extrude", "revolve", "fillet", "chamfer", "boolean"]
+
+  - phase: "02_Validate"
+    description: "Run validation suite"
+    tasks:
+      - name: "Topology check"
+        command: "oasm validate topology {object_id}"
+
+      - name: "Constraint check"
+        command: "oasm validate constraints {object_id}"
+
+      - name: "Export compatibility"
+        command: "oasm validate export {object_id}"
+
+  - phase: "03_Review"
+    description: "Debug and fix issues"
+    tasks:
+      - name: "View validation report"
+        command: "oasm report validation {object_id}"
+
+      - name: "Fix errors"
+        type: "conditional"
+        condition: "validation.status == 'fail'"
+        action: "return_to_phase_01"
+
+  - phase: "04_Serialize"
+    description: "Save SmartObject state"
+    tasks:
+      - name: "Generate CBOR"
+        command: "oasm serialize cbor {object_id}"
+
+      - name: "Generate YAML mirror"
+        command: "oasm serialize yaml {object_id}"
+
+      - name: "Update lineage"
+        command: "oasm lineage update {object_id}"
+
+  - phase: "05_Export"
+    description: "Generate CAD formats"
+    tasks:
+      - name: "Export STEP"
+        command: "oasm export step {object_id} --output exports/"
+
+      - name: "Export STL"
+        command: "oasm export stl {object_id} --output exports/"
+        optional: true
+
+      - name: "Export DXF"
+        command: "oasm export dxf {object_id} --output exports/"
+        optional: true
+
+checkpoints:
+  auto_save: true
+  auto_save_interval: "5min"
+  validation_gate: true  # Block next phase if validation fails
+
+executive_function_features:
+  task_progress_tracking: true
+  estimated_time_remaining: true
+  last_checkpoint_reminder: true
+  next_steps_suggestion: true
+  error_recovery_hints: true

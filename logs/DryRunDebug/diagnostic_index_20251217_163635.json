@@ -1,0 +1,1598 @@
+[
+  {
+    "n": 1,
+    "alias": "bindings\\bindings.rs",
+    "relPath": "bindings\\bindings.rs",
+    "link": "bindings\\bindings.rs",
+    "totals": {
+      "crit": 0,
+      "block": 1,
+      "warn": 0
+    },
+    "diagnostics": [
+      "BLK @{n=1; total=130; stage=Structure; alias=bindings\\bindings.rs; relPath=bindings\\bindings.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\bindings}.relPath:4 unsafe fn missing safety docs"
+    ]
+  },
+  {
+    "n": 2,
+    "alias": "bindings\\build.rs",
+    "relPath": "bindings\\build.rs",
+    "link": "bindings\\build.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=2; total=130; stage=Structure; alias=bindings\\build.rs; relPath=bindings\\build.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\bindings}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 3,
+    "alias": "bindings\\Cargo.toml",
+    "relPath": "bindings\\Cargo.toml",
+    "link": "bindings\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 4,
+    "alias": "bindings\\ffi.rs",
+    "relPath": "bindings\\ffi.rs",
+    "link": "bindings\\ffi.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 5,
+    "alias": "bindings\\native_lib.c",
+    "relPath": "bindings\\native_lib.c",
+    "link": "bindings\\native_lib.c",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 6,
+    "alias": "src\\lib.rs",
+    "relPath": "compiler\\src\\lib.rs",
+    "link": "compiler\\src\\lib.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 7,
+    "alias": "compiler\\Cargo.toml",
+    "relPath": "compiler\\Cargo.toml",
+    "link": "compiler\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 8,
+    "alias": "fastmath\\fastmath.cpp",
+    "relPath": "native_libs\\fastmath\\fastmath.cpp",
+    "link": "native_libs\\fastmath\\fastmath.cpp",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 9,
+    "alias": "pe_emitter_cpp\\pe_emitter.cpp",
+    "relPath": "native_libs\\pe_emitter_cpp\\pe_emitter.cpp",
+    "link": "native_libs\\pe_emitter_cpp\\pe_emitter.cpp",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 10,
+    "alias": "src\\commit.rs",
+    "relPath": "runtime\\daemon\\src\\commit.rs",
+    "link": "runtime\\daemon\\src\\commit.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 11,
+    "alias": "src\\converter.rs",
+    "relPath": "runtime\\daemon\\src\\converter.rs",
+    "link": "runtime\\daemon\\src\\converter.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 12,
+    "alias": "src\\daemon.rs",
+    "relPath": "runtime\\daemon\\src\\daemon.rs",
+    "link": "runtime\\daemon\\src\\daemon.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 13,
+    "alias": "src\\handler.rs",
+    "relPath": "runtime\\daemon\\src\\handler.rs",
+    "link": "runtime\\daemon\\src\\handler.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 14,
+    "alias": "src\\lineage.rs",
+    "relPath": "runtime\\daemon\\src\\lineage.rs",
+    "link": "runtime\\daemon\\src\\lineage.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 15,
+    "alias": "src\\main.rs",
+    "relPath": "runtime\\daemon\\src\\main.rs",
+    "link": "runtime\\daemon\\src\\main.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 16,
+    "alias": "src\\parser.rs",
+    "relPath": "runtime\\daemon\\src\\parser.rs",
+    "link": "runtime\\daemon\\src\\parser.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 17,
+    "alias": "src\\supervisor.rs",
+    "relPath": "runtime\\daemon\\src\\supervisor.rs",
+    "link": "runtime\\daemon\\src\\supervisor.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=17; total=130; stage=Structure; alias=src\\supervisor.rs; relPath=runtime\\daemon\\src\\supervisor.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:32 redundant clone"
+    ]
+  },
+  {
+    "n": 18,
+    "alias": "src\\types.rs",
+    "relPath": "runtime\\daemon\\src\\types.rs",
+    "link": "runtime\\daemon\\src\\types.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 19,
+    "alias": "src\\validator.rs",
+    "relPath": "runtime\\daemon\\src\\validator.rs",
+    "link": "runtime\\daemon\\src\\validator.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=19; total=130; stage=Structure; alias=src\\validator.rs; relPath=runtime\\daemon\\src\\validator.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:5 redundant clone"
+    ]
+  },
+  {
+    "n": 20,
+    "alias": "src\\watch.rs",
+    "relPath": "runtime\\daemon\\src\\watch.rs",
+    "link": "runtime\\daemon\\src\\watch.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 21,
+    "alias": "tests\\integration.rs",
+    "relPath": "runtime\\daemon\\tests\\integration.rs",
+    "link": "runtime\\daemon\\tests\\integration.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 22,
+    "alias": "daemon\\Cargo.toml",
+    "relPath": "runtime\\daemon\\Cargo.toml",
+    "link": "runtime\\daemon\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 23,
+    "alias": "src\\cmd_adapter.rs",
+    "relPath": "shells\\cmd-wrapper\\src\\cmd_adapter.rs",
+    "link": "shells\\cmd-wrapper\\src\\cmd_adapter.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=23; total=130; stage=Structure; alias=src\\cmd_adapter.rs; relPath=shells\\cmd-wrapper\\src\\cmd_adapter.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 24,
+    "alias": "src\\conpty.rs",
+    "relPath": "shells\\oasm-shell\\src\\conpty.rs",
+    "link": "shells\\oasm-shell\\src\\conpty.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=24; total=130; stage=Structure; alias=src\\conpty.rs; relPath=shells\\oasm-shell\\src\\conpty.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 25,
+    "alias": "src\\main.rs",
+    "relPath": "shells\\oasm-shell\\src\\main.rs",
+    "link": "shells\\oasm-shell\\src\\main.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 2
+    },
+    "diagnostics": [
+      "WRN @{n=25; total=130; stage=Structure; alias=src\\main.rs; relPath=shells\\oasm-shell\\src\\main.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\shells\\oasm-shell\\src}.relPath:2 println! used; prefer log::info!",
+      "WRN @{n=25; total=130; stage=Structure; alias=src\\main.rs; relPath=shells\\oasm-shell\\src\\main.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\shells\\oasm-shell\\src}.relPath:3 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 26,
+    "alias": "src\\python_bridge.rs",
+    "relPath": "shells\\oasm-shell\\src\\python_bridge.rs",
+    "link": "shells\\oasm-shell\\src\\python_bridge.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=26; total=130; stage=Structure; alias=src\\python_bridge.rs; relPath=shells\\oasm-shell\\src\\python_bridge.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 27,
+    "alias": "src\\router.rs",
+    "relPath": "shells\\oasm-shell\\src\\router.rs",
+    "link": "shells\\oasm-shell\\src\\router.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=27; total=130; stage=Structure; alias=src\\router.rs; relPath=shells\\oasm-shell\\src\\router.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 28,
+    "alias": "src\\security.rs",
+    "relPath": "shells\\oasm-shell\\src\\security.rs",
+    "link": "shells\\oasm-shell\\src\\security.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=28; total=130; stage=Structure; alias=src\\security.rs; relPath=shells\\oasm-shell\\src\\security.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 29,
+    "alias": "oasm-shell\\Cargo.toml",
+    "relPath": "shells\\oasm-shell\\Cargo.toml",
+    "link": "shells\\oasm-shell\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 30,
+    "alias": "anyhow-6cfa10f2aeec52db\\build_script_build-6cfa10f2aeec52db.exe",
+    "relPath": "target\\debug\\build\\anyhow-6cfa10f2aeec52db\\build_script_build-6cfa10f2aeec52db.exe",
+    "link": "target\\debug\\build\\anyhow-6cfa10f2aeec52db\\build_script_build-6cfa10f2aeec52db.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 31,
+    "alias": "anyhow-6cfa10f2aeec52db\\build-script-build.exe",
+    "relPath": "target\\debug\\build\\anyhow-6cfa10f2aeec52db\\build-script-build.exe",
+    "link": "target\\debug\\build\\anyhow-6cfa10f2aeec52db\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 32,
+    "alias": "generic-array-b25a0056dc262dd8\\build_script_build-b25a0056dc262dd8.exe",
+    "relPath": "target\\debug\\build\\generic-array-b25a0056dc262dd8\\build_script_build-b25a0056dc262dd8.exe",
+    "link": "target\\debug\\build\\generic-array-b25a0056dc262dd8\\build_script_build-b25a0056dc262dd8.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 33,
+    "alias": "generic-array-b25a0056dc262dd8\\build-script-build.exe",
+    "relPath": "target\\debug\\build\\generic-array-b25a0056dc262dd8\\build-script-build.exe",
+    "link": "target\\debug\\build\\generic-array-b25a0056dc262dd8\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 34,
+    "alias": "proc-macro2-8f31028d2b6d1e23\\build_script_build-8f31028d2b6d1e23.exe",
+    "relPath": "target\\debug\\build\\proc-macro2-8f31028d2b6d1e23\\build_script_build-8f31028d2b6d1e23.exe",
+    "link": "target\\debug\\build\\proc-macro2-8f31028d2b6d1e23\\build_script_build-8f31028d2b6d1e23.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 35,
+    "alias": "proc-macro2-8f31028d2b6d1e23\\build-script-build.exe",
+    "relPath": "target\\debug\\build\\proc-macro2-8f31028d2b6d1e23\\build-script-build.exe",
+    "link": "target\\debug\\build\\proc-macro2-8f31028d2b6d1e23\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 36,
+    "alias": "quote-375ca778428de2bc\\build_script_build-375ca778428de2bc.exe",
+    "relPath": "target\\debug\\build\\quote-375ca778428de2bc\\build_script_build-375ca778428de2bc.exe",
+    "link": "target\\debug\\build\\quote-375ca778428de2bc\\build_script_build-375ca778428de2bc.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 37,
+    "alias": "quote-375ca778428de2bc\\build-script-build.exe",
+    "relPath": "target\\debug\\build\\quote-375ca778428de2bc\\build-script-build.exe",
+    "link": "target\\debug\\build\\quote-375ca778428de2bc\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 38,
+    "alias": "rust_ui-1757e21dd937e4f7\\build_script_build-1757e21dd937e4f7.exe",
+    "relPath": "target\\debug\\build\\rust_ui-1757e21dd937e4f7\\build_script_build-1757e21dd937e4f7.exe",
+    "link": "target\\debug\\build\\rust_ui-1757e21dd937e4f7\\build_script_build-1757e21dd937e4f7.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 39,
+    "alias": "rust_ui-1757e21dd937e4f7\\build-script-build.exe",
+    "relPath": "target\\debug\\build\\rust_ui-1757e21dd937e4f7\\build-script-build.exe",
+    "link": "target\\debug\\build\\rust_ui-1757e21dd937e4f7\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 40,
+    "alias": "rust_ui-a91cf8117c279533\\build_script_build-a91cf8117c279533.exe",
+    "relPath": "target\\debug\\build\\rust_ui-a91cf8117c279533\\build_script_build-a91cf8117c279533.exe",
+    "link": "target\\debug\\build\\rust_ui-a91cf8117c279533\\build_script_build-a91cf8117c279533.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 41,
+    "alias": "rust_ui-a91cf8117c279533\\build-script-build.exe",
+    "relPath": "target\\debug\\build\\rust_ui-a91cf8117c279533\\build-script-build.exe",
+    "link": "target\\debug\\build\\rust_ui-a91cf8117c279533\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 42,
+    "alias": "out\\private.rs",
+    "relPath": "target\\debug\\build\\serde_core-30b81be079ba16dd\\out\\private.rs",
+    "link": "target\\debug\\build\\serde_core-30b81be079ba16dd\\out\\private.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 43,
+    "alias": "serde_core-f95b864b058cf2e3\\build_script_build-f95b864b058cf2e3.exe",
+    "relPath": "target\\debug\\build\\serde_core-f95b864b058cf2e3\\build_script_build-f95b864b058cf2e3.exe",
+    "link": "target\\debug\\build\\serde_core-f95b864b058cf2e3\\build_script_build-f95b864b058cf2e3.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 44,
+    "alias": "serde_core-f95b864b058cf2e3\\build-script-build.exe",
+    "relPath": "target\\debug\\build\\serde_core-f95b864b058cf2e3\\build-script-build.exe",
+    "link": "target\\debug\\build\\serde_core-f95b864b058cf2e3\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 45,
+    "alias": "serde_json-87b58735857d138f\\build_script_build-87b58735857d138f.exe",
+    "relPath": "target\\debug\\build\\serde_json-87b58735857d138f\\build_script_build-87b58735857d138f.exe",
+    "link": "target\\debug\\build\\serde_json-87b58735857d138f\\build_script_build-87b58735857d138f.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 46,
+    "alias": "serde_json-87b58735857d138f\\build-script-build.exe",
+    "relPath": "target\\debug\\build\\serde_json-87b58735857d138f\\build-script-build.exe",
+    "link": "target\\debug\\build\\serde_json-87b58735857d138f\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 47,
+    "alias": "serde-226b1c3826c13038\\build_script_build-226b1c3826c13038.exe",
+    "relPath": "target\\debug\\build\\serde-226b1c3826c13038\\build_script_build-226b1c3826c13038.exe",
+    "link": "target\\debug\\build\\serde-226b1c3826c13038\\build_script_build-226b1c3826c13038.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 48,
+    "alias": "serde-226b1c3826c13038\\build-script-build.exe",
+    "relPath": "target\\debug\\build\\serde-226b1c3826c13038\\build-script-build.exe",
+    "link": "target\\debug\\build\\serde-226b1c3826c13038\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 49,
+    "alias": "out\\private.rs",
+    "relPath": "target\\debug\\build\\serde-49ed553e01a407b0\\out\\private.rs",
+    "link": "target\\debug\\build\\serde-49ed553e01a407b0\\out\\private.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 50,
+    "alias": "thiserror-ba0f98ba7800b8d7\\build_script_build-ba0f98ba7800b8d7.exe",
+    "relPath": "target\\debug\\build\\thiserror-ba0f98ba7800b8d7\\build_script_build-ba0f98ba7800b8d7.exe",
+    "link": "target\\debug\\build\\thiserror-ba0f98ba7800b8d7\\build_script_build-ba0f98ba7800b8d7.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 51,
+    "alias": "thiserror-ba0f98ba7800b8d7\\build-script-build.exe",
+    "relPath": "target\\debug\\build\\thiserror-ba0f98ba7800b8d7\\build-script-build.exe",
+    "link": "target\\debug\\build\\thiserror-ba0f98ba7800b8d7\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 52,
+    "alias": "out\\tests.rs",
+    "relPath": "target\\debug\\build\\typenum-3e16120c58f74b73\\out\\tests.rs",
+    "link": "target\\debug\\build\\typenum-3e16120c58f74b73\\out\\tests.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 53,
+    "alias": "typenum-3e2ee7f34cfcbb0c\\build_script_build-3e2ee7f34cfcbb0c.exe",
+    "relPath": "target\\debug\\build\\typenum-3e2ee7f34cfcbb0c\\build_script_build-3e2ee7f34cfcbb0c.exe",
+    "link": "target\\debug\\build\\typenum-3e2ee7f34cfcbb0c\\build_script_build-3e2ee7f34cfcbb0c.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 54,
+    "alias": "typenum-3e2ee7f34cfcbb0c\\build-script-build.exe",
+    "relPath": "target\\debug\\build\\typenum-3e2ee7f34cfcbb0c\\build-script-build.exe",
+    "link": "target\\debug\\build\\typenum-3e2ee7f34cfcbb0c\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 55,
+    "alias": "src\\lib.rs",
+    "relPath": "ui\\bindings\\src\\lib.rs",
+    "link": "ui\\bindings\\src\\lib.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 56,
+    "alias": "bindings\\Cargo.toml",
+    "relPath": "ui\\bindings\\Cargo.toml",
+    "link": "ui\\bindings\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 57,
+    "alias": "plugins\\example_plugin.py",
+    "relPath": "ui\\python_ui_plugins\\plugins\\example_plugin.py",
+    "link": "ui\\python_ui_plugins\\plugins\\example_plugin.py",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 58,
+    "alias": "python_ui_plugins\\pyproject.toml",
+    "relPath": "ui\\python_ui_plugins\\pyproject.toml",
+    "link": "ui\\python_ui_plugins\\pyproject.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 59,
+    "alias": "src\\lib.rs",
+    "relPath": "ui\\rust_ui\\bin\\core_math\\src\\lib.rs",
+    "link": "ui\\rust_ui\\bin\\core_math\\src\\lib.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 60,
+    "alias": "proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "relPath": "ui\\rust_ui\\bin\\core_math\\target\\release\\build\\proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "link": "ui\\rust_ui\\bin\\core_math\\target\\release\\build\\proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 61,
+    "alias": "proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\core_math\\target\\release\\build\\proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\core_math\\target\\release\\build\\proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 62,
+    "alias": "quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "relPath": "ui\\rust_ui\\bin\\core_math\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "link": "ui\\rust_ui\\bin\\core_math\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 63,
+    "alias": "quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\core_math\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\core_math\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 64,
+    "alias": "core_math\\Cargo.toml",
+    "relPath": "ui\\rust_ui\\bin\\core_math\\Cargo.toml",
+    "link": "ui\\rust_ui\\bin\\core_math\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 65,
+    "alias": "src\\lib.rs",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\src\\lib.rs",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\src\\lib.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 66,
+    "alias": "proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 67,
+    "alias": "proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 68,
+    "alias": "proc-macro2-20e54360312af4d7\\build_script_build-20e54360312af4d7.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\proc-macro2-20e54360312af4d7\\build_script_build-20e54360312af4d7.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\proc-macro2-20e54360312af4d7\\build_script_build-20e54360312af4d7.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 69,
+    "alias": "proc-macro2-20e54360312af4d7\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\proc-macro2-20e54360312af4d7\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\proc-macro2-20e54360312af4d7\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 70,
+    "alias": "quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 71,
+    "alias": "quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 72,
+    "alias": "quote-90a5efceea17eb5b\\build_script_build-90a5efceea17eb5b.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\quote-90a5efceea17eb5b\\build_script_build-90a5efceea17eb5b.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\quote-90a5efceea17eb5b\\build_script_build-90a5efceea17eb5b.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 73,
+    "alias": "quote-90a5efceea17eb5b\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\quote-90a5efceea17eb5b\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\quote-90a5efceea17eb5b\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 74,
+    "alias": "serde_core-0c77ad7c24f4d667\\build_script_build-0c77ad7c24f4d667.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\serde_core-0c77ad7c24f4d667\\build_script_build-0c77ad7c24f4d667.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\serde_core-0c77ad7c24f4d667\\build_script_build-0c77ad7c24f4d667.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 75,
+    "alias": "serde_core-0c77ad7c24f4d667\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\serde_core-0c77ad7c24f4d667\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\serde_core-0c77ad7c24f4d667\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 76,
+    "alias": "serde_json-2befb111f01e96fd\\build_script_build-2befb111f01e96fd.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\serde_json-2befb111f01e96fd\\build_script_build-2befb111f01e96fd.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\serde_json-2befb111f01e96fd\\build_script_build-2befb111f01e96fd.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 77,
+    "alias": "serde_json-2befb111f01e96fd\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\serde_json-2befb111f01e96fd\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\serde_json-2befb111f01e96fd\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 78,
+    "alias": "serde-43c534d03a98e9e1\\build_script_build-43c534d03a98e9e1.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\serde-43c534d03a98e9e1\\build_script_build-43c534d03a98e9e1.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\serde-43c534d03a98e9e1\\build_script_build-43c534d03a98e9e1.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 79,
+    "alias": "serde-43c534d03a98e9e1\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\serde-43c534d03a98e9e1\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\release\\build\\serde-43c534d03a98e9e1\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 80,
+    "alias": "out\\private.rs",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\x86_64-pc-windows-msvc\\release\\build\\serde_core-bd2bb202f8aeded2\\out\\private.rs",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\x86_64-pc-windows-msvc\\release\\build\\serde_core-bd2bb202f8aeded2\\out\\private.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 81,
+    "alias": "out\\private.rs",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\target\\x86_64-pc-windows-msvc\\release\\build\\serde-ef1ca1b61e35e2c7\\out\\private.rs",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\target\\x86_64-pc-windows-msvc\\release\\build\\serde-ef1ca1b61e35e2c7\\out\\private.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 82,
+    "alias": "ipc_bridge\\Cargo.toml",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\Cargo.toml",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 83,
+    "alias": "src\\lib.rs",
+    "relPath": "ui\\rust_ui\\bin\\plugin_loader\\src\\lib.rs",
+    "link": "ui\\rust_ui\\bin\\plugin_loader\\src\\lib.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 84,
+    "alias": "proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "relPath": "ui\\rust_ui\\bin\\plugin_loader\\target\\release\\build\\proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "link": "ui\\rust_ui\\bin\\plugin_loader\\target\\release\\build\\proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 85,
+    "alias": "proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\plugin_loader\\target\\release\\build\\proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\plugin_loader\\target\\release\\build\\proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 86,
+    "alias": "quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "relPath": "ui\\rust_ui\\bin\\plugin_loader\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "link": "ui\\rust_ui\\bin\\plugin_loader\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 87,
+    "alias": "quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\plugin_loader\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\plugin_loader\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 88,
+    "alias": "plugin_loader\\Cargo.toml",
+    "relPath": "ui\\rust_ui\\bin\\plugin_loader\\Cargo.toml",
+    "link": "ui\\rust_ui\\bin\\plugin_loader\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 89,
+    "alias": "src\\lib.rs",
+    "relPath": "ui\\rust_ui\\bin\\validation\\src\\lib.rs",
+    "link": "ui\\rust_ui\\bin\\validation\\src\\lib.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 90,
+    "alias": "proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "relPath": "ui\\rust_ui\\bin\\validation\\target\\release\\build\\proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "link": "ui\\rust_ui\\bin\\validation\\target\\release\\build\\proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 91,
+    "alias": "proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\validation\\target\\release\\build\\proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\validation\\target\\release\\build\\proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 92,
+    "alias": "quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "relPath": "ui\\rust_ui\\bin\\validation\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "link": "ui\\rust_ui\\bin\\validation\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 93,
+    "alias": "quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\bin\\validation\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "link": "ui\\rust_ui\\bin\\validation\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 94,
+    "alias": "validation\\Cargo.toml",
+    "relPath": "ui\\rust_ui\\bin\\validation\\Cargo.toml",
+    "link": "ui\\rust_ui\\bin\\validation\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 95,
+    "alias": "bin\\core_math.c",
+    "relPath": "ui\\rust_ui\\bin\\core_math.c",
+    "link": "ui\\rust_ui\\bin\\core_math.c",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 96,
+    "alias": "bin\\ipc_bridge.c",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge.c",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge.c",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 97,
+    "alias": "bin\\plugin_loader.c",
+    "relPath": "ui\\rust_ui\\bin\\plugin_loader.c",
+    "link": "ui\\rust_ui\\bin\\plugin_loader.c",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 98,
+    "alias": "bin\\validation.c",
+    "relPath": "ui\\rust_ui\\bin\\validation.c",
+    "link": "ui\\rust_ui\\bin\\validation.c",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 99,
+    "alias": "src\\config.rs",
+    "relPath": "ui\\rust_ui\\src\\config.rs",
+    "link": "ui\\rust_ui\\src\\config.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=99; total=130; stage=Structure; alias=src\\config.rs; relPath=ui\\rust_ui\\src\\config.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:93 redundant clone"
+    ]
+  },
+  {
+    "n": 100,
+    "alias": "src\\main.rs",
+    "relPath": "ui\\rust_ui\\src\\main.rs",
+    "link": "ui\\rust_ui\\src\\main.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 101,
+    "alias": "src\\python_bridge.rs",
+    "relPath": "ui\\rust_ui\\src\\python_bridge.rs",
+    "link": "ui\\rust_ui\\src\\python_bridge.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=101; total=130; stage=Structure; alias=src\\python_bridge.rs; relPath=ui\\rust_ui\\src\\python_bridge.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 102,
+    "alias": "src\\startup.rs",
+    "relPath": "ui\\rust_ui\\src\\startup.rs",
+    "link": "ui\\rust_ui\\src\\startup.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 103,
+    "alias": "src\\terminal.rs",
+    "relPath": "ui\\rust_ui\\src\\terminal.rs",
+    "link": "ui\\rust_ui\\src\\terminal.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=103; total=130; stage=Structure; alias=src\\terminal.rs; relPath=ui\\rust_ui\\src\\terminal.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 104,
+    "alias": "src\\validation.rs",
+    "relPath": "ui\\rust_ui\\src\\validation.rs",
+    "link": "ui\\rust_ui\\src\\validation.rs",
+    "totals": {
+      "crit": 0,
+      "block": 1,
+      "warn": 0
+    },
+    "diagnostics": [
+      "BLK @{n=104; total=130; stage=Structure; alias=src\\validation.rs; relPath=ui\\rust_ui\\src\\validation.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:28 unsafe fn missing safety docs"
+    ]
+  },
+  {
+    "n": 105,
+    "alias": "anyhow-6aa1384bae06cf2a\\build_script_build-6aa1384bae06cf2a.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\anyhow-6aa1384bae06cf2a\\build_script_build-6aa1384bae06cf2a.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\anyhow-6aa1384bae06cf2a\\build_script_build-6aa1384bae06cf2a.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 106,
+    "alias": "anyhow-6aa1384bae06cf2a\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\anyhow-6aa1384bae06cf2a\\build-script-build.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\anyhow-6aa1384bae06cf2a\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 107,
+    "alias": "generic-array-a3ecbb38810396fe\\build_script_build-a3ecbb38810396fe.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\generic-array-a3ecbb38810396fe\\build_script_build-a3ecbb38810396fe.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\generic-array-a3ecbb38810396fe\\build_script_build-a3ecbb38810396fe.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 108,
+    "alias": "generic-array-a3ecbb38810396fe\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\generic-array-a3ecbb38810396fe\\build-script-build.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\generic-array-a3ecbb38810396fe\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 109,
+    "alias": "proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\proc-macro2-03a414f647a83173\\build_script_build-03a414f647a83173.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 110,
+    "alias": "proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\proc-macro2-03a414f647a83173\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 111,
+    "alias": "quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build_script_build-2aa5b3581e09e3a8.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 112,
+    "alias": "quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\quote-2aa5b3581e09e3a8\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 113,
+    "alias": "rust_ui-f2dcc818094d6598\\build_script_build-f2dcc818094d6598.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\rust_ui-f2dcc818094d6598\\build_script_build-f2dcc818094d6598.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\rust_ui-f2dcc818094d6598\\build_script_build-f2dcc818094d6598.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 114,
+    "alias": "rust_ui-f2dcc818094d6598\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\rust_ui-f2dcc818094d6598\\build-script-build.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\rust_ui-f2dcc818094d6598\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 115,
+    "alias": "serde_core-0c77ad7c24f4d667\\build_script_build-0c77ad7c24f4d667.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\serde_core-0c77ad7c24f4d667\\build_script_build-0c77ad7c24f4d667.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\serde_core-0c77ad7c24f4d667\\build_script_build-0c77ad7c24f4d667.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 116,
+    "alias": "serde_core-0c77ad7c24f4d667\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\serde_core-0c77ad7c24f4d667\\build-script-build.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\serde_core-0c77ad7c24f4d667\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 117,
+    "alias": "out\\private.rs",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\serde_core-5b5847a817d91d54\\out\\private.rs",
+    "link": "ui\\rust_ui\\target\\release\\build\\serde_core-5b5847a817d91d54\\out\\private.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 118,
+    "alias": "serde_json-2befb111f01e96fd\\build_script_build-2befb111f01e96fd.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\serde_json-2befb111f01e96fd\\build_script_build-2befb111f01e96fd.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\serde_json-2befb111f01e96fd\\build_script_build-2befb111f01e96fd.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 119,
+    "alias": "serde_json-2befb111f01e96fd\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\serde_json-2befb111f01e96fd\\build-script-build.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\serde_json-2befb111f01e96fd\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 120,
+    "alias": "serde-43c534d03a98e9e1\\build_script_build-43c534d03a98e9e1.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\serde-43c534d03a98e9e1\\build_script_build-43c534d03a98e9e1.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\serde-43c534d03a98e9e1\\build_script_build-43c534d03a98e9e1.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 121,
+    "alias": "serde-43c534d03a98e9e1\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\serde-43c534d03a98e9e1\\build-script-build.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\serde-43c534d03a98e9e1\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 122,
+    "alias": "out\\private.rs",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\serde-903a4c11ec945302\\out\\private.rs",
+    "link": "ui\\rust_ui\\target\\release\\build\\serde-903a4c11ec945302\\out\\private.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 123,
+    "alias": "thiserror-02fd1504d27c08cc\\build_script_build-02fd1504d27c08cc.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\thiserror-02fd1504d27c08cc\\build_script_build-02fd1504d27c08cc.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\thiserror-02fd1504d27c08cc\\build_script_build-02fd1504d27c08cc.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 124,
+    "alias": "thiserror-02fd1504d27c08cc\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\thiserror-02fd1504d27c08cc\\build-script-build.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\thiserror-02fd1504d27c08cc\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 125,
+    "alias": "typenum-955267c7dc6a6d12\\build_script_build-955267c7dc6a6d12.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\typenum-955267c7dc6a6d12\\build_script_build-955267c7dc6a6d12.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\typenum-955267c7dc6a6d12\\build_script_build-955267c7dc6a6d12.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 126,
+    "alias": "typenum-955267c7dc6a6d12\\build-script-build.exe",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\typenum-955267c7dc6a6d12\\build-script-build.exe",
+    "link": "ui\\rust_ui\\target\\release\\build\\typenum-955267c7dc6a6d12\\build-script-build.exe",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 127,
+    "alias": "out\\tests.rs",
+    "relPath": "ui\\rust_ui\\target\\release\\build\\typenum-eb4bb7b332c4749d\\out\\tests.rs",
+    "link": "ui\\rust_ui\\target\\release\\build\\typenum-eb4bb7b332c4749d\\out\\tests.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 128,
+    "alias": "rust_ui\\build.rs",
+    "relPath": "ui\\rust_ui\\build.rs",
+    "link": "ui\\rust_ui\\build.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 6
+    },
+    "diagnostics": [
+      "WRN @{n=128; total=130; stage=Structure; alias=rust_ui\\build.rs; relPath=ui\\rust_ui\\build.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\ui\\rust_ui}.relPath:7 println! used; prefer log::info!",
+      "WRN @{n=128; total=130; stage=Structure; alias=rust_ui\\build.rs; relPath=ui\\rust_ui\\build.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\ui\\rust_ui}.relPath:8 println! used; prefer log::info!",
+      "WRN @{n=128; total=130; stage=Structure; alias=rust_ui\\build.rs; relPath=ui\\rust_ui\\build.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\ui\\rust_ui}.relPath:16 println! used; prefer log::info!",
+      "WRN @{n=128; total=130; stage=Structure; alias=rust_ui\\build.rs; relPath=ui\\rust_ui\\build.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\ui\\rust_ui}.relPath:17 println! used; prefer log::info!",
+      "WRN @{n=128; total=130; stage=Structure; alias=rust_ui\\build.rs; relPath=ui\\rust_ui\\build.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\ui\\rust_ui}.relPath:23 println! used; prefer log::info!",
+      "WRN @{n=128; total=130; stage=Structure; alias=rust_ui\\build.rs; relPath=ui\\rust_ui\\build.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\ui\\rust_ui}.relPath:24 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 129,
+    "alias": "rust_ui\\Cargo.toml",
+    "relPath": "ui\\rust_ui\\Cargo.toml",
+    "link": "ui\\rust_ui\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 130,
+    "alias": "oasm\\Cargo.toml",
+    "relPath": "Cargo.toml",
+    "link": "Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "type":"object",
+  "properties":{
+    "n":{"type":"integer"},
+    "total":{"type":"integer"},
+    "stage":{"type":"string"},
+    "alias":{"type":"string"},
+    "relPath":{"type":"string"},
+    "crit":{"type":"integer"},
+    "block":{"type":"integer"},
+    "warn":{"type":"integer"},
+    "progress":{"type":"string"},
+    "compileRoot":{"type":["string","null"]}
+  },
+  "required":["n","total","stage","alias","relPath","crit","block","warn","progress"]
+}

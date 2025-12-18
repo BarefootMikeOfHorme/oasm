@@ -1,0 +1,12 @@
+# OASM configuration schema (stub)
+type: object
+properties:
+  ui:
+    type: object
+    properties:
+      theme:
+        type: string
+        enum: [dark, light]
+  modules:
+    type: object
+additionalProperties: true

@@ -1,0 +1,26 @@
+; OASM Assembly Example - Game Engine Scene
+; This demonstrates OASM assembly for engine operations
+
+; Create scene
+CREATE scene "main_level"
+  CREATE entity "player"
+    SET position = [0, 0, 0]
+    SET rotation = [0, 0, 0]
+    ATTACH component "rigidbody"
+    ATTACH component "mesh_renderer"
+
+  CREATE entity "ground"
+    SET position = [0, -1, 0]
+    SET scale = [100, 1, 100]
+    ATTACH component "box_collider"
+
+; Define physics
+DEFINE constraint "gravity"
+  SET type = "force"
+  SET direction = [0, -9.8, 0]
+
+; Scan performance
+SCAN profiler
+  TRACK entity_count
+  TRACK draw_calls
+  TRACK frame_time

@@ -1,0 +1,14 @@
+[project]
+name = "oasm-ui-plugins"
+version = "0.1.0"
+description = "Bare-bones Python plugin environment for OASM UI"
+requires-python = ">=3.9"
+
+# Full course meal ideas:
+# dependencies = [
+#   "rich",
+#   "textual",
+#   "matplotlib",
+#   "numpy",
+#   "pyo3-ffi"
+# ]

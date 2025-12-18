@@ -1,0 +1,2 @@
+cargo:rustc-env=PYO3_PYTHON=C:\Users\Administrator\AppData\Local\Programs\Python\Python312\python.exe
+cargo:warning=Using Python 3.12 for PyO3 (full compatibility).

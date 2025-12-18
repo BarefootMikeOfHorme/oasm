@@ -1,0 +1,69 @@
+version: 1
+
+lifecycle: "Loading"   # Initial lifecycle phase: Loading, Running, Updating, CleaningUp, ShuttingDown
+
+python:
+  use_env: PYO3_PYTHON
+  min_version: "3.12"
+  max_version: "3.12"
+  fallback: "python3"   # Fallback binary if env var not set
+  strict: true          # Enforce exact version match
+
+ui:
+  mode: "tui"           # Options: tui, cli, gui
+  theme: "dark"         # Options: dark, light, custom
+  refresh_rate_ms: 100
+  error_overlay: true   # Show runtime errors in UI overlay
+  autosave_interval: 30000  # ms between autosaves
+
+logging:
+  level: "info"         # Options: trace, debug, info, warn, error
+  file: "logs/oasm.log"
+  rotation: "daily"     # Options: daily, hourly, size
+  max_size_mb: 10
+  structured: true      # Enable structured JSON logging
+  console: true         # Also log to console
+
+targets:
+  os: "windows"
+  arch: "x86_64"
+  shell: "powershell"
+  cross_compile: false  # Allow cross-compilation for other targets
+
+features:
+  bindings: true
+  ipc: true
+  plugins: true
+  hot_reload: true      # Allow runtime config reload without restart
+  telemetry: false      # Disable telemetry by default
+
+modules:
+  - name: "core_math"
+    enabled: true
+    validated: false
+    dll: "bin/core_math.dll"
+    required: true
+
+  - name: "ipc_bridge"
+    enabled: true
+    validated: false
+    dll: "bin/ipc_bridge.dll"
+    required: true
+
+  - name: "validation"
+    enabled: true
+    validated: false
+    dll: "bin/validation.dll"
+    required: false
+
+  - name: "plugin_loader"
+    enabled: true
+    validated: false
+    dll: "bin/plugin_loader.dll"
+    required: false
+
+error_handling:
+  retry_attempts: 3
+  retry_delay_ms: 2000
+  panic_on_missing_module: true
+  graceful_shutdown: true

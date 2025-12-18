@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "compiler", "crates/oasm-api", "crates/oasm-core",
+    "runtime/daemon",
+    "ui/rust_ui"
+]
+resolver = "2"

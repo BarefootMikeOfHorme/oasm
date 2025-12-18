@@ -1,0 +1,13 @@
+[package]
+name = \"oasm-bindings\"
+version = \"0.1.0\"
+edition = \"2021\"
+
+[dependencies]
+
+[build-dependencies]
+cc = \"1.0\"
+
+# Full course meal ideas:
+# - Add bindgen for auto-generating Rust FFI
+# - Add serde/cbor for structured data exchange

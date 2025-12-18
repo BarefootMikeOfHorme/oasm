@@ -1,0 +1,23 @@
+; OASM Assembly Example - Document Generation
+; This demonstrates OASM assembly for document operations
+
+; Create document
+CREATE document "report.oasm"
+  SET page_size = "A4"
+  SET margins = [1in, 1in, 1in, 1in]
+
+; Add content
+INSERT heading1, "Project Report"
+INSERT paragraph, "Executive summary of the project findings..."
+INSERT heading2, "Results"
+INSERT table, 3x4
+  STYLE borders = "thin"
+  STYLE header_bg = "#cccccc"
+
+; Apply formatting
+APPLY style "body_text" TO paragraph[*]
+APPLY numbering TO heading[*]
+
+; Export
+EXPORT pdf, "output/report.pdf"
+EXPORT markdown, "output/report.md"

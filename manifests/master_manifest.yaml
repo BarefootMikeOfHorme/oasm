@@ -1,0 +1,304 @@
+# OASM Master Manifest
+# Central registry for all modules, files, schemas, and settings
+# Version: 1.0.0
+
+manifest_version: "1.0.0"
+oasm_version: "0.1.0"
+last_updated: "2025-12-17"
+
+# ============================================================================
+# SERIALIZATION FORMATS
+# ============================================================================
+serialization:
+  oasm:
+    primary: "cbor"        # Canonical runtime state
+    mirror: "yaml"         # Human-readable with comments
+    logs: "json"           # Structured logs and indexes
+    schemas: "json-schema" # Validation schemas
+
+  objex:
+    archive: "hdf5"        # Long-term storage
+    runtime: "cbor"        # Live SmartObject state
+    exports: ["step", "iges", "stl", "dxf", "svg"]
+    metadata: "yaml"       # Export provenance
+
+# ============================================================================
+# MODULE REGISTRY
+# ============================================================================
+modules:
+  # Runtime Daemon - Supervisor Loop
+  - id: "runtime_daemon"
+    name: "Runtime Daemon"
+    type: "service"
+    location: "runtime/daemon"
+    entry: "target/debug/runtime_daemon.exe"
+    config: "runtime/daemon/daemon.yaml"
+    capabilities: ["file_watch", "validation", "serialization", "lineage"]
+    auto_start: true
+    dependencies: []
+
+  # Compiler - OASM Compilation
+  - id: "compiler"
+    name: "OASM Compiler"
+    type: "tool"
+    location: "compiler"
+    entry: "target/debug/compiler.exe"
+    config: "compiler/compiler.yaml"
+    capabilities: ["manifest_compilation", "validation", "cbor_generation"]
+    auto_start: false
+    dependencies: ["runtime_daemon"]
+
+  # Scanner - Pre-compile Diagnostics
+  - id: "scanner"
+    name: "Universal Scanner"
+    type: "tool"
+    location: "compiler"
+    entry: "target/debug/oasm-scan.exe"
+    config: "templates/scans/codebase_deep_scan.yaml"
+    capabilities: ["code_analysis", "metrics_collection", "health_check"]
+    auto_start: false
+    dependencies: []
+
+  # OASM Shell - Interactive CLI
+  - id: "oasm_shell"
+    name: "OASM Shell"
+    type: "shell"
+    location: "shells/oasm-shell"
+    entry: "target/debug/oasm-shell.exe"
+    config: "manifests/shell_profile.yaml"
+    capabilities: ["interactive_exec", "capability_management", "history", "python_plugins"]
+    auto_start: false
+    dependencies: ["runtime_daemon"]
+
+  # UI - Rust UI
+  - id: "rust_ui"
+    name: "Rust UI"
+    type: "ui"
+    location: "ui/rust_ui"
+    entry: "target/debug/rust_ui.exe"
+    config: "ui/rust_ui/config/runtime.yaml"
+    schema: "ui/rust_ui/config/oasm.schema.yaml"
+    capabilities: ["visualization", "dll_validation", "python_bridge"]
+    auto_start: false
+    dependencies: ["runtime_daemon", "bindings"]
+
+  # Bindings - Native FFI
+  - id: "bindings"
+    name: "Native Bindings"
+    type: "library"
+    location: "bindings"
+    manifest: "ui/rust_ui/manifests/bindings.yaml"
+    dlls:
+      - "bin/core_math.dll"
+      - "bin/ipc_bridge.dll"
+      - "bin/validation.dll"
+      - "bin/plugin_loader.dll"
+    capabilities: ["ffi", "native_math", "ipc", "validation", "plugins"]
+    auto_start: false
+    dependencies: []
+
+# ============================================================================
+# CONFIGURATION FILES
+# ============================================================================
+configs:
+  # Main runtime config
+  runtime:
+    primary: "config/runtime.yaml"
+    schema: "schemas/oasm.schema.yaml"
+    fallback: "config/oasm.default.yaml"
+
+  # UI config
+  ui:
+    primary: "ui/rust_ui/config/runtime.yaml"
+    schema: "ui/rust_ui/config/oasm.schema.yaml"
+    fallback: "ui/rust_ui/config/oasm.default.yaml"
+
+  # Daemon config
+  daemon:
+    primary: "runtime/daemon/daemon.yaml"
+
+  # Shell profile
+  shell:
+    primary: "manifests/shell_profile.yaml"
+
+  # Compiler settings
+  compiler:
+    primary: "compiler/compiler.yaml"
+
+# ============================================================================
+# SCHEMA REGISTRY
+# ============================================================================
+schemas:
+  # OASM schemas
+  - id: "oasm_config"
+    format: "json-schema"
+    location: "schemas/oasm.schema.yaml"
+    validates: "runtime_config"
+
+  - id: "oasm_protocol"
+    format: "cddl"
+    location: "schemas/oasm_protocol.cddl"
+    validates: "cbor_events"
+
+  - id: "cli_state"
+    format: "json-schema"
+    location: "logs/cli_state_schema.json"
+    validates: "compilation_status"
+
+  - id: "diagnostic_index"
+    format: "json-schema"
+    location: "logs/diagnostic_index_schema.json"
+    validates: "error_tracking"
+
+  - id: "bindings_manifest"
+    format: "yaml"
+    location: "ui/rust_ui/manifests/bindings.yaml"
+    validates: "dll_loading"
+
+  # Template schemas
+  - id: "smartobject_container"
+    format: "yaml"
+    location: "templates/schemas/smartobject_container.yaml"
+    validates: "objex_containers"
+
+  - id: "scan_template"
+    format: "yaml"
+    location: "templates/scans/codebase_deep_scan.yaml"
+    validates: "scan_configs"
+
+  - id: "workflow_template"
+    format: "yaml"
+    location: "templates/workflows/cad_automation_preset.yaml"
+    validates: "workflow_definitions"
+
+# ============================================================================
+# TEMPLATE LIBRARY
+# ============================================================================
+templates:
+  schemas:
+    location: "templates/schemas"
+    index:
+      - "smartobject_container.yaml"
+
+  scripts:
+    location: "templates/scripts"
+    index:
+      - "script_template_generator.yaml"
+
+  commands:
+    location: "templates/commands"
+    index:
+      - "project_health_check.yaml"
+
+  workflows:
+    location: "templates/workflows"
+    index:
+      - "cad_automation_preset.yaml"
+
+  scans:
+    location: "templates/scans"
+    index:
+      - "codebase_deep_scan.yaml"
+
+# ============================================================================
+# OUTPUT LOCATIONS
+# ============================================================================
+outputs:
+  logs:
+    structure_debug: "logs/StructureDebug"
+    daemon_logs: "logs/daemon"
+    lineage: "logs/lineage"
+
+  exports:
+    cad: "exports"
+
+  cache:
+    build: "target"
+    temp: "temp"
+
+# ============================================================================
+# INTEGRATION POINTS
+# ============================================================================
+integrations:
+  # PowerShell 2026
+  powershell:
+    module: "shells/psmodule"
+    scripts: "scripts/PS"
+    entry: "scripts/PS/Invoke-OasmScan.ps1"
+
+  # Python 3.12
+  python:
+    plugins: "ui/python_ui_plugins/plugins"
+    venv: "environments/coding"
+
+  # wpshell (custom PowerShell)
+  wpshell:
+    enabled: true
+    profile: "default"
+
+  # Objex CAD
+  objex:
+    enabled: true
+    hdf5_archives: "../Objex/archives"  # If Objex is sibling project
+    primitives: "../Objex/kernel/primitives"
+
+# ============================================================================
+# CAPABILITIES
+# ============================================================================
+capabilities:
+  available:
+    - "file_access"
+    - "file_watch"
+    - "process_control"
+    - "ipc"
+    - "network"
+    - "validation"
+    - "serialization"
+    - "python_bridge"
+    - "native_ffi"
+
+  default_enabled:
+    - "file_access"
+    - "validation"
+    - "serialization"
+
+# ============================================================================
+# LOADING ORDER
+# ============================================================================
+load_order:
+  # Bootstrap phase
+  bootstrap:
+    - "configs"        # Load all config files
+    - "schemas"        # Validate against schemas
+    - "bindings"       # Load native DLLs
+
+  # Startup phase
+  startup:
+    - "runtime_daemon" # Start supervisor
+    - "templates"      # Index template library
+
+  # On-demand
+  on_demand:
+    - "compiler"
+    - "scanner"
+    - "oasm_shell"
+    - "rust_ui"
+
+# ============================================================================
+# HEALTH MONITORING
+# ============================================================================
+health:
+  heartbeat_file: "heartbeat.json"
+  daemon_status: "daemon_status.json"
+  context_status: "context_status.json"
+
+  checks:
+    - module: "runtime_daemon"
+      interval: "5s"
+
+    - module: "bindings"
+      interval: "startup"
+
+  alerts:
+    heartbeat_timeout: "5min"
+    daemon_inactive: "10min"

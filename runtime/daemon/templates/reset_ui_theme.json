@@ -1,0 +1,6 @@
+{
+  "id": "tpl_reset_ui_theme",
+  "description": "Reset UI theme to dark if invalid",
+  "conditions": [ { "type": "schema_violation", "field": "ui.theme" } ],
+  "actions": [ { "op": "set_value", "path": ["ui","theme"], "value": "dark" } ]
+}

@@ -1,0 +1,1 @@
+C:\Users\Administrator\Desktop\Projects\oasm\ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll: C:\Users\Administrator\Desktop\Projects\oasm\ui\rust_ui\bin\plugin_loader\src\lib.rs

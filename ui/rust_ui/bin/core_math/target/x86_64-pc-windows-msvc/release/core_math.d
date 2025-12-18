@@ -1,0 +1,1 @@
+C:\Users\Administrator\Desktop\Projects\oasm\ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll: C:\Users\Administrator\Desktop\Projects\oasm\ui\rust_ui\bin\core_math\src\lib.rs

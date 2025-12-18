@@ -1,0 +1,108 @@
+# SmartObject Container Schema Template
+# For Objex/OASM integration
+
+schema_version: "1.0.0"
+type: "smartobject_container"
+
+# Template for creating SmartObject containers
+template:
+  meta:
+    id: "{uuid_v4}"
+    name: "{object_name}"
+    author: "{user_name}"
+    created_at: "{iso8601_timestamp}"
+    updated_at: "{iso8601_timestamp}"
+    schema_version: "1.0.0"
+    checksum: "{sha256_auto}"
+
+  primitive_ref:
+    id: "{primitive_id}"  # e.g., "cube_v1", "gear_v1"
+    version: "{primitive_version}"  # e.g., "1.0.0"
+
+  units:
+    length: "mm"
+    angle: "deg"
+    time: "s"
+
+  parameters:
+    # Example parameter structure
+    - name: "width"
+      value: 100.0
+      unit: "mm"
+      expression: null  # Optional formula
+
+    - name: "height"
+      value: 50.0
+      unit: "mm"
+      expression: null
+
+    - name: "depth"
+      value: 25.0
+      unit: "mm"
+      expression: null
+
+  behaviors:
+    # Ordered operations list
+    - op_name: "extrude"
+      args:
+        direction: "z"
+        distance: "{parameters.depth}"
+
+    - op_name: "fillet"
+      args:
+        edges: [1, 2, 3, 4]
+        radius: 2.0
+
+  constraints:
+    # Geometric/dimensional constraints
+    - type: "dimensional"
+      rule: "width >= height"
+
+    - type: "range"
+      parameter: "width"
+      min: 10.0
+      max: 1000.0
+
+  style:
+    material_id: "aluminum_6061"
+    color: "#C0C0C0"
+    texture_ref: null
+    layer: "default"
+
+  animation:
+    enabled: false
+    fps: 30
+    duration_sec: 5
+    keyframes: []
+
+  lineage:
+    parent_id: null
+    session_id: "{uuid_v4}"
+    branch_name: "main"
+    ancestors: []
+    children: []
+    commit_message: "Initial creation"
+
+  validation:
+    status: "pending"  # pending | pass | warn | fail
+    messages: []
+    codes: []
+    validator_version: "1.0.0"
+
+  exports_cache:
+    step: null
+    stl: null
+    dxf: null
+
+# Validation rules for this schema
+validation_rules:
+  required_fields:
+    - meta.id
+    - meta.name
+    - primitive_ref
+    - parameters
+
+  constraints:
+    - "parameters must have at least one entry"
+    - "all parameter values must match their unit types"
+    - "behaviors must reference valid primitive operations"

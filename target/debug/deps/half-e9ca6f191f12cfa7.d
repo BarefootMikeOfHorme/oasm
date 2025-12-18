@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Projects\oasm\target\debug\deps\half-e9ca6f191f12cfa7.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\bfloat.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\bfloat\convert.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\binary16.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\binary16\convert.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\slice.rs
+
+C:\Users\Administrator\Desktop\Projects\oasm\target\debug\deps\libhalf-e9ca6f191f12cfa7.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\bfloat.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\bfloat\convert.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\binary16.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\binary16\convert.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\slice.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\bfloat.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\bfloat\convert.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\binary16.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\binary16\convert.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\half-1.8.3\src\slice.rs:

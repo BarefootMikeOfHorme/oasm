@@ -1,0 +1,55 @@
+Run-Stage "Collecting project structure" {
+    $lines=@("=== Project Structure Snapshot ===",
+             "Root: $root",
+             "Timestamp: $timestamp",
+             "",
+             "Format: [score] path | LOC | metrics",
+             "")
+    $totalLOC=0;$fileCount=0;$dirCount=0
+
+    Get-ChildItem -Path $root -Recurse -Include *.rs,*.toml,*.ps1,*.py,*.c,*.h,*.cpp,*.hpp,*.md | ForEach-Object {
+        $rel=$_.FullName.Substring($root.Length).TrimStart("\","/")
+        if($_.PSIsContainer){
+            $dirCount++
+            $score=Get-ImportanceScore $rel
+            $lines+="├─ [$score] $rel"
+        }
+        else{
+            $fileCount++
+            $loc=(Get-Content $_.FullName).Count
+            $score=Get-ImportanceScore $rel
+            $totalLOC+=$loc
+
+            # --- Collect metrics ---
+            $content = Get-Content $_.FullName
+            $fnCount       = ($content | Select-String -Pattern "^\s*fn ").Count
+            $pubFnCount    = ($content | Select-String -Pattern "^\s*pub fn ").Count
+            $unsafeFnCount = ($content | Select-String -Pattern "^\s*pub unsafe").Count
+            $imports       = ($content | Select-String -Pattern "^\s*use ").Count
+            $printlns      = ($content | Select-String -Pattern "println!").Count
+            $infoLogs      = ($content | Select-String -Pattern "info!").Count
+            $warnLogs      = ($content | Select-String -Pattern "warn!").Count
+            $errorLogs     = ($content | Select-String -Pattern "error!").Count
+            $structs       = ($content | Select-String -Pattern "^\s*pub struct ").Count
+            $enums         = ($content | Select-String -Pattern "^\s*pub enum ").Count
+            $derives       = ($content | Select-String -Pattern "#
+
+\[derive").Count
+            $tests         = ($content | Select-String -Pattern "^\s*#[test]").Count
+            $modified      = (Get-Item $_.FullName).LastWriteTime.ToString("yyyy-MM-dd HH:mm")
+
+            # --- Diagnostics placeholders (to be filled later) ---
+            $errors   = "None"
+            $warnings = "None"
+
+            # --- Format line ---
+            $line = " · [$score] $rel | $loc LOC | $fnCount fn ($pubFnCount pub, $unsafeFnCount unsafe) | Imports=$imports | Logging: info=$infoLogs warn=$warnLogs error=$errorLogs println=$printlns | Structs=$structs Enums=$enums Derives=$derives | Errors=$errors | Warnings=$warnings | Tests=$tests | Modified=$modified"
+            $lines += $line
+        }
+    }
+
+    $lines+="";$lines+="Summary: $dirCount dirs, $fileCount files, $totalLOC LOC"
+    $lines | Out-File -LiteralPath $structureLog -Encoding UTF8
+    Append-Diagnostic "`n=== Structure Snapshot written to $structureLog ==="
+    Write-Host "Structure snapshot written: $structureLog" -ForegroundColor Cyan
+} 10 "Structure"

@@ -1,0 +1,21 @@
+type: object
+required:
+  - profile_name
+  - env
+  - dll_paths
+properties:
+  profile_name:
+    type: string
+  env:
+    type: object
+    required: [oasm_mode, ps_profile, wpsh_enabled, cli_enabled, ui_enabled, bindings_enabled]
+    properties:
+      oasm_mode: { type: string, enum: ["production","staging","dev"] }
+      ps_profile: { type: string }
+      wpsh_enabled: { type: boolean }
+      cli_enabled: { type: boolean }
+      ui_enabled: { type: boolean }
+      bindings_enabled: { type: boolean }
+  dll_paths:
+    type: array
+    items: { type: string }

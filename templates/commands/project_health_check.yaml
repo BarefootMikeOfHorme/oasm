@@ -1,0 +1,50 @@
+# Project Health Check Command Block
+# Executive function: Quick status overview
+
+name: "Project Health Check"
+version: "1.0.0"
+type: "command_block"
+category: "diagnostics"
+
+description: |
+  Rapid assessment of project health for executive function support.
+  Provides clear actionable insights without overwhelming detail.
+
+stages:
+  - name: "Quick Scan"
+    commands:
+      - "cargo check --workspace"
+      - "cargo clippy --all-targets"
+
+  - name: "Test Status"
+    commands:
+      - "cargo test --no-run"
+
+  - name: "Dependency Audit"
+    commands:
+      - "cargo tree --depth 1"
+      - "cargo outdated"
+
+  - name: "Build Artifacts"
+    commands:
+      - "ls -lh target/debug/"
+      - "ls -lh target/release/"
+
+output:
+  format: "executive_summary"
+  highlight:
+    - errors
+    - warnings
+    - outdated_dependencies
+    - missing_tests
+
+  success_criteria:
+    - zero_compile_errors
+    - test_pass_rate: ">95%"
+    - security_warnings: "0"
+
+cli_formatting:
+  use_colors: true
+  use_icons: true
+  progress_indicators: true
+  grouping: "by_severity"

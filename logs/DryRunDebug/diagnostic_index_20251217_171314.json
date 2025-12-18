@@ -1,0 +1,653 @@
+[
+  {
+    "n": 1,
+    "alias": "bindings\\bindings.rs",
+    "relPath": "bindings\\bindings.rs",
+    "link": "bindings\\bindings.rs",
+    "totals": {
+      "crit": 0,
+      "block": 1,
+      "warn": 0
+    },
+    "diagnostics": [
+      "BLK @{n=1; total=52; stage=Structure; alias=bindings\\bindings.rs; relPath=bindings\\bindings.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\bindings}.relPath:4 unsafe fn missing safety docs"
+    ]
+  },
+  {
+    "n": 2,
+    "alias": "bindings\\Cargo.toml",
+    "relPath": "bindings\\Cargo.toml",
+    "link": "bindings\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 3,
+    "alias": "bindings\\ffi.rs",
+    "relPath": "bindings\\ffi.rs",
+    "link": "bindings\\ffi.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 4,
+    "alias": "bindings\\native_lib.c",
+    "relPath": "bindings\\native_lib.c",
+    "link": "bindings\\native_lib.c",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 5,
+    "alias": "src\\lib.rs",
+    "relPath": "compiler\\src\\lib.rs",
+    "link": "compiler\\src\\lib.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 6,
+    "alias": "compiler\\Cargo.toml",
+    "relPath": "compiler\\Cargo.toml",
+    "link": "compiler\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 7,
+    "alias": "fastmath\\fastmath.cpp",
+    "relPath": "native_libs\\fastmath\\fastmath.cpp",
+    "link": "native_libs\\fastmath\\fastmath.cpp",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 8,
+    "alias": "pe_emitter_cpp\\pe_emitter.cpp",
+    "relPath": "native_libs\\pe_emitter_cpp\\pe_emitter.cpp",
+    "link": "native_libs\\pe_emitter_cpp\\pe_emitter.cpp",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 9,
+    "alias": "src\\commit.rs",
+    "relPath": "runtime\\daemon\\src\\commit.rs",
+    "link": "runtime\\daemon\\src\\commit.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 10,
+    "alias": "src\\converter.rs",
+    "relPath": "runtime\\daemon\\src\\converter.rs",
+    "link": "runtime\\daemon\\src\\converter.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 11,
+    "alias": "src\\daemon.rs",
+    "relPath": "runtime\\daemon\\src\\daemon.rs",
+    "link": "runtime\\daemon\\src\\daemon.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 12,
+    "alias": "src\\handler.rs",
+    "relPath": "runtime\\daemon\\src\\handler.rs",
+    "link": "runtime\\daemon\\src\\handler.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 13,
+    "alias": "src\\lineage.rs",
+    "relPath": "runtime\\daemon\\src\\lineage.rs",
+    "link": "runtime\\daemon\\src\\lineage.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 14,
+    "alias": "src\\main.rs",
+    "relPath": "runtime\\daemon\\src\\main.rs",
+    "link": "runtime\\daemon\\src\\main.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 15,
+    "alias": "src\\parser.rs",
+    "relPath": "runtime\\daemon\\src\\parser.rs",
+    "link": "runtime\\daemon\\src\\parser.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 16,
+    "alias": "src\\supervisor.rs",
+    "relPath": "runtime\\daemon\\src\\supervisor.rs",
+    "link": "runtime\\daemon\\src\\supervisor.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=16; total=52; stage=Structure; alias=src\\supervisor.rs; relPath=runtime\\daemon\\src\\supervisor.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:32 redundant clone"
+    ]
+  },
+  {
+    "n": 17,
+    "alias": "src\\types.rs",
+    "relPath": "runtime\\daemon\\src\\types.rs",
+    "link": "runtime\\daemon\\src\\types.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 18,
+    "alias": "src\\validator.rs",
+    "relPath": "runtime\\daemon\\src\\validator.rs",
+    "link": "runtime\\daemon\\src\\validator.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=18; total=52; stage=Structure; alias=src\\validator.rs; relPath=runtime\\daemon\\src\\validator.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:5 redundant clone"
+    ]
+  },
+  {
+    "n": 19,
+    "alias": "src\\watch.rs",
+    "relPath": "runtime\\daemon\\src\\watch.rs",
+    "link": "runtime\\daemon\\src\\watch.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 20,
+    "alias": "tests\\integration.rs",
+    "relPath": "runtime\\daemon\\tests\\integration.rs",
+    "link": "runtime\\daemon\\tests\\integration.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 21,
+    "alias": "daemon\\Cargo.toml",
+    "relPath": "runtime\\daemon\\Cargo.toml",
+    "link": "runtime\\daemon\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 22,
+    "alias": "src\\cmd_adapter.rs",
+    "relPath": "shells\\cmd-wrapper\\src\\cmd_adapter.rs",
+    "link": "shells\\cmd-wrapper\\src\\cmd_adapter.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=22; total=52; stage=Structure; alias=src\\cmd_adapter.rs; relPath=shells\\cmd-wrapper\\src\\cmd_adapter.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 23,
+    "alias": "src\\conpty.rs",
+    "relPath": "shells\\oasm-shell\\src\\conpty.rs",
+    "link": "shells\\oasm-shell\\src\\conpty.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=23; total=52; stage=Structure; alias=src\\conpty.rs; relPath=shells\\oasm-shell\\src\\conpty.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 24,
+    "alias": "src\\main.rs",
+    "relPath": "shells\\oasm-shell\\src\\main.rs",
+    "link": "shells\\oasm-shell\\src\\main.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 2
+    },
+    "diagnostics": [
+      "WRN @{n=24; total=52; stage=Structure; alias=src\\main.rs; relPath=shells\\oasm-shell\\src\\main.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\shells\\oasm-shell\\src}.relPath:2 println! used; prefer log::info!",
+      "WRN @{n=24; total=52; stage=Structure; alias=src\\main.rs; relPath=shells\\oasm-shell\\src\\main.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=C:\\Users\\Administrator\\Desktop\\Projects\\oasm\\shells\\oasm-shell\\src}.relPath:3 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 25,
+    "alias": "src\\python_bridge.rs",
+    "relPath": "shells\\oasm-shell\\src\\python_bridge.rs",
+    "link": "shells\\oasm-shell\\src\\python_bridge.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=25; total=52; stage=Structure; alias=src\\python_bridge.rs; relPath=shells\\oasm-shell\\src\\python_bridge.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 26,
+    "alias": "src\\router.rs",
+    "relPath": "shells\\oasm-shell\\src\\router.rs",
+    "link": "shells\\oasm-shell\\src\\router.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=26; total=52; stage=Structure; alias=src\\router.rs; relPath=shells\\oasm-shell\\src\\router.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 27,
+    "alias": "src\\security.rs",
+    "relPath": "shells\\oasm-shell\\src\\security.rs",
+    "link": "shells\\oasm-shell\\src\\security.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=27; total=52; stage=Structure; alias=src\\security.rs; relPath=shells\\oasm-shell\\src\\security.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 28,
+    "alias": "oasm-shell\\Cargo.toml",
+    "relPath": "shells\\oasm-shell\\Cargo.toml",
+    "link": "shells\\oasm-shell\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 29,
+    "alias": "src\\lib.rs",
+    "relPath": "ui\\bindings\\src\\lib.rs",
+    "link": "ui\\bindings\\src\\lib.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 30,
+    "alias": "bindings\\Cargo.toml",
+    "relPath": "ui\\bindings\\Cargo.toml",
+    "link": "ui\\bindings\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 31,
+    "alias": "plugins\\example_plugin.py",
+    "relPath": "ui\\python_ui_plugins\\plugins\\example_plugin.py",
+    "link": "ui\\python_ui_plugins\\plugins\\example_plugin.py",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 32,
+    "alias": "python_ui_plugins\\pyproject.toml",
+    "relPath": "ui\\python_ui_plugins\\pyproject.toml",
+    "link": "ui\\python_ui_plugins\\pyproject.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 33,
+    "alias": "src\\lib.rs",
+    "relPath": "ui\\rust_ui\\bin\\core_math\\src\\lib.rs",
+    "link": "ui\\rust_ui\\bin\\core_math\\src\\lib.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 34,
+    "alias": "core_math\\Cargo.toml",
+    "relPath": "ui\\rust_ui\\bin\\core_math\\Cargo.toml",
+    "link": "ui\\rust_ui\\bin\\core_math\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 35,
+    "alias": "src\\lib.rs",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\src\\lib.rs",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\src\\lib.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 36,
+    "alias": "ipc_bridge\\Cargo.toml",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge\\Cargo.toml",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 37,
+    "alias": "src\\lib.rs",
+    "relPath": "ui\\rust_ui\\bin\\plugin_loader\\src\\lib.rs",
+    "link": "ui\\rust_ui\\bin\\plugin_loader\\src\\lib.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 38,
+    "alias": "plugin_loader\\Cargo.toml",
+    "relPath": "ui\\rust_ui\\bin\\plugin_loader\\Cargo.toml",
+    "link": "ui\\rust_ui\\bin\\plugin_loader\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 39,
+    "alias": "src\\lib.rs",
+    "relPath": "ui\\rust_ui\\bin\\validation\\src\\lib.rs",
+    "link": "ui\\rust_ui\\bin\\validation\\src\\lib.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 40,
+    "alias": "validation\\Cargo.toml",
+    "relPath": "ui\\rust_ui\\bin\\validation\\Cargo.toml",
+    "link": "ui\\rust_ui\\bin\\validation\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 41,
+    "alias": "bin\\core_math.c",
+    "relPath": "ui\\rust_ui\\bin\\core_math.c",
+    "link": "ui\\rust_ui\\bin\\core_math.c",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 42,
+    "alias": "bin\\ipc_bridge.c",
+    "relPath": "ui\\rust_ui\\bin\\ipc_bridge.c",
+    "link": "ui\\rust_ui\\bin\\ipc_bridge.c",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 43,
+    "alias": "bin\\plugin_loader.c",
+    "relPath": "ui\\rust_ui\\bin\\plugin_loader.c",
+    "link": "ui\\rust_ui\\bin\\plugin_loader.c",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 44,
+    "alias": "bin\\validation.c",
+    "relPath": "ui\\rust_ui\\bin\\validation.c",
+    "link": "ui\\rust_ui\\bin\\validation.c",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 45,
+    "alias": "src\\config.rs",
+    "relPath": "ui\\rust_ui\\src\\config.rs",
+    "link": "ui\\rust_ui\\src\\config.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=45; total=52; stage=Structure; alias=src\\config.rs; relPath=ui\\rust_ui\\src\\config.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:93 redundant clone"
+    ]
+  },
+  {
+    "n": 46,
+    "alias": "src\\main.rs",
+    "relPath": "ui\\rust_ui\\src\\main.rs",
+    "link": "ui\\rust_ui\\src\\main.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 47,
+    "alias": "src\\python_bridge.rs",
+    "relPath": "ui\\rust_ui\\src\\python_bridge.rs",
+    "link": "ui\\rust_ui\\src\\python_bridge.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=47; total=52; stage=Structure; alias=src\\python_bridge.rs; relPath=ui\\rust_ui\\src\\python_bridge.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 48,
+    "alias": "src\\startup.rs",
+    "relPath": "ui\\rust_ui\\src\\startup.rs",
+    "link": "ui\\rust_ui\\src\\startup.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 49,
+    "alias": "src\\terminal.rs",
+    "relPath": "ui\\rust_ui\\src\\terminal.rs",
+    "link": "ui\\rust_ui\\src\\terminal.rs",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 1
+    },
+    "diagnostics": [
+      "WRN @{n=49; total=52; stage=Structure; alias=src\\terminal.rs; relPath=ui\\rust_ui\\src\\terminal.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:2 println! used; prefer log::info!"
+    ]
+  },
+  {
+    "n": 50,
+    "alias": "src\\validation.rs",
+    "relPath": "ui\\rust_ui\\src\\validation.rs",
+    "link": "ui\\rust_ui\\src\\validation.rs",
+    "totals": {
+      "crit": 0,
+      "block": 1,
+      "warn": 0
+    },
+    "diagnostics": [
+      "BLK @{n=50; total=52; stage=Structure; alias=src\\validation.rs; relPath=ui\\rust_ui\\src\\validation.rs; progress=[///////////////]; crit=0; block=0; warn=0; compileRoot=}.relPath:28 unsafe fn missing safety docs"
+    ]
+  },
+  {
+    "n": 51,
+    "alias": "rust_ui\\Cargo.toml",
+    "relPath": "ui\\rust_ui\\Cargo.toml",
+    "link": "ui\\rust_ui\\Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  },
+  {
+    "n": 52,
+    "alias": "oasm\\Cargo.toml",
+    "relPath": "Cargo.toml",
+    "link": "Cargo.toml",
+    "totals": {
+      "crit": 0,
+      "block": 0,
+      "warn": 0
+    },
+    "diagnostics": []
+  }
+]

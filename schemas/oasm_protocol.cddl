@@ -1,0 +1,8 @@
+; OASM CBOR Protocol Schema
+event = {
+  ts: tstr,          ; timestamp
+  level: tstr,       ; info | warn | error
+  source: tstr,      ; module or process name
+  type: tstr,        ; log | ipc | task | error
+  payload: any       ; structured event data
+}

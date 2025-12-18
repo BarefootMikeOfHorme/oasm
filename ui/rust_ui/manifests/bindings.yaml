@@ -1,0 +1,50 @@
+version: 1
+
+target:
+  os: windows
+  arch: x86_64
+
+bindings:
+  - name: core_math
+    dll: "bin/core_math.dll"
+    symbols:
+      - "add_i32"
+      - "mul_i32"
+      - "div_i32"
+    checksum:
+      algo: sha256
+      value: ""
+
+  - name: ipc_bridge
+    dll: "bin/ipc_bridge.dll"
+    symbols:
+      - "ipc_init"
+      - "ipc_send"
+      - "ipc_shutdown"
+    checksum:
+      algo: sha256
+      value: ""
+
+  - name: validation
+    dll: "bin/validation.dll"
+    symbols:
+      - "validate_manifest"
+      - "validate_checksum"
+    checksum:
+      algo: sha256
+      value: ""
+
+  - name: plugin_loader
+    dll: "bin/plugin_loader.dll"
+    symbols:
+      - "load_plugin"
+      - "unload_plugin"
+      - "list_plugins"
+    checksum:
+      algo: sha256
+      value: ""
+
+
+
+
+

@@ -1,0 +1,7 @@
+profile: default
+autoload_modules:
+  - OASM.PowerShell
+sandbox: true
+prompt:
+  mode: oasm
+  show_caps: true

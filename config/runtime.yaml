@@ -1,0 +1,41 @@
+# OASM Runtime Configuration
+# Executive Function Assistant - Main Configuration
+
+profile_name: "default"
+version: "0.1.0"
+environment: "dev"
+
+# Lifecycle state (managed by system)
+lifecycle: Running
+
+# Module configuration
+modules:
+  - name: "ui_module"
+    enabled: true
+    validated: true
+
+  - name: "cli_module"
+    enabled: true
+    validated: true
+
+  - name: "bindings_module"
+    enabled: true
+    validated: true
+
+  - name: "daemon_supervisor"
+    enabled: true
+    validated: true
+
+# Executive function features
+executive_function:
+  task_tracking: true
+  history_enabled: true
+  structured_prompts: true
+  error_recovery_hints: true
+
+# Security/capability defaults
+security:
+  capabilities:
+    - file_access
+  audit_logging: true
+  lineage_tracking: true

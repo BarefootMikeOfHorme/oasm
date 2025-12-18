@@ -1,0 +1,71 @@
+# Deep Codebase Scan Template
+# Collects comprehensive metrics for executive function tracking
+
+name: "Deep Codebase Analysis"
+version: "1.0.0"
+type: "scan"
+output_format: "structured_log"
+
+targets:
+  file_patterns:
+    - "**/*.rs"
+    - "**/*.toml"
+    - "**/*.py"
+    - "**/*.c"
+    - "**/*.cpp"
+    - "**/*.h"
+    - "**/*.hpp"
+    - "**/*.ps1"
+    - "**/*.yaml"
+    - "**/*.md"
+
+metrics:
+  code_metrics:
+    - lines_of_code
+    - function_count
+    - public_function_count
+    - unsafe_function_count
+    - import_count
+    - struct_count
+    - enum_count
+    - derive_count
+    - test_count
+
+  logging_analysis:
+    - info_log_count
+    - warn_log_count
+    - error_log_count
+    - println_count
+    - debug_log_count
+
+  quality_indicators:
+    - last_modified
+    - comment_density
+    - todo_count
+    - fixme_count
+    - complexity_estimate
+
+  diagnostics:
+    - compilation_errors
+    - compilation_warnings
+    - linting_issues
+    - security_warnings
+
+scoring:
+  importance_factors:
+    - file_size
+    - modification_frequency
+    - dependency_count
+    - public_api_surface
+    - critical_path_indicator
+
+output:
+  structure_log: "logs/StructureDebug/structure_{timestamp}.log"
+  metrics_json: "logs/StructureDebug/baseline_index_{timestamp}.json"
+  cli_state: "logs/StructureDebug/cli_state_{timestamp}.json"
+
+formatting:
+  tree_style: true
+  color_coding: true
+  progress_bars: true
+  summary_section: true

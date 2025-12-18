@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Projects\oasm\ui\rust_ui\bin\ipc_bridge\target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.42\build.rs
+
+C:\Users\Administrator\Desktop\Projects\oasm\ui\rust_ui\bin\ipc_bridge\target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.exe: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.42\build.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.42\build.rs:

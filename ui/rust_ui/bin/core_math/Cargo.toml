@@ -1,0 +1,13 @@
+[package]
+name = "core_math"
+version = "0.1.0"
+edition = "2021"
+description = "Core math DLL for OASM runtime"
+license = "MIT"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+tracing = "0.1"
+tracing-subscriber = "0.3"

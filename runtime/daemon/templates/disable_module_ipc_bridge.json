@@ -1,0 +1,10 @@
+{
+  "id": "tpl_disable_ipc",
+  "description": "Disable ipc_bridge module if DLL missing",
+  "conditions": [
+    { "type": "missing_resource", "resource": "ipc_bridge.dll" }
+  ],
+  "actions": [
+    { "op": "remove_key", "path": ["modules", "ipc_bridge"] }
+  ]
+}
