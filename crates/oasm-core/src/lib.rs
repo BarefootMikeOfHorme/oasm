@@ -8,7 +8,8 @@
 
 pub mod modules;
 pub mod blocks;
-pub mod rules;
+pub mod rules;          // Hierarchical rule engine (Core→Domain→Project→Session)
+pub mod rules_legacy;   // Legacy rule loading functions
 pub mod instructions;
 
 // Native modular components
@@ -17,7 +18,9 @@ pub mod context;        // Execution context manager
 pub mod parser;         // Native OASM parser
 pub mod executor;       // Native instruction executor
 pub mod command_blocks; // Command block builder (batching + testing/repair loops)
+pub mod validators;     // Validators (type, topology, rules)
 
+use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 use std::path::PathBuf;
 
@@ -49,8 +52,8 @@ pub struct Block {
     pub optimizations: Vec<String>,
 }
 
-/// Rule definition
-#[derive(Debug, Clone)]
+/// Rule definition (used by hierarchical rule engine in rules/ module)
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Rule {
     pub id: String,
     pub program_type: String,
@@ -58,7 +61,7 @@ pub struct Rule {
     pub conditions: Vec<Condition>,
 }
 
-#[derive(Debug, Clone, PartialEq, Eq)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
 pub enum RuleCategory {
     Validation,
     Behavior,
@@ -66,14 +69,14 @@ pub enum RuleCategory {
     Output,
 }
 
-#[derive(Debug, Clone)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Condition {
     pub check_type: String,
     pub severity: Severity,
     pub message: String,
 }
 
-#[derive(Debug, Clone, PartialEq, Eq)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
 pub enum Severity {
     Error,
     Warning,
