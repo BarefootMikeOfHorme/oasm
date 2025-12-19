@@ -1,0 +1,585 @@
+# OASM Active Defaults Schema
+# Defines fields that are automatically populated during compilation and execution
+# Version: 1.0.0
+
+schema_version: "1.0.0"
+schema_type: "active_defaults"
+
+# ============================================================================
+# GLOBAL DEFAULTS (Applied to ALL instructions)
+# ============================================================================
+
+global_defaults:
+  # Execution Identifiers
+  run_id:
+    type: "RunId (UUID)"
+    source: "runtime_generated"
+    when_populated: "at_compilation_start"
+    format: "UUID v4"
+    example: "550e8400-e29b-41d4-a716-446655440000"
+    mutable: false
+    description: "Unique identifier for this compilation/execution run"
+
+  seq:
+    type: "Seq (u64)"
+    source: "runtime_generated"
+    when_populated: "per_instruction"
+    initial_value: 0
+    increment: 1
+    example: 0, 1, 2, 3, ...
+    mutable: false
+    description: "Sequence number within the current run"
+
+  # Temporal Information
+  timestamp:
+    type: "DateTime<Utc>"
+    source: "system_clock"
+    when_populated: "per_instruction"
+    format: "ISO8601"
+    example: "2025-12-18T10:30:00.123Z"
+    mutable: false
+    description: "Exact time when instruction was compiled/executed"
+
+  # Actor Information
+  actor:
+    type: "Actor"
+    source: "session_context"
+    when_populated: "at_session_start"
+    variants:
+      human:
+        fields:
+          username: "String"
+        example: { Human: { username: "john_doe" } }
+
+      automation:
+        fields:
+          rule_id: "String"
+        example: { Automation: { rule_id: "auto_repair_001" } }
+
+      ai:
+        fields:
+          model: "String"
+          confidence: "f64"
+        example: { AI: { model: "gpt-4", confidence: 0.95 } }
+
+      system:
+        example: "System"
+
+    mutable: false
+    description: "Who or what initiated this instruction"
+
+  # Context Information
+  context_path:
+    type: "PathBuf"
+    source: "working_directory"
+    when_populated: "at_instruction_execution"
+    format: "absolute_path"
+    example: "C:/Users/Admin/Projects/oasm"
+    mutable: false
+    description: "Working directory at time of execution"
+
+  oasm_version:
+    type: "String"
+    source: "build_info"
+    when_populated: "at_compilation_start"
+    format: "semver"
+    example: "0.1.0"
+    mutable: false
+    description: "OASM version used for compilation"
+
+# ============================================================================
+# CATEGORY-SPECIFIC DEFAULTS
+# ============================================================================
+
+category_defaults:
+  # Object Creation Instructions
+  object_creation:
+    identifier:
+      type: "String"
+      source: "auto_generated"
+      when_populated: "if_not_provided"
+      pattern: "{object_type}_{seq:04d}"
+      example: "gear_0001, box_0002"
+      mutable: false
+      description: "Auto-generated unique identifier if user doesn't provide one"
+
+    parent_id:
+      type: "Option<String>"
+      source: "execution_context"
+      when_populated: "if_in_hierarchy"
+      example: "Some(\"assembly_001\")"
+      mutable: false
+      description: "Parent object ID if created within a hierarchy"
+
+    creation_timestamp:
+      type: "DateTime<Utc>"
+      source: "system_clock"
+      when_populated: "at_creation"
+      mutable: false
+
+    hdf5_reference:
+      type: "Option<String>"
+      source: "artifact_store"
+      when_populated: "if_template_used"
+      example: "/artifacts/templates/gear_v1"
+      mutable: false
+      description: "Reference to HDF5 template if instantiated from template"
+
+  # Property Assignment Instructions
+  property_assignment:
+    target_path:
+      type: "String"
+      source: "resolved_context"
+      when_populated: "at_compilation"
+      format: "object.property"
+      example: "main_gear.teeth"
+      mutable: false
+      description: "Full qualified path to property"
+
+    previous_value:
+      type: "Option<Value>"
+      source: "runtime_state"
+      when_populated: "at_execution"
+      description: "Previous value before assignment (for rollback)"
+
+    value_type:
+      type: "String"
+      source: "type_inference"
+      when_populated: "at_compilation"
+      example: "u32"
+      mutable: false
+
+  # Transformation Operations
+  transformations:
+    target_object:
+      type: "String"
+      source: "context_resolution"
+      when_populated: "at_compilation"
+      mutable: false
+
+    transform_matrix:
+      type: "Option<Matrix4x4>"
+      source: "computed"
+      when_populated: "at_execution"
+      description: "Computed transformation matrix for the operation"
+
+    bounding_box_before:
+      type: "Option<BoundingBox>"
+      source: "geometry_analysis"
+      when_populated: "before_execution"
+
+    bounding_box_after:
+      type: "Option<BoundingBox>"
+      source: "geometry_analysis"
+      when_populated: "after_execution"
+
+  # Validation Instructions
+  validation:
+    validator_version:
+      type: "String"
+      source: "validator_info"
+      when_populated: "at_compilation"
+      example: "topology_validator_v1.2.0"
+      mutable: false
+
+    baseline_reference:
+      type: "Option<String>"
+      source: "hdf5_artifact_store"
+      when_populated: "if_baseline_exists"
+      example: "/baselines/topology_baseline_v1"
+      description: "Reference to baseline for comparison"
+
+    validation_rules:
+      type: "Vec<String>"
+      source: "rule_hierarchy_resolution"
+      when_populated: "at_compilation"
+      example: ["core/topology", "domain/cad/geometry"]
+      description: "All rules applied (Core → Domain → Project → Session)"
+
+    expected_outcome:
+      type: "Option<String>"
+      source: "user_or_default"
+      when_populated: "at_compilation"
+      default: "Pass"
+      example: "Pass"
+
+  # I/O Operations
+  io_operations:
+    provenance_log:
+      type: "bool"
+      source: "config"
+      when_populated: "at_compilation"
+      default: true
+      description: "Whether to log provenance for this operation"
+
+    checksum:
+      type: "Option<String>"
+      source: "computed"
+      when_populated: "after_execution"
+      algorithm: "SHA256"
+      example: "a3d5f89b2c1e..."
+
+    file_size_bytes:
+      type: "Option<u64>"
+      source: "computed"
+      when_populated: "after_execution"
+
+    compression:
+      type: "Option<String>"
+      source: "config_or_auto"
+      when_populated: "at_compilation"
+      default: "auto"
+      options: ["none", "gzip", "zstd", "auto"]
+
+  # Control Flow
+  control_flow:
+    jump_target_resolved:
+      type: "String"
+      source: "label_resolution"
+      when_populated: "at_compilation"
+      description: "Resolved jump target address or label"
+
+    condition_evaluated:
+      type: "Option<bool>"
+      source: "runtime_evaluation"
+      when_populated: "at_execution"
+
+  # Analysis Operations
+  analysis:
+    analysis_scope:
+      type: "String"
+      source: "context_or_default"
+      when_populated: "at_compilation"
+      default: "current_module"
+      options: ["current_file", "current_module", "entire_project"]
+
+    metrics_collected:
+      type: "Vec<String>"
+      source: "analysis_config"
+      when_populated: "at_compilation"
+      example: ["loc", "complexity", "dependencies"]
+
+# ============================================================================
+# BATCH-SPECIFIC DEFAULTS
+# ============================================================================
+
+batch_defaults:
+  # Applied when instructions are batched into command blocks
+
+  command_block_id:
+    type: "String"
+    source: "generated"
+    when_populated: "at_batch_creation"
+    format: "block_{run_id}_{seq}"
+    example: "block_550e8400_0005"
+    mutable: false
+
+  block_type:
+    type: "BlockType"
+    source: "inferred_or_specified"
+    when_populated: "at_batch_creation"
+    variants: ["RepairBlock", "LintBlock", "TestBlock", "CADBlock", "CustomBlock"]
+    example: "RepairBlock"
+
+  batch_size:
+    type: "usize"
+    source: "computed"
+    when_populated: "at_batch_creation"
+    description: "Number of instructions in this batch"
+
+  batch_execution_mode:
+    type: "ExecutionMode"
+    source: "config_or_inferred"
+    when_populated: "at_batch_creation"
+    variants: ["Sequential", "Parallel", "ConditionalParallel"]
+    default: "Sequential"
+
+  checkpoint_frequency:
+    type: "CheckpointFrequency"
+    source: "config"
+    when_populated: "at_batch_creation"
+    variants: ["Never", "OnError", "EveryN", "BlockBoundaries"]
+    default: "BlockBoundaries"
+
+# ============================================================================
+# PROVENANCE DEFAULTS
+# ============================================================================
+
+provenance_defaults:
+  # Provenance tracking information auto-populated
+
+  lineage_id:
+    type: "String (UUID)"
+    source: "generated"
+    when_populated: "at_execution_completion"
+    format: "UUID v4"
+    description: "Unique ID for this lineage record"
+
+  parent_lineage_id:
+    type: "Option<String>"
+    source: "execution_context"
+    when_populated: "at_execution_start"
+    description: "Links to parent in lineage chain (null for root)"
+
+  tool_versions:
+    type: "ToolVersions"
+    source: "system_info"
+    when_populated: "at_compilation"
+    fields:
+      oasm_version: "String"
+      rust_version: "String"
+      llvm_version: "Option<String>"
+      python_version: "Option<String>"
+    example:
+      oasm_version: "0.1.0"
+      rust_version: "1.70.0"
+
+  config_hash:
+    type: "String"
+    source: "computed"
+    when_populated: "at_compilation"
+    algorithm: "SHA256"
+    description: "Hash of configuration at compilation time (for reproducibility)"
+
+  execution_outcome:
+    type: "ExecutionOutcome"
+    source: "runtime_result"
+    when_populated: "after_execution"
+    variants: ["Success", "Failed", "PartialSuccess", "Cancelled"]
+
+  impact:
+    type: "Impact"
+    source: "computed"
+    when_populated: "after_execution"
+    fields:
+      files_changed: "usize"
+      lines_added: "usize"
+      lines_removed: "usize"
+      functions_affected: "usize"
+      modules_affected: "Vec<String>"
+
+  revert_command:
+    type: "String"
+    source: "generated"
+    when_populated: "after_execution"
+    format: "oasm revert --lineage-id {lineage_id}"
+    description: "Command to revert this change"
+
+# ============================================================================
+# TEMPLATE-SPECIFIC DEFAULTS
+# ============================================================================
+
+template_defaults:
+  # Applied when instruction comes from template
+
+  template_id:
+    type: "String"
+    source: "template_metadata"
+    when_populated: "if_from_template"
+    example: "repair_unsafe_blocks_v1"
+    mutable: false
+
+  template_version:
+    type: "String"
+    source: "template_metadata"
+    when_populated: "if_from_template"
+    format: "semver"
+    example: "1.0.0"
+
+  template_parameters:
+    type: "HashMap<String, Value>"
+    source: "user_provided_or_defaults"
+    when_populated: "at_instantiation"
+    description: "Parameters passed to template"
+
+  template_hdf5_path:
+    type: "Option<String>"
+    source: "artifact_store"
+    when_populated: "if_in_hdf5"
+    example: "/templates/repair/unsafe_blocks/v1.0"
+
+# ============================================================================
+# CONDITIONAL DEFAULTS
+# ============================================================================
+
+conditional_defaults:
+  # Defaults that only apply under certain conditions
+
+  if_unsafe_operation:
+    safety_approval:
+      type: "bool"
+      source: "user_prompt_or_config"
+      when_populated: "before_execution"
+      default: false
+      required: true
+
+    rollback_snapshot:
+      type: "String"
+      source: "generated"
+      when_populated: "before_execution"
+      description: "Snapshot ID for rollback if unsafe operation fails"
+
+  if_ai_actor:
+    confidence_score:
+      type: "f64"
+      source: "ai_model"
+      when_populated: "at_execution"
+      range: [0.0, 1.0]
+      description: "AI confidence in this operation"
+
+    confidence_threshold:
+      type: "f64"
+      source: "config"
+      when_populated: "at_compilation"
+      default: 0.7
+      description: "Minimum confidence required for auto-execution"
+
+  if_experimental_feature:
+    warnings_acknowledged:
+      type: "bool"
+      source: "user_prompt"
+      when_populated: "before_execution"
+      required: true
+
+    experimental_flag:
+      type: "String"
+      source: "feature_flag"
+      when_populated: "at_compilation"
+      example: "enable_experimental_boolean_ops"
+
+# ============================================================================
+# OVERRIDE RULES
+# ============================================================================
+
+override_rules:
+  # How user-provided values override defaults
+
+  user_provided_wins:
+    - "identifier"  # If user provides identifier, don't auto-generate
+    - "parent_id"   # If user specifies parent, don't infer from context
+    - "expected_outcome"  # If user specifies expected result, use that
+
+  system_always_wins:
+    - "run_id"       # Always system-generated, can't override
+    - "seq"          # Always system-generated, can't override
+    - "timestamp"    # Always from system clock
+    - "oasm_version" # Always from build info
+
+  config_overrideable:
+    - "provenance_log"  # User can disable provenance in config
+    - "compression"     # User can specify compression method
+    - "checkpoint_frequency"  # User can control checkpointing
+
+# ============================================================================
+# POPULATION TIMING
+# ============================================================================
+
+population_timing:
+  # When different defaults are populated in the pipeline
+
+  at_parse:
+    - "Syntax validation"
+    - "Label resolution"
+
+  at_compilation:
+    - "run_id"
+    - "actor"
+    - "oasm_version"
+    - "config_hash"
+    - "target_path resolution"
+    - "type_inference"
+    - "rule_hierarchy resolution"
+
+  at_cbor_generation:
+    - "command_block_id (if batched)"
+    - "batch_size"
+    - "batch_execution_mode"
+
+  at_execution_start:
+    - "seq (per instruction)"
+    - "timestamp (per instruction)"
+    - "context_path"
+    - "parent_lineage_id"
+
+  at_execution:
+    - "previous_value (for SET)"
+    - "condition_evaluated (for IF)"
+    - "transform_matrix"
+    - "validation results"
+
+  after_execution:
+    - "lineage_id"
+    - "execution_outcome"
+    - "impact metrics"
+    - "checksum"
+    - "file_size_bytes"
+    - "revert_command"
+
+# ============================================================================
+# EXAMPLES
+# ============================================================================
+
+examples:
+  # Example 1: Simple CREATE with auto-populated fields
+  create_instruction:
+    user_written: "CREATE gear"
+    compiled_with_defaults:
+      instruction: "CREATE"
+      object_type: "gear"
+      identifier: "gear_0001"  # AUTO-GENERATED
+      run_id: "550e8400-e29b-41d4-a716-446655440000"  # AUTO
+      seq: 5  # AUTO
+      timestamp: "2025-12-18T10:30:00.123Z"  # AUTO
+      actor: { Human: { username: "john_doe" } }  # AUTO from session
+      context_path: "C:/Projects/oasm"  # AUTO
+      oasm_version: "0.1.0"  # AUTO
+
+  # Example 2: SET with type inference
+  set_instruction:
+    user_written: "SET teeth = 20"
+    compiled_with_defaults:
+      instruction: "SET"
+      property: "teeth"
+      value: 20
+      target_path: "gear_0001.teeth"  # AUTO-RESOLVED
+      value_type: "u32"  # AUTO-INFERRED
+      previous_value: null  # AUTO (filled at execution)
+      run_id: "550e8400-e29b-41d4-a716-446655440000"
+      seq: 6
+      timestamp: "2025-12-18T10:30:00.234Z"
+
+  # Example 3: VALIDATE with baseline reference
+  validate_instruction:
+    user_written: "VALIDATE topology"
+    compiled_with_defaults:
+      instruction: "VALIDATE"
+      check_type: "topology"
+      target: "gear_0001"  # AUTO-RESOLVED from context
+      validator_version: "topology_validator_v1.2.0"  # AUTO
+      baseline_reference: "/baselines/topology_baseline_v1"  # AUTO from HDF5
+      validation_rules: ["core/topology", "domain/cad/geometry"]  # AUTO from hierarchy
+      expected_outcome: "Pass"  # AUTO default
+      run_id: "550e8400-e29b-41d4-a716-446655440000"
+      seq: 7
+
+  # Example 4: Batch with batch-specific defaults
+  batch_command_block:
+    user_written:
+      - "CREATE gear"
+      - "SET teeth = 20"
+      - "SET module = 2.5"
+      - "EXTRUDE z_axis 10"
+    compiled_as_batch:
+      command_block_id: "block_550e8400_0008"  # AUTO
+      block_type: "CADBlock"  # AUTO-INFERRED
+      batch_size: 4  # AUTO
+      batch_execution_mode: "Sequential"  # AUTO default
+      checkpoint_frequency: "BlockBoundaries"  # AUTO
+      instructions: [...]  # Each with individual defaults
+
+# ============================================================================
+# VERSION & COMPATIBILITY
+# ============================================================================
+
+version: "1.0.0"
+oasm_version_required: ">=0.1.0"

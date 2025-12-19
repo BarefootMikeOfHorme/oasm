@@ -1,0 +1,632 @@
+# OASM Instruction Metas Schema
+# Metadata about instruction properties: safety, performance, idempotency, etc.
+# Version: 1.0.0
+
+schema_version: "1.0.0"
+schema_type: "instruction_metas"
+
+# ============================================================================
+# INSTRUCTION METADATA REGISTRY
+# ============================================================================
+
+# Each instruction has metadata that defines its behavior characteristics
+
+instruction_metadata:
+  # ============================================================================
+  # DATA DEFINITION INSTRUCTIONS
+  # ============================================================================
+
+  DEFINE:
+    category: "data_definition"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "idempotent"
+    resource_usage: "lightweight"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: true
+    compilation_target: ["cbor", "yaml", "hdf5"]
+
+  DECLARE:
+    category: "data_definition"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "idempotent"
+    resource_usage: "lightweight"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: true
+
+  # ============================================================================
+  # OBJECT CREATION INSTRUCTIONS
+  # ============================================================================
+
+  CREATE:
+    category: "object_creation"
+    safety_level: "safe"
+    execution_mode: ["individual"]  # Not batch - may have dependencies
+    idempotency: "non_idempotent"  # Creates new object each time
+    resource_usage: "moderate"
+    template_eligible: false  # Should be module
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: false  # Sequential due to dependencies
+    requires_checkpoint: true
+    compilation_target: ["cbor", "yaml"]
+
+  INSTANTIATE:
+    category: "object_creation"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "non_idempotent"
+    resource_usage: "moderate"
+    template_eligible: false
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: true  # Can instantiate multiple templates in parallel
+    requires_hdf5_reference: true
+
+  # ============================================================================
+  # PROPERTY ASSIGNMENT INSTRUCTIONS
+  # ============================================================================
+
+  SET:
+    category: "property_assignment"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "idempotent"  # Setting same value is safe
+    resource_usage: "lightweight"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: true  # If different targets
+    batch_constraint: "same_target_sequential"  # Multiple SETs on same object must be sequential
+    compilation_target: ["cbor", "yaml"]
+
+  ASSIGN:
+    category: "property_assignment"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "idempotent"
+    resource_usage: "lightweight"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: true
+
+  # ============================================================================
+  # TRANSFORMATION OPERATIONS
+  # ============================================================================
+
+  MOVE:
+    category: "transformations"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "non_idempotent"  # Moving twice moves further
+    resource_usage: "moderate"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: true  # If different targets
+    batch_constraint: "same_target_sequential"
+    affects_geometry: true
+
+  ROTATE:
+    category: "transformations"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "non_idempotent"
+    resource_usage: "moderate"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: true
+    batch_constraint: "same_target_sequential"
+    affects_geometry: true
+
+  SCALE:
+    category: "transformations"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "non_idempotent"
+    resource_usage: "moderate"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: true
+    batch_constraint: "same_target_sequential"
+    affects_geometry: true
+
+  EXTRUDE:
+    category: "transformations"
+    safety_level: "safe"
+    execution_mode: ["individual"]  # Sequential due to geometry complexity
+    idempotency: "non_idempotent"
+    resource_usage: "heavy"  # Geometry computation
+    template_eligible: false  # Should be module
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: false
+    requires_checkpoint: true
+    affects_geometry: true
+    suggested_pairing: ["FILLET", "CHAMFER"]
+
+  # ============================================================================
+  # GEOMETRIC OPERATIONS
+  # ============================================================================
+
+  FILLET:
+    category: "geometric_ops"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "idempotent"  # Same fillet radius is safe
+    resource_usage: "moderate"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: true  # If different edges
+    affects_geometry: true
+    suggested_pairing: ["EXTRUDE", "CHAMFER"]
+
+  CHAMFER:
+    category: "geometric_ops"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "idempotent"
+    resource_usage: "moderate"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: true
+    affects_geometry: true
+
+  BOOLEAN:
+    category: "geometric_ops"
+    safety_level: "unsafe"  # Can destroy geometry if incorrect
+    execution_mode: ["individual"]  # Never batch - too critical
+    idempotency: "non_idempotent"
+    resource_usage: "heavy"
+    template_eligible: false
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: false
+    requires_checkpoint: true
+    requires_approval: true  # Developer must approve
+    affects_geometry: true
+    validation_required: ["before", "after"]  # Must validate before and after
+
+  # ============================================================================
+  # CONTROL FLOW INSTRUCTIONS
+  # ============================================================================
+
+  JUMP:
+    category: "control_flow"
+    safety_level: "safe"
+    execution_mode: ["individual"]
+    idempotency: "idempotent"
+    resource_usage: "lightweight"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: false  # Control flow is sequential
+
+  IF:
+    category: "control_flow"
+    safety_level: "safe"
+    execution_mode: ["individual"]
+    idempotency: "depends_on_condition"
+    resource_usage: "lightweight"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: false
+
+  LOOP:
+    category: "control_flow"
+    safety_level: "safe"
+    execution_mode: ["individual"]
+    idempotency: "non_idempotent"
+    resource_usage: "moderate"
+    template_eligible: false  # Loops should be modules
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: false
+
+  # ============================================================================
+  # VALIDATION & TESTING INSTRUCTIONS
+  # ============================================================================
+
+  VALIDATE:
+    category: "validation"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "idempotent"
+    resource_usage: "moderate"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: false  # Validation doesn't modify state
+    parallel_safe: true  # Can validate multiple objects in parallel
+    requires_baseline: "optional"
+    compilation_target: ["cbor", "yaml", "json"]
+
+  ASSERT:
+    category: "validation"
+    safety_level: "safe"
+    execution_mode: ["individual"]
+    idempotency: "idempotent"
+    resource_usage: "lightweight"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: false
+    parallel_safe: true
+    failure_behavior: "halt_execution"
+
+  TEST:
+    category: "validation"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "idempotent"
+    resource_usage: "moderate"
+    template_eligible: true
+    provenance_tracking: "full"
+    rollback_support: false
+    parallel_safe: true
+    compilation_target: ["cbor", "yaml", "json"]
+
+  # ============================================================================
+  # I/O OPERATIONS
+  # ============================================================================
+
+  IMPORT:
+    category: "io_operations"
+    safety_level: "safe"
+    execution_mode: ["individual"]
+    idempotency: "idempotent"  # Importing same module twice is safe
+    resource_usage: "moderate"
+    template_eligible: false  # Should be module
+    provenance_tracking: "full"
+    rollback_support: true
+    parallel_safe: true  # Can import multiple modules in parallel
+    requires_checkpoint: true
+    compilation_target: ["cbor", "yaml"]
+
+  EXPORT:
+    category: "io_operations"
+    safety_level: "safe"
+    execution_mode: ["individual"]  # Sequential for I/O safety
+    idempotency: "idempotent"  # Exporting same file multiple times is safe
+    resource_usage: "heavy"  # File I/O
+    template_eligible: true
+    provenance_tracking: "mandatory"  # Always log exports
+    rollback_support: true  # Can delete exported file
+    parallel_safe: false  # I/O operations sequential
+    requires_checkpoint: true
+    suggested_pairing: ["VALIDATE"]  # Always validate before export
+    compilation_target: ["cbor", "yaml", "json"]
+
+  SAVE:
+    category: "io_operations"
+    safety_level: "safe"
+    execution_mode: ["individual"]
+    idempotency: "idempotent"
+    resource_usage: "heavy"
+    template_eligible: true
+    provenance_tracking: "mandatory"
+    rollback_support: true
+    parallel_safe: false
+    requires_checkpoint: true
+
+  # ============================================================================
+  # ANALYSIS OPERATIONS
+  # ============================================================================
+
+  SCAN:
+    category: "analysis"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "idempotent"
+    resource_usage: "heavy"  # Deep codebase analysis
+    template_eligible: false  # Should be module (scanner)
+    provenance_tracking: "full"
+    rollback_support: false  # Read-only operation
+    parallel_safe: true  # Can scan multiple targets in parallel
+    compilation_target: ["cbor", "yaml", "json"]
+
+  ANALYZE:
+    category: "analysis"
+    safety_level: "safe"
+    execution_mode: ["individual", "batch"]
+    idempotency: "idempotent"
+    resource_usage: "heavy"
+    template_eligible: false
+    provenance_tracking: "full"
+    rollback_support: false
+    parallel_safe: true
+
+  PROFILE:
+    category: "analysis"
+    safety_level: "safe"
+    execution_mode: ["individual"]
+    idempotency: "non_idempotent"  # Profiling different each run
+    resource_usage: "heavy"
+    template_eligible: false
+    provenance_tracking: "full"
+    rollback_support: false
+    parallel_safe: false  # Profiling needs exclusive access
+
+# ============================================================================
+# METADATA PROPERTY DEFINITIONS
+# ============================================================================
+
+metadata_properties:
+  safety_level:
+    safe:
+      description: "No unsafe operations, can run in automation"
+      requires_approval: false
+      can_rollback: true
+      audit_level: "standard"
+
+    unsafe:
+      description: "Potentially destructive, requires developer approval"
+      requires_approval: true
+      can_rollback: true
+      audit_level: "mandatory"
+      warnings: ["Operation may destroy data", "Manual review required"]
+
+    experimental:
+      description: "Experimental feature, use with caution"
+      requires_approval: true
+      can_rollback: "best_effort"
+      audit_level: "mandatory"
+      warnings: ["Feature may change", "Not production-ready", "Backup recommended"]
+
+  execution_mode:
+    individual:
+      description: "Execute instruction standalone"
+      provenance: "full"
+      checkpointing: true
+      performance: "standard"
+
+    batch:
+      description: "Execute as part of command block"
+      provenance: "block_level"
+      checkpointing: "block_boundaries"
+      performance: "optimized"
+
+  idempotency:
+    idempotent:
+      description: "Can be executed multiple times safely"
+      safe_retry: true
+      requires_checkpoint: false
+
+    non_idempotent:
+      description: "Re-execution may cause different outcomes"
+      safe_retry: false
+      requires_checkpoint: true
+
+    depends_on_condition:
+      description: "Idempotency depends on runtime conditions"
+      safe_retry: "conditional"
+      requires_checkpoint: true
+
+  resource_usage:
+    lightweight:
+      description: "< 100ms execution, < 10MB memory"
+      execution_time_ms: "< 100"
+      memory_mb: "< 10"
+      template_eligible: true
+      async_recommended: false
+
+    moderate:
+      description: "< 1s execution, < 100MB memory"
+      execution_time_ms: "< 1000"
+      memory_mb: "< 100"
+      template_eligible: false
+      async_recommended: false
+
+    heavy:
+      description: "> 1s execution or > 100MB memory"
+      execution_time_ms: "> 1000"
+      memory_mb: "> 100"
+      template_eligible: false
+      async_recommended: true
+
+# ============================================================================
+# BATCH COMPATIBILITY MATRIX
+# ============================================================================
+
+batch_compatibility:
+  # Which instructions can be batched together
+
+  highly_compatible:
+    - category: "property_assignment"
+      instructions: ["SET", "ASSIGN"]
+      max_batch_size: 50
+      constraint: "can_batch_if_same_target"
+
+    - category: "transformations"
+      instructions: ["MOVE", "ROTATE", "SCALE"]
+      max_batch_size: 20
+      constraint: "can_batch_if_same_target_and_sequential"
+
+    - category: "validation"
+      instructions: ["VALIDATE", "TEST"]
+      max_batch_size: 10
+      constraint: "can_batch_if_different_targets"
+      parallel: true
+
+  moderately_compatible:
+    - category: "geometric_ops"
+      instructions: ["FILLET", "CHAMFER"]
+      max_batch_size: 10
+      constraint: "can_batch_if_different_edges"
+
+  not_compatible:
+    - category: "object_creation"
+      instructions: ["CREATE"]
+      reason: "May have dependencies on previous results"
+
+    - category: "geometric_ops"
+      instructions: ["BOOLEAN"]
+      reason: "Too critical, needs individual validation"
+
+    - category: "io_operations"
+      instructions: ["EXPORT", "SAVE"]
+      reason: "I/O operations should checkpoint individually"
+      exception: "Multiple EXPORT to different files allowed"
+
+# ============================================================================
+# PERFORMANCE HINTS
+# ============================================================================
+
+performance_hints:
+  # Optimization suggestions for instructions
+
+  parallel_execution_candidates:
+    - "Multiple VALIDATE on different objects"
+    - "Multiple SCAN on different targets"
+    - "Multiple SET on different objects"
+    - "Multiple IMPORT of independent modules"
+    - "Multiple FILLET on different edges"
+
+  sequential_required:
+    - "CREATE → SET → EXTRUDE (dependencies)"
+    - "BOOLEAN → VALIDATE (safety check)"
+    - "VALIDATE → EXPORT (pre-check)"
+    - "Multiple SET on same object (order matters)"
+
+  async_recommended:
+    - "SCAN (heavy analysis)"
+    - "ANALYZE (long-running)"
+    - "EXPORT (heavy I/O)"
+    - "PROFILE (needs exclusive access)"
+
+  caching_opportunities:
+    - "VALIDATE results can be cached if object unchanged"
+    - "SCAN results can be cached per commit"
+    - "Type inference results can be cached"
+    - "Baseline references can be cached from HDF5"
+
+# ============================================================================
+# SAFETY CONSTRAINTS
+# ============================================================================
+
+safety_constraints:
+  # Safety rules that must be enforced
+
+  requires_validation_before:
+    - instruction: "BOOLEAN"
+      validation_type: "topology"
+      reason: "Ensure valid geometry before boolean op"
+
+    - instruction: "EXPORT"
+      validation_type: "any"
+      reason: "Verify data correctness before export"
+
+  requires_validation_after:
+    - instruction: "BOOLEAN"
+      validation_type: "topology"
+      reason: "Verify result is valid geometry"
+
+  requires_checkpoint:
+    - instruction: "CREATE"
+      reason: "Object creation should be checkpointed"
+
+    - instruction: "EXTRUDE"
+      reason: "Heavy geometry operation"
+
+    - instruction: "BOOLEAN"
+      reason: "Potentially destructive"
+
+    - instruction: "IMPORT"
+      reason: "Module loading affects state"
+
+    - instruction: "EXPORT"
+      reason: "File I/O operation"
+
+  requires_approval:
+    - instruction: "BOOLEAN"
+      approval_type: "developer"
+      reason: "Can destroy geometry"
+
+    - experimental_instructions: true
+      approval_type: "developer"
+      reason: "Experimental features need explicit consent"
+
+# ============================================================================
+# PROVENANCE REQUIREMENTS
+# ============================================================================
+
+provenance_requirements:
+  # Provenance tracking levels for different instructions
+
+  mandatory_full_provenance:
+    - "EXPORT"  # Always log what was exported
+    - "SAVE"    # Always log what was saved
+    - "IMPORT"  # Always log what was imported
+    - "BOOLEAN" # Always log geometry modifications
+
+  standard_provenance:
+    - "Most instructions"  # Default level
+
+  minimal_provenance:
+    - "Lightweight operations in large batches"
+
+  no_provenance:
+    - "None - all operations logged at some level"
+
+# ============================================================================
+# ERROR RECOVERY STRATEGIES
+# ============================================================================
+
+error_recovery:
+  # How to recover from instruction failures
+
+  CREATE:
+    on_failure: "rollback_and_cleanup"
+    cleanup_action: "delete_partially_created_object"
+
+  SET:
+    on_failure: "restore_previous_value"
+    cleanup_action: "revert_property_to_previous_state"
+
+  BOOLEAN:
+    on_failure: "restore_from_checkpoint"
+    cleanup_action: "restore_objects_to_pre_boolean_state"
+
+  EXPORT:
+    on_failure: "delete_partial_file"
+    cleanup_action: "remove_incomplete_export"
+
+  VALIDATE:
+    on_failure: "log_validation_errors"
+    cleanup_action: "none_read_only"
+
+# ============================================================================
+# COMPILATION TARGET COMPATIBILITY
+# ============================================================================
+
+compilation_targets:
+  # Which formats each instruction compiles to
+
+  all_targets:
+    - "DEFINE", "DECLARE"  # Data definitions go everywhere
+
+  cbor_yaml_only:
+    - "CREATE", "SET", "MOVE", "ROTATE", "SCALE"  # Runtime operations
+
+  hdf5_eligible:
+    - "DEFINE"  # Can be stored as HDF5 template
+    - "VALIDATE" # Baselines in HDF5
+
+  json_lineage_always:
+    - "All instructions"  # All have lineage logs
+
+# ============================================================================
+# VERSION & COMPATIBILITY
+# ============================================================================
+
+version: "1.0.0"
+oasm_version_required: ">=0.1.0"

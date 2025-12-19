@@ -22,6 +22,15 @@ serialization:
     exports: ["step", "iges", "stl", "dxf", "svg"]
     metadata: "yaml"       # Export provenance
 
+  # asm-formats pipeline (HDF5 → CBOR → YAML → JSON)
+  asm_formats:
+    immutable: "hdf5"      # Immutable artifact store (templates, baselines)
+    runtime: "cbor"        # Runtime execution objects (binary, deterministic)
+    overlay: "yaml"        # Human-readable overlays (comments, annotations)
+    lineage: "json"        # Audit trail and revert capability
+    copy_on_work: true     # Generate working copies from immutable artifacts
+    provenance: true       # Track all transformations and decisions
+
 # ============================================================================
 # MODULE REGISTRY
 # ============================================================================
@@ -97,6 +106,18 @@ modules:
     auto_start: false
     dependencies: []
 
+  # asm-formats - Multi-format Schema System
+  - id: "asm_formats"
+    name: "ASM Formats"
+    type: "library"
+    location: "crates/asm-formats"
+    entry: "crates/asm-formats/src/lib.rs"
+    capabilities: ["format_conversion", "copy_on_work", "provenance_tracking", "command_block_batching", "hdf5_support"]
+    auto_start: false
+    dependencies: []
+    features:
+      hdf5_support: false  # Optional, requires HDF5 C library
+
 # ============================================================================
 # CONFIGURATION FILES
 # ============================================================================
@@ -171,6 +192,42 @@ schemas:
     location: "templates/workflows/cad_automation_preset.yaml"
     validates: "workflow_definitions"
 
+  # asm-formats schemas
+  - id: "hdf5_template"
+    format: "yaml"
+    location: "templates/schemas/hdf5_template_schema.yaml"
+    validates: "immutable_artifacts"
+
+  - id: "cbor_runtime"
+    format: "yaml"
+    location: "templates/schemas/cbor_runtime_schema.yaml"
+    validates: "runtime_execution_objects"
+
+  - id: "yaml_overlay"
+    format: "yaml"
+    location: "templates/schemas/yaml_overlay_schema.yaml"
+    validates: "human_readable_overlays"
+
+  - id: "json_lineage"
+    format: "yaml"
+    location: "templates/schemas/json_lineage_schema.yaml"
+    validates: "audit_trail_revert"
+
+  - id: "working_copy"
+    format: "yaml"
+    location: "templates/schemas/working_copy_schema.yaml"
+    validates: "copy_on_work_pattern"
+
+  - id: "command_block"
+    format: "yaml"
+    location: "templates/schemas/command_block_schema.yaml"
+    validates: "batched_execution_units"
+
+  - id: "provenance_log"
+    format: "yaml"
+    location: "templates/schemas/provenance_log_schema.yaml"
+    validates: "enhanced_provenance_tracking"
+
 # ============================================================================
 # TEMPLATE LIBRARY
 # ============================================================================
@@ -179,6 +236,16 @@ templates:
     location: "templates/schemas"
     index:
       - "smartobject_container.yaml"
+      - "hdf5_template_schema.yaml"
+      - "cbor_runtime_schema.yaml"
+      - "yaml_overlay_schema.yaml"
+      - "json_lineage_schema.yaml"
+      - "working_copy_schema.yaml"
+      - "command_block_schema.yaml"
+      - "provenance_log_schema.yaml"
+      - "oasm_instruction_set.yaml"
+      - "active_defaults.yaml"
+      - "instruction_metas.yaml"
 
   scripts:
     location: "templates/scripts"
@@ -200,6 +267,41 @@ templates:
     index:
       - "codebase_deep_scan.yaml"
 
+  # NEW: Command blocks (batched execution units, <100 LOC)
+  command_blocks:
+    location: "templates/command_blocks"
+    categories:
+      repair: "templates/command_blocks/repair"
+      lint: "templates/command_blocks/lint"
+      test: "templates/command_blocks/test"
+      cad: "templates/command_blocks/cad"
+    index:
+      - "repair/fix_unsafe_blocks.yaml"
+      - "repair/add_error_handling.yaml"
+      - "repair/fix_imports.yaml"
+      - "lint/check_formatting.yaml"
+      - "lint/unused_variables.yaml"
+      - "test/unit_test_runner.yaml"
+      - "cad/topology_validation.yaml"
+
+  # NEW: Rule hierarchy (Core → Domain → Project → Session)
+  rules:
+    location: "templates/rules"
+    hierarchy:
+      core: "templates/rules/core"           # Universal, immutable
+      domain: "templates/rules/domain"       # Domain-specific (Rust, Python, PS, CAD)
+      project: "templates/rules/project"     # Project overrides
+      session: "templates/rules/session"     # Ephemeral, runtime
+    index:
+      - "core/syntax_validation.yaml"
+      - "core/type_checking.yaml"
+      - "core/memory_safety.yaml"
+      - "domain/rust/unsafe_block_rules.yaml"
+      - "domain/rust/lifetime_rules.yaml"
+      - "domain/python/type_hint_rules.yaml"
+      - "domain/powershell/cmdlet_rules.yaml"
+      - "domain/cad/geometry_rules.yaml"
+
 # ============================================================================
 # OUTPUT LOCATIONS
 # ============================================================================
@@ -208,9 +310,17 @@ outputs:
     structure_debug: "logs/StructureDebug"
     daemon_logs: "logs/daemon"
     lineage: "logs/lineage"
+    provenance: "logs/provenance"       # NEW: Provenance logs (YAML/CBOR)
+    execution: "logs/execution"         # NEW: Runtime execution logs
+    working_copies: "logs/working_copies"  # NEW: Working copy metadata
 
   exports:
     cad: "exports"
+
+  artifacts:
+    hdf5: "artifacts/hdf5"              # NEW: Immutable artifact store
+    working: "artifacts/working"        # NEW: Working copies (ephemeral)
+    diffs: "artifacts/diffs"            # NEW: Diff snapshots
 
   cache:
     build: "target"

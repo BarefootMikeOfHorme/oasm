@@ -1,0 +1,535 @@
+# OASM Instruction Set Schema
+# Assembler-compatible instruction set with OASM enhancements
+# Compatible with: NASM, MASM, TASM syntax patterns
+# Version: 1.0.0
+
+schema_version: "1.0.0"
+schema_type: "oasm_instruction_set"
+
+# ============================================================================
+# INSTRUCTION CATEGORIES
+# ============================================================================
+
+categories:
+  # Data Definition Instructions (NASM/MASM compatible)
+  data_definition:
+    compatible_with: ["NASM DB/DW/DD", "MASM BYTE/WORD/DWORD"]
+    instructions:
+      - mnemonic: "DEFINE"
+        aliases: ["DEF", "DB", "DW", "DD", "DQ"]
+        syntax: "DEFINE <identifier> <type> <value>"
+        oasm_syntax: "DEFINE gear_teeth u32 20"
+        nasm_equivalent: "gear_teeth dd 20"
+        masm_equivalent: "gear_teeth DWORD 20"
+
+      - mnemonic: "DECLARE"
+        aliases: ["DECL", "DT"]
+        syntax: "DECLARE <identifier> <type>"
+        oasm_syntax: "DECLARE buffer[256] u8"
+        nasm_equivalent: "buffer resb 256"
+        masm_equivalent: "buffer BYTE 256 DUP(?)"
+
+  # Object Creation (OASM-specific, CAD/3D oriented)
+  object_creation:
+    compatible_with: []  # OASM-specific
+    instructions:
+      - mnemonic: "CREATE"
+        syntax: "CREATE <object_type> [AS <identifier>]"
+        oasm_syntax: "CREATE gear AS main_gear"
+        parameters:
+          - name: "object_type"
+            type: "string"
+            required: true
+          - name: "identifier"
+            type: "string"
+            required: false
+            auto_generated: true  # Auto-generates if not provided
+
+      - mnemonic: "INSTANTIATE"
+        aliases: ["INST"]
+        syntax: "INSTANTIATE <template> [WITH <params>]"
+        oasm_syntax: "INSTANTIATE gear_template WITH teeth=20, module=2.5"
+
+  # Property Assignment (OASM-specific)
+  property_assignment:
+    compatible_with: ["MOV", "LEA"]  # Similar concept
+    instructions:
+      - mnemonic: "SET"
+        syntax: "SET <property> = <value>"
+        oasm_syntax: "SET teeth = 20"
+        nasm_similar: "mov [property], value"
+        function_pairing: ["CREATE", "INSTANTIATE"]  # Often follows these
+
+      - mnemonic: "ASSIGN"
+        aliases: ["ASN"]
+        syntax: "ASSIGN <target>.<property> <value>"
+        oasm_syntax: "ASSIGN main_gear.module 2.5"
+
+  # Transformation Operations (OASM-specific, CAD oriented)
+  transformations:
+    compatible_with: []
+    instructions:
+      - mnemonic: "MOVE"
+        syntax: "MOVE <target> <vector>"
+        oasm_syntax: "MOVE main_gear [10, 20, 0]"
+        parameters:
+          - name: "target"
+            type: "identifier"
+          - name: "vector"
+            type: "[f64; 3]"  # 3D vector
+
+      - mnemonic: "ROTATE"
+        syntax: "ROTATE <target> <axis> <angle>"
+        oasm_syntax: "ROTATE main_gear z_axis 45deg"
+
+      - mnemonic: "SCALE"
+        syntax: "SCALE <target> <factor>"
+        oasm_syntax: "SCALE main_gear 1.5"
+
+      - mnemonic: "EXTRUDE"
+        syntax: "EXTRUDE <target> <direction> <distance>"
+        oasm_syntax: "EXTRUDE face_1 z_axis 10mm"
+        function_pairing: ["CREATE", "FILLET", "CHAMFER"]  # Common sequence
+
+  # Geometric Operations (CAD-specific)
+  geometric_ops:
+    compatible_with: []
+    instructions:
+      - mnemonic: "FILLET"
+        syntax: "FILLET <edges> <radius>"
+        oasm_syntax: "FILLET edges[0..3] 2mm"
+        function_pairing: ["EXTRUDE", "CHAMFER"]
+
+      - mnemonic: "CHAMFER"
+        syntax: "CHAMFER <edges> <distance>"
+        oasm_syntax: "CHAMFER edges[4..7] 1mm"
+
+      - mnemonic: "BOOLEAN"
+        syntax: "BOOLEAN <operation> <target1> <target2>"
+        oasm_syntax: "BOOLEAN union part_a part_b"
+
+  # Control Flow (NASM/MASM compatible)
+  control_flow:
+    compatible_with: ["NASM JMP/JE/JNE", "MASM JMP/JZ/JNZ"]
+    instructions:
+      - mnemonic: "JUMP"
+        aliases: ["JMP", "GOTO"]
+        syntax: "JUMP <label>"
+        oasm_syntax: "JUMP validate_section"
+        nasm_equivalent: "jmp validate_section"
+
+      - mnemonic: "IF"
+        syntax: "IF <condition> THEN <block> [ELSE <block>] END"
+        oasm_syntax: "IF teeth > 10 THEN ... END"
+        nasm_similar: "cmp [teeth], 10 / jg label"
+
+      - mnemonic: "LOOP"
+        syntax: "LOOP <iterator> IN <range> DO <block> END"
+        oasm_syntax: "LOOP i IN 0..teeth DO ... END"
+
+  # Validation & Testing (OASM-specific)
+  validation:
+    compatible_with: []
+    instructions:
+      - mnemonic: "VALIDATE"
+        syntax: "VALIDATE <check_type> [ON <target>]"
+        oasm_syntax: "VALIDATE topology ON main_gear"
+        function_pairing: ["CREATE", "BOOLEAN", "EXPORT"]  # Common checkpoints
+
+      - mnemonic: "ASSERT"
+        syntax: "ASSERT <condition> [MESSAGE <string>]"
+        oasm_syntax: "ASSERT teeth >= 10 MESSAGE \"Minimum 10 teeth required\""
+
+      - mnemonic: "TEST"
+        syntax: "TEST <test_name> EXPECT <outcome>"
+        oasm_syntax: "TEST volume_check EXPECT > 100"
+
+  # Import/Export (OASM-specific)
+  io_operations:
+    compatible_with: ["INCLUDE", "EXTERN"]
+    instructions:
+      - mnemonic: "IMPORT"
+        syntax: "IMPORT <module> [AS <alias>]"
+        oasm_syntax: "IMPORT gear_library AS gears"
+        nasm_similar: "%include 'gear_library.inc'"
+
+      - mnemonic: "EXPORT"
+        syntax: "EXPORT <format> <path> [OPTIONS <opts>]"
+        oasm_syntax: "EXPORT step \"output/gear.step\" OPTIONS quality=high"
+        function_pairing: ["VALIDATE"]  # Always validate before export
+
+      - mnemonic: "SAVE"
+        aliases: ["WRITE"]
+        syntax: "SAVE <target> TO <path>"
+        oasm_syntax: "SAVE main_gear TO \"artifacts/gear_v1.oasm\""
+
+  # Scanning & Analysis (OASM-specific)
+  analysis:
+    compatible_with: []
+    instructions:
+      - mnemonic: "SCAN"
+        syntax: "SCAN <metric> [ON <target>]"
+        oasm_syntax: "SCAN complexity ON codebase"
+
+      - mnemonic: "ANALYZE"
+        syntax: "ANALYZE <analysis_type> [OPTIONS <opts>]"
+        oasm_syntax: "ANALYZE dependencies OPTIONS depth=3"
+
+      - mnemonic: "PROFILE"
+        syntax: "PROFILE <block>"
+        oasm_syntax: "PROFILE { ... }"
+
+# ============================================================================
+# ACTIVE DEFAULTS (Auto-populated fields)
+# ============================================================================
+
+active_defaults:
+  # Every instruction gets these automatically
+  global:
+    run_id:
+      type: "RunId"
+      source: "runtime"
+      description: "Unique execution identifier, auto-generated per run"
+
+    seq:
+      type: "Seq"
+      source: "runtime"
+      description: "Sequence number within run, auto-incremented"
+
+    timestamp:
+      type: "DateTime<Utc>"
+      source: "runtime"
+      description: "Execution timestamp, captured automatically"
+
+    actor:
+      type: "Actor"
+      source: "session"
+      description: "Who/what executed (Human, Automation, AI, System)"
+
+    context_path:
+      type: "PathBuf"
+      source: "session"
+      description: "Current working directory at execution time"
+
+  # Category-specific defaults
+  object_creation:
+    identifier:
+      type: "String"
+      source: "generator"
+      pattern: "{object_type}_{seq}"
+      description: "Auto-generated if not provided: gear_001, gear_002, etc."
+
+    parent_id:
+      type: "Option<String>"
+      source: "context"
+      description: "Parent object ID if created within a hierarchy"
+
+  property_assignment:
+    target_path:
+      type: "String"
+      source: "context"
+      description: "Full path to property being set (e.g., main_gear.teeth)"
+
+  validation:
+    validator_version:
+      type: "String"
+      source: "system"
+      description: "Version of validator used"
+
+    baseline_reference:
+      type: "Option<String>"
+      source: "hdf5"
+      description: "Reference to baseline in HDF5 for comparison"
+
+  io_operations:
+    provenance_log:
+      type: "bool"
+      source: "config"
+      default: true
+      description: "Automatically log provenance for imports/exports"
+
+    checksum:
+      type: "String"
+      source: "computed"
+      description: "Auto-computed checksum for exported files"
+
+# ============================================================================
+# INSTRUCTION METAS (Metadata about instructions)
+# ============================================================================
+
+instruction_metas:
+  # Meta properties that apply to instructions
+  execution_mode:
+    individual:
+      description: "Execute instruction standalone"
+      provenance: "full"  # Full provenance tracking
+      checkpointing: true
+
+    batch:
+      description: "Execute as part of command block batch"
+      provenance: "block_level"  # Track whole block, not individual instructions
+      checkpointing: "block_boundaries"  # Only at block start/end
+      performance: "optimized"  # Can optimize within batch
+
+  safety_level:
+    safe:
+      description: "No unsafe operations, can run in automation"
+      requires_approval: false
+      can_rollback: true
+
+    unsafe:
+      description: "Potentially destructive, requires developer approval"
+      requires_approval: true
+      can_rollback: true
+      audit_mandatory: true
+
+    experimental:
+      description: "Experimental feature, use with caution"
+      requires_approval: true
+      can_rollback: "best_effort"
+      warnings: ["Feature may change", "Not production-ready"]
+
+  idempotency:
+    idempotent:
+      description: "Can be executed multiple times safely"
+      safe_retry: true
+
+    non_idempotent:
+      description: "Re-execution may cause different outcomes"
+      safe_retry: false
+      requires_checkpoint: true
+
+  resource_usage:
+    lightweight:
+      description: "< 100ms execution, < 10MB memory"
+      template_eligible: true  # Can be template
+
+    moderate:
+      description: "< 1s execution, < 100MB memory"
+      template_eligible: false  # Should be module
+
+    heavy:
+      description: "> 1s execution or > 100MB memory"
+      template_eligible: false
+      async_recommended: true
+
+# ============================================================================
+# FUNCTION PAIRINGS (Implied or Direct)
+# ============================================================================
+
+function_pairings:
+  # Common sequences of instructions that work together
+
+  # CAD Object Creation Flow
+  cad_object_creation:
+    sequence: ["CREATE", "SET", "EXTRUDE", "FILLET", "VALIDATE", "EXPORT"]
+    description: "Standard CAD object creation and export"
+    implied_pairing: true  # System suggests next instruction
+    batch_eligible: true
+    template_name: "cad_object_creation_block"
+
+  # Geometric Modification
+  geometric_modification:
+    sequence: ["MOVE", "ROTATE", "SCALE"]
+    description: "Transform existing geometry"
+    implied_pairing: true
+    order_flexible: true  # Can be executed in any order
+    batch_eligible: true
+
+  # Boolean Operations
+  boolean_workflow:
+    sequence: ["VALIDATE", "BOOLEAN", "VALIDATE"]
+    description: "Validate before and after boolean operation"
+    implied_pairing: true
+    safety_check: true  # Must validate before and after
+    batch_eligible: false  # Execute individually for safety
+
+  # Export Pipeline
+  export_pipeline:
+    sequence: ["VALIDATE", "EXPORT", "SAVE"]
+    description: "Validation → Export → Save provenance"
+    implied_pairing: true
+    provenance_required: true
+    batch_eligible: true
+    template_name: "safe_export_block"
+
+  # Import and Instantiate
+  import_instantiate:
+    sequence: ["IMPORT", "INSTANTIATE", "SET"]
+    description: "Import library, create instance, configure"
+    implied_pairing: true
+    batch_eligible: true
+
+  # Analysis Pipeline
+  analysis_pipeline:
+    sequence: ["SCAN", "ANALYZE", "VALIDATE"]
+    description: "Scan codebase, analyze results, validate findings"
+    implied_pairing: true
+    batch_eligible: true
+    template_name: "deep_analysis_block"
+
+# ============================================================================
+# BATCH EXECUTION RULES
+# ============================================================================
+
+batch_execution:
+  # Rules for batching instructions into command blocks
+
+  eligible_for_batching:
+    - category: "property_assignment"
+      reason: "Multiple SET operations can be batched"
+      max_batch_size: 50
+
+    - category: "transformations"
+      reason: "MOVE/ROTATE/SCALE can be batched if same target"
+      max_batch_size: 20
+      constraint: "same_target_object"
+
+    - category: "validation"
+      reason: "Multiple validations can run in parallel"
+      max_batch_size: 10
+      parallel: true
+
+  not_eligible_for_batching:
+    - category: "object_creation"
+      reason: "Each CREATE may depend on previous results"
+
+    - category: "io_operations"
+      reason: "I/O operations should checkpoint individually"
+      exception: "Multiple EXPORT to different files allowed"
+
+  batch_optimization:
+    parallel_execution:
+      - "Multiple VALIDATE on different objects"
+      - "Multiple SCAN on different targets"
+      - "Multiple property SET on different objects"
+
+    sequential_required:
+      - "CREATE → SET → EXTRUDE (dependencies)"
+      - "BOOLEAN → VALIDATE (safety check)"
+      - "VALIDATE → EXPORT (pre-check)"
+
+# ============================================================================
+# ASSEMBLER COMPATIBILITY LAYER
+# ============================================================================
+
+assembler_compat:
+  # How OASM maps to traditional assemblers
+
+  nasm_mapping:
+    data_directives:
+      "DB": "DEFINE byte"
+      "DW": "DEFINE word"
+      "DD": "DEFINE dword"
+      "DQ": "DEFINE qword"
+      "RESB": "DECLARE byte"
+      "RESW": "DECLARE word"
+
+    control_flow:
+      "JMP": "JUMP"
+      "JE": "IF equal THEN JUMP"
+      "JNE": "IF not_equal THEN JUMP"
+      "LOOP": "LOOP"
+
+    functions:
+      "CALL": "INVOKE"
+      "RET": "RETURN"
+
+  masm_mapping:
+    data_directives:
+      "BYTE": "DEFINE u8"
+      "WORD": "DEFINE u16"
+      "DWORD": "DEFINE u32"
+      "QWORD": "DEFINE u64"
+
+    structures:
+      "STRUCT": "DEFINE struct"
+      "ENDS": "END struct"
+
+  translation_rules:
+    preserve_syntax:
+      - "Comments starting with ; are preserved"
+      - "Labels ending with : are preserved"
+      - "Section directives (.text, .data, .bss) mapped to OASM sections"
+
+    enhance_syntax:
+      - "OASM adds type safety to data definitions"
+      - "OASM adds provenance tracking to all operations"
+      - "OASM adds automatic validation hooks"
+
+# ============================================================================
+# COMPILATION TARGETS
+# ============================================================================
+
+compilation_targets:
+  # What OASM compiles to
+
+  cbor_runtime:
+    description: "Binary runtime execution format"
+    includes:
+      - "All instructions with active defaults populated"
+      - "Metadata for provenance tracking"
+      - "Command block structure if batched"
+    excludes:
+      - "Comments"
+      - "Annotations"
+
+  yaml_overlay:
+    description: "Human-readable mirror of CBOR"
+    includes:
+      - "All instructions"
+      - "Comments and annotations"
+      - "Active defaults (visible)"
+      - "Implied pairings (suggested)"
+    format: "human_readable"
+
+  hdf5_template:
+    description: "Immutable template for reuse"
+    includes:
+      - "Instruction sequences"
+      - "Baselines and snapshots"
+      - "Validation results"
+    storage: "long_term"
+
+  json_lineage:
+    description: "Audit trail of execution"
+    includes:
+      - "What was executed"
+      - "By whom (actor)"
+      - "Outcome"
+      - "Impact metrics"
+      - "Revert command"
+
+# ============================================================================
+# VERSION & COMPATIBILITY
+# ============================================================================
+
+version: "1.0.0"
+oasm_version_required: ">=0.1.0"
+nasm_syntax_version: "2.15"
+masm_syntax_version: "14.0"
+
+backward_compatibility:
+  nasm_scripts: "Can parse NASM .asm files with adapter"
+  masm_scripts: "Can parse MASM .asm files with adapter"
+  existing_oasm: "Fully compatible with OASM 0.1.x"
+
+# ============================================================================
+# EXTENSION POINTS
+# ============================================================================
+
+extensions:
+  custom_instructions:
+    enabled: true
+    location: "templates/instructions/custom/"
+    schema_required: true
+
+  plugin_instructions:
+    enabled: true
+    location: "plugins/instructions/"
+    safety_review_required: true
+
+  domain_specific:
+    cad: "templates/instructions/cad/"
+    engine: "templates/instructions/engine/"
+    document: "templates/instructions/document/"

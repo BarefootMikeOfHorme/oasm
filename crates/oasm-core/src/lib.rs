@@ -11,6 +11,13 @@ pub mod blocks;
 pub mod rules;
 pub mod instructions;
 
+// Native modular components
+pub mod types;          // Native type system
+pub mod context;        // Execution context manager
+pub mod parser;         // Native OASM parser
+pub mod executor;       // Native instruction executor
+pub mod command_blocks; // Command block builder (batching + testing/repair loops)
+
 use std::collections::HashMap;
 use std::path::PathBuf;
 
@@ -162,7 +169,7 @@ impl RuleEngine {
     }
 
     pub fn validate(&self, program_type: &str, _data: &HashMap<String, String>) -> Vec<String> {
-        let mut errors = Vec::new();
+        let errors = Vec::new();
         for _rule in self.get_rules_for_program(program_type) {
             // Rule validation logic would go here
         }
