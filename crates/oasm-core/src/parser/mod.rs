@@ -138,7 +138,10 @@ impl NativeParser {
 
     fn parse_value(&self, token: &str, line_number: usize) -> Result<Operand, ParseError> {
         // String literal
-        if token.starts_with('"') && token.ends_with('"') {
+        if token.starts_with('"') {
+            if !token.ends_with('"') || token.len() < 2 {
+                return Err(ParseError::UnterminatedString { line: line_number });
+            }
             let s = token[1..token.len() - 1].to_string();
             return Ok(Operand::Literal(Value::String(s)));
         }

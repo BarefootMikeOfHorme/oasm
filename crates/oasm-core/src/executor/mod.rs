@@ -3,7 +3,7 @@
 
 use crate::context::{ContextManager, ExecutionContext, ContextError};
 use crate::parser::{Instruction, Operand};
-use crate::types::{Value, NativeTypeChecker};
+use crate::types::{Value, NativeTypeChecker, TypeChecker};
 
 /// Execution result
 #[derive(Debug, Clone)]
@@ -41,6 +41,7 @@ pub struct BatchResult {
 pub enum ExecutorError {
     ContextError(String),
     InvalidInstruction { instruction: String, reason: String },
+    TypeError { variable: String, error: String },
     RuntimeError(String),
 }
 
@@ -102,6 +103,18 @@ impl NativeExecutor {
         match &operands[0] {
             Operand::Assignment { target, value } => {
                 let val = self.extract_value(value)?;
+
+                // Type check if variable already exists
+                if let Ok(var) = ctx.get_variable(target) {
+                    let inferred_type = self.type_checker.infer_type(&val);
+                    if let Err(type_err) = self.type_checker.check_assignment(&var.var_type, &inferred_type) {
+                        return Err(ExecutorError::TypeError {
+                            variable: target.clone(),
+                            error: format!("{}", type_err),
+                        });
+                    }
+                }
+
                 ctx.assign_variable(target, val)?;
                 ctx.next_seq();
 

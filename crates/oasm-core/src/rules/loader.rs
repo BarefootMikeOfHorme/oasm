@@ -45,7 +45,11 @@ impl RuleLoader {
     /// Load rules from YAML file
     pub fn load_from_yaml(&self, path: &PathBuf) -> Result<Vec<HierarchicalRule>, LoaderError> {
         // TODO: Implement actual YAML loading when serde_yaml is available
-        // For now, return empty vec
+        // Check if file exists
+        if !path.exists() {
+            return Err(LoaderError::FileNotFound(path.clone()));
+        }
+        // For now, return empty vec until YAML parser is integrated
         Ok(Vec::new())
     }
 

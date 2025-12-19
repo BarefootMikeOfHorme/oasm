@@ -162,21 +162,31 @@ impl HierarchicalRuleEngine {
         for hrule in rules {
             for condition in &hrule.rule.conditions {
                 // TODO: Implement actual condition checking
-                // For now, placeholder logic
+                // For now, placeholder logic based on severity
+                let message = ValidationMessage {
+                    rule_id: hrule.rule.id.clone(),
+                    level: hrule.level,
+                    severity: condition.severity.clone(),
+                    message: condition.message.clone(),
+                    check_type: condition.check_type.clone(),
+                };
+
                 match condition.severity {
                     Severity::Error => {
                         if data.is_empty() {
-                            errors.push(ValidationMessage {
-                                rule_id: hrule.rule.id.clone(),
-                                level: hrule.level,
-                                severity: Severity::Error,
-                                message: condition.message.clone(),
-                                check_type: condition.check_type.clone(),
-                            });
+                            errors.push(message);
                         }
                     }
-                    Severity::Warning => {}
-                    Severity::Info => {}
+                    Severity::Warning => {
+                        if data.is_empty() {
+                            warnings.push(message);
+                        }
+                    }
+                    Severity::Info => {
+                        if data.is_empty() {
+                            info.push(message);
+                        }
+                    }
                 }
             }
         }

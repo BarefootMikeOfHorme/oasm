@@ -2,8 +2,7 @@
 /// Batches instructions together for atomic execution with testing/repair loops
 
 use crate::parser::Instruction;
-use crate::context::{RunId, Seq, Actor};
-use crate::executor::ExecutionOutcome;
+use crate::context::{RunId, Seq};
 use chrono::{DateTime, Utc};
 use serde::{Deserialize, Serialize};
 

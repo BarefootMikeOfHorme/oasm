@@ -2,7 +2,6 @@
 
 use super::{IssueSeverity, ValidationContext, ValidationIssue, ValidationReport};
 use crate::types::Value;
-use std::collections::HashSet;
 
 pub struct TopologyValidator {
     strict_mode: bool,
