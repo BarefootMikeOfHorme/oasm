@@ -1,0 +1,98 @@
+files:
+- id: 2071
+  canonicalPath: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\dep-lib-thiserror_impl
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\dep-lib-thiserror_impl
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\dep-lib-thiserror_impl
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3406993-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\dep-lib-thiserror_impl
+  mtime: 2025-12-17T23:56:48.0921655-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3407180-06:00
+- id: 2072
+  canonicalPath: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3472086-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\invoked.timestamp
+  mtime: 2025-12-17T23:56:48.0921655-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3472271-06:00
+- id: 2073
+  canonicalPath: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\lib-thiserror_impl
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\lib-thiserror_impl
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\lib-thiserror_impl
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3538766-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\lib-thiserror_impl
+  mtime: 2025-12-17T23:56:48.8723351-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3538937-06:00
+- id: 2074
+  canonicalPath: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\lib-thiserror_impl.json
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\lib-thiserror_impl.json
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\lib-thiserror_impl.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3599652-06:00
+  size: 540
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43\lib-thiserror_impl.json
+  mtime: 2025-12-17T23:56:48.8723351-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3599822-06:00
+generatedAt: 2025-12-18T01:53:38.5659545-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_thiserror-impl-ff7366d2a3f4bb43
+folderPath: target\release\.fingerprint\thiserror-impl-ff7366d2a3f4bb43
+

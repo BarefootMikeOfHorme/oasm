@@ -1,0 +1,98 @@
+files:
+- id: 384
+  canonicalPath: target\debug\.fingerprint\bytes-53249868ba49730e\dep-lib-bytes
+  total: 4270
+  originalName: target\debug\.fingerprint\bytes-53249868ba49730e\dep-lib-bytes
+  nameHistory:
+  - new: target\debug\.fingerprint\bytes-53249868ba49730e\dep-lib-bytes
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.7995046-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\bytes-53249868ba49730e\dep-lib-bytes
+  mtime: 2025-12-17T23:59:31.6716479-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.7995198-06:00
+- id: 385
+  canonicalPath: target\debug\.fingerprint\bytes-53249868ba49730e\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\bytes-53249868ba49730e\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\bytes-53249868ba49730e\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.8055042-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\bytes-53249868ba49730e\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.6716479-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.8055197-06:00
+- id: 386
+  canonicalPath: target\debug\.fingerprint\bytes-53249868ba49730e\lib-bytes
+  total: 4270
+  originalName: target\debug\.fingerprint\bytes-53249868ba49730e\lib-bytes
+  nameHistory:
+  - new: target\debug\.fingerprint\bytes-53249868ba49730e\lib-bytes
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.8112627-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\bytes-53249868ba49730e\lib-bytes
+  mtime: 2025-12-17T23:59:32.2517775-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.8112779-06:00
+- id: 387
+  canonicalPath: target\debug\.fingerprint\bytes-53249868ba49730e\lib-bytes.json
+  total: 4270
+  originalName: target\debug\.fingerprint\bytes-53249868ba49730e\lib-bytes.json
+  nameHistory:
+  - new: target\debug\.fingerprint\bytes-53249868ba49730e\lib-bytes.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.8167976-06:00
+  size: 419
+  aliases: []
+  displayName: target\debug\.fingerprint\bytes-53249868ba49730e\lib-bytes.json
+  mtime: 2025-12-17T23:59:32.2517775-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.8168127-06:00
+generatedAt: 2025-12-18T01:53:36.4617943-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_bytes-53249868ba49730e
+folderPath: target\debug\.fingerprint\bytes-53249868ba49730e
+

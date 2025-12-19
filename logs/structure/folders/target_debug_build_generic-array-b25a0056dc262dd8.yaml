@@ -1,0 +1,121 @@
+files:
+- id: 882
+  canonicalPath: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build-b25a0056dc262dd8.d
+  total: 4270
+  originalName: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build-b25a0056dc262dd8.d
+  nameHistory:
+  - new: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build-b25a0056dc262dd8.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6546914-06:00
+  size: 591
+  aliases: []
+  displayName: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build-b25a0056dc262dd8.d
+  mtime: 2025-12-17T23:59:32.0871477-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6547057-06:00
+- id: 883
+  canonicalPath: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build-b25a0056dc262dd8.exe
+  total: 4270
+  originalName: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build-b25a0056dc262dd8.exe
+  nameHistory:
+  - new: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build-b25a0056dc262dd8.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6606322-06:00
+  size: 313344
+  aliases: []
+  displayName: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build-b25a0056dc262dd8.exe
+  mtime: 2025-12-17T23:59:32.1624631-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6606489-06:00
+- id: 884
+  canonicalPath: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build-b25a0056dc262dd8.pdb
+  total: 4270
+  originalName: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build-b25a0056dc262dd8.pdb
+  nameHistory:
+  - new: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build-b25a0056dc262dd8.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6666829-06:00
+  size: 1617920
+  aliases: []
+  displayName: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build-b25a0056dc262dd8.pdb
+  mtime: 2025-12-17T23:59:32.1640026-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6666959-06:00
+- id: 885
+  canonicalPath: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6724800-06:00
+  size: 1617920
+  aliases: []
+  displayName: target\debug\build\generic-array-b25a0056dc262dd8\build_script_build.pdb
+  mtime: 2025-12-17T23:59:32.1640026-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6724955-06:00
+- id: 886
+  canonicalPath: target\debug\build\generic-array-b25a0056dc262dd8\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\generic-array-b25a0056dc262dd8\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\generic-array-b25a0056dc262dd8\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6781985-06:00
+  size: 313344
+  aliases: []
+  displayName: target\debug\build\generic-array-b25a0056dc262dd8\build-script-build.exe
+  mtime: 2025-12-17T23:59:32.1624631-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6782122-06:00
+generatedAt: 2025-12-18T01:53:41.6343537-06:00
+fileCount: 5
+folderId: target_debug_build_generic-array-b25a0056dc262dd8
+folderPath: target\debug\build\generic-array-b25a0056dc262dd8
+

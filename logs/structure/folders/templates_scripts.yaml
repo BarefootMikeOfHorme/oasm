@@ -1,0 +1,29 @@
+files:
+- id: 2698
+  canonicalPath: templates\scripts\script_template_generator.yaml
+  total: 4270
+  originalName: templates\scripts\script_template_generator.yaml
+  nameHistory:
+  - new: templates\scripts\script_template_generator.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7967603-06:00
+  size: 2721
+  aliases: []
+  displayName: templates\scripts\script_template_generator.yaml
+  mtime: 2025-12-17T19:21:36.5322616-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7967747-06:00
+generatedAt: 2025-12-18T01:53:37.9660184-06:00
+fileCount: 1
+folderId: templates_scripts
+folderPath: templates\scripts
+

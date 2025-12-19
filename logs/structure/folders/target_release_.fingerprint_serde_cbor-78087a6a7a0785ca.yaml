@@ -1,0 +1,98 @@
+files:
+- id: 1991
+  canonicalPath: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\dep-lib-serde_cbor
+  total: 4270
+  originalName: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\dep-lib-serde_cbor
+  nameHistory:
+  - new: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\dep-lib-serde_cbor
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.8827103-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\dep-lib-serde_cbor
+  mtime: 2025-12-17T23:56:50.3007787-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.8827244-06:00
+- id: 1992
+  canonicalPath: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.8881956-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\invoked.timestamp
+  mtime: 2025-12-17T23:56:50.3007787-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.8882090-06:00
+- id: 1993
+  canonicalPath: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\lib-serde_cbor
+  total: 4270
+  originalName: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\lib-serde_cbor
+  nameHistory:
+  - new: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\lib-serde_cbor
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.8934645-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\lib-serde_cbor
+  mtime: 2025-12-17T23:56:50.8718678-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.8934783-06:00
+- id: 1994
+  canonicalPath: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\lib-serde_cbor.json
+  total: 4270
+  originalName: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\lib-serde_cbor.json
+  nameHistory:
+  - new: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\lib-serde_cbor.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.8985608-06:00
+  size: 558
+  aliases: []
+  displayName: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca\lib-serde_cbor.json
+  mtime: 2025-12-17T23:56:50.8718678-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.8985815-06:00
+generatedAt: 2025-12-18T01:53:38.9377783-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_serde_cbor-78087a6a7a0785ca
+folderPath: target\release\.fingerprint\serde_cbor-78087a6a7a0785ca
+

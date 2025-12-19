@@ -1,0 +1,98 @@
+files:
+- id: 1751
+  canonicalPath: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\dep-lib-crossbeam_channel
+  total: 4270
+  originalName: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\dep-lib-crossbeam_channel
+  nameHistory:
+  - new: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\dep-lib-crossbeam_channel
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5703541-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\dep-lib-crossbeam_channel
+  mtime: 2025-12-17T23:56:45.1462228-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5703671-06:00
+- id: 1752
+  canonicalPath: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5755948-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\invoked.timestamp
+  mtime: 2025-12-17T23:56:45.1462228-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5756088-06:00
+- id: 1753
+  canonicalPath: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\lib-crossbeam_channel
+  total: 4270
+  originalName: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\lib-crossbeam_channel
+  nameHistory:
+  - new: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\lib-crossbeam_channel
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5813298-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\lib-crossbeam_channel
+  mtime: 2025-12-17T23:56:45.8694632-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5813458-06:00
+- id: 1754
+  canonicalPath: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\lib-crossbeam_channel.json
+  total: 4270
+  originalName: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\lib-crossbeam_channel.json
+  nameHistory:
+  - new: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\lib-crossbeam_channel.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5868921-06:00
+  size: 480
+  aliases: []
+  displayName: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4\lib-crossbeam_channel.json
+  mtime: 2025-12-17T23:56:45.8694632-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5869070-06:00
+generatedAt: 2025-12-18T01:53:40.3610632-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_crossbeam-channel-82896092723dfbe4
+folderPath: target\release\.fingerprint\crossbeam-channel-82896092723dfbe4
+

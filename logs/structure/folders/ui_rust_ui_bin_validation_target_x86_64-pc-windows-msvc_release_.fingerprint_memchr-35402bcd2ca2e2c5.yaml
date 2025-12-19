@@ -1,0 +1,98 @@
+files:
+- id: 3560
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\dep-lib-memchr
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\dep-lib-memchr
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\dep-lib-memchr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.5983634-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\dep-lib-memchr
+  mtime: 2025-12-16T21:19:33.1545295-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.5983779-06:00
+- id: 3561
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.6035625-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\invoked.timestamp
+  mtime: 2025-12-16T21:19:33.1545295-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.6035778-06:00
+- id: 3562
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\lib-memchr
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\lib-memchr
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\lib-memchr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.6088398-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\lib-memchr
+  mtime: 2025-12-16T21:19:33.7446937-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.6088542-06:00
+- id: 3563
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\lib-memchr.json
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\lib-memchr.json
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\lib-memchr.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.6143367-06:00
+  size: 510
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5\lib-memchr.json
+  mtime: 2025-12-16T21:19:33.7446937-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.6143502-06:00
+generatedAt: 2025-12-18T01:53:41.7993607-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_validation_target_x86_64-pc-windows-msvc_release_.fingerprint_memchr-35402bcd2ca2e2c5
+folderPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\memchr-35402bcd2ca2e2c5
+

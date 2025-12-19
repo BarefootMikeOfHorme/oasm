@@ -1,0 +1,1616 @@
+files:
+- id: 1499
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\011iosfr2kvhe46rbqbcabnmn.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\011iosfr2kvhe46rbqbcabnmn.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\011iosfr2kvhe46rbqbcabnmn.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1855565-06:00
+  size: 20494
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\011iosfr2kvhe46rbqbcabnmn.o
+  mtime: 2025-12-17T23:59:32.5297306-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1855699-06:00
+- id: 1500
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\179gjazfbcs5qvro6qqzseldv.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\179gjazfbcs5qvro6qqzseldv.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\179gjazfbcs5qvro6qqzseldv.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1908603-06:00
+  size: 8687
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\179gjazfbcs5qvro6qqzseldv.o
+  mtime: 2025-12-17T23:59:32.5112543-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1908755-06:00
+- id: 1501
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\1mqsfa4jt9mhvyidfgsme0tje.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\1mqsfa4jt9mhvyidfgsme0tje.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\1mqsfa4jt9mhvyidfgsme0tje.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1962212-06:00
+  size: 48706
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\1mqsfa4jt9mhvyidfgsme0tje.o
+  mtime: 2025-12-17T23:59:32.5066000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1962364-06:00
+- id: 1502
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\24du12uglda9wtpk8d60zggg7.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\24du12uglda9wtpk8d60zggg7.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\24du12uglda9wtpk8d60zggg7.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2016361-06:00
+  size: 125733
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\24du12uglda9wtpk8d60zggg7.o
+  mtime: 2025-12-17T23:59:32.5143513-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2016497-06:00
+- id: 1503
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\2bhnshzlmm9pnle8pt3wnhdym.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\2bhnshzlmm9pnle8pt3wnhdym.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\2bhnshzlmm9pnle8pt3wnhdym.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2068141-06:00
+  size: 25595
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\2bhnshzlmm9pnle8pt3wnhdym.o
+  mtime: 2025-12-17T23:59:32.5220258-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2068279-06:00
+- id: 1504
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\2cy8ut6hf9h9w6sdr9o7w0zf7.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\2cy8ut6hf9h9w6sdr9o7w0zf7.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\2cy8ut6hf9h9w6sdr9o7w0zf7.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2125826-06:00
+  size: 10782
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\2cy8ut6hf9h9w6sdr9o7w0zf7.o
+  mtime: 2025-12-17T23:59:32.5143513-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2126056-06:00
+- id: 1505
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\2feblpd6fvpo8e3ewpwkjxdeq.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\2feblpd6fvpo8e3ewpwkjxdeq.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\2feblpd6fvpo8e3ewpwkjxdeq.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2179892-06:00
+  size: 8231
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\2feblpd6fvpo8e3ewpwkjxdeq.o
+  mtime: 2025-12-17T23:59:32.5317824-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2180069-06:00
+- id: 1506
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\306cft6kyk009dosgjmuzfobt.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\306cft6kyk009dosgjmuzfobt.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\306cft6kyk009dosgjmuzfobt.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2234319-06:00
+  size: 6798
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\306cft6kyk009dosgjmuzfobt.o
+  mtime: 2025-12-17T23:59:32.5251012-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2234498-06:00
+- id: 1507
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\34m2hua4z7spscp8eunbgjpse.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\34m2hua4z7spscp8eunbgjpse.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\34m2hua4z7spscp8eunbgjpse.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2288085-06:00
+  size: 24495
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\34m2hua4z7spscp8eunbgjpse.o
+  mtime: 2025-12-17T23:59:32.5174177-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2288233-06:00
+- id: 1508
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\38cgetak9uaa9obvsjalmizrg.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\38cgetak9uaa9obvsjalmizrg.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\38cgetak9uaa9obvsjalmizrg.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2341512-06:00
+  size: 95696
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\38cgetak9uaa9obvsjalmizrg.o
+  mtime: 2025-12-17T23:59:32.4742655-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2341680-06:00
+- id: 1509
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3gi8ngpvimjqxnh7opxuytdn8.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3gi8ngpvimjqxnh7opxuytdn8.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3gi8ngpvimjqxnh7opxuytdn8.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2393210-06:00
+  size: 6045
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3gi8ngpvimjqxnh7opxuytdn8.o
+  mtime: 2025-12-17T23:59:32.5220258-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2393362-06:00
+- id: 1510
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3mgvh8u0jmzqdmpjzhuesx8ks.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3mgvh8u0jmzqdmpjzhuesx8ks.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3mgvh8u0jmzqdmpjzhuesx8ks.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2446975-06:00
+  size: 26433
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3mgvh8u0jmzqdmpjzhuesx8ks.o
+  mtime: 2025-12-17T23:59:32.5404910-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2447112-06:00
+- id: 1511
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3tho72qxusltvj6n54quruaen.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3tho72qxusltvj6n54quruaen.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3tho72qxusltvj6n54quruaen.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2500895-06:00
+  size: 4062
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3tho72qxusltvj6n54quruaen.o
+  mtime: 2025-12-17T23:59:32.5435716-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2501047-06:00
+- id: 1512
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3v37wpd8td22ozh91cgooasyv.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3v37wpd8td22ozh91cgooasyv.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3v37wpd8td22ozh91cgooasyv.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2553771-06:00
+  size: 8064
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\3v37wpd8td22ozh91cgooasyv.o
+  mtime: 2025-12-17T23:59:32.4927132-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2553910-06:00
+- id: 1513
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\442hrazhsjx5t78jx3cf2bgvt.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\442hrazhsjx5t78jx3cf2bgvt.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\442hrazhsjx5t78jx3cf2bgvt.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2607537-06:00
+  size: 43420
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\442hrazhsjx5t78jx3cf2bgvt.o
+  mtime: 2025-12-17T23:59:32.5035120-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2607688-06:00
+- id: 1514
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\478s7z2avzkhdesp5x9pm8pat.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\478s7z2avzkhdesp5x9pm8pat.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\478s7z2avzkhdesp5x9pm8pat.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2660253-06:00
+  size: 127433
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\478s7z2avzkhdesp5x9pm8pat.o
+  mtime: 2025-12-17T23:59:32.4927132-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2660391-06:00
+- id: 1515
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4hvkt2kz0vh610ksnpuojwkh6.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4hvkt2kz0vh610ksnpuojwkh6.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4hvkt2kz0vh610ksnpuojwkh6.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2712531-06:00
+  size: 20947
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4hvkt2kz0vh610ksnpuojwkh6.o
+  mtime: 2025-12-17T23:59:32.5251012-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2712666-06:00
+- id: 1516
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4mr6xleks5n570fo02ax7pdp3.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4mr6xleks5n570fo02ax7pdp3.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4mr6xleks5n570fo02ax7pdp3.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2764376-06:00
+  size: 8851
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4mr6xleks5n570fo02ax7pdp3.o
+  mtime: 2025-12-17T23:59:32.5128360-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2764508-06:00
+- id: 1517
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4otgkfam1i1at9pj3uaqv8t5f.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4otgkfam1i1at9pj3uaqv8t5f.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4otgkfam1i1at9pj3uaqv8t5f.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2820920-06:00
+  size: 271458
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4otgkfam1i1at9pj3uaqv8t5f.o
+  mtime: 2025-12-17T23:59:32.5097182-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2821055-06:00
+- id: 1518
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4qn9i73t2dhbmmdeuzohkcqb5.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4qn9i73t2dhbmmdeuzohkcqb5.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4qn9i73t2dhbmmdeuzohkcqb5.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2872511-06:00
+  size: 51619
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4qn9i73t2dhbmmdeuzohkcqb5.o
+  mtime: 2025-12-17T23:59:32.5466609-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2872648-06:00
+- id: 1519
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4w9d8p869hv8pbl2399tsa6jq.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4w9d8p869hv8pbl2399tsa6jq.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4w9d8p869hv8pbl2399tsa6jq.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2924995-06:00
+  size: 11005
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\4w9d8p869hv8pbl2399tsa6jq.o
+  mtime: 2025-12-17T23:59:32.4917086-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2925533-06:00
+- id: 1520
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\5scgpxeiq35vktnkrsjh1t3ac.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\5scgpxeiq35vktnkrsjh1t3ac.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\5scgpxeiq35vktnkrsjh1t3ac.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.2976877-06:00
+  size: 20802
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\5scgpxeiq35vktnkrsjh1t3ac.o
+  mtime: 2025-12-17T23:59:32.5374029-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.2977014-06:00
+- id: 1521
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\5uf9cffeviv62nyn3veacwhso.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\5uf9cffeviv62nyn3veacwhso.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\5uf9cffeviv62nyn3veacwhso.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3030904-06:00
+  size: 15347
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\5uf9cffeviv62nyn3veacwhso.o
+  mtime: 2025-12-17T23:59:32.5327946-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3031065-06:00
+- id: 1522
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\5z154fcmkrap1fisiwukl24k0.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\5z154fcmkrap1fisiwukl24k0.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\5z154fcmkrap1fisiwukl24k0.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3085715-06:00
+  size: 6079
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\5z154fcmkrap1fisiwukl24k0.o
+  mtime: 2025-12-17T23:59:32.5189604-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3085905-06:00
+- id: 1523
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\67s9lz8a3aweeztbkj2prgadt.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\67s9lz8a3aweeztbkj2prgadt.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\67s9lz8a3aweeztbkj2prgadt.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3135840-06:00
+  size: 52579
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\67s9lz8a3aweeztbkj2prgadt.o
+  mtime: 2025-12-17T23:59:32.5158857-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3135974-06:00
+- id: 1524
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\6hl95qls1s560hsbyvzmxrq2q.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\6hl95qls1s560hsbyvzmxrq2q.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\6hl95qls1s560hsbyvzmxrq2q.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3187966-06:00
+  size: 18187
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\6hl95qls1s560hsbyvzmxrq2q.o
+  mtime: 2025-12-17T23:59:32.5297306-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3188099-06:00
+- id: 1525
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\6nyhydhqdgdemiyyz4ullgcku.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\6nyhydhqdgdemiyyz4ullgcku.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\6nyhydhqdgdemiyyz4ullgcku.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3247197-06:00
+  size: 4124
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\6nyhydhqdgdemiyyz4ullgcku.o
+  mtime: 2025-12-17T23:59:32.5004531-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3247374-06:00
+- id: 1526
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\6ubabrb208xd1xe645nu3ybze.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\6ubabrb208xd1xe645nu3ybze.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\6ubabrb208xd1xe645nu3ybze.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3300405-06:00
+  size: 65483
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\6ubabrb208xd1xe645nu3ybze.o
+  mtime: 2025-12-17T23:59:32.4957781-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3300546-06:00
+- id: 1527
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7b5f63y7cjzqj4kjmg17fbu8i.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7b5f63y7cjzqj4kjmg17fbu8i.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7b5f63y7cjzqj4kjmg17fbu8i.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3355499-06:00
+  size: 2378
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7b5f63y7cjzqj4kjmg17fbu8i.o
+  mtime: 2025-12-17T23:59:32.4542628-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3355664-06:00
+- id: 1528
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7fvo983h3uitw1iz0chm7fiew.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7fvo983h3uitw1iz0chm7fiew.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7fvo983h3uitw1iz0chm7fiew.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3410385-06:00
+  size: 5013
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7fvo983h3uitw1iz0chm7fiew.o
+  mtime: 2025-12-17T23:59:32.4804356-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3410528-06:00
+- id: 1529
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7hfy0qzq8n8641zj3v5m6z2z0.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7hfy0qzq8n8641zj3v5m6z2z0.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7hfy0qzq8n8641zj3v5m6z2z0.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3460669-06:00
+  size: 22385
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7hfy0qzq8n8641zj3v5m6z2z0.o
+  mtime: 2025-12-17T23:59:32.5317824-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3460808-06:00
+- id: 1530
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7n42txf7lio557tit4787274u.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7n42txf7lio557tit4787274u.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7n42txf7lio557tit4787274u.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3513030-06:00
+  size: 28452
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7n42txf7lio557tit4787274u.o
+  mtime: 2025-12-17T23:59:32.5312671-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3513168-06:00
+- id: 1531
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7nwb93d6xe4n5mxd2jcn5m394.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7nwb93d6xe4n5mxd2jcn5m394.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7nwb93d6xe4n5mxd2jcn5m394.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3564120-06:00
+  size: 32769
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7nwb93d6xe4n5mxd2jcn5m394.o
+  mtime: 2025-12-17T23:59:32.5128360-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3564252-06:00
+- id: 1532
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7qq01ca4em0fxivi8qzz7qb30.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7qq01ca4em0fxivi8qzz7qb30.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7qq01ca4em0fxivi8qzz7qb30.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3619923-06:00
+  size: 6330
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\7qq01ca4em0fxivi8qzz7qb30.o
+  mtime: 2025-12-17T23:59:32.5404910-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3620060-06:00
+- id: 1533
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8c66k0lozatjxbd6m40q7k48x.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8c66k0lozatjxbd6m40q7k48x.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8c66k0lozatjxbd6m40q7k48x.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3671168-06:00
+  size: 3840
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8c66k0lozatjxbd6m40q7k48x.o
+  mtime: 2025-12-17T23:59:32.4742655-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3671303-06:00
+- id: 1534
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8c859ih0oqz2onldbj1mvdevy.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8c859ih0oqz2onldbj1mvdevy.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8c859ih0oqz2onldbj1mvdevy.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3722068-06:00
+  size: 32682
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8c859ih0oqz2onldbj1mvdevy.o
+  mtime: 2025-12-17T23:59:32.5281947-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3722197-06:00
+- id: 1535
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8oez3bq1dufa7wzkigs9ms0ep.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8oez3bq1dufa7wzkigs9ms0ep.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8oez3bq1dufa7wzkigs9ms0ep.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3773355-06:00
+  size: 19096
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8oez3bq1dufa7wzkigs9ms0ep.o
+  mtime: 2025-12-17T23:59:32.5081480-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3773488-06:00
+- id: 1536
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8th14mu5j45jpbynyki925o0m.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8th14mu5j45jpbynyki925o0m.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8th14mu5j45jpbynyki925o0m.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3828079-06:00
+  size: 29661
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8th14mu5j45jpbynyki925o0m.o
+  mtime: 2025-12-17T23:59:32.5281947-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3828218-06:00
+- id: 1537
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8vgrdkd7f1kdq740hie1ox4ek.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8vgrdkd7f1kdq740hie1ox4ek.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8vgrdkd7f1kdq740hie1ox4ek.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3892850-06:00
+  size: 19942
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\8vgrdkd7f1kdq740hie1ox4ek.o
+  mtime: 2025-12-17T23:59:32.5174177-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3892989-06:00
+- id: 1538
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\93xcxkvhf3fdyd9vpwk621x23.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\93xcxkvhf3fdyd9vpwk621x23.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\93xcxkvhf3fdyd9vpwk621x23.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3943562-06:00
+  size: 18440
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\93xcxkvhf3fdyd9vpwk621x23.o
+  mtime: 2025-12-17T23:59:32.5281947-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3943765-06:00
+- id: 1539
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\95s1bykbh9u0eeoayk8fie69s.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\95s1bykbh9u0eeoayk8fie69s.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\95s1bykbh9u0eeoayk8fie69s.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.3999509-06:00
+  size: 46487
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\95s1bykbh9u0eeoayk8fie69s.o
+  mtime: 2025-12-17T23:59:32.5389368-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.3999653-06:00
+- id: 1540
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9capzteckmxpr51edawnpyfbh.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9capzteckmxpr51edawnpyfbh.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9capzteckmxpr51edawnpyfbh.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4050735-06:00
+  size: 21807
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9capzteckmxpr51edawnpyfbh.o
+  mtime: 2025-12-17T23:59:32.5435716-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4050866-06:00
+- id: 1541
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9gt78zv4qtpm5fsiyo0jj9m94.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9gt78zv4qtpm5fsiyo0jj9m94.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9gt78zv4qtpm5fsiyo0jj9m94.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4102317-06:00
+  size: 16484
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9gt78zv4qtpm5fsiyo0jj9m94.o
+  mtime: 2025-12-17T23:59:32.5374029-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4102454-06:00
+- id: 1542
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9vgrtmqwxybi60nvzcqaafghp.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9vgrtmqwxybi60nvzcqaafghp.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9vgrtmqwxybi60nvzcqaafghp.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4155715-06:00
+  size: 6210
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9vgrtmqwxybi60nvzcqaafghp.o
+  mtime: 2025-12-17T23:59:32.4957781-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4155849-06:00
+- id: 1543
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9yq5vntwmbz3estxweapsl558.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9yq5vntwmbz3estxweapsl558.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9yq5vntwmbz3estxweapsl558.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4206198-06:00
+  size: 7938
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\9yq5vntwmbz3estxweapsl558.o
+  mtime: 2025-12-17T23:59:32.5374029-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4206334-06:00
+- id: 1544
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\a10sy7wgu754oxytillk68gx4.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\a10sy7wgu754oxytillk68gx4.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\a10sy7wgu754oxytillk68gx4.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4256104-06:00
+  size: 95408
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\a10sy7wgu754oxytillk68gx4.o
+  mtime: 2025-12-17T23:59:32.4917086-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4256231-06:00
+- id: 1545
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\be55cj6mgvolne7brljc8j4pc.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\be55cj6mgvolne7brljc8j4pc.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\be55cj6mgvolne7brljc8j4pc.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4311764-06:00
+  size: 11898
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\be55cj6mgvolne7brljc8j4pc.o
+  mtime: 2025-12-17T23:59:32.5112543-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4311928-06:00
+- id: 1546
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\behsbf0ogfbvh2qmxkp87d36o.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\behsbf0ogfbvh2qmxkp87d36o.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\behsbf0ogfbvh2qmxkp87d36o.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4372951-06:00
+  size: 25084
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\behsbf0ogfbvh2qmxkp87d36o.o
+  mtime: 2025-12-17T23:59:32.5327946-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4373102-06:00
+- id: 1547
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\blij1xg6i6w6ud4gge81y7z6g.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\blij1xg6i6w6ud4gge81y7z6g.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\blij1xg6i6w6ud4gge81y7z6g.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4438159-06:00
+  size: 19255
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\blij1xg6i6w6ud4gge81y7z6g.o
+  mtime: 2025-12-17T23:59:32.5374029-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4438361-06:00
+- id: 1548
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bnmdsg8bwszx8jpx1jtknkgp2.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bnmdsg8bwszx8jpx1jtknkgp2.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bnmdsg8bwszx8jpx1jtknkgp2.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4499986-06:00
+  size: 39733
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bnmdsg8bwszx8jpx1jtknkgp2.o
+  mtime: 2025-12-17T23:59:32.5009658-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4500133-06:00
+- id: 1549
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\brfolni4lsrchez2p6vxas0qx.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\brfolni4lsrchez2p6vxas0qx.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\brfolni4lsrchez2p6vxas0qx.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4553714-06:00
+  size: 5369
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\brfolni4lsrchez2p6vxas0qx.o
+  mtime: 2025-12-17T23:59:32.5035120-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4553859-06:00
+- id: 1550
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bx62vn5e07jtxr2ufd9cqyksc.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bx62vn5e07jtxr2ufd9cqyksc.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bx62vn5e07jtxr2ufd9cqyksc.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4608581-06:00
+  size: 3062
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bx62vn5e07jtxr2ufd9cqyksc.o
+  mtime: 2025-12-17T23:59:32.4649998-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4608708-06:00
+- id: 1551
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\byxm0q0wrjj24pt2w8itwpx9h.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\byxm0q0wrjj24pt2w8itwpx9h.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\byxm0q0wrjj24pt2w8itwpx9h.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4662053-06:00
+  size: 19085
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\byxm0q0wrjj24pt2w8itwpx9h.o
+  mtime: 2025-12-17T23:59:32.4881161-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4662180-06:00
+- id: 1552
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bz3grd41ymii0sliqlz9f5aj9.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bz3grd41ymii0sliqlz9f5aj9.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bz3grd41ymii0sliqlz9f5aj9.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4714737-06:00
+  size: 13939
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bz3grd41ymii0sliqlz9f5aj9.o
+  mtime: 2025-12-17T23:59:32.5404910-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4714872-06:00
+- id: 1553
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bzzpytvtyep6dhsd1tgu2ie64.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bzzpytvtyep6dhsd1tgu2ie64.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bzzpytvtyep6dhsd1tgu2ie64.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4769301-06:00
+  size: 36585
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\bzzpytvtyep6dhsd1tgu2ie64.o
+  mtime: 2025-12-17T23:59:32.5251012-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4769452-06:00
+- id: 1554
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\d38979l02to9y1e1g71lnhyqk.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\d38979l02to9y1e1g71lnhyqk.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\d38979l02to9y1e1g71lnhyqk.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4824075-06:00
+  size: 25923
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\d38979l02to9y1e1g71lnhyqk.o
+  mtime: 2025-12-17T23:59:32.5189604-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4824220-06:00
+- id: 1555
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\d7oeqf8ibfbpfb2gfr1c88oip.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\d7oeqf8ibfbpfb2gfr1c88oip.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\d7oeqf8ibfbpfb2gfr1c88oip.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4879543-06:00
+  size: 7239
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\d7oeqf8ibfbpfb2gfr1c88oip.o
+  mtime: 2025-12-17T23:59:32.5204956-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4879727-06:00
+- id: 1556
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dckcjjlxdnpggpkrbb3mebil8.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dckcjjlxdnpggpkrbb3mebil8.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dckcjjlxdnpggpkrbb3mebil8.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4941354-06:00
+  size: 4022
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dckcjjlxdnpggpkrbb3mebil8.o
+  mtime: 2025-12-17T23:59:32.5128360-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4941493-06:00
+- id: 1557
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dep-graph.bin
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dep-graph.bin
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dep-graph.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.4997256-06:00
+  size: 2042016
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dep-graph.bin
+  mtime: 2025-12-17T23:59:32.5466609-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.4997407-06:00
+- id: 1558
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dg8nh9oadhesvz9hlwprxsx26.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dg8nh9oadhesvz9hlwprxsx26.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dg8nh9oadhesvz9hlwprxsx26.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5056778-06:00
+  size: 19332
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dg8nh9oadhesvz9hlwprxsx26.o
+  mtime: 2025-12-17T23:59:32.5128360-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5056923-06:00
+- id: 1559
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\djvjtwxui422jc7gzccd7unvk.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\djvjtwxui422jc7gzccd7unvk.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\djvjtwxui422jc7gzccd7unvk.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5114306-06:00
+  size: 142851
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\djvjtwxui422jc7gzccd7unvk.o
+  mtime: 2025-12-17T23:59:32.4758026-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5114469-06:00
+- id: 1560
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\drtkj5p9nylusmbikjd5yrxhc.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\drtkj5p9nylusmbikjd5yrxhc.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\drtkj5p9nylusmbikjd5yrxhc.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5170438-06:00
+  size: 10196
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\drtkj5p9nylusmbikjd5yrxhc.o
+  mtime: 2025-12-17T23:59:32.5343278-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5170582-06:00
+- id: 1561
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\ds7svsetrt2chmm3i58ioj5dz.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\ds7svsetrt2chmm3i58ioj5dz.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\ds7svsetrt2chmm3i58ioj5dz.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5224845-06:00
+  size: 4135
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\ds7svsetrt2chmm3i58ioj5dz.o
+  mtime: 2025-12-17T23:59:32.4603990-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5224993-06:00
+- id: 1562
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dv3i81o0k5b0ugeoghqh5ip5c.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dv3i81o0k5b0ugeoghqh5ip5c.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dv3i81o0k5b0ugeoghqh5ip5c.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5279859-06:00
+  size: 324934
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\dv3i81o0k5b0ugeoghqh5ip5c.o
+  mtime: 2025-12-17T23:59:32.4989096-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5280013-06:00
+- id: 1563
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\e0a7ae9ooy6jzrlibdfmpyin3.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\e0a7ae9ooy6jzrlibdfmpyin3.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\e0a7ae9ooy6jzrlibdfmpyin3.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5335778-06:00
+  size: 3226
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\e0a7ae9ooy6jzrlibdfmpyin3.o
+  mtime: 2025-12-17T23:59:32.4850427-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5335924-06:00
+- id: 1564
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\e4e0639qm64b1lbaq2zuujz2g.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\e4e0639qm64b1lbaq2zuujz2g.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\e4e0639qm64b1lbaq2zuujz2g.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5392289-06:00
+  size: 16309
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\e4e0639qm64b1lbaq2zuujz2g.o
+  mtime: 2025-12-17T23:59:32.5220258-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5392420-06:00
+- id: 1565
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\eig9c1hdfituvodtxdf2tgiw8.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\eig9c1hdfituvodtxdf2tgiw8.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\eig9c1hdfituvodtxdf2tgiw8.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5447185-06:00
+  size: 18462
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\eig9c1hdfituvodtxdf2tgiw8.o
+  mtime: 2025-12-17T23:59:32.5097182-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5447348-06:00
+- id: 1566
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\f2sroqly9j4r2ujv8mfdjrdqc.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\f2sroqly9j4r2ujv8mfdjrdqc.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\f2sroqly9j4r2ujv8mfdjrdqc.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5504907-06:00
+  size: 5761
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\f2sroqly9j4r2ujv8mfdjrdqc.o
+  mtime: 2025-12-17T23:59:32.4865797-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5505087-06:00
+- id: 1567
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\query-cache.bin
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\query-cache.bin
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\query-cache.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5561709-06:00
+  size: 810950
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\query-cache.bin
+  mtime: 2025-12-17T23:59:32.5466609-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5561862-06:00
+- id: 1568
+  canonicalPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\work-products.bin
+  total: 4270
+  originalName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\work-products.bin
+  nameHistory:
+  - new: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\work-products.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5617016-06:00
+  size: 5142
+  aliases: []
+  displayName: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl\work-products.bin
+  mtime: 2025-12-17T23:59:32.6283025-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5617170-06:00
+generatedAt: 2025-12-18T01:53:36.3454861-06:00
+fileCount: 70
+folderId: target_debug_incremental_oasm_core-1ls7thp6o25nq_s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl
+folderPath: target\debug\incremental\oasm_core-1ls7thp6o25nq\s-he0agksw6d-1prjf8k-b11j9iqse6eheql5tfmq0lppl
+

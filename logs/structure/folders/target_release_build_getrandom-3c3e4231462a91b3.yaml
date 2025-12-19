@@ -1,0 +1,98 @@
+files:
+- id: 2216
+  canonicalPath: target\release\build\getrandom-3c3e4231462a91b3\invoked.timestamp
+  total: 4270
+  originalName: target\release\build\getrandom-3c3e4231462a91b3\invoked.timestamp
+  nameHistory:
+  - new: target\release\build\getrandom-3c3e4231462a91b3\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.1503371-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\build\getrandom-3c3e4231462a91b3\invoked.timestamp
+  mtime: 2025-12-17T23:56:44.2266408-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.1503522-06:00
+- id: 2217
+  canonicalPath: target\release\build\getrandom-3c3e4231462a91b3\output
+  total: 4270
+  originalName: target\release\build\getrandom-3c3e4231462a91b3\output
+  nameHistory:
+  - new: target\release\build\getrandom-3c3e4231462a91b3\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.1555763-06:00
+  size: 32
+  aliases: []
+  displayName: target\release\build\getrandom-3c3e4231462a91b3\output
+  mtime: 2025-12-17T23:56:44.2266408-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.1556002-06:00
+- id: 2218
+  canonicalPath: target\release\build\getrandom-3c3e4231462a91b3\root-output
+  total: 4270
+  originalName: target\release\build\getrandom-3c3e4231462a91b3\root-output
+  nameHistory:
+  - new: target\release\build\getrandom-3c3e4231462a91b3\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.1609736-06:00
+  size: 96
+  aliases: []
+  displayName: target\release\build\getrandom-3c3e4231462a91b3\root-output
+  mtime: 2025-12-17T23:56:44.5064920-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.1609897-06:00
+- id: 2219
+  canonicalPath: target\release\build\getrandom-3c3e4231462a91b3\stderr
+  total: 4270
+  originalName: target\release\build\getrandom-3c3e4231462a91b3\stderr
+  nameHistory:
+  - new: target\release\build\getrandom-3c3e4231462a91b3\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.1666133-06:00
+  size: 0
+  aliases: []
+  displayName: target\release\build\getrandom-3c3e4231462a91b3\stderr
+  mtime: 2025-12-17T23:56:44.5064920-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.1666278-06:00
+generatedAt: 2025-12-18T01:53:41.3853202-06:00
+fileCount: 4
+folderId: target_release_build_getrandom-3c3e4231462a91b3
+folderPath: target\release\build\getrandom-3c3e4231462a91b3
+

@@ -1,0 +1,98 @@
+files:
+- id: 3857
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\build-script-build-script-build
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\build-script-build-script-build
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.2424925-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\build-script-build-script-build
+  mtime: 2025-12-16T22:47:39.3480121-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.2425061-06:00
+- id: 3858
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\build-script-build-script-build.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\build-script-build-script-build.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.2476827-06:00
+  size: 422
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\build-script-build-script-build.json
+  mtime: 2025-12-16T22:47:39.3480121-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.2476960-06:00
+- id: 3859
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\dep-build-script-build-script-build
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\dep-build-script-build-script-build
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\dep-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.2531565-06:00
+  size: 28
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\dep-build-script-build-script-build
+  mtime: 2025-12-16T22:47:38.9650346-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.2531706-06:00
+- id: 3860
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.2583294-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598\invoked.timestamp
+  mtime: 2025-12-16T22:47:38.9650346-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.2583436-06:00
+generatedAt: 2025-12-18T01:53:40.5382719-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_rust_ui-f2dcc818094d6598
+folderPath: ui\rust_ui\target\release\.fingerprint\rust_ui-f2dcc818094d6598
+

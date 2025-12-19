@@ -1,0 +1,29 @@
+files:
+- id: 993
+  canonicalPath: target\debug\build\typenum-3e16120c58f74b73\out\tests.rs
+  total: 4270
+  originalName: target\debug\build\typenum-3e16120c58f74b73\out\tests.rs
+  nameHistory:
+  - new: target\debug\build\typenum-3e16120c58f74b73\out\tests.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.2955171-06:00
+  size: 622641
+  aliases: []
+  displayName: target\debug\build\typenum-3e16120c58f74b73\out\tests.rs
+  mtime: 2025-12-17T23:59:32.2164787-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.2955302-06:00
+generatedAt: 2025-12-18T01:53:37.3069751-06:00
+fileCount: 1
+folderId: target_debug_build_typenum-3e16120c58f74b73_out
+folderPath: target\debug\build\typenum-3e16120c58f74b73\out
+

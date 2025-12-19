@@ -1,0 +1,121 @@
+files:
+- id: 2270
+  canonicalPath: target\release\build\rust_ui-4bff6852092c6b81\build_script_build-4bff6852092c6b81.d
+  total: 4270
+  originalName: target\release\build\rust_ui-4bff6852092c6b81\build_script_build-4bff6852092c6b81.d
+  nameHistory:
+  - new: target\release\build\rust_ui-4bff6852092c6b81\build_script_build-4bff6852092c6b81.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.4565659-06:00
+  size: 325
+  aliases: []
+  displayName: target\release\build\rust_ui-4bff6852092c6b81\build_script_build-4bff6852092c6b81.d
+  mtime: 2025-12-17T23:56:44.3556277-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.4565813-06:00
+- id: 2271
+  canonicalPath: target\release\build\rust_ui-4bff6852092c6b81\build_script_build-4bff6852092c6b81.exe
+  total: 4270
+  originalName: target\release\build\rust_ui-4bff6852092c6b81\build_script_build-4bff6852092c6b81.exe
+  nameHistory:
+  - new: target\release\build\rust_ui-4bff6852092c6b81\build_script_build-4bff6852092c6b81.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.4623949-06:00
+  size: 285184
+  aliases: []
+  displayName: target\release\build\rust_ui-4bff6852092c6b81\build_script_build-4bff6852092c6b81.exe
+  mtime: 2025-12-17T23:56:44.5175061-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.4624131-06:00
+- id: 2272
+  canonicalPath: target\release\build\rust_ui-4bff6852092c6b81\build_script_build-4bff6852092c6b81.pdb
+  total: 4270
+  originalName: target\release\build\rust_ui-4bff6852092c6b81\build_script_build-4bff6852092c6b81.pdb
+  nameHistory:
+  - new: target\release\build\rust_ui-4bff6852092c6b81\build_script_build-4bff6852092c6b81.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.4692136-06:00
+  size: 1593344
+  aliases: []
+  displayName: target\release\build\rust_ui-4bff6852092c6b81\build_script_build-4bff6852092c6b81.pdb
+  mtime: 2025-12-17T23:56:44.5205824-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.4692303-06:00
+- id: 2273
+  canonicalPath: target\release\build\rust_ui-4bff6852092c6b81\build_script_build.pdb
+  total: 4270
+  originalName: target\release\build\rust_ui-4bff6852092c6b81\build_script_build.pdb
+  nameHistory:
+  - new: target\release\build\rust_ui-4bff6852092c6b81\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.4762283-06:00
+  size: 1593344
+  aliases: []
+  displayName: target\release\build\rust_ui-4bff6852092c6b81\build_script_build.pdb
+  mtime: 2025-12-17T23:56:44.5205824-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.4762505-06:00
+- id: 2274
+  canonicalPath: target\release\build\rust_ui-4bff6852092c6b81\build-script-build.exe
+  total: 4270
+  originalName: target\release\build\rust_ui-4bff6852092c6b81\build-script-build.exe
+  nameHistory:
+  - new: target\release\build\rust_ui-4bff6852092c6b81\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.4826389-06:00
+  size: 285184
+  aliases: []
+  displayName: target\release\build\rust_ui-4bff6852092c6b81\build-script-build.exe
+  mtime: 2025-12-17T23:56:44.5175061-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.4826554-06:00
+generatedAt: 2025-12-18T01:53:41.9270785-06:00
+fileCount: 5
+folderId: target_release_build_rust_ui-4bff6852092c6b81
+folderPath: target\release\build\rust_ui-4bff6852092c6b81
+

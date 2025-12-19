@@ -1,0 +1,98 @@
+files:
+- id: 49
+  canonicalPath: examples\cad_gear.oasm
+  total: 4270
+  originalName: examples\cad_gear.oasm
+  nameHistory:
+  - new: examples\cad_gear.oasm
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9250316-06:00
+  size: 415
+  aliases: []
+  displayName: examples\cad_gear.oasm
+  mtime: 2025-12-17T19:51:02.9374457-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9250472-06:00
+- id: 50
+  canonicalPath: examples\document_report.oasm
+  total: 4270
+  originalName: examples\document_report.oasm
+  nameHistory:
+  - new: examples\document_report.oasm
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9306127-06:00
+  size: 595
+  aliases: []
+  displayName: examples\document_report.oasm
+  mtime: 2025-12-17T19:51:04.3818736-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9306291-06:00
+- id: 51
+  canonicalPath: examples\engine_scene.oasm
+  total: 4270
+  originalName: examples\engine_scene.oasm
+  nameHistory:
+  - new: examples\engine_scene.oasm
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9360926-06:00
+  size: 608
+  aliases: []
+  displayName: examples\engine_scene.oasm
+  mtime: 2025-12-17T19:51:03.6577324-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9361080-06:00
+- id: 52
+  canonicalPath: examples\test_module.ps1
+  total: 4270
+  originalName: examples\test_module.ps1
+  nameHistory:
+  - new: examples\test_module.ps1
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9414414-06:00
+  size: 2850
+  aliases: []
+  displayName: examples\test_module.ps1
+  mtime: 2025-12-17T19:55:01.4645322-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9414579-06:00
+generatedAt: 2025-12-18T01:53:37.9605756-06:00
+fileCount: 4
+folderId: examples
+folderPath: examples
+

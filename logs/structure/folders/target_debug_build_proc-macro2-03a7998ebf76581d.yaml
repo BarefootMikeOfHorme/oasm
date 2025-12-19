@@ -1,0 +1,98 @@
+files:
+- id: 927
+  canonicalPath: target\debug\build\proc-macro2-03a7998ebf76581d\invoked.timestamp
+  total: 4270
+  originalName: target\debug\build\proc-macro2-03a7998ebf76581d\invoked.timestamp
+  nameHistory:
+  - new: target\debug\build\proc-macro2-03a7998ebf76581d\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9129644-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\build\proc-macro2-03a7998ebf76581d\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.8373862-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9129770-06:00
+- id: 928
+  canonicalPath: target\debug\build\proc-macro2-03a7998ebf76581d\output
+  total: 4270
+  originalName: target\debug\build\proc-macro2-03a7998ebf76581d\output
+  nameHistory:
+  - new: target\debug\build\proc-macro2-03a7998ebf76581d\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9185485-06:00
+  size: 1061
+  aliases: []
+  displayName: target\debug\build\proc-macro2-03a7998ebf76581d\output
+  mtime: 2025-12-17T23:59:31.8373862-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9185642-06:00
+- id: 929
+  canonicalPath: target\debug\build\proc-macro2-03a7998ebf76581d\root-output
+  total: 4270
+  originalName: target\debug\build\proc-macro2-03a7998ebf76581d\root-output
+  nameHistory:
+  - new: target\debug\build\proc-macro2-03a7998ebf76581d\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9240463-06:00
+  size: 96
+  aliases: []
+  displayName: target\debug\build\proc-macro2-03a7998ebf76581d\root-output
+  mtime: 2025-12-17T23:59:32.2471655-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9240612-06:00
+- id: 930
+  canonicalPath: target\debug\build\proc-macro2-03a7998ebf76581d\stderr
+  total: 4270
+  originalName: target\debug\build\proc-macro2-03a7998ebf76581d\stderr
+  nameHistory:
+  - new: target\debug\build\proc-macro2-03a7998ebf76581d\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9299055-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\build\proc-macro2-03a7998ebf76581d\stderr
+  mtime: 2025-12-17T23:59:32.2471655-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9299201-06:00
+generatedAt: 2025-12-18T01:53:38.0882527-06:00
+fileCount: 4
+folderId: target_debug_build_proc-macro2-03a7998ebf76581d
+folderPath: target\debug\build\proc-macro2-03a7998ebf76581d
+

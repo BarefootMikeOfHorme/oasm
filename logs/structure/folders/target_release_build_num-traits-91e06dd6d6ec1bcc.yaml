@@ -1,0 +1,98 @@
+files:
+- id: 2234
+  canonicalPath: target\release\build\num-traits-91e06dd6d6ec1bcc\invoked.timestamp
+  total: 4270
+  originalName: target\release\build\num-traits-91e06dd6d6ec1bcc\invoked.timestamp
+  nameHistory:
+  - new: target\release\build\num-traits-91e06dd6d6ec1bcc\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2507477-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\build\num-traits-91e06dd6d6ec1bcc\invoked.timestamp
+  mtime: 2025-12-17T23:56:44.6381801-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2507676-06:00
+- id: 2235
+  canonicalPath: target\release\build\num-traits-91e06dd6d6ec1bcc\output
+  total: 4270
+  originalName: target\release\build\num-traits-91e06dd6d6ec1bcc\output
+  nameHistory:
+  - new: target\release\build\num-traits-91e06dd6d6ec1bcc\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2561857-06:00
+  size: 103
+  aliases: []
+  displayName: target\release\build\num-traits-91e06dd6d6ec1bcc\output
+  mtime: 2025-12-17T23:56:44.6381801-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2561998-06:00
+- id: 2236
+  canonicalPath: target\release\build\num-traits-91e06dd6d6ec1bcc\root-output
+  total: 4270
+  originalName: target\release\build\num-traits-91e06dd6d6ec1bcc\root-output
+  nameHistory:
+  - new: target\release\build\num-traits-91e06dd6d6ec1bcc\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2619738-06:00
+  size: 97
+  aliases: []
+  displayName: target\release\build\num-traits-91e06dd6d6ec1bcc\root-output
+  mtime: 2025-12-17T23:56:44.9729224-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2619898-06:00
+- id: 2237
+  canonicalPath: target\release\build\num-traits-91e06dd6d6ec1bcc\stderr
+  total: 4270
+  originalName: target\release\build\num-traits-91e06dd6d6ec1bcc\stderr
+  nameHistory:
+  - new: target\release\build\num-traits-91e06dd6d6ec1bcc\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2674323-06:00
+  size: 0
+  aliases: []
+  displayName: target\release\build\num-traits-91e06dd6d6ec1bcc\stderr
+  mtime: 2025-12-17T23:56:44.9729224-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2674466-06:00
+generatedAt: 2025-12-18T01:53:41.7225204-06:00
+fileCount: 4
+folderId: target_release_build_num-traits-91e06dd6d6ec1bcc
+folderPath: target\release\build\num-traits-91e06dd6d6ec1bcc
+

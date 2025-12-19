@@ -1,0 +1,98 @@
+files:
+- id: 3608
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\dep-lib-tracing_log
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\dep-lib-tracing_log
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\dep-lib-tracing_log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.8660941-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\dep-lib-tracing_log
+  mtime: 2025-12-16T21:32:22.6209818-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.8661078-06:00
+- id: 3609
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.8716001-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\invoked.timestamp
+  mtime: 2025-12-16T21:32:22.6209818-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.8716149-06:00
+- id: 3610
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\lib-tracing_log
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\lib-tracing_log
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\lib-tracing_log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.8769686-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\lib-tracing_log
+  mtime: 2025-12-16T21:32:22.8173078-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.8769824-06:00
+- id: 3611
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\lib-tracing_log.json
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\lib-tracing_log.json
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\lib-tracing_log.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.8821179-06:00
+  size: 681
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18\lib-tracing_log.json
+  mtime: 2025-12-16T21:32:22.8173078-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.8821315-06:00
+generatedAt: 2025-12-18T01:53:41.3143853-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_validation_target_x86_64-pc-windows-msvc_release_.fingerprint_tracing-log-7499bad4d043cf18
+folderPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-log-7499bad4d043cf18
+

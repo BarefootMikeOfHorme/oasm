@@ -1,0 +1,98 @@
+files:
+- id: 1969
+  canonicalPath: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\dep-lib-regex_syntax
+  total: 4270
+  originalName: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\dep-lib-regex_syntax
+  nameHistory:
+  - new: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\dep-lib-regex_syntax
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.7658923-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\dep-lib-regex_syntax
+  mtime: 2025-12-17T23:56:43.4830914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.7659076-06:00
+- id: 1970
+  canonicalPath: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.7717696-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.4830914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.7717873-06:00
+- id: 1971
+  canonicalPath: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax
+  total: 4270
+  originalName: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax
+  nameHistory:
+  - new: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.7769881-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax
+  mtime: 2025-12-17T23:56:46.9294229-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.7770020-06:00
+- id: 1972
+  canonicalPath: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax.json
+  total: 4270
+  originalName: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax.json
+  nameHistory:
+  - new: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.7821916-06:00
+  size: 705
+  aliases: []
+  displayName: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax.json
+  mtime: 2025-12-17T23:56:46.9294229-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.7822049-06:00
+generatedAt: 2025-12-18T01:53:36.8770210-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_regex-syntax-a8121f8d429e0c1f
+folderPath: target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f
+

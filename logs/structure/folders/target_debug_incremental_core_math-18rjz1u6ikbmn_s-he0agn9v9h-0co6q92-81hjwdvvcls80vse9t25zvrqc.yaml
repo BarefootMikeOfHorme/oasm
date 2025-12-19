@@ -1,0 +1,282 @@
+files:
+- id: 1427
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\1vtp60o2jjmoh8osn0gdujhwj.o
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\1vtp60o2jjmoh8osn0gdujhwj.o
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\1vtp60o2jjmoh8osn0gdujhwj.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7987148-06:00
+  size: 9649
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\1vtp60o2jjmoh8osn0gdujhwj.o
+  mtime: 2025-12-17T23:59:36.5010595-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7987305-06:00
+- id: 1428
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\3fefch9pm1ijo10z8eo0na7p6.o
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\3fefch9pm1ijo10z8eo0na7p6.o
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\3fefch9pm1ijo10z8eo0na7p6.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.8041583-06:00
+  size: 5152
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\3fefch9pm1ijo10z8eo0na7p6.o
+  mtime: 2025-12-17T23:59:36.5041324-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.8041712-06:00
+- id: 1429
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\6hpm0sp2auemmgmrms5w8pchu.o
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\6hpm0sp2auemmgmrms5w8pchu.o
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\6hpm0sp2auemmgmrms5w8pchu.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.8091678-06:00
+  size: 10793
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\6hpm0sp2auemmgmrms5w8pchu.o
+  mtime: 2025-12-17T23:59:36.5025912-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.8091818-06:00
+- id: 1430
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\79jqf2z7vdvu6dvb2d5zdf4ck.o
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\79jqf2z7vdvu6dvb2d5zdf4ck.o
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\79jqf2z7vdvu6dvb2d5zdf4ck.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.8144570-06:00
+  size: 24093
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\79jqf2z7vdvu6dvb2d5zdf4ck.o
+  mtime: 2025-12-17T23:59:36.5041324-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.8144707-06:00
+- id: 1431
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\8oskwbj0lcus69hq88p0x14sj.o
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\8oskwbj0lcus69hq88p0x14sj.o
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\8oskwbj0lcus69hq88p0x14sj.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.8199110-06:00
+  size: 5467
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\8oskwbj0lcus69hq88p0x14sj.o
+  mtime: 2025-12-17T23:59:36.5041324-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.8199243-06:00
+- id: 1432
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\9zrq90xziqleswz3sqghc6lq4.o
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\9zrq90xziqleswz3sqghc6lq4.o
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\9zrq90xziqleswz3sqghc6lq4.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.8250230-06:00
+  size: 7869
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\9zrq90xziqleswz3sqghc6lq4.o
+  mtime: 2025-12-17T23:59:36.5041324-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.8250362-06:00
+- id: 1433
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\b3g7yl0z20euhibwww68956nr.o
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\b3g7yl0z20euhibwww68956nr.o
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\b3g7yl0z20euhibwww68956nr.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.8302820-06:00
+  size: 12233
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\b3g7yl0z20euhibwww68956nr.o
+  mtime: 2025-12-17T23:59:36.5041324-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.8302956-06:00
+- id: 1434
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\c2isuiru6uuiy727kl28bd1th.o
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\c2isuiru6uuiy727kl28bd1th.o
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\c2isuiru6uuiy727kl28bd1th.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.8356262-06:00
+  size: 17011
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\c2isuiru6uuiy727kl28bd1th.o
+  mtime: 2025-12-17T23:59:36.5025912-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.8356398-06:00
+- id: 1435
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\dep-graph.bin
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\dep-graph.bin
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\dep-graph.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.8412009-06:00
+  size: 377255
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\dep-graph.bin
+  mtime: 2025-12-17T23:59:36.5056820-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.8412144-06:00
+- id: 1436
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\dk45uxfs1fikuii71azksclh6.o
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\dk45uxfs1fikuii71azksclh6.o
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\dk45uxfs1fikuii71azksclh6.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.8464441-06:00
+  size: 49289
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\dk45uxfs1fikuii71azksclh6.o
+  mtime: 2025-12-17T23:59:36.5087523-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.8464574-06:00
+- id: 1437
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\query-cache.bin
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\query-cache.bin
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\query-cache.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.8519643-06:00
+  size: 182070
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\query-cache.bin
+  mtime: 2025-12-17T23:59:36.5041324-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.8519782-06:00
+- id: 1438
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\work-products.bin
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\work-products.bin
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\work-products.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.8570421-06:00
+  size: 734
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc\work-products.bin
+  mtime: 2025-12-17T23:59:36.5163694-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.8570560-06:00
+generatedAt: 2025-12-18T01:53:37.6755166-06:00
+fileCount: 12
+folderId: target_debug_incremental_core_math-18rjz1u6ikbmn_s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc
+folderPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92-81hjwdvvcls80vse9t25zvrqc
+

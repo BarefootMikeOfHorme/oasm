@@ -1,0 +1,98 @@
+files:
+- id: 2959
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\dep-lib-serde_derive
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\dep-lib-serde_derive
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\dep-lib-serde_derive
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.2547242-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\dep-lib-serde_derive
+  mtime: 2025-12-16T21:19:30.7079311-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.2547395-06:00
+- id: 2960
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.2604398-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\invoked.timestamp
+  mtime: 2025-12-16T21:19:30.7079311-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.2604568-06:00
+- id: 2961
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\lib-serde_derive
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\lib-serde_derive
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\lib-serde_derive
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.2663902-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\lib-serde_derive
+  mtime: 2025-12-16T21:19:31.9767600-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.2664056-06:00
+- id: 2962
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\lib-serde_derive.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\lib-serde_derive.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\lib-serde_derive.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.2715884-06:00
+  size: 583
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e\lib-serde_derive.json
+  mtime: 2025-12-16T21:19:31.9782866-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.2716061-06:00
+generatedAt: 2025-12-18T01:53:37.5933283-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_.fingerprint_serde_derive-e3659b98d119390e
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_derive-e3659b98d119390e
+

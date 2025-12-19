@@ -1,0 +1,52 @@
+files:
+- id: 126
+  canonicalPath: scripts\PS\Get-OasmManifest.ps1
+  total: 4270
+  originalName: scripts\PS\Get-OasmManifest.ps1
+  nameHistory:
+  - new: scripts\PS\Get-OasmManifest.ps1
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.3769172-06:00
+  size: 6794
+  aliases: []
+  displayName: scripts\PS\Get-OasmManifest.ps1
+  mtime: 2025-12-17T19:30:50.5481750-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.3769364-06:00
+- id: 127
+  canonicalPath: scripts\PS\Invoke-OasmScan.ps1
+  total: 4270
+  originalName: scripts\PS\Invoke-OasmScan.ps1
+  nameHistory:
+  - new: scripts\PS\Invoke-OasmScan.ps1
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.3814133-06:00
+  size: 7234
+  aliases: []
+  displayName: scripts\PS\Invoke-OasmScan.ps1
+  mtime: 2025-12-17T19:25:13.5293148-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.3814309-06:00
+generatedAt: 2025-12-18T01:53:40.7227471-06:00
+fileCount: 2
+folderId: scripts_PS
+folderPath: scripts\PS
+

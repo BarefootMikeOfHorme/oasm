@@ -1,0 +1,98 @@
+files:
+- id: 516
+  canonicalPath: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\dep-lib-itoa
+  total: 4270
+  originalName: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\dep-lib-itoa
+  nameHistory:
+  - new: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\dep-lib-itoa
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.5367136-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\dep-lib-itoa
+  mtime: 2025-12-17T23:59:31.3026000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.5367291-06:00
+- id: 517
+  canonicalPath: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.5424387-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.3026000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.5424541-06:00
+- id: 518
+  canonicalPath: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\lib-itoa
+  total: 4270
+  originalName: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\lib-itoa
+  nameHistory:
+  - new: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\lib-itoa
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.5479537-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\lib-itoa
+  mtime: 2025-12-17T23:59:31.4726338-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.5479682-06:00
+- id: 519
+  canonicalPath: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\lib-itoa.json
+  total: 4270
+  originalName: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\lib-itoa.json
+  nameHistory:
+  - new: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\lib-itoa.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.5541038-06:00
+  size: 357
+  aliases: []
+  displayName: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2\lib-itoa.json
+  mtime: 2025-12-17T23:59:31.4741641-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.5541182-06:00
+generatedAt: 2025-12-18T01:53:38.1442138-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_itoa-234f3f64f0f0d5e2
+folderPath: target\debug\.fingerprint\itoa-234f3f64f0f0d5e2
+

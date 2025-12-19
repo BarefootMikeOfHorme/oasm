@@ -1,0 +1,98 @@
+files:
+- id: 3128
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\dep-lib-serde
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\dep-lib-serde
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\dep-lib-serde
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.1768030-06:00
+  size: 94
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\dep-lib-serde
+  mtime: 2025-12-16T21:19:31.9782866-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.1768178-06:00
+- id: 3129
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.1822355-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\invoked.timestamp
+  mtime: 2025-12-16T21:19:31.9782866-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.1822496-06:00
+- id: 3130
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\lib-serde
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\lib-serde
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\lib-serde
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.1874776-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\lib-serde
+  mtime: 2025-12-16T21:19:32.4350389-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.1874917-06:00
+- id: 3131
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\lib-serde.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\lib-serde.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\lib-serde.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.1927566-06:00
+  size: 717
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e\lib-serde.json
+  mtime: 2025-12-16T21:19:32.4350389-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.1927708-06:00
+generatedAt: 2025-12-18T01:53:37.9175841-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_x86_64-pc-windows-msvc_release_.fingerprint_serde-77faeca3a178de0e
+folderPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde-77faeca3a178de0e
+

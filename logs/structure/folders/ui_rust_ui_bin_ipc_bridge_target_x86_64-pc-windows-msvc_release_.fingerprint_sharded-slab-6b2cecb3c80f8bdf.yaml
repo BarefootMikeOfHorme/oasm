@@ -1,0 +1,98 @@
+files:
+- id: 3138
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\dep-lib-sharded_slab
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\dep-lib-sharded_slab
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\dep-lib-sharded_slab
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.2304635-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\dep-lib-sharded_slab
+  mtime: 2025-12-16T21:32:16.9887591-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.2304771-06:00
+- id: 3139
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.2357127-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\invoked.timestamp
+  mtime: 2025-12-16T21:32:16.9887591-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.2357256-06:00
+- id: 3140
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.2418172-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab
+  mtime: 2025-12-16T21:32:17.4459900-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.2418351-06:00
+- id: 3141
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.2476435-06:00
+  size: 476
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab.json
+  mtime: 2025-12-16T21:32:17.4459900-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.2476592-06:00
+generatedAt: 2025-12-18T01:53:38.3479108-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_x86_64-pc-windows-msvc_release_.fingerprint_sharded-slab-6b2cecb3c80f8bdf
+folderPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf
+

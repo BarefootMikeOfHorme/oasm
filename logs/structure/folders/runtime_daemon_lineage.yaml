@@ -1,0 +1,52 @@
+files:
+- id: 86
+  canonicalPath: runtime\daemon\lineage\lineage.cbor
+  total: 4270
+  originalName: runtime\daemon\lineage\lineage.cbor
+  nameHistory:
+  - new: runtime\daemon\lineage\lineage.cbor
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1376692-06:00
+  size: 4
+  aliases: []
+  displayName: runtime\daemon\lineage\lineage.cbor
+  mtime: 2025-12-17T00:14:15.5984679-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1376864-06:00
+- id: 87
+  canonicalPath: runtime\daemon\lineage\lineage.log
+  total: 4270
+  originalName: runtime\daemon\lineage\lineage.log
+  nameHistory:
+  - new: runtime\daemon\lineage\lineage.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1431014-06:00
+  size: 4
+  aliases: []
+  displayName: runtime\daemon\lineage\lineage.log
+  mtime: 2025-12-17T00:09:14.4909044-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1431192-06:00
+generatedAt: 2025-12-18T01:53:40.5062659-06:00
+fileCount: 2
+folderId: runtime_daemon_lineage
+folderPath: runtime\daemon\lineage
+

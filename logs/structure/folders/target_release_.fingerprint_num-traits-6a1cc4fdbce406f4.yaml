@@ -1,0 +1,98 @@
+files:
+- id: 1891
+  canonicalPath: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\dep-lib-num_traits
+  total: 4270
+  originalName: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\dep-lib-num_traits
+  nameHistory:
+  - new: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\dep-lib-num_traits
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.3443649-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\dep-lib-num_traits
+  mtime: 2025-12-17T23:56:44.9754928-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.3443784-06:00
+- id: 1892
+  canonicalPath: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.3496006-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\invoked.timestamp
+  mtime: 2025-12-17T23:56:44.9754928-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.3496158-06:00
+- id: 1893
+  canonicalPath: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\lib-num_traits
+  total: 4270
+  originalName: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\lib-num_traits
+  nameHistory:
+  - new: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\lib-num_traits
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.3550393-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\lib-num_traits
+  mtime: 2025-12-17T23:56:45.8541236-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.3550530-06:00
+- id: 1894
+  canonicalPath: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\lib-num_traits.json
+  total: 4270
+  originalName: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\lib-num_traits.json
+  nameHistory:
+  - new: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\lib-num_traits.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.3603016-06:00
+  size: 466
+  aliases: []
+  displayName: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4\lib-num_traits.json
+  mtime: 2025-12-17T23:56:45.8541236-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.3603163-06:00
+generatedAt: 2025-12-18T01:53:38.3185110-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_num-traits-6a1cc4fdbce406f4
+folderPath: target\release\.fingerprint\num-traits-6a1cc4fdbce406f4
+

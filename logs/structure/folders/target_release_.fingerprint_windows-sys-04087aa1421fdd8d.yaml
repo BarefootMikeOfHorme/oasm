@@ -1,0 +1,98 @@
+files:
+- id: 2169
+  canonicalPath: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\dep-lib-windows_sys
+  total: 4270
+  originalName: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\dep-lib-windows_sys
+  nameHistory:
+  - new: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\dep-lib-windows_sys
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.8816373-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\dep-lib-windows_sys
+  mtime: 2025-12-17T23:56:43.5246485-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.8816525-06:00
+- id: 2170
+  canonicalPath: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.8871734-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.5246485-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.8871903-06:00
+- id: 2171
+  canonicalPath: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\lib-windows_sys
+  total: 4270
+  originalName: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\lib-windows_sys
+  nameHistory:
+  - new: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\lib-windows_sys
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.8944157-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\lib-windows_sys
+  mtime: 2025-12-17T23:56:46.9402353-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.8944394-06:00
+- id: 2172
+  canonicalPath: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\lib-windows_sys.json
+  total: 4270
+  originalName: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\lib-windows_sys.json
+  nameHistory:
+  - new: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\lib-windows_sys.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.9014669-06:00
+  size: 8590
+  aliases: []
+  displayName: target\release\.fingerprint\windows-sys-04087aa1421fdd8d\lib-windows_sys.json
+  mtime: 2025-12-17T23:56:46.9402353-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.9014890-06:00
+generatedAt: 2025-12-18T01:53:38.6429091-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_windows-sys-04087aa1421fdd8d
+folderPath: target\release\.fingerprint\windows-sys-04087aa1421fdd8d
+

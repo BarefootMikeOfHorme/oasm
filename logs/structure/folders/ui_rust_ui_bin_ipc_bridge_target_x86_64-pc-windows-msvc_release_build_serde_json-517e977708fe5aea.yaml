@@ -1,0 +1,98 @@
+files:
+- id: 3179
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.4579564-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\invoked.timestamp
+  mtime: 2025-12-16T21:19:29.0040990-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.4579728-06:00
+- id: 3180
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\output
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\output
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.4634240-06:00
+  size: 132
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\output
+  mtime: 2025-12-16T21:19:29.0040990-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.4634386-06:00
+- id: 3181
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\root-output
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\root-output
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.4693382-06:00
+  size: 146
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\root-output
+  mtime: 2025-12-16T21:19:29.0439562-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.4693562-06:00
+- id: 3182
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\stderr
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\stderr
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.4748739-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea\stderr
+  mtime: 2025-12-16T21:19:29.0424296-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.4748903-06:00
+generatedAt: 2025-12-18T01:53:37.6409745-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_x86_64-pc-windows-msvc_release_build_serde_json-517e977708fe5aea
+folderPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\build\serde_json-517e977708fe5aea
+

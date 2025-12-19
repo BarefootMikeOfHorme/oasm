@@ -1,0 +1,98 @@
+files:
+- id: 594
+  canonicalPath: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\build-script-build-script-build
+  total: 4270
+  originalName: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\build-script-build-script-build
+  nameHistory:
+  - new: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.9788337-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\build-script-build-script-build
+  mtime: 2025-12-17T23:59:31.7846334-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.9788472-06:00
+- id: 595
+  canonicalPath: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\build-script-build-script-build.json
+  total: 4270
+  originalName: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\build-script-build-script-build.json
+  nameHistory:
+  - new: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.9843125-06:00
+  size: 441
+  aliases: []
+  displayName: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\build-script-build-script-build.json
+  mtime: 2025-12-17T23:59:31.7846334-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.9843270-06:00
+- id: 596
+  canonicalPath: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\dep-build-script-build-script-build
+  total: 4270
+  originalName: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\dep-build-script-build-script-build
+  nameHistory:
+  - new: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\dep-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.9898938-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\dep-build-script-build-script-build
+  mtime: 2025-12-17T23:59:31.3043784-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.9899082-06:00
+- id: 597
+  canonicalPath: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.9955296-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.3043784-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.9955441-06:00
+generatedAt: 2025-12-18T01:53:41.4281991-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_parking_lot_core-0f9575b8cb61f8af
+folderPath: target\debug\.fingerprint\parking_lot_core-0f9575b8cb61f8af
+

@@ -1,0 +1,121 @@
+files:
+- id: 4017
+  canonicalPath: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.d
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.d
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.1091569-06:00
+  size: 610
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.d
+  mtime: 2025-12-16T22:47:38.9870993-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.1091744-06:00
+- id: 4018
+  canonicalPath: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.exe
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.exe
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.1156217-06:00
+  size: 317440
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.exe
+  mtime: 2025-12-16T22:47:39.1638844-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.1156418-06:00
+- id: 4019
+  canonicalPath: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.pdb
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.pdb
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.1226475-06:00
+  size: 1658880
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.pdb
+  mtime: 2025-12-16T22:47:39.1669397-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.1226695-06:00
+- id: 4020
+  canonicalPath: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build.pdb
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build.pdb
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.1285091-06:00
+  size: 1658880
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build_script_build.pdb
+  mtime: 2025-12-16T22:47:39.1669397-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.1285293-06:00
+- id: 4021
+  canonicalPath: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build-script-build.exe
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build-script-build.exe
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.1340811-06:00
+  size: 317440
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173\build-script-build.exe
+  mtime: 2025-12-16T22:47:39.1638844-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.1340976-06:00
+generatedAt: 2025-12-18T01:53:39.4446985-06:00
+fileCount: 5
+folderId: ui_rust_ui_target_release_build_proc-macro2-03a414f647a83173
+folderPath: ui\rust_ui\target\release\build\proc-macro2-03a414f647a83173
+

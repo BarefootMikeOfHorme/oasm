@@ -1,0 +1,98 @@
+files:
+- id: 3781
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\dep-lib-ipc_bridge
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\dep-lib-ipc_bridge
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\dep-lib-ipc_bridge
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.8217451-06:00
+  size: 30
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\dep-lib-ipc_bridge
+  mtime: 2025-12-16T22:47:44.5911431-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.8217588-06:00
+- id: 3782
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.8270501-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\invoked.timestamp
+  mtime: 2025-12-16T22:47:44.5911431-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.8270638-06:00
+- id: 3783
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\lib-ipc_bridge
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\lib-ipc_bridge
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\lib-ipc_bridge
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.8322763-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\lib-ipc_bridge
+  mtime: 2025-12-16T22:47:44.8523626-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.8322893-06:00
+- id: 3784
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\lib-ipc_bridge.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\lib-ipc_bridge.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\lib-ipc_bridge.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.8374408-06:00
+  size: 608
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e\lib-ipc_bridge.json
+  mtime: 2025-12-16T22:47:44.8523626-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.8374547-06:00
+generatedAt: 2025-12-18T01:53:41.8923562-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_ipc_bridge-95f5fac8ba20bf8e
+folderPath: ui\rust_ui\target\release\.fingerprint\ipc_bridge-95f5fac8ba20bf8e
+

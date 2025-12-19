@@ -1,0 +1,98 @@
+files:
+- id: 3272
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.9682613-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build
+  mtime: 2025-12-16T21:32:27.2159436-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.9682745-06:00
+- id: 3273
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build.json
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build.json
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.9739081-06:00
+  size: 462
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build.json
+  mtime: 2025-12-16T21:32:27.2159436-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.9739205-06:00
+- id: 3274
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\dep-build-script-build-script-build
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\dep-build-script-build-script-build
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\dep-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.9791844-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\dep-build-script-build-script-build
+  mtime: 2025-12-16T21:32:27.0036229-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.9791979-06:00
+- id: 3275
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.9844851-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173\invoked.timestamp
+  mtime: 2025-12-16T21:32:27.0036229-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.9844983-06:00
+generatedAt: 2025-12-18T01:53:37.0235266-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_plugin_loader_target_release_.fingerprint_proc-macro2-03a414f647a83173
+folderPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\proc-macro2-03a414f647a83173
+

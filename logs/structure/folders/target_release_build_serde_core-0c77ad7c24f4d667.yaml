@@ -1,0 +1,121 @@
+files:
+- id: 2279
+  canonicalPath: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.d
+  total: 4270
+  originalName: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.d
+  nameHistory:
+  - new: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.5094917-06:00
+  size: 583
+  aliases: []
+  displayName: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.d
+  mtime: 2025-12-17T23:56:43.5246485-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.5095062-06:00
+- id: 2280
+  canonicalPath: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.exe
+  total: 4270
+  originalName: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.exe
+  nameHistory:
+  - new: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.5148507-06:00
+  size: 291840
+  aliases: []
+  displayName: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.exe
+  mtime: 2025-12-17T23:56:43.7818583-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.5148662-06:00
+- id: 2281
+  canonicalPath: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.pdb
+  total: 4270
+  originalName: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.pdb
+  nameHistory:
+  - new: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.5201937-06:00
+  size: 1601536
+  aliases: []
+  displayName: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.pdb
+  mtime: 2025-12-17T23:56:43.7832694-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.5202067-06:00
+- id: 2282
+  canonicalPath: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build.pdb
+  total: 4270
+  originalName: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build.pdb
+  nameHistory:
+  - new: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.5254891-06:00
+  size: 1601536
+  aliases: []
+  displayName: target\release\build\serde_core-0c77ad7c24f4d667\build_script_build.pdb
+  mtime: 2025-12-17T23:56:43.7832694-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.5255048-06:00
+- id: 2283
+  canonicalPath: target\release\build\serde_core-0c77ad7c24f4d667\build-script-build.exe
+  total: 4270
+  originalName: target\release\build\serde_core-0c77ad7c24f4d667\build-script-build.exe
+  nameHistory:
+  - new: target\release\build\serde_core-0c77ad7c24f4d667\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.5311833-06:00
+  size: 291840
+  aliases: []
+  displayName: target\release\build\serde_core-0c77ad7c24f4d667\build-script-build.exe
+  mtime: 2025-12-17T23:56:43.7818583-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.5311988-06:00
+generatedAt: 2025-12-18T01:53:40.3323422-06:00
+fileCount: 5
+folderId: target_release_build_serde_core-0c77ad7c24f4d667
+folderPath: target\release\build\serde_core-0c77ad7c24f4d667
+

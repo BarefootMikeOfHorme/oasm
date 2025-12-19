@@ -1,0 +1,98 @@
+files:
+- id: 812
+  canonicalPath: target\debug\.fingerprint\walkdir-4653403e0e46700c\dep-lib-walkdir
+  total: 4270
+  originalName: target\debug\.fingerprint\walkdir-4653403e0e46700c\dep-lib-walkdir
+  nameHistory:
+  - new: target\debug\.fingerprint\walkdir-4653403e0e46700c\dep-lib-walkdir
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.2476483-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\walkdir-4653403e0e46700c\dep-lib-walkdir
+  mtime: 2025-12-17T23:59:33.8104943-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.2476610-06:00
+- id: 813
+  canonicalPath: target\debug\.fingerprint\walkdir-4653403e0e46700c\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\walkdir-4653403e0e46700c\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\walkdir-4653403e0e46700c\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.2531955-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\walkdir-4653403e0e46700c\invoked.timestamp
+  mtime: 2025-12-17T23:59:33.8104943-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.2532099-06:00
+- id: 814
+  canonicalPath: target\debug\.fingerprint\walkdir-4653403e0e46700c\lib-walkdir
+  total: 4270
+  originalName: target\debug\.fingerprint\walkdir-4653403e0e46700c\lib-walkdir
+  nameHistory:
+  - new: target\debug\.fingerprint\walkdir-4653403e0e46700c\lib-walkdir
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.2588038-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\walkdir-4653403e0e46700c\lib-walkdir
+  mtime: 2025-12-17T23:59:34.0985305-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.2588202-06:00
+- id: 815
+  canonicalPath: target\debug\.fingerprint\walkdir-4653403e0e46700c\lib-walkdir.json
+  total: 4270
+  originalName: target\debug\.fingerprint\walkdir-4653403e0e46700c\lib-walkdir.json
+  nameHistory:
+  - new: target\debug\.fingerprint\walkdir-4653403e0e46700c\lib-walkdir.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.2648821-06:00
+  size: 473
+  aliases: []
+  displayName: target\debug\.fingerprint\walkdir-4653403e0e46700c\lib-walkdir.json
+  mtime: 2025-12-17T23:59:34.0985305-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.2648961-06:00
+generatedAt: 2025-12-18T01:53:39.9085145-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_walkdir-4653403e0e46700c
+folderPath: target\debug\.fingerprint\walkdir-4653403e0e46700c
+

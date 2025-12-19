@@ -1,0 +1,98 @@
+files:
+- id: 1007
+  canonicalPath: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\invoked.timestamp
+  total: 4270
+  originalName: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\invoked.timestamp
+  nameHistory:
+  - new: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.3776468-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.8116940-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.3776606-06:00
+- id: 1008
+  canonicalPath: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\output
+  total: 4270
+  originalName: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\output
+  nameHistory:
+  - new: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.3834249-06:00
+  size: 138
+  aliases: []
+  displayName: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\output
+  mtime: 2025-12-17T23:59:31.8116940-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.3834394-06:00
+- id: 1009
+  canonicalPath: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\root-output
+  total: 4270
+  originalName: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\root-output
+  nameHistory:
+  - new: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.3889011-06:00
+  size: 104
+  aliases: []
+  displayName: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\root-output
+  mtime: 2025-12-17T23:59:32.0624871-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.3889165-06:00
+- id: 1010
+  canonicalPath: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\stderr
+  total: 4270
+  originalName: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\stderr
+  nameHistory:
+  - new: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.3945096-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64\stderr
+  mtime: 2025-12-17T23:59:32.0624871-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.3945230-06:00
+generatedAt: 2025-12-18T01:53:40.4757003-06:00
+fileCount: 4
+folderId: target_debug_build_windows_x86_64_msvc-6a298888f1a7cb64
+folderPath: target\debug\build\windows_x86_64_msvc-6a298888f1a7cb64
+

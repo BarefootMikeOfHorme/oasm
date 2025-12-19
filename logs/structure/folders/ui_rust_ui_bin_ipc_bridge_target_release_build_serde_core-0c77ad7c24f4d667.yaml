@@ -1,0 +1,121 @@
+files:
+- id: 3023
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.6173689-06:00
+  size: 635
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.d
+  mtime: 2025-12-16T21:19:28.8366105-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.6173826-06:00
+- id: 3024
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.exe
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.exe
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.6226709-06:00
+  size: 291840
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.exe
+  mtime: 2025-12-16T21:19:28.9468096-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.6226850-06:00
+- id: 3025
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.6278546-06:00
+  size: 1601536
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build-0c77ad7c24f4d667.pdb
+  mtime: 2025-12-16T21:19:28.9514057-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.6278673-06:00
+- id: 3026
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.6332970-06:00
+  size: 1601536
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build_script_build.pdb
+  mtime: 2025-12-16T21:19:28.9514057-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.6333135-06:00
+- id: 3027
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build-script-build.exe
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build-script-build.exe
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.6388331-06:00
+  size: 291840
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667\build-script-build.exe
+  mtime: 2025-12-16T21:19:28.9468096-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.6388463-06:00
+generatedAt: 2025-12-18T01:53:40.5271345-06:00
+fileCount: 5
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_build_serde_core-0c77ad7c24f4d667
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\build\serde_core-0c77ad7c24f4d667
+

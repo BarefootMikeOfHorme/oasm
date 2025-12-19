@@ -1,0 +1,98 @@
+files:
+- id: 3512
+  canonicalPath: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.3174575-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\invoked.timestamp
+  mtime: 2025-12-16T21:32:22.4973859-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.3174719-06:00
+- id: 3513
+  canonicalPath: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\output
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\output
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.3227230-06:00
+  size: 1061
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\output
+  mtime: 2025-12-16T21:32:22.4973859-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.3227367-06:00
+- id: 3514
+  canonicalPath: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\root-output
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\root-output
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.3280742-06:00
+  size: 124
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\root-output
+  mtime: 2025-12-16T21:32:22.7051178-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.3280908-06:00
+- id: 3515
+  canonicalPath: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\stderr
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\stderr
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.3334932-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9\stderr
+  mtime: 2025-12-16T21:32:22.7041116-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.3335066-06:00
+generatedAt: 2025-12-18T01:53:38.4376674-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_validation_target_release_build_proc-macro2-217cd283ec052dc9
+folderPath: ui\rust_ui\bin\validation\target\release\build\proc-macro2-217cd283ec052dc9
+

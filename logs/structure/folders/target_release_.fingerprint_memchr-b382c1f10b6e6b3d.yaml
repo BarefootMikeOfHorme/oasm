@@ -1,0 +1,98 @@
+files:
+- id: 1875
+  canonicalPath: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\dep-lib-memchr
+  total: 4270
+  originalName: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\dep-lib-memchr
+  nameHistory:
+  - new: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\dep-lib-memchr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2487796-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\dep-lib-memchr
+  mtime: 2025-12-17T23:56:43.4815639-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2487915-06:00
+- id: 1876
+  canonicalPath: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2544092-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.4815639-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2544261-06:00
+- id: 1877
+  canonicalPath: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr
+  total: 4270
+  originalName: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr
+  nameHistory:
+  - new: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2595919-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr
+  mtime: 2025-12-17T23:56:44.6381801-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2596058-06:00
+- id: 1878
+  canonicalPath: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr.json
+  total: 4270
+  originalName: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr.json
+  nameHistory:
+  - new: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2654102-06:00
+  size: 468
+  aliases: []
+  displayName: target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr.json
+  mtime: 2025-12-17T23:56:44.6381801-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2654280-06:00
+generatedAt: 2025-12-18T01:53:37.9509893-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_memchr-b382c1f10b6e6b3d
+folderPath: target\release\.fingerprint\memchr-b382c1f10b6e6b3d
+

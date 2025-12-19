@@ -1,0 +1,535 @@
+files:
+- id: 304
+  canonicalPath: shells\oasm-shell\src\command_blocks.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\command_blocks.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\command_blocks.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3557061-06:00
+  size: 464
+  aliases: []
+  displayName: shells\oasm-shell\src\command_blocks.rs
+  mtime: 2025-12-17T23:44:05.6553900-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3557256-06:00
+- id: 305
+  canonicalPath: shells\oasm-shell\src\command_validation.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\command_validation.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\command_validation.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3617329-06:00
+  size: 309
+  aliases: []
+  displayName: shells\oasm-shell\src\command_validation.rs
+  mtime: 2025-12-17T23:44:05.6461980-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3617531-06:00
+- id: 306
+  canonicalPath: shells\oasm-shell\src\command_visualizer.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\command_visualizer.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\command_visualizer.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3673785-06:00
+  size: 312
+  aliases: []
+  displayName: shells\oasm-shell\src\command_visualizer.rs
+  mtime: 2025-12-17T23:44:05.6508127-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3673959-06:00
+- id: 307
+  canonicalPath: shells\oasm-shell\src\conpty.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\conpty.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\conpty.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3730607-06:00
+  size: 1521
+  aliases: []
+  displayName: shells\oasm-shell\src\conpty.rs
+  mtime: 2025-12-17T19:02:08.4058227-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3730770-06:00
+- id: 308
+  canonicalPath: shells\oasm-shell\src\main.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\main.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\main.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3784358-06:00
+  size: 3107
+  aliases: []
+  displayName: shells\oasm-shell\src\main.rs
+  mtime: 2025-12-17T19:00:30.1991985-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3784515-06:00
+- id: 309
+  canonicalPath: shells\oasm-shell\src\module_dependency.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\module_dependency.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\module_dependency.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3838595-06:00
+  size: 1091
+  aliases: []
+  displayName: shells\oasm-shell\src\module_dependency.rs
+  mtime: 2025-12-17T23:44:05.6431037-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3838751-06:00
+- id: 310
+  canonicalPath: shells\oasm-shell\src\module_docs.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\module_docs.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\module_docs.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3895273-06:00
+  size: 317
+  aliases: []
+  displayName: shells\oasm-shell\src\module_docs.rs
+  mtime: 2025-12-17T23:44:05.6492723-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3895445-06:00
+- id: 311
+  canonicalPath: shells\oasm-shell\src\module_hot_swap.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\module_hot_swap.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\module_hot_swap.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3955689-06:00
+  size: 576
+  aliases: []
+  displayName: shells\oasm-shell\src\module_hot_swap.rs
+  mtime: 2025-12-17T23:44:05.6538611-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3955860-06:00
+- id: 312
+  canonicalPath: shells\oasm-shell\src\module_imports.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\module_imports.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\module_imports.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4010570-06:00
+  size: 514
+  aliases: []
+  displayName: shells\oasm-shell\src\module_imports.rs
+  mtime: 2025-12-17T23:44:05.6569005-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4010735-06:00
+- id: 313
+  canonicalPath: shells\oasm-shell\src\module_packaging.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\module_packaging.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\module_packaging.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4066311-06:00
+  size: 392
+  aliases: []
+  displayName: shells\oasm-shell\src\module_packaging.rs
+  mtime: 2025-12-17T23:44:05.6477157-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4066478-06:00
+- id: 314
+  canonicalPath: shells\oasm-shell\src\module_profiling.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\module_profiling.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\module_profiling.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4119876-06:00
+  size: 347
+  aliases: []
+  displayName: shells\oasm-shell\src\module_profiling.rs
+  mtime: 2025-12-17T23:45:27.4779003-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4120039-06:00
+- id: 315
+  canonicalPath: shells\oasm-shell\src\module_testing.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\module_testing.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\module_testing.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4173176-06:00
+  size: 271
+  aliases: []
+  displayName: shells\oasm-shell\src\module_testing.rs
+  mtime: 2025-12-17T23:45:27.4702876-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4173330-06:00
+- id: 316
+  canonicalPath: shells\oasm-shell\src\python_bridge.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\python_bridge.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\python_bridge.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4227864-06:00
+  size: 2631
+  aliases: []
+  displayName: shells\oasm-shell\src\python_bridge.rs
+  mtime: 2025-12-17T19:02:49.3706282-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4228029-06:00
+- id: 317
+  canonicalPath: shells\oasm-shell\src\router.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\router.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\router.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4280059-06:00
+  size: 3287
+  aliases: []
+  displayName: shells\oasm-shell\src\router.rs
+  mtime: 2025-12-17T19:00:59.7798080-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4280219-06:00
+- id: 318
+  canonicalPath: shells\oasm-shell\src\security.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\security.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\security.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4338327-06:00
+  size: 2190
+  aliases: []
+  displayName: shells\oasm-shell\src\security.rs
+  mtime: 2025-12-17T19:01:48.9934430-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4338479-06:00
+- id: 319
+  canonicalPath: shells\oasm-shell\src\task_audit.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\task_audit.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\task_audit.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4390116-06:00
+  size: 146
+  aliases: []
+  displayName: shells\oasm-shell\src\task_audit.rs
+  mtime: 2025-12-17T23:20:15.3746419-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4390276-06:00
+- id: 320
+  canonicalPath: shells\oasm-shell\src\task_batch.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\task_batch.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\task_batch.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4442774-06:00
+  size: 310
+  aliases: []
+  displayName: shells\oasm-shell\src\task_batch.rs
+  mtime: 2025-12-17T23:16:14.5805326-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4442932-06:00
+- id: 321
+  canonicalPath: shells\oasm-shell\src\task_cancel.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\task_cancel.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\task_cancel.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4496484-06:00
+  size: 121
+  aliases: []
+  displayName: shells\oasm-shell\src\task_cancel.rs
+  mtime: 2025-12-17T23:20:15.3792480-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4496638-06:00
+- id: 322
+  canonicalPath: shells\oasm-shell\src\task_delegate.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\task_delegate.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\task_delegate.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4549925-06:00
+  size: 144
+  aliases: []
+  displayName: shells\oasm-shell\src\task_delegate.rs
+  mtime: 2025-12-17T23:20:15.3761692-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4550084-06:00
+- id: 323
+  canonicalPath: shells\oasm-shell\src\task_hooks.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\task_hooks.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\task_hooks.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4602639-06:00
+  size: 125
+  aliases: []
+  displayName: shells\oasm-shell\src\task_hooks.rs
+  mtime: 2025-12-17T23:20:15.3715932-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4602789-06:00
+- id: 324
+  canonicalPath: shells\oasm-shell\src\task_retry.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\task_retry.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\task_retry.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4654128-06:00
+  size: 400
+  aliases: []
+  displayName: shells\oasm-shell\src\task_retry.rs
+  mtime: 2025-12-17T23:20:15.3802561-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4654282-06:00
+- id: 325
+  canonicalPath: shells\oasm-shell\src\task_scheduler.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\task_scheduler.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\task_scheduler.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4706510-06:00
+  size: 619
+  aliases: []
+  displayName: shells\oasm-shell\src\task_scheduler.rs
+  mtime: 2025-12-17T23:16:14.5851194-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4706665-06:00
+- id: 326
+  canonicalPath: shells\oasm-shell\src\task_tracker.rs
+  total: 4270
+  originalName: shells\oasm-shell\src\task_tracker.rs
+  nameHistory:
+  - new: shells\oasm-shell\src\task_tracker.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4757110-06:00
+  size: 887
+  aliases: []
+  displayName: shells\oasm-shell\src\task_tracker.rs
+  mtime: 2025-12-17T23:16:14.5866444-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4757258-06:00
+generatedAt: 2025-12-18T01:53:41.2902972-06:00
+fileCount: 23
+folderId: shells_oasm-shell_src
+folderPath: shells\oasm-shell\src
+

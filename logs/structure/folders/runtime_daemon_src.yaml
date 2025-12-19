@@ -1,0 +1,742 @@
+files:
+- id: 88
+  canonicalPath: runtime\daemon\src\asm_repl.rs
+  total: 4270
+  originalName: runtime\daemon\src\asm_repl.rs
+  nameHistory:
+  - new: runtime\daemon\src\asm_repl.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1485368-06:00
+  size: 452
+  aliases: []
+  displayName: runtime\daemon\src\asm_repl.rs
+  mtime: 2025-12-17T23:25:38.0104222-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1485551-06:00
+- id: 89
+  canonicalPath: runtime\daemon\src\bin_inspector.rs
+  total: 4270
+  originalName: runtime\daemon\src\bin_inspector.rs
+  nameHistory:
+  - new: runtime\daemon\src\bin_inspector.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1542299-06:00
+  size: 289
+  aliases: []
+  displayName: runtime\daemon\src\bin_inspector.rs
+  mtime: 2025-12-17T23:25:38.0149847-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1542472-06:00
+- id: 90
+  canonicalPath: runtime\daemon\src\build_logs.rs
+  total: 4270
+  originalName: runtime\daemon\src\build_logs.rs
+  nameHistory:
+  - new: runtime\daemon\src\build_logs.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1594986-06:00
+  size: 430
+  aliases: []
+  displayName: runtime\daemon\src\build_logs.rs
+  mtime: 2025-12-17T23:25:38.0165149-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1595174-06:00
+- id: 91
+  canonicalPath: runtime\daemon\src\ci_cd.rs
+  total: 4270
+  originalName: runtime\daemon\src\ci_cd.rs
+  nameHistory:
+  - new: runtime\daemon\src\ci_cd.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1649384-06:00
+  size: 558
+  aliases: []
+  displayName: runtime\daemon\src\ci_cd.rs
+  mtime: 2025-12-17T23:43:18.8497247-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1649556-06:00
+- id: 92
+  canonicalPath: runtime\daemon\src\commit.rs
+  total: 4270
+  originalName: runtime\daemon\src\commit.rs
+  nameHistory:
+  - new: runtime\daemon\src\commit.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1700968-06:00
+  size: 563
+  aliases: []
+  displayName: runtime\daemon\src\commit.rs
+  mtime: 2025-12-17T00:50:03.7306160-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1701140-06:00
+- id: 93
+  canonicalPath: runtime\daemon\src\cond_profiles.rs
+  total: 4270
+  originalName: runtime\daemon\src\cond_profiles.rs
+  nameHistory:
+  - new: runtime\daemon\src\cond_profiles.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1755660-06:00
+  size: 319
+  aliases: []
+  displayName: runtime\daemon\src\cond_profiles.rs
+  mtime: 2025-12-17T23:25:38.0119413-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1755875-06:00
+- id: 94
+  canonicalPath: runtime\daemon\src\converter.rs
+  total: 4270
+  originalName: runtime\daemon\src\converter.rs
+  nameHistory:
+  - new: runtime\daemon\src\converter.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1812913-06:00
+  size: 264
+  aliases: []
+  displayName: runtime\daemon\src\converter.rs
+  mtime: 2025-12-17T00:50:03.8182256-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1813086-06:00
+- id: 95
+  canonicalPath: runtime\daemon\src\daemon.rs
+  total: 4270
+  originalName: runtime\daemon\src\daemon.rs
+  nameHistory:
+  - new: runtime\daemon\src\daemon.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1865528-06:00
+  size: 357
+  aliases: []
+  displayName: runtime\daemon\src\daemon.rs
+  mtime: 2025-12-17T00:50:03.9032102-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1865696-06:00
+- id: 96
+  canonicalPath: runtime\daemon\src\doc_export.rs
+  total: 4270
+  originalName: runtime\daemon\src\doc_export.rs
+  nameHistory:
+  - new: runtime\daemon\src\doc_export.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1920715-06:00
+  size: 291
+  aliases: []
+  displayName: runtime\daemon\src\doc_export.rs
+  mtime: 2025-12-17T23:25:38.0195643-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1920947-06:00
+- id: 97
+  canonicalPath: runtime\daemon\src\handler.rs
+  total: 4270
+  originalName: runtime\daemon\src\handler.rs
+  nameHistory:
+  - new: runtime\daemon\src\handler.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1973275-06:00
+  size: 559
+  aliases: []
+  displayName: runtime\daemon\src\handler.rs
+  mtime: 2025-12-17T00:50:04.0052323-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1973488-06:00
+- id: 98
+  canonicalPath: runtime\daemon\src\inspector.rs
+  total: 4270
+  originalName: runtime\daemon\src\inspector.rs
+  nameHistory:
+  - new: runtime\daemon\src\inspector.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2026250-06:00
+  size: 436
+  aliases: []
+  displayName: runtime\daemon\src\inspector.rs
+  mtime: 2025-12-17T23:43:18.8436398-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2026431-06:00
+- id: 99
+  canonicalPath: runtime\daemon\src\lineage.rs
+  total: 4270
+  originalName: runtime\daemon\src\lineage.rs
+  nameHistory:
+  - new: runtime\daemon\src\lineage.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2082813-06:00
+  size: 962
+  aliases: []
+  displayName: runtime\daemon\src\lineage.rs
+  mtime: 2025-12-17T01:06:18.0281261-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2083040-06:00
+- id: 100
+  canonicalPath: runtime\daemon\src\linker.rs
+  total: 4270
+  originalName: runtime\daemon\src\linker.rs
+  nameHistory:
+  - new: runtime\daemon\src\linker.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2147102-06:00
+  size: 707
+  aliases: []
+  displayName: runtime\daemon\src\linker.rs
+  mtime: 2025-12-17T23:27:45.4154786-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2147288-06:00
+- id: 101
+  canonicalPath: runtime\daemon\src\linter.rs
+  total: 4270
+  originalName: runtime\daemon\src\linter.rs
+  nameHistory:
+  - new: runtime\daemon\src\linter.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2200301-06:00
+  size: 517
+  aliases: []
+  displayName: runtime\daemon\src\linter.rs
+  mtime: 2025-12-17T23:43:18.8512494-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2200505-06:00
+- id: 102
+  canonicalPath: runtime\daemon\src\main.rs
+  total: 4270
+  originalName: runtime\daemon\src\main.rs
+  nameHistory:
+  - new: runtime\daemon\src\main.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2267052-06:00
+  size: 989
+  aliases: []
+  displayName: runtime\daemon\src\main.rs
+  mtime: 2025-12-17T19:31:48.7060223-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2267251-06:00
+- id: 103
+  canonicalPath: runtime\daemon\src\manifest_loader.rs
+  total: 4270
+  originalName: runtime\daemon\src\manifest_loader.rs
+  nameHistory:
+  - new: runtime\daemon\src\manifest_loader.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2319895-06:00
+  size: 9768
+  aliases: []
+  displayName: runtime\daemon\src\manifest_loader.rs
+  mtime: 2025-12-17T19:30:16.0592409-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2320095-06:00
+- id: 104
+  canonicalPath: runtime\daemon\src\parser.rs
+  total: 4270
+  originalName: runtime\daemon\src\parser.rs
+  nameHistory:
+  - new: runtime\daemon\src\parser.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2371254-06:00
+  size: 413
+  aliases: []
+  displayName: runtime\daemon\src\parser.rs
+  mtime: 2025-12-17T00:50:20.8496493-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2371414-06:00
+- id: 105
+  canonicalPath: runtime\daemon\src\plugin_api.rs
+  total: 4270
+  originalName: runtime\daemon\src\plugin_api.rs
+  nameHistory:
+  - new: runtime\daemon\src\plugin_api.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2433634-06:00
+  size: 597
+  aliases: []
+  displayName: runtime\daemon\src\plugin_api.rs
+  mtime: 2025-12-17T23:27:45.4200538-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2433829-06:00
+- id: 106
+  canonicalPath: runtime\daemon\src\profiler.rs
+  total: 4270
+  originalName: runtime\daemon\src\profiler.rs
+  nameHistory:
+  - new: runtime\daemon\src\profiler.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2488441-06:00
+  size: 412
+  aliases: []
+  displayName: runtime\daemon\src\profiler.rs
+  mtime: 2025-12-17T23:27:45.4185286-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2488635-06:00
+- id: 107
+  canonicalPath: runtime\daemon\src\reloc_view.rs
+  total: 4270
+  originalName: runtime\daemon\src\reloc_view.rs
+  nameHistory:
+  - new: runtime\daemon\src\reloc_view.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2547447-06:00
+  size: 289
+  aliases: []
+  displayName: runtime\daemon\src\reloc_view.rs
+  mtime: 2025-12-17T23:25:38.0210917-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2547637-06:00
+- id: 108
+  canonicalPath: runtime\daemon\src\repl.rs
+  total: 4270
+  originalName: runtime\daemon\src\repl.rs
+  nameHistory:
+  - new: runtime\daemon\src\repl.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2604489-06:00
+  size: 668
+  aliases: []
+  displayName: runtime\daemon\src\repl.rs
+  mtime: 2025-12-17T23:43:18.8481995-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2604669-06:00
+- id: 109
+  canonicalPath: runtime\daemon\src\sandbox.rs
+  total: 4270
+  originalName: runtime\daemon\src\sandbox.rs
+  nameHistory:
+  - new: runtime\daemon\src\sandbox.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2659841-06:00
+  size: 471
+  aliases: []
+  displayName: runtime\daemon\src\sandbox.rs
+  mtime: 2025-12-17T23:27:45.4144657-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2660010-06:00
+- id: 110
+  canonicalPath: runtime\daemon\src\simulator.rs
+  total: 4270
+  originalName: runtime\daemon\src\simulator.rs
+  nameHistory:
+  - new: runtime\daemon\src\simulator.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2718656-06:00
+  size: 514
+  aliases: []
+  displayName: runtime\daemon\src\simulator.rs
+  mtime: 2025-12-17T23:27:45.4200538-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2718872-06:00
+- id: 111
+  canonicalPath: runtime\daemon\src\supervisor.rs
+  total: 4270
+  originalName: runtime\daemon\src\supervisor.rs
+  nameHistory:
+  - new: runtime\daemon\src\supervisor.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2771055-06:00
+  size: 2675
+  aliases: []
+  displayName: runtime\daemon\src\supervisor.rs
+  mtime: 2025-12-17T00:53:49.7724640-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2771274-06:00
+- id: 112
+  canonicalPath: runtime\daemon\src\toolchains.rs
+  total: 4270
+  originalName: runtime\daemon\src\toolchains.rs
+  nameHistory:
+  - new: runtime\daemon\src\toolchains.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2825992-06:00
+  size: 716
+  aliases: []
+  displayName: runtime\daemon\src\toolchains.rs
+  mtime: 2025-12-17T23:27:45.4170027-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2826194-06:00
+- id: 113
+  canonicalPath: runtime\daemon\src\types.rs
+  total: 4270
+  originalName: runtime\daemon\src\types.rs
+  nameHistory:
+  - new: runtime\daemon\src\types.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2889748-06:00
+  size: 615
+  aliases: []
+  displayName: runtime\daemon\src\types.rs
+  mtime: 2025-12-17T00:50:21.0089377-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2889946-06:00
+- id: 114
+  canonicalPath: runtime\daemon\src\unit_tests.rs
+  total: 4270
+  originalName: runtime\daemon\src\unit_tests.rs
+  nameHistory:
+  - new: runtime\daemon\src\unit_tests.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.2946241-06:00
+  size: 258
+  aliases: []
+  displayName: runtime\daemon\src\unit_tests.rs
+  mtime: 2025-12-17T23:25:38.0134610-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.2946414-06:00
+- id: 115
+  canonicalPath: runtime\daemon\src\validator.rs
+  total: 4270
+  originalName: runtime\daemon\src\validator.rs
+  nameHistory:
+  - new: runtime\daemon\src\validator.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.3125105-06:00
+  size: 1021
+  aliases: []
+  displayName: runtime\daemon\src\validator.rs
+  mtime: 2025-12-17T01:06:18.0941736-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.3125407-06:00
+- id: 116
+  canonicalPath: runtime\daemon\src\versioning.rs
+  total: 4270
+  originalName: runtime\daemon\src\versioning.rs
+  nameHistory:
+  - new: runtime\daemon\src\versioning.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.3146234-06:00
+  size: 645
+  aliases: []
+  displayName: runtime\daemon\src\versioning.rs
+  mtime: 2025-12-17T23:43:18.8451605-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.3146377-06:00
+- id: 117
+  canonicalPath: runtime\daemon\src\visualizer.rs
+  total: 4270
+  originalName: runtime\daemon\src\visualizer.rs
+  nameHistory:
+  - new: runtime\daemon\src\visualizer.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.3219516-06:00
+  size: 362
+  aliases: []
+  displayName: runtime\daemon\src\visualizer.rs
+  mtime: 2025-12-17T23:43:18.8406093-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.3219680-06:00
+- id: 118
+  canonicalPath: runtime\daemon\src\watch.rs
+  total: 4270
+  originalName: runtime\daemon\src\watch.rs
+  nameHistory:
+  - new: runtime\daemon\src\watch.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.3274809-06:00
+  size: 2178
+  aliases: []
+  displayName: runtime\daemon\src\watch.rs
+  mtime: 2025-12-17T19:06:53.0445369-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.3274997-06:00
+- id: 119
+  canonicalPath: runtime\daemon\src\xref.rs
+  total: 4270
+  originalName: runtime\daemon\src\xref.rs
+  nameHistory:
+  - new: runtime\daemon\src\xref.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.3329771-06:00
+  size: 222
+  aliases: []
+  displayName: runtime\daemon\src\xref.rs
+  mtime: 2025-12-17T23:25:38.0180395-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.3329956-06:00
+generatedAt: 2025-12-18T01:53:39.1504905-06:00
+fileCount: 32
+folderId: runtime_daemon_src
+folderPath: runtime\daemon\src
+

@@ -1,0 +1,98 @@
+files:
+- id: 3108
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\dep-lib-pin_project_lite
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\dep-lib-pin_project_lite
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\dep-lib-pin_project_lite
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.0664940-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\dep-lib-pin_project_lite
+  mtime: 2025-12-16T21:32:16.9470641-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.0665078-06:00
+- id: 3109
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.0717973-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\invoked.timestamp
+  mtime: 2025-12-16T21:32:16.9470641-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.0718116-06:00
+- id: 3110
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\lib-pin_project_lite
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\lib-pin_project_lite
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\lib-pin_project_lite
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.0771884-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\lib-pin_project_lite
+  mtime: 2025-12-16T21:32:17.0421428-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.0772019-06:00
+- id: 3111
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\lib-pin_project_lite.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\lib-pin_project_lite.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\lib-pin_project_lite.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.0830808-06:00
+  size: 412
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212\lib-pin_project_lite.json
+  mtime: 2025-12-16T21:32:17.0421428-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.0830972-06:00
+generatedAt: 2025-12-18T01:53:40.9518669-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_x86_64-pc-windows-msvc_release_.fingerprint_pin-project-lite-89216990a53cf212
+folderPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\pin-project-lite-89216990a53cf212
+

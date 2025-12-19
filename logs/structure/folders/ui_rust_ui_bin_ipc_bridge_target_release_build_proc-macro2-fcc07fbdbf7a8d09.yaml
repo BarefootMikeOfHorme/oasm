@@ -1,0 +1,98 @@
+files:
+- id: 3001
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.4959506-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\invoked.timestamp
+  mtime: 2025-12-16T21:19:29.0285692-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.4959665-06:00
+- id: 3002
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\output
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\output
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5016363-06:00
+  size: 1061
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\output
+  mtime: 2025-12-16T21:19:29.0285692-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5016513-06:00
+- id: 3003
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\root-output
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\root-output
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5071673-06:00
+  size: 124
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\root-output
+  mtime: 2025-12-16T21:19:29.2763928-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5071818-06:00
+- id: 3004
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\stderr
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\stderr
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5126926-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09\stderr
+  mtime: 2025-12-16T21:19:29.2733208-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5127118-06:00
+generatedAt: 2025-12-18T01:53:37.5814140-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_build_proc-macro2-fcc07fbdbf7a8d09
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-fcc07fbdbf7a8d09
+

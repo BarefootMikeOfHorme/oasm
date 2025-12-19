@@ -1,0 +1,9 @@
+{
+  "default": "Fira Code",
+  "sets": {
+    "nerdy": "Fira Code",
+    "classical": "EB Garamond",
+    "creative": "Comic Neue"
+  },
+  "fallbacks": ["Consolas", "Courier New", "Segoe UI"]
+}

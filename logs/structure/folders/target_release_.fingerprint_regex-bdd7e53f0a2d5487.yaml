@@ -1,0 +1,98 @@
+files:
+- id: 1965
+  canonicalPath: target\release\.fingerprint\regex-bdd7e53f0a2d5487\dep-lib-regex
+  total: 4270
+  originalName: target\release\.fingerprint\regex-bdd7e53f0a2d5487\dep-lib-regex
+  nameHistory:
+  - new: target\release\.fingerprint\regex-bdd7e53f0a2d5487\dep-lib-regex
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.7440930-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\regex-bdd7e53f0a2d5487\dep-lib-regex
+  mtime: 2025-12-17T23:56:47.6575999-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.7441074-06:00
+- id: 1966
+  canonicalPath: target\release\.fingerprint\regex-bdd7e53f0a2d5487\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\regex-bdd7e53f0a2d5487\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\regex-bdd7e53f0a2d5487\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.7494324-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\regex-bdd7e53f0a2d5487\invoked.timestamp
+  mtime: 2025-12-17T23:56:47.6575999-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.7494472-06:00
+- id: 1967
+  canonicalPath: target\release\.fingerprint\regex-bdd7e53f0a2d5487\lib-regex
+  total: 4270
+  originalName: target\release\.fingerprint\regex-bdd7e53f0a2d5487\lib-regex
+  nameHistory:
+  - new: target\release\.fingerprint\regex-bdd7e53f0a2d5487\lib-regex
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.7548586-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\regex-bdd7e53f0a2d5487\lib-regex
+  mtime: 2025-12-17T23:56:48.2423934-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.7548733-06:00
+- id: 1968
+  canonicalPath: target\release\.fingerprint\regex-bdd7e53f0a2d5487\lib-regex.json
+  total: 4270
+  originalName: target\release\.fingerprint\regex-bdd7e53f0a2d5487\lib-regex.json
+  nameHistory:
+  - new: target\release\.fingerprint\regex-bdd7e53f0a2d5487\lib-regex.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.7604610-06:00
+  size: 1225
+  aliases: []
+  displayName: target\release\.fingerprint\regex-bdd7e53f0a2d5487\lib-regex.json
+  mtime: 2025-12-17T23:56:48.2423934-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.7604768-06:00
+generatedAt: 2025-12-18T01:53:39.8767316-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_regex-bdd7e53f0a2d5487
+folderPath: target\release\.fingerprint\regex-bdd7e53f0a2d5487
+

@@ -1,0 +1,1593 @@
+files:
+- id: 132
+  canonicalPath: shells\fonts\aileron.zip
+  total: 4270
+  originalName: shells\fonts\aileron.zip
+  nameHistory:
+  - new: shells\fonts\aileron.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4093494-06:00
+  size: 344748
+  aliases: []
+  displayName: shells\fonts\aileron.zip
+  mtime: 2025-12-17T23:08:23.1272623-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4093682-06:00
+- id: 133
+  canonicalPath: shells\fonts\amsterline.zip
+  total: 4270
+  originalName: shells\fonts\amsterline.zip
+  nameHistory:
+  - new: shells\fonts\amsterline.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4147473-06:00
+  size: 211165
+  aliases: []
+  displayName: shells\fonts\amsterline.zip
+  mtime: 2025-12-17T23:09:20.6418159-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4147647-06:00
+- id: 134
+  canonicalPath: shells\fonts\anaphora.zip
+  total: 4270
+  originalName: shells\fonts\anaphora.zip
+  nameHistory:
+  - new: shells\fonts\anaphora.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4199874-06:00
+  size: 4351658
+  aliases: []
+  displayName: shells\fonts\anaphora.zip
+  mtime: 2025-12-17T23:08:43.1821900-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4200046-06:00
+- id: 135
+  canonicalPath: shells\fonts\ancient-geek.zip
+  total: 4270
+  originalName: shells\fonts\ancient-geek.zip
+  nameHistory:
+  - new: shells\fonts\ancient-geek.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4253771-06:00
+  size: 10415
+  aliases: []
+  displayName: shells\fonts\ancient-geek.zip
+  mtime: 2025-12-17T23:07:37.7655203-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4253948-06:00
+- id: 136
+  canonicalPath: shells\fonts\angelos-personal-use.zip
+  total: 4270
+  originalName: shells\fonts\angelos-personal-use.zip
+  nameHistory:
+  - new: shells\fonts\angelos-personal-use.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4305937-06:00
+  size: 2044997
+  aliases: []
+  displayName: shells\fonts\angelos-personal-use.zip
+  mtime: 2025-12-17T23:05:00.7935310-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4306136-06:00
+- id: 137
+  canonicalPath: shells\fonts\archolate.zip
+  total: 4270
+  originalName: shells\fonts\archolate.zip
+  nameHistory:
+  - new: shells\fonts\archolate.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4358063-06:00
+  size: 2321058
+  aliases: []
+  displayName: shells\fonts\archolate.zip
+  mtime: 2025-12-17T23:05:43.3898465-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4358213-06:00
+- id: 138
+  canonicalPath: shells\fonts\arfindes-orthem-demo.zip
+  total: 4270
+  originalName: shells\fonts\arfindes-orthem-demo.zip
+  nameHistory:
+  - new: shells\fonts\arfindes-orthem-demo.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4413617-06:00
+  size: 23939
+  aliases: []
+  displayName: shells\fonts\arfindes-orthem-demo.zip
+  mtime: 2025-12-17T23:06:10.0298282-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4413807-06:00
+- id: 139
+  canonicalPath: shells\fonts\ballmain.zip
+  total: 4270
+  originalName: shells\fonts\ballmain.zip
+  nameHistory:
+  - new: shells\fonts\ballmain.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4464913-06:00
+  size: 4087125
+  aliases: []
+  displayName: shells\fonts\ballmain.zip
+  mtime: 2025-12-17T23:09:12.8891475-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4465081-06:00
+- id: 140
+  canonicalPath: shells\fonts\better-grade.zip
+  total: 4270
+  originalName: shells\fonts\better-grade.zip
+  nameHistory:
+  - new: shells\fonts\better-grade.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4520205-06:00
+  size: 418919
+  aliases: []
+  displayName: shells\fonts\better-grade.zip
+  mtime: 2025-12-17T23:08:33.9146503-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4520371-06:00
+- id: 141
+  canonicalPath: shells\fonts\betty-dolls.zip
+  total: 4270
+  originalName: shells\fonts\betty-dolls.zip
+  nameHistory:
+  - new: shells\fonts\betty-dolls.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4571587-06:00
+  size: 64612
+  aliases: []
+  displayName: shells\fonts\betty-dolls.zip
+  mtime: 2025-12-17T23:05:48.3767641-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4571752-06:00
+- id: 142
+  canonicalPath: shells\fonts\bidena-trial.zip
+  total: 4270
+  originalName: shells\fonts\bidena-trial.zip
+  nameHistory:
+  - new: shells\fonts\bidena-trial.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4623584-06:00
+  size: 135931
+  aliases: []
+  displayName: shells\fonts\bidena-trial.zip
+  mtime: 2025-12-17T23:05:03.4782450-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4623741-06:00
+- id: 143
+  canonicalPath: shells\fonts\caesar-dressing.zip
+  total: 4270
+  originalName: shells\fonts\caesar-dressing.zip
+  nameHistory:
+  - new: shells\fonts\caesar-dressing.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4675022-06:00
+  size: 42643
+  aliases: []
+  displayName: shells\fonts\caesar-dressing.zip
+  mtime: 2025-12-17T23:07:35.2508325-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4675187-06:00
+- id: 144
+  canonicalPath: shells\fonts\christmas-twinkle-personal-use.zip
+  total: 4270
+  originalName: shells\fonts\christmas-twinkle-personal-use.zip
+  nameHistory:
+  - new: shells\fonts\christmas-twinkle-personal-use.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4728616-06:00
+  size: 1314422
+  aliases: []
+  displayName: shells\fonts\christmas-twinkle-personal-use.zip
+  mtime: 2025-12-17T23:05:21.6020850-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4728786-06:00
+- id: 146
+  canonicalPath: shells\fonts\coplifher.zip
+  total: 4270
+  originalName: shells\fonts\coplifher.zip
+  nameHistory:
+  - new: shells\fonts\coplifher.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4832781-06:00
+  size: 61119
+  aliases: []
+  displayName: shells\fonts\coplifher.zip
+  mtime: 2025-12-17T23:06:30.2172065-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4832952-06:00
+- id: 223
+  canonicalPath: shells\fonts\death-star.zip
+  total: 4270
+  originalName: shells\fonts\death-star.zip
+  nameHistory:
+  - new: shells\fonts\death-star.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9046206-06:00
+  size: 1392363
+  aliases: []
+  displayName: shells\fonts\death-star.zip
+  mtime: 2025-12-17T23:12:01.1370653-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9046398-06:00
+- id: 224
+  canonicalPath: shells\fonts\early-quake-demo.zip
+  total: 4270
+  originalName: shells\fonts\early-quake-demo.zip
+  nameHistory:
+  - new: shells\fonts\early-quake-demo.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9096986-06:00
+  size: 15428
+  aliases: []
+  displayName: shells\fonts\early-quake-demo.zip
+  mtime: 2025-12-17T23:06:57.6796508-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9097160-06:00
+- id: 225
+  canonicalPath: shells\fonts\epicgant.zip
+  total: 4270
+  originalName: shells\fonts\epicgant.zip
+  nameHistory:
+  - new: shells\fonts\epicgant.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9149277-06:00
+  size: 13503
+  aliases: []
+  displayName: shells\fonts\epicgant.zip
+  mtime: 2025-12-17T23:06:01.4234520-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9149439-06:00
+- id: 226
+  canonicalPath: shells\fonts\eroded-personal-use.zip
+  total: 4270
+  originalName: shells\fonts\eroded-personal-use.zip
+  nameHistory:
+  - new: shells\fonts\eroded-personal-use.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9207345-06:00
+  size: 2354640
+  aliases: []
+  displayName: shells\fonts\eroded-personal-use.zip
+  mtime: 2025-12-17T23:09:15.2023004-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9207508-06:00
+- id: 227
+  canonicalPath: shells\fonts\exo.zip
+  total: 4270
+  originalName: shells\fonts\exo.zip
+  nameHistory:
+  - new: shells\fonts\exo.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9261577-06:00
+  size: 961990
+  aliases: []
+  displayName: shells\fonts\exo.zip
+  mtime: 2025-12-17T23:08:24.9948493-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9261740-06:00
+- id: 228
+  canonicalPath: shells\fonts\ferro-rosso.zip
+  total: 4270
+  originalName: shells\fonts\ferro-rosso.zip
+  nameHistory:
+  - new: shells\fonts\ferro-rosso.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9321101-06:00
+  size: 34613
+  aliases: []
+  displayName: shells\fonts\ferro-rosso.zip
+  mtime: 2025-12-17T23:11:53.9081062-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9321285-06:00
+- id: 229
+  canonicalPath: shells\fonts\firlest.zip
+  total: 4270
+  originalName: shells\fonts\firlest.zip
+  nameHistory:
+  - new: shells\fonts\firlest.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9379951-06:00
+  size: 24299
+  aliases: []
+  displayName: shells\fonts\firlest.zip
+  mtime: 2025-12-17T23:05:07.0798245-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9380117-06:00
+- id: 230
+  canonicalPath: shells\fonts\fonts.json
+  total: 4270
+  originalName: shells\fonts\fonts.json
+  nameHistory:
+  - new: shells\fonts\fonts.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9434285-06:00
+  size: 190
+  aliases: []
+  displayName: shells\fonts\fonts.json
+  mtime: 2025-12-17T22:57:31.9812907-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9434446-06:00
+- id: 231
+  canonicalPath: shells\fonts\gelio.zip
+  total: 4270
+  originalName: shells\fonts\gelio.zip
+  nameHistory:
+  - new: shells\fonts\gelio.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9489626-06:00
+  size: 451169
+  aliases: []
+  displayName: shells\fonts\gelio.zip
+  mtime: 2025-12-17T23:07:45.8607828-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9489792-06:00
+- id: 232
+  canonicalPath: shells\fonts\geraldine-personal-use.zip
+  total: 4270
+  originalName: shells\fonts\geraldine-personal-use.zip
+  nameHistory:
+  - new: shells\fonts\geraldine-personal-use.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9543800-06:00
+  size: 1917516
+  aliases: []
+  displayName: shells\fonts\geraldine-personal-use.zip
+  mtime: 2025-12-17T23:08:58.0924060-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9543966-06:00
+- id: 233
+  canonicalPath: shells\fonts\gondens-demo.zip
+  total: 4270
+  originalName: shells\fonts\gondens-demo.zip
+  nameHistory:
+  - new: shells\fonts\gondens-demo.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9597270-06:00
+  size: 6623
+  aliases: []
+  displayName: shells\fonts\gondens-demo.zip
+  mtime: 2025-12-17T23:04:43.4348413-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9597440-06:00
+- id: 234
+  canonicalPath: shells\fonts\greek-freak (1).zip
+  total: 4270
+  originalName: shells\fonts\greek-freak (1).zip
+  nameHistory:
+  - new: shells\fonts\greek-freak (1).zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9651663-06:00
+  size: 914418
+  aliases: []
+  displayName: shells\fonts\greek-freak (1).zip
+  mtime: 2025-12-17T23:07:58.8129232-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9651831-06:00
+- id: 235
+  canonicalPath: shells\fonts\greek-freak.zip
+  total: 4270
+  originalName: shells\fonts\greek-freak.zip
+  nameHistory:
+  - new: shells\fonts\greek-freak.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9706830-06:00
+  size: 914418
+  aliases: []
+  displayName: shells\fonts\greek-freak.zip
+  mtime: 2025-12-17T23:07:34.0402002-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9707000-06:00
+- id: 236
+  canonicalPath: shells\fonts\homoarakhn.zip
+  total: 4270
+  originalName: shells\fonts\homoarakhn.zip
+  nameHistory:
+  - new: shells\fonts\homoarakhn.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9764275-06:00
+  size: 9097
+  aliases: []
+  displayName: shells\fonts\homoarakhn.zip
+  mtime: 2025-12-17T23:11:59.5802829-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9764436-06:00
+- id: 237
+  canonicalPath: shells\fonts\hugsiot-demo.zip
+  total: 4270
+  originalName: shells\fonts\hugsiot-demo.zip
+  nameHistory:
+  - new: shells\fonts\hugsiot-demo.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9820006-06:00
+  size: 46295
+  aliases: []
+  displayName: shells\fonts\hugsiot-demo.zip
+  mtime: 2025-12-17T23:06:26.4837331-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9820170-06:00
+- id: 238
+  canonicalPath: shells\fonts\ibm-plex-sans-condensed.zip
+  total: 4270
+  originalName: shells\fonts\ibm-plex-sans-condensed.zip
+  nameHistory:
+  - new: shells\fonts\ibm-plex-sans-condensed.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9874915-06:00
+  size: 678107
+  aliases: []
+  displayName: shells\fonts\ibm-plex-sans-condensed.zip
+  mtime: 2025-12-17T23:08:38.2390957-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9875079-06:00
+- id: 239
+  canonicalPath: shells\fonts\ibm-plex-sans.zip
+  total: 4270
+  originalName: shells\fonts\ibm-plex-sans.zip
+  nameHistory:
+  - new: shells\fonts\ibm-plex-sans.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9934351-06:00
+  size: 947065
+  aliases: []
+  displayName: shells\fonts\ibm-plex-sans.zip
+  mtime: 2025-12-17T23:08:29.0589469-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9934510-06:00
+- id: 240
+  canonicalPath: shells\fonts\kugile.zip
+  total: 4270
+  originalName: shells\fonts\kugile.zip
+  nameHistory:
+  - new: shells\fonts\kugile.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.9985605-06:00
+  size: 5000485
+  aliases: []
+  displayName: shells\fonts\kugile.zip
+  mtime: 2025-12-17T23:04:58.4756356-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.9985769-06:00
+- id: 241
+  canonicalPath: shells\fonts\kultum-ramadhan (1).zip
+  total: 4270
+  originalName: shells\fonts\kultum-ramadhan (1).zip
+  nameHistory:
+  - new: shells\fonts\kultum-ramadhan (1).zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0039847-06:00
+  size: 19675
+  aliases: []
+  displayName: shells\fonts\kultum-ramadhan (1).zip
+  mtime: 2025-12-17T23:09:57.6891952-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0040060-06:00
+- id: 242
+  canonicalPath: shells\fonts\kultum-ramadhan.zip
+  total: 4270
+  originalName: shells\fonts\kultum-ramadhan.zip
+  nameHistory:
+  - new: shells\fonts\kultum-ramadhan.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0099292-06:00
+  size: 19675
+  aliases: []
+  displayName: shells\fonts\kultum-ramadhan.zip
+  mtime: 2025-12-17T23:05:10.6211294-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0099465-06:00
+- id: 243
+  canonicalPath: shells\fonts\load_fonts.ps1
+  total: 4270
+  originalName: shells\fonts\load_fonts.ps1
+  nameHistory:
+  - new: shells\fonts\load_fonts.ps1
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0152685-06:00
+  size: 125
+  aliases: []
+  displayName: shells\fonts\load_fonts.ps1
+  mtime: 2025-12-17T22:57:32.0225883-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0152842-06:00
+- id: 244
+  canonicalPath: shells\fonts\load_fonts.sh
+  total: 4270
+  originalName: shells\fonts\load_fonts.sh
+  nameHistory:
+  - new: shells\fonts\load_fonts.sh
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0212578-06:00
+  size: 93
+  aliases: []
+  displayName: shells\fonts\load_fonts.sh
+  mtime: 2025-12-17T22:57:32.0501480-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0212744-06:00
+- id: 245
+  canonicalPath: shells\fonts\loyalneha-demo.zip
+  total: 4270
+  originalName: shells\fonts\loyalneha-demo.zip
+  nameHistory:
+  - new: shells\fonts\loyalneha-demo.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0267181-06:00
+  size: 43639
+  aliases: []
+  displayName: shells\fonts\loyalneha-demo.zip
+  mtime: 2025-12-17T23:05:31.0639759-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0267371-06:00
+- id: 246
+  canonicalPath: shells\fonts\macedonia.zip
+  total: 4270
+  originalName: shells\fonts\macedonia.zip
+  nameHistory:
+  - new: shells\fonts\macedonia.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0325286-06:00
+  size: 27960
+  aliases: []
+  displayName: shells\fonts\macedonia.zip
+  mtime: 2025-12-17T23:07:39.4651506-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0325450-06:00
+- id: 247
+  canonicalPath: shells\fonts\magic-school.zip
+  total: 4270
+  originalName: shells\fonts\magic-school.zip
+  nameHistory:
+  - new: shells\fonts\magic-school.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0380611-06:00
+  size: 124192
+  aliases: []
+  displayName: shells\fonts\magic-school.zip
+  mtime: 2025-12-17T23:11:56.4236323-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0380778-06:00
+- id: 248
+  canonicalPath: shells\fonts\mistletoe-magic-personal-use.zip
+  total: 4270
+  originalName: shells\fonts\mistletoe-magic-personal-use.zip
+  nameHistory:
+  - new: shells\fonts\mistletoe-magic-personal-use.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0438291-06:00
+  size: 1969901
+  aliases: []
+  displayName: shells\fonts\mistletoe-magic-personal-use.zip
+  mtime: 2025-12-17T23:05:21.3661225-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0438497-06:00
+- id: 249
+  canonicalPath: shells\fonts\moglandemo.zip
+  total: 4270
+  originalName: shells\fonts\moglandemo.zip
+  nameHistory:
+  - new: shells\fonts\moglandemo.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0495947-06:00
+  size: 5725501
+  aliases: []
+  displayName: shells\fonts\moglandemo.zip
+  mtime: 2025-12-17T23:05:27.3944788-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0496130-06:00
+- id: 250
+  canonicalPath: shells\fonts\ncl-gasdrifo (1).zip
+  total: 4270
+  originalName: shells\fonts\ncl-gasdrifo (1).zip
+  nameHistory:
+  - new: shells\fonts\ncl-gasdrifo (1).zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0555548-06:00
+  size: 30371
+  aliases: []
+  displayName: shells\fonts\ncl-gasdrifo (1).zip
+  mtime: 2025-12-17T23:08:57.9215561-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0555738-06:00
+- id: 251
+  canonicalPath: shells\fonts\ncl-gasdrifo.zip
+  total: 4270
+  originalName: shells\fonts\ncl-gasdrifo.zip
+  nameHistory:
+  - new: shells\fonts\ncl-gasdrifo.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0611007-06:00
+  size: 30371
+  aliases: []
+  displayName: shells\fonts\ncl-gasdrifo.zip
+  mtime: 2025-12-17T23:05:08.9440528-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0611196-06:00
+- id: 275
+  canonicalPath: shells\fonts\norse.zip
+  total: 4270
+  originalName: shells\fonts\norse.zip
+  nameHistory:
+  - new: shells\fonts\norse.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.1924184-06:00
+  size: 50880
+  aliases: []
+  displayName: shells\fonts\norse.zip
+  mtime: 2025-12-17T23:07:58.0084607-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.1924337-06:00
+- id: 276
+  canonicalPath: shells\fonts\ocean-trace-personal-use.zip
+  total: 4270
+  originalName: shells\fonts\ocean-trace-personal-use.zip
+  nameHistory:
+  - new: shells\fonts\ocean-trace-personal-use.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.1979423-06:00
+  size: 1156733
+  aliases: []
+  displayName: shells\fonts\ocean-trace-personal-use.zip
+  mtime: 2025-12-17T23:05:12.7349773-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.1979576-06:00
+- id: 277
+  canonicalPath: shells\fonts\palisade.zip
+  total: 4270
+  originalName: shells\fonts\palisade.zip
+  nameHistory:
+  - new: shells\fonts\palisade.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2038150-06:00
+  size: 2892253
+  aliases: []
+  displayName: shells\fonts\palisade.zip
+  mtime: 2025-12-17T23:05:15.8350884-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2038303-06:00
+- id: 278
+  canonicalPath: shells\fonts\parry-hotter.zip
+  total: 4270
+  originalName: shells\fonts\parry-hotter.zip
+  nameHistory:
+  - new: shells\fonts\parry-hotter.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2092012-06:00
+  size: 56783
+  aliases: []
+  displayName: shells\fonts\parry-hotter.zip
+  mtime: 2025-12-17T23:11:52.5301693-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2092169-06:00
+- id: 279
+  canonicalPath: shells\fonts\perfecto-calligraphy-personal-use.zip
+  total: 4270
+  originalName: shells\fonts\perfecto-calligraphy-personal-use.zip
+  nameHistory:
+  - new: shells\fonts\perfecto-calligraphy-personal-use.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2148845-06:00
+  size: 9337836
+  aliases: []
+  displayName: shells\fonts\perfecto-calligraphy-personal-use.zip
+  mtime: 2025-12-17T23:04:57.5302734-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2149017-06:00
+- id: 280
+  canonicalPath: shells\fonts\phitagate.zip
+  total: 4270
+  originalName: shells\fonts\phitagate.zip
+  nameHistory:
+  - new: shells\fonts\phitagate.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2205141-06:00
+  size: 4959939
+  aliases: []
+  displayName: shells\fonts\phitagate.zip
+  mtime: 2025-12-17T23:08:29.9373537-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2205317-06:00
+- id: 281
+  canonicalPath: shells\fonts\poppins.zip
+  total: 4270
+  originalName: shells\fonts\poppins.zip
+  nameHistory:
+  - new: shells\fonts\poppins.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2258685-06:00
+  size: 1289944
+  aliases: []
+  displayName: shells\fonts\poppins.zip
+  mtime: 2025-12-17T23:08:19.7956879-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2258858-06:00
+- id: 282
+  canonicalPath: shells\fonts\quivert.zip
+  total: 4270
+  originalName: shells\fonts\quivert.zip
+  nameHistory:
+  - new: shells\fonts\quivert.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2323198-06:00
+  size: 93117
+  aliases: []
+  displayName: shells\fonts\quivert.zip
+  mtime: 2025-12-17T23:05:25.2501110-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2323381-06:00
+- id: 283
+  canonicalPath: shells\fonts\race-sport.zip
+  total: 4270
+  originalName: shells\fonts\race-sport.zip
+  nameHistory:
+  - new: shells\fonts\race-sport.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2381350-06:00
+  size: 17927
+  aliases: []
+  displayName: shells\fonts\race-sport.zip
+  mtime: 2025-12-17T23:10:06.2870525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2381518-06:00
+- id: 285
+  canonicalPath: shells\fonts\raleway.zip
+  total: 4270
+  originalName: shells\fonts\raleway.zip
+  nameHistory:
+  - new: shells\fonts\raleway.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2502918-06:00
+  size: 534356
+  aliases: []
+  displayName: shells\fonts\raleway.zip
+  mtime: 2025-12-17T23:08:21.4966467-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2503067-06:00
+- id: 286
+  canonicalPath: shells\fonts\raw-delta-hand-street.zip
+  total: 4270
+  originalName: shells\fonts\raw-delta-hand-street.zip
+  nameHistory:
+  - new: shells\fonts\raw-delta-hand-street.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2557116-06:00
+  size: 1806342
+  aliases: []
+  displayName: shells\fonts\raw-delta-hand-street.zip
+  mtime: 2025-12-17T23:08:09.7084181-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2557273-06:00
+- id: 287
+  canonicalPath: shells\fonts\README.md
+  total: 4270
+  originalName: shells\fonts\README.md
+  nameHistory:
+  - new: shells\fonts\README.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2611510-06:00
+  size: 374
+  aliases: []
+  displayName: shells\fonts\README.md
+  mtime: 2025-12-17T22:57:32.1080715-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2611673-06:00
+- id: 288
+  canonicalPath: shells\fonts\rostex.zip
+  total: 4270
+  originalName: shells\fonts\rostex.zip
+  nameHistory:
+  - new: shells\fonts\rostex.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2664838-06:00
+  size: 254113
+  aliases: []
+  displayName: shells\fonts\rostex.zip
+  mtime: 2025-12-17T23:09:57.2039686-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2664986-06:00
+- id: 289
+  canonicalPath: shells\fonts\runytunesrevisited.zip
+  total: 4270
+  originalName: shells\fonts\runytunesrevisited.zip
+  nameHistory:
+  - new: shells\fonts\runytunesrevisited.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2720860-06:00
+  size: 28853
+  aliases: []
+  displayName: shells\fonts\runytunesrevisited.zip
+  mtime: 2025-12-17T23:08:00.6455867-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2721035-06:00
+- id: 290
+  canonicalPath: shells\fonts\rustic-roadway-personal-use.zip
+  total: 4270
+  originalName: shells\fonts\rustic-roadway-personal-use.zip
+  nameHistory:
+  - new: shells\fonts\rustic-roadway-personal-use.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2773083-06:00
+  size: 1363520
+  aliases: []
+  displayName: shells\fonts\rustic-roadway-personal-use.zip
+  mtime: 2025-12-17T23:04:50.0683827-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2773258-06:00
+- id: 291
+  canonicalPath: shells\fonts\satisfactory.zip
+  total: 4270
+  originalName: shells\fonts\satisfactory.zip
+  nameHistory:
+  - new: shells\fonts\satisfactory.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2825593-06:00
+  size: 217706
+  aliases: []
+  displayName: shells\fonts\satisfactory.zip
+  mtime: 2025-12-17T23:06:04.1336311-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2825758-06:00
+- id: 292
+  canonicalPath: shells\fonts\shock-surgent.zip
+  total: 4270
+  originalName: shells\fonts\shock-surgent.zip
+  nameHistory:
+  - new: shells\fonts\shock-surgent.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2878649-06:00
+  size: 14996
+  aliases: []
+  displayName: shells\fonts\shock-surgent.zip
+  mtime: 2025-12-17T23:10:05.0370445-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2878808-06:00
+- id: 294
+  canonicalPath: shells\fonts\sprintura-demo.zip
+  total: 4270
+  originalName: shells\fonts\sprintura-demo.zip
+  nameHistory:
+  - new: shells\fonts\sprintura-demo.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.2981822-06:00
+  size: 9252
+  aliases: []
+  displayName: shells\fonts\sprintura-demo.zip
+  mtime: 2025-12-17T23:09:55.9488077-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.2981976-06:00
+- id: 295
+  canonicalPath: shells\fonts\symphonie-calligraphy-demo.zip
+  total: 4270
+  originalName: shells\fonts\symphonie-calligraphy-demo.zip
+  nameHistory:
+  - new: shells\fonts\symphonie-calligraphy-demo.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3035898-06:00
+  size: 2772769
+  aliases: []
+  displayName: shells\fonts\symphonie-calligraphy-demo.zip
+  mtime: 2025-12-17T23:09:00.9059136-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3036047-06:00
+- id: 296
+  canonicalPath: shells\fonts\the-black-knight.zip
+  total: 4270
+  originalName: shells\fonts\the-black-knight.zip
+  nameHistory:
+  - new: shells\fonts\the-black-knight.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3089152-06:00
+  size: 201062
+  aliases: []
+  displayName: shells\fonts\the-black-knight.zip
+  mtime: 2025-12-17T23:06:07.8753878-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3089320-06:00
+- id: 297
+  canonicalPath: shells\fonts\thunky-demo.zip
+  total: 4270
+  originalName: shells\fonts\thunky-demo.zip
+  nameHistory:
+  - new: shells\fonts\thunky-demo.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3142440-06:00
+  size: 12619
+  aliases: []
+  displayName: shells\fonts\thunky-demo.zip
+  mtime: 2025-12-17T23:09:21.1663015-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3142600-06:00
+- id: 298
+  canonicalPath: shells\fonts\transcity.zip
+  total: 4270
+  originalName: shells\fonts\transcity.zip
+  nameHistory:
+  - new: shells\fonts\transcity.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3198371-06:00
+  size: 15452
+  aliases: []
+  displayName: shells\fonts\transcity.zip
+  mtime: 2025-12-17T23:04:48.6806131-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3198530-06:00
+- id: 299
+  canonicalPath: shells\fonts\vineora.zip
+  total: 4270
+  originalName: shells\fonts\vineora.zip
+  nameHistory:
+  - new: shells\fonts\vineora.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3252946-06:00
+  size: 277018
+  aliases: []
+  displayName: shells\fonts\vineora.zip
+  mtime: 2025-12-17T23:06:15.6136566-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3253105-06:00
+- id: 300
+  canonicalPath: shells\fonts\vipnagorgialla.zip
+  total: 4270
+  originalName: shells\fonts\vipnagorgialla.zip
+  nameHistory:
+  - new: shells\fonts\vipnagorgialla.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3308593-06:00
+  size: 297242
+  aliases: []
+  displayName: shells\fonts\vipnagorgialla.zip
+  mtime: 2025-12-17T23:10:03.9263840-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3308771-06:00
+- id: 301
+  canonicalPath: shells\fonts\whispering-signature-personal-use.zip
+  total: 4270
+  originalName: shells\fonts\whispering-signature-personal-use.zip
+  nameHistory:
+  - new: shells\fonts\whispering-signature-personal-use.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3367269-06:00
+  size: 1652575
+  aliases: []
+  displayName: shells\fonts\whispering-signature-personal-use.zip
+  mtime: 2025-12-17T23:07:15.4289879-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3367432-06:00
+- id: 302
+  canonicalPath: shells\fonts\zaslia.zip
+  total: 4270
+  originalName: shells\fonts\zaslia.zip
+  nameHistory:
+  - new: shells\fonts\zaslia.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.3430040-06:00
+  size: 1380642
+  aliases: []
+  displayName: shells\fonts\zaslia.zip
+  mtime: 2025-12-17T23:04:58.7094765-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.3430213-06:00
+generatedAt: 2025-12-18T01:53:37.7389137-06:00
+fileCount: 69
+folderId: shells_fonts
+folderPath: shells\fonts
+

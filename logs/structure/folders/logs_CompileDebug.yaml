@@ -1,0 +1,52 @@
+files:
+- id: 56
+  canonicalPath: logs\CompileDebug\diagnostic_20251217_232923.log
+  total: 4270
+  originalName: logs\CompileDebug\diagnostic_20251217_232923.log
+  nameHistory:
+  - new: logs\CompileDebug\diagnostic_20251217_232923.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9645863-06:00
+  size: 316
+  aliases: []
+  displayName: logs\CompileDebug\diagnostic_20251217_232923.log
+  mtime: 2025-12-17T23:29:26.7881237-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9646032-06:00
+- id: 57
+  canonicalPath: logs\CompileDebug\structure_20251217_232923.log
+  total: 4270
+  originalName: logs\CompileDebug\structure_20251217_232923.log
+  nameHistory:
+  - new: logs\CompileDebug\structure_20251217_232923.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9699763-06:00
+  size: 35274
+  aliases: []
+  displayName: logs\CompileDebug\structure_20251217_232923.log
+  mtime: 2025-12-17T23:29:26.6687159-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9699929-06:00
+generatedAt: 2025-12-18T01:53:40.0719648-06:00
+fileCount: 2
+folderId: logs_CompileDebug
+folderPath: logs\CompileDebug
+

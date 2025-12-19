@@ -1,0 +1,121 @@
+files:
+- id: 2207
+  canonicalPath: target\release\build\generic-array-a3ecbb38810396fe\build_script_build-a3ecbb38810396fe.d
+  total: 4270
+  originalName: target\release\build\generic-array-a3ecbb38810396fe\build_script_build-a3ecbb38810396fe.d
+  nameHistory:
+  - new: target\release\build\generic-array-a3ecbb38810396fe\build_script_build-a3ecbb38810396fe.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.0969133-06:00
+  size: 595
+  aliases: []
+  displayName: target\release\build\generic-array-a3ecbb38810396fe\build_script_build-a3ecbb38810396fe.d
+  mtime: 2025-12-17T23:56:44.2420332-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.0969337-06:00
+- id: 2208
+  canonicalPath: target\release\build\generic-array-a3ecbb38810396fe\build_script_build-a3ecbb38810396fe.exe
+  total: 4270
+  originalName: target\release\build\generic-array-a3ecbb38810396fe\build_script_build-a3ecbb38810396fe.exe
+  nameHistory:
+  - new: target\release\build\generic-array-a3ecbb38810396fe\build_script_build-a3ecbb38810396fe.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.1033133-06:00
+  size: 299008
+  aliases: []
+  displayName: target\release\build\generic-array-a3ecbb38810396fe\build_script_build-a3ecbb38810396fe.exe
+  mtime: 2025-12-17T23:56:44.3248809-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.1033327-06:00
+- id: 2209
+  canonicalPath: target\release\build\generic-array-a3ecbb38810396fe\build_script_build-a3ecbb38810396fe.pdb
+  total: 4270
+  originalName: target\release\build\generic-array-a3ecbb38810396fe\build_script_build-a3ecbb38810396fe.pdb
+  nameHistory:
+  - new: target\release\build\generic-array-a3ecbb38810396fe\build_script_build-a3ecbb38810396fe.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.1089979-06:00
+  size: 1609728
+  aliases: []
+  displayName: target\release\build\generic-array-a3ecbb38810396fe\build_script_build-a3ecbb38810396fe.pdb
+  mtime: 2025-12-17T23:56:44.3295308-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.1090190-06:00
+- id: 2210
+  canonicalPath: target\release\build\generic-array-a3ecbb38810396fe\build_script_build.pdb
+  total: 4270
+  originalName: target\release\build\generic-array-a3ecbb38810396fe\build_script_build.pdb
+  nameHistory:
+  - new: target\release\build\generic-array-a3ecbb38810396fe\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.1144131-06:00
+  size: 1609728
+  aliases: []
+  displayName: target\release\build\generic-array-a3ecbb38810396fe\build_script_build.pdb
+  mtime: 2025-12-17T23:56:44.3295308-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.1144295-06:00
+- id: 2211
+  canonicalPath: target\release\build\generic-array-a3ecbb38810396fe\build-script-build.exe
+  total: 4270
+  originalName: target\release\build\generic-array-a3ecbb38810396fe\build-script-build.exe
+  nameHistory:
+  - new: target\release\build\generic-array-a3ecbb38810396fe\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.1203831-06:00
+  size: 299008
+  aliases: []
+  displayName: target\release\build\generic-array-a3ecbb38810396fe\build-script-build.exe
+  mtime: 2025-12-17T23:56:44.3248809-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.1203993-06:00
+generatedAt: 2025-12-18T01:53:40.1690223-06:00
+fileCount: 5
+folderId: target_release_build_generic-array-a3ecbb38810396fe
+folderPath: target\release\build\generic-array-a3ecbb38810396fe
+

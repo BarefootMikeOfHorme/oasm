@@ -1,0 +1,144 @@
+files:
+- id: 263
+  canonicalPath: shells\fonts\nerdy\FiraCode\woff\FiraCode-Bold.woff
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\woff\FiraCode-Bold.woff
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\woff\FiraCode-Bold.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.1264411-06:00
+  size: 138492
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\woff\FiraCode-Bold.woff
+  mtime: 2021-12-06T20:57:14.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.1264572-06:00
+- id: 264
+  canonicalPath: shells\fonts\nerdy\FiraCode\woff\FiraCode-Light.woff
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\woff\FiraCode-Light.woff
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\woff\FiraCode-Light.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.1319143-06:00
+  size: 131052
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\woff\FiraCode-Light.woff
+  mtime: 2021-12-06T20:57:16.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.1319313-06:00
+- id: 265
+  canonicalPath: shells\fonts\nerdy\FiraCode\woff\FiraCode-Medium.woff
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\woff\FiraCode-Medium.woff
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\woff\FiraCode-Medium.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.1375415-06:00
+  size: 130732
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\woff\FiraCode-Medium.woff
+  mtime: 2021-12-06T20:57:16.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.1375584-06:00
+- id: 266
+  canonicalPath: shells\fonts\nerdy\FiraCode\woff\FiraCode-Regular.woff
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\woff\FiraCode-Regular.woff
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\woff\FiraCode-Regular.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.1429189-06:00
+  size: 131556
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\woff\FiraCode-Regular.woff
+  mtime: 2021-12-06T20:57:16.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.1429360-06:00
+- id: 267
+  canonicalPath: shells\fonts\nerdy\FiraCode\woff\FiraCode-SemiBold.woff
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\woff\FiraCode-SemiBold.woff
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\woff\FiraCode-SemiBold.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.1482932-06:00
+  size: 137160
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\woff\FiraCode-SemiBold.woff
+  mtime: 2021-12-06T20:57:16.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.1483096-06:00
+- id: 268
+  canonicalPath: shells\fonts\nerdy\FiraCode\woff\FiraCode-VF.woff
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\woff\FiraCode-VF.woff
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\woff\FiraCode-VF.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.1537300-06:00
+  size: 138576
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\woff\FiraCode-VF.woff
+  mtime: 2021-12-06T20:57:16.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.1537466-06:00
+generatedAt: 2025-12-18T01:53:40.9094233-06:00
+fileCount: 6
+folderId: shells_fonts_nerdy_FiraCode_woff
+folderPath: shells\fonts\nerdy\FiraCode\woff
+

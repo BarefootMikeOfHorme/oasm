@@ -1,0 +1,52 @@
+files:
+- id: 221
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue\ComicNeue_Italics.glyphs
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue\ComicNeue_Italics.glyphs
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue\ComicNeue_Italics.glyphs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8931276-06:00
+  size: 1947676
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue\ComicNeue_Italics.glyphs
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8931441-06:00
+- id: 222
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue\ComicNeue_Roman.glyphs
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue\ComicNeue_Roman.glyphs
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue\ComicNeue_Roman.glyphs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8988824-06:00
+  size: 1391269
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue\ComicNeue_Roman.glyphs
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8988994-06:00
+generatedAt: 2025-12-18T01:53:39.0966199-06:00
+fileCount: 2
+folderId: shells_fonts_creative_ComicNeue_comicneue-master_Source_ComicNeue
+folderPath: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue
+

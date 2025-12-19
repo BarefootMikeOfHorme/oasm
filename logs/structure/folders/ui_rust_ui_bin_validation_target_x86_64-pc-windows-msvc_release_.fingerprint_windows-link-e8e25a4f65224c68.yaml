@@ -1,0 +1,98 @@
+files:
+- id: 3620
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\dep-lib-windows_link
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\dep-lib-windows_link
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\dep-lib-windows_link
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9299435-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\dep-lib-windows_link
+  mtime: 2025-12-16T21:32:22.2830369-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9299563-06:00
+- id: 3621
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9355621-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\invoked.timestamp
+  mtime: 2025-12-16T21:32:22.2830369-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9355763-06:00
+- id: 3622
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\lib-windows_link
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\lib-windows_link
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\lib-windows_link
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9408611-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\lib-windows_link
+  mtime: 2025-12-16T21:32:22.3365370-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9408753-06:00
+- id: 3623
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\lib-windows_link.json
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\lib-windows_link.json
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\lib-windows_link.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9465191-06:00
+  size: 404
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68\lib-windows_link.json
+  mtime: 2025-12-16T21:32:22.3380847-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9465327-06:00
+generatedAt: 2025-12-18T01:53:39.9032996-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_validation_target_x86_64-pc-windows-msvc_release_.fingerprint_windows-link-e8e25a4f65224c68
+folderPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\windows-link-e8e25a4f65224c68
+

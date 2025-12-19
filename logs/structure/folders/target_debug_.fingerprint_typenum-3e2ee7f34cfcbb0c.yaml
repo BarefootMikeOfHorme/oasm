@@ -1,0 +1,98 @@
+files:
+- id: 784
+  canonicalPath: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\build-script-build-script-build
+  total: 4270
+  originalName: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\build-script-build-script-build
+  nameHistory:
+  - new: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.0894471-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\build-script-build-script-build
+  mtime: 2025-12-17T23:59:31.8666358-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.0894615-06:00
+- id: 785
+  canonicalPath: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\build-script-build-script-build.json
+  total: 4270
+  originalName: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\build-script-build-script-build.json
+  nameHistory:
+  - new: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.0950334-06:00
+  size: 486
+  aliases: []
+  displayName: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\build-script-build-script-build.json
+  mtime: 2025-12-17T23:59:31.8681669-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.0950477-06:00
+- id: 786
+  canonicalPath: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\dep-build-script-build-script-build
+  total: 4270
+  originalName: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\dep-build-script-build-script-build
+  nameHistory:
+  - new: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\dep-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.1005486-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\dep-build-script-build-script-build
+  mtime: 2025-12-17T23:59:31.3026000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.1005625-06:00
+- id: 787
+  canonicalPath: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.1059352-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.3026000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.1059497-06:00
+generatedAt: 2025-12-18T01:53:40.9284114-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_typenum-3e2ee7f34cfcbb0c
+folderPath: target\debug\.fingerprint\typenum-3e2ee7f34cfcbb0c
+

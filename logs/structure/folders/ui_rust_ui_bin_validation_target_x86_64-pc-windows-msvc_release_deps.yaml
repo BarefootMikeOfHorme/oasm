@@ -1,0 +1,1501 @@
+files:
+- id: 3628
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\aho_corasick-09b2330f1d11cf33.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\aho_corasick-09b2330f1d11cf33.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\aho_corasick-09b2330f1d11cf33.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9728203-06:00
+  size: 13814
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\aho_corasick-09b2330f1d11cf33.d
+  mtime: 2025-12-16T21:19:33.8010843-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9728341-06:00
+- id: 3629
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\cfg_if-2bf20875c555123c.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\cfg_if-2bf20875c555123c.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\cfg_if-2bf20875c555123c.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9790711-06:00
+  size: 840
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\cfg_if-2bf20875c555123c.d
+  mtime: 2025-12-16T21:32:22.3118045-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9790956-06:00
+- id: 3630
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\lazy_static-a0ef20d316af5f85.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\lazy_static-a0ef20d316af5f85.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\lazy_static-a0ef20d316af5f85.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9850027-06:00
+  size: 1328
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\lazy_static-a0ef20d316af5f85.d
+  mtime: 2025-12-16T21:32:22.3226793-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9850182-06:00
+- id: 3631
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libaho_corasick-09b2330f1d11cf33.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libaho_corasick-09b2330f1d11cf33.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libaho_corasick-09b2330f1d11cf33.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9904018-06:00
+  size: 2885018
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libaho_corasick-09b2330f1d11cf33.rlib
+  mtime: 2025-12-16T21:19:35.5569588-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9904164-06:00
+- id: 3632
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libaho_corasick-09b2330f1d11cf33.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libaho_corasick-09b2330f1d11cf33.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libaho_corasick-09b2330f1d11cf33.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9963029-06:00
+  size: 2004152
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libaho_corasick-09b2330f1d11cf33.rmeta
+  mtime: 2025-12-16T21:19:34.3121327-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9963179-06:00
+- id: 3633
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0014506-06:00
+  size: 6148
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rlib
+  mtime: 2025-12-16T21:32:22.3242171-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0014680-06:00
+- id: 3634
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0066703-06:00
+  size: 5351
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rmeta
+  mtime: 2025-12-16T21:32:22.3148712-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0066844-06:00
+- id: 3635
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0120921-06:00
+  size: 20554
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rlib
+  mtime: 2025-12-16T21:32:22.3536148-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0121059-06:00
+- id: 3636
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0172376-06:00
+  size: 19748
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rmeta
+  mtime: 2025-12-16T21:32:22.3334967-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0172500-06:00
+- id: 3637
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0226903-06:00
+  size: 232164
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rlib
+  mtime: 2025-12-16T21:32:22.4602778-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0227037-06:00
+- id: 3638
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0284592-06:00
+  size: 217851
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rmeta
+  mtime: 2025-12-16T21:32:22.3903574-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0284734-06:00
+- id: 3639
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libmemchr-35402bcd2ca2e2c5.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libmemchr-35402bcd2ca2e2c5.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libmemchr-35402bcd2ca2e2c5.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0339489-06:00
+  size: 1419220
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libmemchr-35402bcd2ca2e2c5.rlib
+  mtime: 2025-12-16T21:19:33.7218138-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0339626-06:00
+- id: 3640
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libmemchr-35402bcd2ca2e2c5.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libmemchr-35402bcd2ca2e2c5.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libmemchr-35402bcd2ca2e2c5.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0393020-06:00
+  size: 1343885
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libmemchr-35402bcd2ca2e2c5.rmeta
+  mtime: 2025-12-16T21:19:33.4246434-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0393169-06:00
+- id: 3641
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0446030-06:00
+  size: 356866
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rlib
+  mtime: 2025-12-16T21:32:23.3057331-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0446171-06:00
+- id: 3642
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0497491-06:00
+  size: 263383
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rmeta
+  mtime: 2025-12-16T21:32:23.1559326-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0497625-06:00
+- id: 3643
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0550284-06:00
+  size: 230066
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rlib
+  mtime: 2025-12-16T21:32:22.4418149-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0550416-06:00
+- id: 3644
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0602821-06:00
+  size: 225267
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rmeta
+  mtime: 2025-12-16T21:32:22.3918908-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0602958-06:00
+- id: 3645
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0656721-06:00
+  size: 94976
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rlib
+  mtime: 2025-12-16T21:32:22.3659073-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0656852-06:00
+- id: 3646
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0709272-06:00
+  size: 94142
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rmeta
+  mtime: 2025-12-16T21:32:22.3350068-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0709412-06:00
+- id: 3647
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_automata-5e4d427afbe578ca.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_automata-5e4d427afbe578ca.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_automata-5e4d427afbe578ca.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0761755-06:00
+  size: 5921940
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_automata-5e4d427afbe578ca.rlib
+  mtime: 2025-12-16T21:19:37.7743044-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0761890-06:00
+- id: 3648
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_automata-5e4d427afbe578ca.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_automata-5e4d427afbe578ca.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_automata-5e4d427afbe578ca.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0814587-06:00
+  size: 3649084
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_automata-5e4d427afbe578ca.rmeta
+  mtime: 2025-12-16T21:19:36.6403722-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0814722-06:00
+- id: 3649
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_syntax-660b4a95ca3d9947.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_syntax-660b4a95ca3d9947.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_syntax-660b4a95ca3d9947.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0865755-06:00
+  size: 8915736
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_syntax-660b4a95ca3d9947.rlib
+  mtime: 2025-12-16T21:19:35.6860034-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0865892-06:00
+- id: 3650
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_syntax-660b4a95ca3d9947.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_syntax-660b4a95ca3d9947.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_syntax-660b4a95ca3d9947.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0924097-06:00
+  size: 4776332
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex_syntax-660b4a95ca3d9947.rmeta
+  mtime: 2025-12-16T21:19:34.6671366-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0924273-06:00
+- id: 3651
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex-dc4a99bebf571541.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex-dc4a99bebf571541.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex-dc4a99bebf571541.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.0977149-06:00
+  size: 1082866
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex-dc4a99bebf571541.rlib
+  mtime: 2025-12-16T21:19:37.3052953-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.0977290-06:00
+- id: 3652
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex-dc4a99bebf571541.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex-dc4a99bebf571541.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex-dc4a99bebf571541.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1033537-06:00
+  size: 737203
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libregex-dc4a99bebf571541.rmeta
+  mtime: 2025-12-16T21:19:36.9904719-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1033714-06:00
+- id: 3653
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1118707-06:00
+  size: 1138862
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rlib
+  mtime: 2025-12-16T21:32:22.7943838-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1118842-06:00
+- id: 3654
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1172936-06:00
+  size: 1120089
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rmeta
+  mtime: 2025-12-16T21:32:22.7286354-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1173073-06:00
+- id: 3655
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1229936-06:00
+  size: 308052
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rlib
+  mtime: 2025-12-16T21:32:22.4556849-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1230099-06:00
+- id: 3656
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1285681-06:00
+  size: 302538
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rmeta
+  mtime: 2025-12-16T21:32:22.4204177-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1285848-06:00
+- id: 3657
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1346032-06:00
+  size: 148166
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rlib
+  mtime: 2025-12-16T21:32:22.5081754-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1346226-06:00
+- id: 3658
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1398302-06:00
+  size: 118850
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rmeta
+  mtime: 2025-12-16T21:32:22.4131992-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1398474-06:00
+- id: 3659
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1468039-06:00
+  size: 837880
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rlib
+  mtime: 2025-12-16T21:32:22.8111936-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1468185-06:00
+- id: 3660
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1531435-06:00
+  size: 612029
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rmeta
+  mtime: 2025-12-16T21:32:22.6178812-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1531652-06:00
+- id: 3661
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1587538-06:00
+  size: 157622
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rlib
+  mtime: 2025-12-16T21:32:22.8005160-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1587760-06:00
+- id: 3662
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1637011-06:00
+  size: 71090
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rmeta
+  mtime: 2025-12-16T21:32:22.6943720-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1637167-06:00
+- id: 3663
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1690772-06:00
+  size: 2698980
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rlib
+  mtime: 2025-12-16T21:32:24.1052349-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1690918-06:00
+- id: 3664
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1742354-06:00
+  size: 1994550
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rmeta
+  mtime: 2025-12-16T21:32:23.7541824-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1742490-06:00
+- id: 3665
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1796131-06:00
+  size: 606000
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rlib
+  mtime: 2025-12-16T21:32:25.8287892-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1796283-06:00
+- id: 3666
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1849550-06:00
+  size: 566423
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rmeta
+  mtime: 2025-12-16T21:32:25.6964467-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1849687-06:00
+- id: 3667
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1901164-06:00
+  size: 5678
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rlib
+  mtime: 2025-12-16T21:32:22.3165435-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1901304-06:00
+- id: 3668
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.1961340-06:00
+  size: 4870
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rmeta
+  mtime: 2025-12-16T21:32:22.3086844-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.1961474-06:00
+- id: 3669
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2013988-06:00
+  size: 5417972
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rlib
+  mtime: 2025-12-16T21:32:23.1862836-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2014131-06:00
+- id: 3670
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2064541-06:00
+  size: 5162263
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rmeta
+  mtime: 2025-12-16T21:32:23.0256553-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2064678-06:00
+- id: 3671
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\log-a7aec9dbeb240a2c.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\log-a7aec9dbeb240a2c.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\log-a7aec9dbeb240a2c.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2123127-06:00
+  size: 2062
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\log-a7aec9dbeb240a2c.d
+  mtime: 2025-12-16T21:32:22.3273371-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2123310-06:00
+- id: 3672
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\memchr-35402bcd2ca2e2c5.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\memchr-35402bcd2ca2e2c5.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\memchr-35402bcd2ca2e2c5.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2176607-06:00
+  size: 12630
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\memchr-35402bcd2ca2e2c5.d
+  mtime: 2025-12-16T21:19:33.2109836-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2176747-06:00
+- id: 3673
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\nu_ansi_term-67c431682bd0d0e5.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\nu_ansi_term-67c431682bd0d0e5.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\nu_ansi_term-67c431682bd0d0e5.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2229984-06:00
+  size: 5288
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\nu_ansi_term-67c431682bd0d0e5.d
+  mtime: 2025-12-16T21:32:23.0651982-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2230118-06:00
+- id: 3674
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\once_cell-3ae5a1e518aa2f58.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\once_cell-3ae5a1e518aa2f58.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\once_cell-3ae5a1e518aa2f58.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2281518-06:00
+  size: 1719
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\once_cell-3ae5a1e518aa2f58.d
+  mtime: 2025-12-16T21:32:22.3196191-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2281661-06:00
+- id: 3675
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\pin_project_lite-89216990a53cf212.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\pin_project_lite-89216990a53cf212.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\pin_project_lite-89216990a53cf212.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2333610-06:00
+  size: 914
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\pin_project_lite-89216990a53cf212.d
+  mtime: 2025-12-16T21:32:22.3257956-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2333751-06:00
+- id: 3676
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\regex_automata-5e4d427afbe578ca.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\regex_automata-5e4d427afbe578ca.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\regex_automata-5e4d427afbe578ca.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2384618-06:00
+  size: 28790
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\regex_automata-5e4d427afbe578ca.d
+  mtime: 2025-12-16T21:19:35.4761858-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2384753-06:00
+- id: 3677
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\regex_syntax-660b4a95ca3d9947.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\regex_syntax-660b4a95ca3d9947.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\regex_syntax-660b4a95ca3d9947.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2436014-06:00
+  size: 15236
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\regex_syntax-660b4a95ca3d9947.d
+  mtime: 2025-12-16T21:19:33.6851407-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2436147-06:00
+- id: 3678
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\regex-dc4a99bebf571541.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\regex-dc4a99bebf571541.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\regex-dc4a99bebf571541.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2487043-06:00
+  size: 5127
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\regex-dc4a99bebf571541.d
+  mtime: 2025-12-16T21:19:36.7919896-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2487210-06:00
+- id: 3679
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\sharded_slab-6b2cecb3c80f8bdf.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\sharded_slab-6b2cecb3c80f8bdf.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\sharded_slab-6b2cecb3c80f8bdf.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2538502-06:00
+  size: 6138
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\sharded_slab-6b2cecb3c80f8bdf.d
+  mtime: 2025-12-16T21:32:22.3870153-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2538641-06:00
+- id: 3680
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\smallvec-a37044c9c37fd36d.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\smallvec-a37044c9c37fd36d.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\smallvec-a37044c9c37fd36d.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2591734-06:00
+  size: 858
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\smallvec-a37044c9c37fd36d.d
+  mtime: 2025-12-16T21:32:22.3288782-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2591874-06:00
+- id: 3681
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\thread_local-126fe458abf29f36.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\thread_local-126fe458abf29f36.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\thread_local-126fe458abf29f36.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2643989-06:00
+  size: 2225
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\thread_local-126fe458abf29f36.d
+  mtime: 2025-12-16T21:32:22.3489578-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2644120-06:00
+- id: 3682
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing_core-128a2308ee3c9b81.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing_core-128a2308ee3c9b81.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing_core-128a2308ee3c9b81.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2694429-06:00
+  size: 4879
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing_core-128a2308ee3c9b81.d
+  mtime: 2025-12-16T21:32:22.4418149-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2694568-06:00
+- id: 3683
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing_log-7499bad4d043cf18.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing_log-7499bad4d043cf18.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing_log-7499bad4d043cf18.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2746443-06:00
+  size: 1324
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing_log-7499bad4d043cf18.d
+  mtime: 2025-12-16T21:32:22.6451137-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2746580-06:00
+- id: 3684
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing_subscriber-8c2aa38e587ad2e7.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing_subscriber-8c2aa38e587ad2e7.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing_subscriber-8c2aa38e587ad2e7.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2797739-06:00
+  size: 16203
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing_subscriber-8c2aa38e587ad2e7.d
+  mtime: 2025-12-16T21:32:23.2368442-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2797874-06:00
+- id: 3685
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing-1b8171e4465a6a9e.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing-1b8171e4465a6a9e.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing-1b8171e4465a6a9e.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2849819-06:00
+  size: 3862
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\tracing-1b8171e4465a6a9e.d
+  mtime: 2025-12-16T21:32:25.6426943-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2849955-06:00
+- id: 3686
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2901142-06:00
+  size: 294
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.d
+  mtime: 2025-12-16T21:32:25.9398317-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2901277-06:00
+- id: 3687
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.2952911-06:00
+  size: 1927168
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.dll
+  mtime: 2025-12-16T21:32:26.2829251-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.2953036-06:00
+- id: 3688
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.dll.exp
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.dll.exp
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3004786-06:00
+  size: 1078
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.dll.exp
+  mtime: 2025-12-16T21:32:26.2533854-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3004917-06:00
+- id: 3689
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.dll.lib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.dll.lib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3056281-06:00
+  size: 1956
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.dll.lib
+  mtime: 2025-12-16T21:32:26.2549350-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3056429-06:00
+- id: 3690
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3113359-06:00
+  size: 2256896
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\validation.pdb
+  mtime: 2025-12-16T21:32:26.2854705-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3113494-06:00
+- id: 3691
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\windows_link-e8e25a4f65224c68.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\windows_link-e8e25a4f65224c68.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\windows_link-e8e25a4f65224c68.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3164624-06:00
+  size: 1331
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\windows_link-e8e25a4f65224c68.d
+  mtime: 2025-12-16T21:32:22.3056168-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3164758-06:00
+- id: 3692
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\windows_sys-a6b199fa7eb2b116.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\windows_sys-a6b199fa7eb2b116.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\windows_sys-a6b199fa7eb2b116.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3217836-06:00
+  size: 5889
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps\windows_sys-a6b199fa7eb2b116.d
+  mtime: 2025-12-16T21:32:22.4464295-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3217967-06:00
+generatedAt: 2025-12-18T01:53:37.1731103-06:00
+fileCount: 65
+folderId: ui_rust_ui_bin_validation_target_x86_64-pc-windows-msvc_release_deps
+folderPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\deps
+

@@ -1,0 +1,75 @@
+files:
+- id: 253
+  canonicalPath: shells\fonts\nerdy\FiraCode\fira_code.css
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\fira_code.css
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\fira_code.css
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0719727-06:00
+  size: 1368
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\fira_code.css
+  mtime: 2021-12-06T20:57:14.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0719888-06:00
+- id: 254
+  canonicalPath: shells\fonts\nerdy\FiraCode\README.txt
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\README.txt
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\README.txt
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0772711-06:00
+  size: 21793
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\README.txt
+  mtime: 2021-12-06T20:57:14.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0772906-06:00
+- id: 255
+  canonicalPath: shells\fonts\nerdy\FiraCode\specimen.html
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\specimen.html
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\specimen.html
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0825290-06:00
+  size: 3188
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\specimen.html
+  mtime: 2021-12-06T20:57:14.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0825449-06:00
+generatedAt: 2025-12-18T01:53:37.3305366-06:00
+fileCount: 3
+folderId: shells_fonts_nerdy_FiraCode
+folderPath: shells\fonts\nerdy\FiraCode
+

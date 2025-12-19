@@ -1,0 +1,98 @@
+files:
+- id: 3991
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\dep-lib-windows_link
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\dep-lib-windows_link
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\dep-lib-windows_link
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.9651778-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\dep-lib-windows_link
+  mtime: 2025-12-16T22:47:38.9619746-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.9651917-06:00
+- id: 3992
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.9707965-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\invoked.timestamp
+  mtime: 2025-12-16T22:47:38.9619746-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.9708120-06:00
+- id: 3993
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.9762071-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link
+  mtime: 2025-12-16T22:47:39.0193850-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.9762209-06:00
+- id: 3994
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.9815501-06:00
+  size: 362
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link.json
+  mtime: 2025-12-16T22:47:39.0193850-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.9815648-06:00
+generatedAt: 2025-12-18T01:53:41.9620624-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_windows-link-a6b7ba4bf106afb3
+folderPath: ui\rust_ui\target\release\.fingerprint\windows-link-a6b7ba4bf106afb3
+

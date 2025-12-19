@@ -1,0 +1,121 @@
+files:
+- id: 2317
+  canonicalPath: target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.d
+  total: 4270
+  originalName: target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.d
+  nameHistory:
+  - new: target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7200652-06:00
+  size: 565
+  aliases: []
+  displayName: target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.d
+  mtime: 2025-12-17T23:56:43.5725862-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7200871-06:00
+- id: 2318
+  canonicalPath: target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.exe
+  total: 4270
+  originalName: target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.exe
+  nameHistory:
+  - new: target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7260825-06:00
+  size: 211456
+  aliases: []
+  displayName: target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.exe
+  mtime: 2025-12-17T23:56:43.8689838-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7260996-06:00
+- id: 2319
+  canonicalPath: target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.pdb
+  total: 4270
+  originalName: target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.pdb
+  nameHistory:
+  - new: target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7319751-06:00
+  size: 1363968
+  aliases: []
+  displayName: target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.pdb
+  mtime: 2025-12-17T23:56:43.8725179-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7319912-06:00
+- id: 2320
+  canonicalPath: target\release\build\typenum-955267c7dc6a6d12\build_script_build.pdb
+  total: 4270
+  originalName: target\release\build\typenum-955267c7dc6a6d12\build_script_build.pdb
+  nameHistory:
+  - new: target\release\build\typenum-955267c7dc6a6d12\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7374805-06:00
+  size: 1363968
+  aliases: []
+  displayName: target\release\build\typenum-955267c7dc6a6d12\build_script_build.pdb
+  mtime: 2025-12-17T23:56:43.8725179-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7374957-06:00
+- id: 2321
+  canonicalPath: target\release\build\typenum-955267c7dc6a6d12\build-script-build.exe
+  total: 4270
+  originalName: target\release\build\typenum-955267c7dc6a6d12\build-script-build.exe
+  nameHistory:
+  - new: target\release\build\typenum-955267c7dc6a6d12\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7428946-06:00
+  size: 211456
+  aliases: []
+  displayName: target\release\build\typenum-955267c7dc6a6d12\build-script-build.exe
+  mtime: 2025-12-17T23:56:43.8689838-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7429099-06:00
+generatedAt: 2025-12-18T01:53:37.6246301-06:00
+fileCount: 5
+folderId: target_release_build_typenum-955267c7dc6a6d12
+folderPath: target\release\build\typenum-955267c7dc6a6d12
+

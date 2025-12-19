@@ -1,0 +1,98 @@
+files:
+- id: 816
+  canonicalPath: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\dep-lib-winapi_util
+  total: 4270
+  originalName: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\dep-lib-winapi_util
+  nameHistory:
+  - new: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\dep-lib-winapi_util
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.2705509-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\dep-lib-winapi_util
+  mtime: 2025-12-17T23:59:33.6371525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.2705655-06:00
+- id: 817
+  canonicalPath: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.2765146-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\invoked.timestamp
+  mtime: 2025-12-17T23:59:33.6371525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.2765294-06:00
+- id: 818
+  canonicalPath: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\lib-winapi_util
+  total: 4270
+  originalName: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\lib-winapi_util
+  nameHistory:
+  - new: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\lib-winapi_util
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.2822296-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\lib-winapi_util
+  mtime: 2025-12-17T23:59:33.8598170-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.2822431-06:00
+- id: 819
+  canonicalPath: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\lib-winapi_util.json
+  total: 4270
+  originalName: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\lib-winapi_util.json
+  nameHistory:
+  - new: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\lib-winapi_util.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.2880063-06:00
+  size: 421
+  aliases: []
+  displayName: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e\lib-winapi_util.json
+  mtime: 2025-12-17T23:59:33.8613553-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.2880206-06:00
+generatedAt: 2025-12-18T01:53:40.6822931-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_winapi-util-cd01e91a0cb1145e
+folderPath: target\debug\.fingerprint\winapi-util-cd01e91a0cb1145e
+

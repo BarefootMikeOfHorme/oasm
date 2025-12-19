@@ -1,0 +1,98 @@
+files:
+- id: 3903
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\dep-lib-sha2
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\dep-lib-sha2
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\dep-lib-sha2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.4901336-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\dep-lib-sha2
+  mtime: 2025-12-16T22:47:40.6997866-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.4901480-06:00
+- id: 3904
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.4954482-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\invoked.timestamp
+  mtime: 2025-12-16T22:47:40.6997866-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.4954626-06:00
+- id: 3905
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\lib-sha2
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\lib-sha2
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\lib-sha2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.5008003-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\lib-sha2
+  mtime: 2025-12-16T22:47:41.5416831-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.5008173-06:00
+- id: 3906
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\lib-sha2.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\lib-sha2.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\lib-sha2.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.5067306-06:00
+  size: 689
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b\lib-sha2.json
+  mtime: 2025-12-16T22:47:41.5416831-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.5067509-06:00
+generatedAt: 2025-12-18T01:53:38.8088895-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_sha2-1f7e76754d88cf2b
+folderPath: ui\rust_ui\target\release\.fingerprint\sha2-1f7e76754d88cf2b
+

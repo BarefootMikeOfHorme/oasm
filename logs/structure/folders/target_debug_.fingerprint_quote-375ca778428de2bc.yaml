@@ -1,0 +1,98 @@
+files:
+- id: 626
+  canonicalPath: target\debug\.fingerprint\quote-375ca778428de2bc\build-script-build-script-build
+  total: 4270
+  originalName: target\debug\.fingerprint\quote-375ca778428de2bc\build-script-build-script-build
+  nameHistory:
+  - new: target\debug\.fingerprint\quote-375ca778428de2bc\build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.1557285-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\quote-375ca778428de2bc\build-script-build-script-build
+  mtime: 2025-12-17T23:59:31.7321380-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.1557420-06:00
+- id: 627
+  canonicalPath: target\debug\.fingerprint\quote-375ca778428de2bc\build-script-build-script-build.json
+  total: 4270
+  originalName: target\debug\.fingerprint\quote-375ca778428de2bc\build-script-build-script-build.json
+  nameHistory:
+  - new: target\debug\.fingerprint\quote-375ca778428de2bc\build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.1613646-06:00
+  size: 422
+  aliases: []
+  displayName: target\debug\.fingerprint\quote-375ca778428de2bc\build-script-build-script-build.json
+  mtime: 2025-12-17T23:59:31.7325438-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.1613782-06:00
+- id: 628
+  canonicalPath: target\debug\.fingerprint\quote-375ca778428de2bc\dep-build-script-build-script-build
+  total: 4270
+  originalName: target\debug\.fingerprint\quote-375ca778428de2bc\dep-build-script-build-script-build
+  nameHistory:
+  - new: target\debug\.fingerprint\quote-375ca778428de2bc\dep-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.1673813-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\quote-375ca778428de2bc\dep-build-script-build-script-build
+  mtime: 2025-12-17T23:59:31.2995469-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.1674028-06:00
+- id: 629
+  canonicalPath: target\debug\.fingerprint\quote-375ca778428de2bc\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\quote-375ca778428de2bc\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\quote-375ca778428de2bc\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.1747096-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\quote-375ca778428de2bc\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.2995469-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.1747344-06:00
+generatedAt: 2025-12-18T01:53:40.2528262-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_quote-375ca778428de2bc
+folderPath: target\debug\.fingerprint\quote-375ca778428de2bc
+

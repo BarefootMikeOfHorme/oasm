@@ -1,0 +1,98 @@
+files:
+- id: 3556
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\dep-lib-log
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\dep-lib-log
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\dep-lib-log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.5755436-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\dep-lib-log
+  mtime: 2025-12-16T21:32:22.2840411-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.5755588-06:00
+- id: 3557
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.5812440-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\invoked.timestamp
+  mtime: 2025-12-16T21:32:22.2840411-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.5812604-06:00
+- id: 3558
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.5867835-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log
+  mtime: 2025-12-16T21:32:22.4772879-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.5867980-06:00
+- id: 3559
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log.json
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log.json
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.5921982-06:00
+  size: 888
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log.json
+  mtime: 2025-12-16T21:32:22.4788306-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.5922133-06:00
+generatedAt: 2025-12-18T01:53:36.3071676-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_validation_target_x86_64-pc-windows-msvc_release_.fingerprint_log-a7aec9dbeb240a2c
+folderPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c
+

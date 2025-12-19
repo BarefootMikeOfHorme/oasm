@@ -1,0 +1,834 @@
+files:
+- id: 3038
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-9c813890e2e09801.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-9c813890e2e09801.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-9c813890e2e09801.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.6985668-06:00
+  size: 1258918
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-9c813890e2e09801.rlib
+  mtime: 2025-12-16T21:32:17.6875860-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.6985828-06:00
+- id: 3039
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-9c813890e2e09801.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-9c813890e2e09801.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-9c813890e2e09801.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7060160-06:00
+  size: 330522
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-9c813890e2e09801.rmeta
+  mtime: 2025-12-16T21:32:17.5900550-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7060308-06:00
+- id: 3040
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-e55808a20d5733db.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-e55808a20d5733db.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-e55808a20d5733db.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7098516-06:00
+  size: 1260504
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-e55808a20d5733db.rlib
+  mtime: 2025-12-16T21:19:29.5941638-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7098691-06:00
+- id: 3041
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-e55808a20d5733db.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-e55808a20d5733db.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-e55808a20d5733db.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7152064-06:00
+  size: 330522
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libproc_macro2-e55808a20d5733db.rmeta
+  mtime: 2025-12-16T21:19:29.4902944-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7152196-06:00
+- id: 3042
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-263e71b94e9daa4a.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-263e71b94e9daa4a.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-263e71b94e9daa4a.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7205158-06:00
+  size: 520334
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-263e71b94e9daa4a.rlib
+  mtime: 2025-12-16T21:19:29.6369519-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7205302-06:00
+- id: 3043
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-263e71b94e9daa4a.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-263e71b94e9daa4a.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-263e71b94e9daa4a.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7256864-06:00
+  size: 269461
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-263e71b94e9daa4a.rmeta
+  mtime: 2025-12-16T21:19:29.5834183-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7256997-06:00
+- id: 3044
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-9a4452c95c758e4e.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-9a4452c95c758e4e.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-9a4452c95c758e4e.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7309987-06:00
+  size: 520334
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-9a4452c95c758e4e.rlib
+  mtime: 2025-12-16T21:32:17.7454567-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7310134-06:00
+- id: 3045
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-9a4452c95c758e4e.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-9a4452c95c758e4e.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-9a4452c95c758e4e.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7361486-06:00
+  size: 269461
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libquote-9a4452c95c758e4e.rmeta
+  mtime: 2025-12-16T21:32:17.6860682-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7361626-06:00
+- id: 3046
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-529c2672401828a0.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-529c2672401828a0.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-529c2672401828a0.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7412463-06:00
+  size: 12059760
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-529c2672401828a0.rlib
+  mtime: 2025-12-16T21:32:19.7250239-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7412600-06:00
+- id: 3047
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-529c2672401828a0.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-529c2672401828a0.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-529c2672401828a0.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7464695-06:00
+  size: 4035544
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-529c2672401828a0.rmeta
+  mtime: 2025-12-16T21:32:19.4094963-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7464830-06:00
+- id: 3048
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-c3460a236ba4a1ae.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-c3460a236ba4a1ae.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-c3460a236ba4a1ae.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7517701-06:00
+  size: 6493738
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-c3460a236ba4a1ae.rlib
+  mtime: 2025-12-16T21:19:30.6819415-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7517845-06:00
+- id: 3049
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-c3460a236ba4a1ae.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-c3460a236ba4a1ae.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-c3460a236ba4a1ae.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7568561-06:00
+  size: 2212699
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libsyn-c3460a236ba4a1ae.rmeta
+  mtime: 2025-12-16T21:19:30.4496463-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7568697-06:00
+- id: 3050
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libunicode_ident-88c85478ec3e2b69.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libunicode_ident-88c85478ec3e2b69.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libunicode_ident-88c85478ec3e2b69.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7621105-06:00
+  size: 51126
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libunicode_ident-88c85478ec3e2b69.rlib
+  mtime: 2025-12-16T21:19:28.8863651-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7621267-06:00
+- id: 3051
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\libunicode_ident-88c85478ec3e2b69.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libunicode_ident-88c85478ec3e2b69.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\libunicode_ident-88c85478ec3e2b69.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7673317-06:00
+  size: 34125
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\libunicode_ident-88c85478ec3e2b69.rmeta
+  mtime: 2025-12-16T21:19:28.8519975-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7673461-06:00
+- id: 3052
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\proc_macro2-9c813890e2e09801.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\proc_macro2-9c813890e2e09801.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\proc_macro2-9c813890e2e09801.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7723809-06:00
+  size: 5408
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\proc_macro2-9c813890e2e09801.d
+  mtime: 2025-12-16T21:32:17.4290492-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7723946-06:00
+- id: 3053
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\proc_macro2-e55808a20d5733db.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\proc_macro2-e55808a20d5733db.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\proc_macro2-e55808a20d5733db.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7773246-06:00
+  size: 5408
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\proc_macro2-e55808a20d5733db.d
+  mtime: 2025-12-16T21:19:29.3206866-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7773379-06:00
+- id: 3054
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\quote-263e71b94e9daa4a.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\quote-263e71b94e9daa4a.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\quote-263e71b94e9daa4a.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7822748-06:00
+  size: 3286
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\quote-263e71b94e9daa4a.d
+  mtime: 2025-12-16T21:19:29.5208056-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7822879-06:00
+- id: 3055
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\quote-9a4452c95c758e4e.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\quote-9a4452c95c758e4e.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\quote-9a4452c95c758e4e.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7872177-06:00
+  size: 3286
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\quote-9a4452c95c758e4e.d
+  mtime: 2025-12-16T21:32:17.6222519-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7872312-06:00
+- id: 3056
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7923066-06:00
+  size: 10069
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.d
+  mtime: 2025-12-16T21:32:19.9774020-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7923204-06:00
+- id: 3057
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.7972661-06:00
+  size: 2789376
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.dll
+  mtime: 2025-12-16T21:32:20.9320731-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.7972814-06:00
+- id: 3058
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.dll.exp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.dll.exp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8025185-06:00
+  size: 1300
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.dll.exp
+  mtime: 2025-12-16T21:32:20.9068107-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8025323-06:00
+- id: 3059
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.dll.lib
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.dll.lib
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8076681-06:00
+  size: 2596
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.dll.lib
+  mtime: 2025-12-16T21:32:20.9073171-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8076828-06:00
+- id: 3060
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8131234-06:00
+  size: 3125248
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-4dede57a6948a9b3.pdb
+  mtime: 2025-12-16T21:32:20.9351039-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8131404-06:00
+- id: 3061
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8181068-06:00
+  size: 10069
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.d
+  mtime: 2025-12-16T21:19:30.9555797-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8181205-06:00
+- id: 3062
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8233082-06:00
+  size: 2227712
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.dll
+  mtime: 2025-12-16T21:19:31.9243296-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8233230-06:00
+- id: 3063
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.dll.exp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.dll.exp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8286620-06:00
+  size: 1300
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.dll.exp
+  mtime: 2025-12-16T21:19:31.8967871-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8286773-06:00
+- id: 3064
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.dll.lib
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.dll.lib
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8338395-06:00
+  size: 2596
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.dll.lib
+  mtime: 2025-12-16T21:19:31.8998374-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8338548-06:00
+- id: 3065
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8388379-06:00
+  size: 2789376
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\serde_derive-e3659b98d119390e.pdb
+  mtime: 2025-12-16T21:19:31.9288801-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8388537-06:00
+- id: 3066
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\syn-529c2672401828a0.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\syn-529c2672401828a0.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\syn-529c2672401828a0.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8437136-06:00
+  size: 21757
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\syn-529c2672401828a0.d
+  mtime: 2025-12-16T21:32:17.9101979-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8437275-06:00
+- id: 3067
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\syn-c3460a236ba4a1ae.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\syn-c3460a236ba4a1ae.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\syn-c3460a236ba4a1ae.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8487771-06:00
+  size: 18076
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\syn-c3460a236ba4a1ae.d
+  mtime: 2025-12-16T21:19:29.7247284-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8487917-06:00
+- id: 3068
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8541788-06:00
+  size: 1296
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.d
+  mtime: 2025-12-16T21:32:19.8228558-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8541973-06:00
+- id: 3069
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8597862-06:00
+  size: 2208256
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.dll
+  mtime: 2025-12-16T21:32:20.2065740-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8598004-06:00
+- id: 3070
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.dll.exp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.dll.exp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8649474-06:00
+  size: 1334
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.dll.exp
+  mtime: 2025-12-16T21:32:20.1790069-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8649604-06:00
+- id: 3071
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.dll.lib
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.dll.lib
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8699390-06:00
+  size: 2710
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.dll.lib
+  mtime: 2025-12-16T21:32:20.1805338-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8699524-06:00
+- id: 3072
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8750189-06:00
+  size: 3067904
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\tracing_attributes-13fe9c516e47add6.pdb
+  mtime: 2025-12-16T21:32:20.2081064-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8750326-06:00
+- id: 3073
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\deps\unicode_ident-88c85478ec3e2b69.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\deps\unicode_ident-88c85478ec3e2b69.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\deps\unicode_ident-88c85478ec3e2b69.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.8802711-06:00
+  size: 1269
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\deps\unicode_ident-88c85478ec3e2b69.d
+  mtime: 2025-12-16T21:19:28.8335470-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.8802891-06:00
+generatedAt: 2025-12-18T01:53:35.8328649-06:00
+fileCount: 36
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_deps
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\deps
+

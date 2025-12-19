@@ -1,0 +1,98 @@
+files:
+- id: 878
+  canonicalPath: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\invoked.timestamp
+  total: 4270
+  originalName: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\invoked.timestamp
+  nameHistory:
+  - new: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6310450-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.8681669-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6310591-06:00
+- id: 879
+  canonicalPath: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\output
+  total: 4270
+  originalName: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\output
+  nameHistory:
+  - new: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6367778-06:00
+  size: 109
+  aliases: []
+  displayName: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\output
+  mtime: 2025-12-17T23:59:31.8681669-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6367917-06:00
+- id: 880
+  canonicalPath: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\root-output
+  total: 4270
+  originalName: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\root-output
+  nameHistory:
+  - new: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6428125-06:00
+  size: 100
+  aliases: []
+  displayName: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\root-output
+  mtime: 2025-12-17T23:59:32.1614442-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6428279-06:00
+- id: 881
+  canonicalPath: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\stderr
+  total: 4270
+  originalName: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\stderr
+  nameHistory:
+  - new: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6489195-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\build\crossbeam-utils-f150b25d9c7ea52f\stderr
+  mtime: 2025-12-17T23:59:32.1609278-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6489416-06:00
+generatedAt: 2025-12-18T01:53:38.8356286-06:00
+fileCount: 4
+folderId: target_debug_build_crossbeam-utils-f150b25d9c7ea52f
+folderPath: target\debug\build\crossbeam-utils-f150b25d9c7ea52f
+

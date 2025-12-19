@@ -1,0 +1,121 @@
+files:
+- id: 918
+  canonicalPath: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build-0f9575b8cb61f8af.d
+  total: 4270
+  originalName: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build-0f9575b8cb61f8af.d
+  nameHistory:
+  - new: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build-0f9575b8cb61f8af.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8620134-06:00
+  size: 606
+  aliases: []
+  displayName: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build-0f9575b8cb61f8af.d
+  mtime: 2025-12-17T23:59:31.4248620-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8620271-06:00
+- id: 919
+  canonicalPath: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build-0f9575b8cb61f8af.exe
+  total: 4270
+  originalName: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build-0f9575b8cb61f8af.exe
+  nameHistory:
+  - new: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build-0f9575b8cb61f8af.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8675517-06:00
+  size: 162304
+  aliases: []
+  displayName: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build-0f9575b8cb61f8af.exe
+  mtime: 2025-12-17T23:59:31.6736944-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8675650-06:00
+- id: 920
+  canonicalPath: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build-0f9575b8cb61f8af.pdb
+  total: 4270
+  originalName: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build-0f9575b8cb61f8af.pdb
+  nameHistory:
+  - new: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build-0f9575b8cb61f8af.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8733708-06:00
+  size: 1290240
+  aliases: []
+  displayName: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build-0f9575b8cb61f8af.pdb
+  mtime: 2025-12-17T23:59:31.6769321-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8733843-06:00
+- id: 921
+  canonicalPath: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8788259-06:00
+  size: 1290240
+  aliases: []
+  displayName: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build_script_build.pdb
+  mtime: 2025-12-17T23:59:31.6769321-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8788395-06:00
+- id: 922
+  canonicalPath: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8847755-06:00
+  size: 162304
+  aliases: []
+  displayName: target\debug\build\parking_lot_core-0f9575b8cb61f8af\build-script-build.exe
+  mtime: 2025-12-17T23:59:31.6736944-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8847893-06:00
+generatedAt: 2025-12-18T01:53:37.9006692-06:00
+fileCount: 5
+folderId: target_debug_build_parking_lot_core-0f9575b8cb61f8af
+folderPath: target\debug\build\parking_lot_core-0f9575b8cb61f8af
+

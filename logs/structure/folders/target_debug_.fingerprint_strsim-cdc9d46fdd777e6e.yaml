@@ -1,0 +1,98 @@
+files:
+- id: 724
+  canonicalPath: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\dep-lib-strsim
+  total: 4270
+  originalName: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\dep-lib-strsim
+  nameHistory:
+  - new: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\dep-lib-strsim
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.7325428-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\dep-lib-strsim
+  mtime: 2025-12-17T23:59:31.5987586-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.7325571-06:00
+- id: 725
+  canonicalPath: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.7383919-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.5987586-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.7384060-06:00
+- id: 726
+  canonicalPath: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\lib-strsim
+  total: 4270
+  originalName: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\lib-strsim
+  nameHistory:
+  - new: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\lib-strsim
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.7442848-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\lib-strsim
+  mtime: 2025-12-17T23:59:32.1439908-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.7442991-06:00
+- id: 727
+  canonicalPath: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\lib-strsim.json
+  total: 4270
+  originalName: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\lib-strsim.json
+  nameHistory:
+  - new: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\lib-strsim.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.7499417-06:00
+  size: 349
+  aliases: []
+  displayName: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e\lib-strsim.json
+  mtime: 2025-12-17T23:59:32.1439908-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.7499555-06:00
+generatedAt: 2025-12-18T01:53:41.1231701-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_strsim-cdc9d46fdd777e6e
+folderPath: target\debug\.fingerprint\strsim-cdc9d46fdd777e6e
+

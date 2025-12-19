@@ -1,0 +1,29 @@
+files:
+- id: 2694
+  canonicalPath: templates\commands\project_health_check.yaml
+  total: 4270
+  originalName: templates\commands\project_health_check.yaml
+  nameHistory:
+  - new: templates\commands\project_health_check.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7750305-06:00
+  size: 1059
+  aliases: []
+  displayName: templates\commands\project_health_check.yaml
+  mtime: 2025-12-17T19:21:28.2051029-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7750442-06:00
+generatedAt: 2025-12-18T01:53:40.4032845-06:00
+fileCount: 1
+folderId: templates_commands
+folderPath: templates\commands
+

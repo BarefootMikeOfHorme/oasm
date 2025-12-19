@@ -1,0 +1,98 @@
+files:
+- id: 3385
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\dep-lib-tracing
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\dep-lib-tracing
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\dep-lib-tracing
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.6026102-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\dep-lib-tracing
+  mtime: 2025-12-16T21:32:30.2527069-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.6026245-06:00
+- id: 3386
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.6080029-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\invoked.timestamp
+  mtime: 2025-12-16T21:32:30.2527069-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.6080165-06:00
+- id: 3387
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.6140819-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing
+  mtime: 2025-12-16T21:32:30.5529722-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.6140964-06:00
+- id: 3388
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing.json
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing.json
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.6194846-06:00
+  size: 1062
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing.json
+  mtime: 2025-12-16T21:32:30.5529722-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.6194975-06:00
+generatedAt: 2025-12-18T01:53:38.3424501-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_plugin_loader_target_x86_64-pc-windows-msvc_release_.fingerprint_tracing-1b8171e4465a6a9e
+folderPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e
+

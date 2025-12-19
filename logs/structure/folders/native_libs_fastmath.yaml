@@ -1,0 +1,29 @@
+files:
+- id: 80
+  canonicalPath: native_libs\fastmath\fastmath.cpp
+  total: 4270
+  originalName: native_libs\fastmath\fastmath.cpp
+  nameHistory:
+  - new: native_libs\fastmath\fastmath.cpp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1026919-06:00
+  size: 1278
+  aliases: []
+  displayName: native_libs\fastmath\fastmath.cpp
+  mtime: 2025-12-17T19:04:12.9016197-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1027097-06:00
+generatedAt: 2025-12-18T01:53:36.2530607-06:00
+fileCount: 1
+folderId: native_libs_fastmath
+folderPath: native_libs\fastmath
+

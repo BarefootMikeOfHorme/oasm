@@ -1,0 +1,98 @@
+files:
+- id: 2075
+  canonicalPath: target\release\.fingerprint\thread_local-8886d7ac88188379\dep-lib-thread_local
+  total: 4270
+  originalName: target\release\.fingerprint\thread_local-8886d7ac88188379\dep-lib-thread_local
+  nameHistory:
+  - new: target\release\.fingerprint\thread_local-8886d7ac88188379\dep-lib-thread_local
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3658108-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\thread_local-8886d7ac88188379\dep-lib-thread_local
+  mtime: 2025-12-17T23:56:43.5416665-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3658263-06:00
+- id: 2076
+  canonicalPath: target\release\.fingerprint\thread_local-8886d7ac88188379\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\thread_local-8886d7ac88188379\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\thread_local-8886d7ac88188379\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3716806-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\thread_local-8886d7ac88188379\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.5416665-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3716951-06:00
+- id: 2077
+  canonicalPath: target\release\.fingerprint\thread_local-8886d7ac88188379\lib-thread_local
+  total: 4270
+  originalName: target\release\.fingerprint\thread_local-8886d7ac88188379\lib-thread_local
+  nameHistory:
+  - new: target\release\.fingerprint\thread_local-8886d7ac88188379\lib-thread_local
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3778115-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\thread_local-8886d7ac88188379\lib-thread_local
+  mtime: 2025-12-17T23:56:43.9980694-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3778305-06:00
+- id: 2078
+  canonicalPath: target\release\.fingerprint\thread_local-8886d7ac88188379\lib-thread_local.json
+  total: 4270
+  originalName: target\release\.fingerprint\thread_local-8886d7ac88188379\lib-thread_local.json
+  nameHistory:
+  - new: target\release\.fingerprint\thread_local-8886d7ac88188379\lib-thread_local.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3845327-06:00
+  size: 428
+  aliases: []
+  displayName: target\release\.fingerprint\thread_local-8886d7ac88188379\lib-thread_local.json
+  mtime: 2025-12-17T23:56:43.9991367-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3845492-06:00
+generatedAt: 2025-12-18T01:53:38.9324222-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_thread_local-8886d7ac88188379
+folderPath: target\release\.fingerprint\thread_local-8886d7ac88188379
+

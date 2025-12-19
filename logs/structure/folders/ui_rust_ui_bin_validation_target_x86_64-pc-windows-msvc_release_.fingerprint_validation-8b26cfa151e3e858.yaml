@@ -1,0 +1,98 @@
+files:
+- id: 3616
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\dep-lib-validation
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\dep-lib-validation
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\dep-lib-validation
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9087650-06:00
+  size: 30
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\dep-lib-validation
+  mtime: 2025-12-16T21:32:25.8501755-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9087782-06:00
+- id: 3617
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9139308-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\invoked.timestamp
+  mtime: 2025-12-16T21:32:25.8501755-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9139446-06:00
+- id: 3618
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\lib-validation
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\lib-validation
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\lib-validation
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9192349-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\lib-validation
+  mtime: 2025-12-16T21:32:26.3951916-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9192486-06:00
+- id: 3619
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\lib-validation.json
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\lib-validation.json
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\lib-validation.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.9247459-06:00
+  size: 587
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858\lib-validation.json
+  mtime: 2025-12-16T21:32:26.3951916-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.9247593-06:00
+generatedAt: 2025-12-18T01:53:37.8012869-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_validation_target_x86_64-pc-windows-msvc_release_.fingerprint_validation-8b26cfa151e3e858
+folderPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.fingerprint\validation-8b26cfa151e3e858
+

@@ -1,0 +1,98 @@
+files:
+- id: 1915
+  canonicalPath: target\release\.fingerprint\once_cell-54e24b2405341927\dep-lib-once_cell
+  total: 4270
+  originalName: target\release\.fingerprint\once_cell-54e24b2405341927\dep-lib-once_cell
+  nameHistory:
+  - new: target\release\.fingerprint\once_cell-54e24b2405341927\dep-lib-once_cell
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.4749395-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\once_cell-54e24b2405341927\dep-lib-once_cell
+  mtime: 2025-12-17T23:56:43.4815639-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.4749529-06:00
+- id: 1916
+  canonicalPath: target\release\.fingerprint\once_cell-54e24b2405341927\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\once_cell-54e24b2405341927\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\once_cell-54e24b2405341927\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.4800348-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\once_cell-54e24b2405341927\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.4815639-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.4800484-06:00
+- id: 1917
+  canonicalPath: target\release\.fingerprint\once_cell-54e24b2405341927\lib-once_cell
+  total: 4270
+  originalName: target\release\.fingerprint\once_cell-54e24b2405341927\lib-once_cell
+  nameHistory:
+  - new: target\release\.fingerprint\once_cell-54e24b2405341927\lib-once_cell
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.4852408-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\once_cell-54e24b2405341927\lib-once_cell
+  mtime: 2025-12-17T23:56:43.7609357-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.4852538-06:00
+- id: 1918
+  canonicalPath: target\release\.fingerprint\once_cell-54e24b2405341927\lib-once_cell.json
+  total: 4270
+  originalName: target\release\.fingerprint\once_cell-54e24b2405341927\lib-once_cell.json
+  nameHistory:
+  - new: target\release\.fingerprint\once_cell-54e24b2405341927\lib-once_cell.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.4902530-06:00
+  size: 533
+  aliases: []
+  displayName: target\release\.fingerprint\once_cell-54e24b2405341927\lib-once_cell.json
+  mtime: 2025-12-17T23:56:43.7609357-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.4902667-06:00
+generatedAt: 2025-12-18T01:53:39.8871594-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_once_cell-54e24b2405341927
+folderPath: target\release\.fingerprint\once_cell-54e24b2405341927
+

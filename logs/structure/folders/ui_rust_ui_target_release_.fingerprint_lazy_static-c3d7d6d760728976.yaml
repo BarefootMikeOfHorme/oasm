@@ -1,0 +1,98 @@
+files:
+- id: 3789
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\dep-lib-lazy_static
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\dep-lib-lazy_static
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\dep-lib-lazy_static
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.8643575-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\dep-lib-lazy_static
+  mtime: 2025-12-16T22:47:38.9634979-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.8643708-06:00
+- id: 3790
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.8695018-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\invoked.timestamp
+  mtime: 2025-12-16T22:47:38.9634979-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.8695147-06:00
+- id: 3791
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\lib-lazy_static
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\lib-lazy_static
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\lib-lazy_static
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.8750983-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\lib-lazy_static
+  mtime: 2025-12-16T22:47:39.0875953-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.8751108-06:00
+- id: 3792
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\lib-lazy_static.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\lib-lazy_static.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\lib-lazy_static.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.8804613-06:00
+  size: 385
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976\lib-lazy_static.json
+  mtime: 2025-12-16T22:47:39.0881004-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.8804752-06:00
+generatedAt: 2025-12-18T01:53:41.8580690-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_lazy_static-c3d7d6d760728976
+folderPath: ui\rust_ui\target\release\.fingerprint\lazy_static-c3d7d6d760728976
+

@@ -1,0 +1,98 @@
+files:
+- id: 640
+  canonicalPath: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\dep-lib-regex_automata
+  total: 4270
+  originalName: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\dep-lib-regex_automata
+  nameHistory:
+  - new: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\dep-lib-regex_automata
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.2386035-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\dep-lib-regex_automata
+  mtime: 2025-12-17T23:59:33.1716514-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.2386176-06:00
+- id: 641
+  canonicalPath: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.2441500-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\invoked.timestamp
+  mtime: 2025-12-17T23:59:33.1716514-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.2441674-06:00
+- id: 642
+  canonicalPath: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\lib-regex_automata
+  total: 4270
+  originalName: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\lib-regex_automata
+  nameHistory:
+  - new: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\lib-regex_automata
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.2502079-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\lib-regex_automata
+  mtime: 2025-12-17T23:59:35.2308447-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.2502257-06:00
+- id: 643
+  canonicalPath: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\lib-regex_automata.json
+  total: 4270
+  originalName: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\lib-regex_automata.json
+  nameHistory:
+  - new: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\lib-regex_automata.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.2555525-06:00
+  size: 1469
+  aliases: []
+  displayName: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff\lib-regex_automata.json
+  mtime: 2025-12-17T23:59:35.2308447-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.2555670-06:00
+generatedAt: 2025-12-18T01:53:37.2709563-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_regex-automata-2b4486fe7fc760ff
+folderPath: target\debug\.fingerprint\regex-automata-2b4486fe7fc760ff
+

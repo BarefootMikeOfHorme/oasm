@@ -1,0 +1,98 @@
+files:
+- id: 1879
+  canonicalPath: target\release\.fingerprint\mio-24abfe70dadbcc82\dep-lib-mio
+  total: 4270
+  originalName: target\release\.fingerprint\mio-24abfe70dadbcc82\dep-lib-mio
+  nameHistory:
+  - new: target\release\.fingerprint\mio-24abfe70dadbcc82\dep-lib-mio
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2716581-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\mio-24abfe70dadbcc82\dep-lib-mio
+  mtime: 2025-12-17T23:56:46.2666691-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2716778-06:00
+- id: 1880
+  canonicalPath: target\release\.fingerprint\mio-24abfe70dadbcc82\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\mio-24abfe70dadbcc82\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\mio-24abfe70dadbcc82\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2768914-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\mio-24abfe70dadbcc82\invoked.timestamp
+  mtime: 2025-12-17T23:56:46.2666691-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2769055-06:00
+- id: 1881
+  canonicalPath: target\release\.fingerprint\mio-24abfe70dadbcc82\lib-mio
+  total: 4270
+  originalName: target\release\.fingerprint\mio-24abfe70dadbcc82\lib-mio
+  nameHistory:
+  - new: target\release\.fingerprint\mio-24abfe70dadbcc82\lib-mio
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2823849-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\mio-24abfe70dadbcc82\lib-mio
+  mtime: 2025-12-17T23:56:47.3249692-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2823987-06:00
+- id: 1882
+  canonicalPath: target\release\.fingerprint\mio-24abfe70dadbcc82\lib-mio.json
+  total: 4270
+  originalName: target\release\.fingerprint\mio-24abfe70dadbcc82\lib-mio.json
+  nameHistory:
+  - new: target\release\.fingerprint\mio-24abfe70dadbcc82\lib-mio.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2877110-06:00
+  size: 492
+  aliases: []
+  displayName: target\release\.fingerprint\mio-24abfe70dadbcc82\lib-mio.json
+  mtime: 2025-12-17T23:56:47.3249692-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2877244-06:00
+generatedAt: 2025-12-18T01:53:38.1724645-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_mio-24abfe70dadbcc82
+folderPath: target\release\.fingerprint\mio-24abfe70dadbcc82
+

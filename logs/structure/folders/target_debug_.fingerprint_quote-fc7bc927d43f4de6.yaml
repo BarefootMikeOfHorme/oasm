@@ -1,0 +1,98 @@
+files:
+- id: 632
+  canonicalPath: target\debug\.fingerprint\quote-fc7bc927d43f4de6\dep-lib-quote
+  total: 4270
+  originalName: target\debug\.fingerprint\quote-fc7bc927d43f4de6\dep-lib-quote
+  nameHistory:
+  - new: target\debug\.fingerprint\quote-fc7bc927d43f4de6\dep-lib-quote
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.1939233-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\quote-fc7bc927d43f4de6\dep-lib-quote
+  mtime: 2025-12-17T23:59:32.8348367-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.1939402-06:00
+- id: 633
+  canonicalPath: target\debug\.fingerprint\quote-fc7bc927d43f4de6\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\quote-fc7bc927d43f4de6\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\quote-fc7bc927d43f4de6\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.1997551-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\quote-fc7bc927d43f4de6\invoked.timestamp
+  mtime: 2025-12-17T23:59:32.8348367-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.1997700-06:00
+- id: 634
+  canonicalPath: target\debug\.fingerprint\quote-fc7bc927d43f4de6\lib-quote
+  total: 4270
+  originalName: target\debug\.fingerprint\quote-fc7bc927d43f4de6\lib-quote
+  nameHistory:
+  - new: target\debug\.fingerprint\quote-fc7bc927d43f4de6\lib-quote
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.2050924-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\quote-fc7bc927d43f4de6\lib-quote
+  mtime: 2025-12-17T23:59:33.0469100-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.2051063-06:00
+- id: 635
+  canonicalPath: target\debug\.fingerprint\quote-fc7bc927d43f4de6\lib-quote.json
+  total: 4270
+  originalName: target\debug\.fingerprint\quote-fc7bc927d43f4de6\lib-quote.json
+  nameHistory:
+  - new: target\debug\.fingerprint\quote-fc7bc927d43f4de6\lib-quote.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.2106448-06:00
+  size: 532
+  aliases: []
+  displayName: target\debug\.fingerprint\quote-fc7bc927d43f4de6\lib-quote.json
+  mtime: 2025-12-17T23:59:33.0469100-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.2106593-06:00
+generatedAt: 2025-12-18T01:53:35.8066864-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_quote-fc7bc927d43f4de6
+folderPath: target\debug\.fingerprint\quote-fc7bc927d43f4de6
+

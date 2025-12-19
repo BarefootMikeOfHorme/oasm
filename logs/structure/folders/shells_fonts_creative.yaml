@@ -1,0 +1,29 @@
+files:
+- id: 147
+  canonicalPath: shells\fonts\creative\ComicNeue.zip
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue.zip
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4883368-06:00
+  size: 3265979
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue.zip
+  mtime: 2025-12-17T22:57:31.9304976-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4883525-06:00
+generatedAt: 2025-12-18T01:53:41.5994338-06:00
+fileCount: 1
+folderId: shells_fonts_creative
+folderPath: shells\fonts\creative
+

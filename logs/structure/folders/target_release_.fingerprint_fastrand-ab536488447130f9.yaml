@@ -1,0 +1,98 @@
+files:
+- id: 1789
+  canonicalPath: target\release\.fingerprint\fastrand-ab536488447130f9\dep-lib-fastrand
+  total: 4270
+  originalName: target\release\.fingerprint\fastrand-ab536488447130f9\dep-lib-fastrand
+  nameHistory:
+  - new: target\release\.fingerprint\fastrand-ab536488447130f9\dep-lib-fastrand
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.7850155-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\fastrand-ab536488447130f9\dep-lib-fastrand
+  mtime: 2025-12-17T23:56:43.9842375-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.7850290-06:00
+- id: 1790
+  canonicalPath: target\release\.fingerprint\fastrand-ab536488447130f9\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\fastrand-ab536488447130f9\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\fastrand-ab536488447130f9\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.7902673-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\fastrand-ab536488447130f9\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.9842375-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.7902817-06:00
+- id: 1791
+  canonicalPath: target\release\.fingerprint\fastrand-ab536488447130f9\lib-fastrand
+  total: 4270
+  originalName: target\release\.fingerprint\fastrand-ab536488447130f9\lib-fastrand
+  nameHistory:
+  - new: target\release\.fingerprint\fastrand-ab536488447130f9\lib-fastrand
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.7960257-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\fastrand-ab536488447130f9\lib-fastrand
+  mtime: 2025-12-17T23:56:44.5492547-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.7960395-06:00
+- id: 1792
+  canonicalPath: target\release\.fingerprint\fastrand-ab536488447130f9\lib-fastrand.json
+  total: 4270
+  originalName: target\release\.fingerprint\fastrand-ab536488447130f9\lib-fastrand.json
+  nameHistory:
+  - new: target\release\.fingerprint\fastrand-ab536488447130f9\lib-fastrand.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.8013643-06:00
+  size: 438
+  aliases: []
+  displayName: target\release\.fingerprint\fastrand-ab536488447130f9\lib-fastrand.json
+  mtime: 2025-12-17T23:56:44.5502728-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.8013774-06:00
+generatedAt: 2025-12-18T01:53:37.0555316-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_fastrand-ab536488447130f9
+folderPath: target\release\.fingerprint\fastrand-ab536488447130f9
+

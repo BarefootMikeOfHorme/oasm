@@ -1,0 +1,98 @@
+files:
+- id: 3015
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5731288-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\invoked.timestamp
+  mtime: 2025-12-16T21:19:29.0194260-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5731423-06:00
+- id: 3016
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\output
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\output
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5783726-06:00
+  size: 83
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\output
+  mtime: 2025-12-16T21:19:29.0194260-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5783866-06:00
+- id: 3017
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\root-output
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\root-output
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5840691-06:00
+  size: 118
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\root-output
+  mtime: 2025-12-16T21:19:29.0944067-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5840828-06:00
+- id: 3018
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\stderr
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\stderr
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5892634-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8\stderr
+  mtime: 2025-12-16T21:19:29.0944067-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5892782-06:00
+generatedAt: 2025-12-18T01:53:38.4578195-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_build_quote-b1410cbc370173b8
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-b1410cbc370173b8
+

@@ -1,0 +1,719 @@
+files:
+- id: 1467
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\009xngh4x47krooszmv4ry9dk.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\009xngh4x47krooszmv4ry9dk.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\009xngh4x47krooszmv4ry9dk.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0110438-06:00
+  size: 18462
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\009xngh4x47krooszmv4ry9dk.o
+  mtime: 2025-12-17T23:59:32.4096770-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0110600-06:00
+- id: 1468
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\0j8032e08cedl1olhdwbqxqcj.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\0j8032e08cedl1olhdwbqxqcj.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\0j8032e08cedl1olhdwbqxqcj.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0169751-06:00
+  size: 7938
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\0j8032e08cedl1olhdwbqxqcj.o
+  mtime: 2025-12-17T23:59:32.4127535-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0169878-06:00
+- id: 1469
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\0vsrviaw7630fwasfotk36onb.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\0vsrviaw7630fwasfotk36onb.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\0vsrviaw7630fwasfotk36onb.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0220960-06:00
+  size: 26433
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\0vsrviaw7630fwasfotk36onb.o
+  mtime: 2025-12-17T23:59:32.4127535-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0221096-06:00
+- id: 1470
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\1kqc0c492llotb7o0msghymab.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\1kqc0c492llotb7o0msghymab.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\1kqc0c492llotb7o0msghymab.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0270346-06:00
+  size: 36585
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\1kqc0c492llotb7o0msghymab.o
+  mtime: 2025-12-17T23:59:32.4096770-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0270476-06:00
+- id: 1471
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\1o0ok1gkf7dk26nlsfjzpq6ih.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\1o0ok1gkf7dk26nlsfjzpq6ih.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\1o0ok1gkf7dk26nlsfjzpq6ih.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0325317-06:00
+  size: 25919
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\1o0ok1gkf7dk26nlsfjzpq6ih.o
+  mtime: 2025-12-17T23:59:32.3958174-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0325449-06:00
+- id: 1472
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\2g96zys2k04i1hmedyx06k1zh.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\2g96zys2k04i1hmedyx06k1zh.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\2g96zys2k04i1hmedyx06k1zh.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0376465-06:00
+  size: 2378
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\2g96zys2k04i1hmedyx06k1zh.o
+  mtime: 2025-12-17T23:59:32.3695910-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0376591-06:00
+- id: 1473
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\2w2rsuet9itdx3924j6wipww0.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\2w2rsuet9itdx3924j6wipww0.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\2w2rsuet9itdx3924j6wipww0.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0433762-06:00
+  size: 3062
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\2w2rsuet9itdx3924j6wipww0.o
+  mtime: 2025-12-17T23:59:32.3726776-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0433919-06:00
+- id: 1474
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\3jcm8edlmwy617kj02n245kzj.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\3jcm8edlmwy617kj02n245kzj.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\3jcm8edlmwy617kj02n245kzj.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0479718-06:00
+  size: 49021
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\3jcm8edlmwy617kj02n245kzj.o
+  mtime: 2025-12-17T23:59:32.4173495-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0479875-06:00
+- id: 1475
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\47g86uf3ffigvbsfowmc8m0rb.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\47g86uf3ffigvbsfowmc8m0rb.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\47g86uf3ffigvbsfowmc8m0rb.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0531716-06:00
+  size: 23959
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\47g86uf3ffigvbsfowmc8m0rb.o
+  mtime: 2025-12-17T23:59:32.4127535-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0531851-06:00
+- id: 1476
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\4ba9aqwa0bp573h1cwgd54awy.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\4ba9aqwa0bp573h1cwgd54awy.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\4ba9aqwa0bp573h1cwgd54awy.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0580542-06:00
+  size: 3061
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\4ba9aqwa0bp573h1cwgd54awy.o
+  mtime: 2025-12-17T23:59:32.4127535-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0580694-06:00
+- id: 1477
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\4fmcr2pk6pczq1ju5qkt11qy6.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\4fmcr2pk6pczq1ju5qkt11qy6.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\4fmcr2pk6pczq1ju5qkt11qy6.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0635636-06:00
+  size: 56323
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\4fmcr2pk6pczq1ju5qkt11qy6.o
+  mtime: 2025-12-17T23:59:32.3819031-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0635767-06:00
+- id: 1478
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\5apwcxj5g7b46ffycbmhedwnh.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\5apwcxj5g7b46ffycbmhedwnh.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\5apwcxj5g7b46ffycbmhedwnh.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0685268-06:00
+  size: 20994
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\5apwcxj5g7b46ffycbmhedwnh.o
+  mtime: 2025-12-17T23:59:32.3896466-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0685408-06:00
+- id: 1479
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\6ffprs6vv2xnq45x1uiuvdjre.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\6ffprs6vv2xnq45x1uiuvdjre.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\6ffprs6vv2xnq45x1uiuvdjre.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0735589-06:00
+  size: 18972
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\6ffprs6vv2xnq45x1uiuvdjre.o
+  mtime: 2025-12-17T23:59:32.4112146-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0735741-06:00
+- id: 1480
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\6qy87fen8jtdpxlpdw4uiyi37.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\6qy87fen8jtdpxlpdw4uiyi37.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\6qy87fen8jtdpxlpdw4uiyi37.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0796890-06:00
+  size: 19768
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\6qy87fen8jtdpxlpdw4uiyi37.o
+  mtime: 2025-12-17T23:59:32.4086611-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0797088-06:00
+- id: 1481
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\6zimulzqhteabhhl4w7nzyizb.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\6zimulzqhteabhhl4w7nzyizb.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\6zimulzqhteabhhl4w7nzyizb.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0859380-06:00
+  size: 13172
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\6zimulzqhteabhhl4w7nzyizb.o
+  mtime: 2025-12-17T23:59:32.4112146-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0859573-06:00
+- id: 1482
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\8vjp88z2d20caa5ep2vokhizp.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\8vjp88z2d20caa5ep2vokhizp.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\8vjp88z2d20caa5ep2vokhizp.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0914644-06:00
+  size: 13963
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\8vjp88z2d20caa5ep2vokhizp.o
+  mtime: 2025-12-17T23:59:32.4096770-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0914822-06:00
+- id: 1483
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\98mdsz5yy1mop6m9suji2cftn.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\98mdsz5yy1mop6m9suji2cftn.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\98mdsz5yy1mop6m9suji2cftn.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0969110-06:00
+  size: 7593
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\98mdsz5yy1mop6m9suji2cftn.o
+  mtime: 2025-12-17T23:59:32.3911852-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0969281-06:00
+- id: 1484
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\9kzz6syas5yi10rynhs00xday.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\9kzz6syas5yi10rynhs00xday.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\9kzz6syas5yi10rynhs00xday.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1026064-06:00
+  size: 33158
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\9kzz6syas5yi10rynhs00xday.o
+  mtime: 2025-12-17T23:59:32.3865342-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1026272-06:00
+- id: 1485
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\9w66faydlhup352a7nk5zkc3o.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\9w66faydlhup352a7nk5zkc3o.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\9w66faydlhup352a7nk5zkc3o.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1081217-06:00
+  size: 5931
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\9w66faydlhup352a7nk5zkc3o.o
+  mtime: 2025-12-17T23:59:32.3788573-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1081381-06:00
+- id: 1486
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\ayscpb96q3nq1os9ufzonjgml.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\ayscpb96q3nq1os9ufzonjgml.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\ayscpb96q3nq1os9ufzonjgml.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1141952-06:00
+  size: 8372
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\ayscpb96q3nq1os9ufzonjgml.o
+  mtime: 2025-12-17T23:59:32.4066172-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1142159-06:00
+- id: 1487
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\bldlcooc6diq6upbyirme7ufg.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\bldlcooc6diq6upbyirme7ufg.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\bldlcooc6diq6upbyirme7ufg.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1194900-06:00
+  size: 3761
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\bldlcooc6diq6upbyirme7ufg.o
+  mtime: 2025-12-17T23:59:32.3834531-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1195060-06:00
+- id: 1488
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\bxnrs78y9ouoptb3onrxhblpo.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\bxnrs78y9ouoptb3onrxhblpo.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\bxnrs78y9ouoptb3onrxhblpo.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1257597-06:00
+  size: 66651
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\bxnrs78y9ouoptb3onrxhblpo.o
+  mtime: 2025-12-17T23:59:32.4050725-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1257779-06:00
+- id: 1489
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\cel3h5yzy4g46zr2kupg99v63.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\cel3h5yzy4g46zr2kupg99v63.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\cel3h5yzy4g46zr2kupg99v63.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1316244-06:00
+  size: 4654
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\cel3h5yzy4g46zr2kupg99v63.o
+  mtime: 2025-12-17T23:59:32.4066172-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1316404-06:00
+- id: 1490
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\ckeirk8atdiu0yzrlsazbsuw2.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\ckeirk8atdiu0yzrlsazbsuw2.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\ckeirk8atdiu0yzrlsazbsuw2.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1370215-06:00
+  size: 89600
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\ckeirk8atdiu0yzrlsazbsuw2.o
+  mtime: 2025-12-17T23:59:32.3788573-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1370356-06:00
+- id: 1491
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\co3nzrzj74ltpvrfbucj0w02g.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\co3nzrzj74ltpvrfbucj0w02g.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\co3nzrzj74ltpvrfbucj0w02g.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1423281-06:00
+  size: 9988
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\co3nzrzj74ltpvrfbucj0w02g.o
+  mtime: 2025-12-17T23:59:32.4158166-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1423421-06:00
+- id: 1492
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\d1ttqml47u3reerv1frr4rxtq.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\d1ttqml47u3reerv1frr4rxtq.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\d1ttqml47u3reerv1frr4rxtq.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1475960-06:00
+  size: 63606
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\d1ttqml47u3reerv1frr4rxtq.o
+  mtime: 2025-12-17T23:59:32.3788573-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1476103-06:00
+- id: 1493
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\d3qwhyv4roam1x6qpizdfbo02.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\d3qwhyv4roam1x6qpizdfbo02.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\d3qwhyv4roam1x6qpizdfbo02.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1530790-06:00
+  size: 18416
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\d3qwhyv4roam1x6qpizdfbo02.o
+  mtime: 2025-12-17T23:59:32.3958174-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1530927-06:00
+- id: 1494
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\dep-graph.bin
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\dep-graph.bin
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\dep-graph.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1583232-06:00
+  size: 894165
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\dep-graph.bin
+  mtime: 2025-12-17T23:59:32.4158166-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1583375-06:00
+- id: 1495
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\eda4yps9m7xhm3jez7fczvf7t.o
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\eda4yps9m7xhm3jez7fczvf7t.o
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\eda4yps9m7xhm3jez7fczvf7t.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1639026-06:00
+  size: 11333
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\eda4yps9m7xhm3jez7fczvf7t.o
+  mtime: 2025-12-17T23:59:32.4142714-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1639170-06:00
+- id: 1496
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\query-cache.bin
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\query-cache.bin
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\query-cache.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1691528-06:00
+  size: 338568
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\query-cache.bin
+  mtime: 2025-12-17T23:59:32.4158166-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1691669-06:00
+- id: 1497
+  canonicalPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\work-products.bin
+  total: 4270
+  originalName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\work-products.bin
+  nameHistory:
+  - new: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\work-products.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.1747134-06:00
+  size: 2178
+  aliases: []
+  displayName: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r\work-products.bin
+  mtime: 2025-12-17T23:59:32.4542628-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.1747270-06:00
+generatedAt: 2025-12-18T01:53:38.8808794-06:00
+fileCount: 31
+folderId: target_debug_incremental_oasm_api-1s3frkp6ew0s8_s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r
+folderPath: target\debug\incremental\oasm_api-1s3frkp6ew0s8\s-he0agksz4v-1dap9rq-9r67egr8qx86p5tltk834pn6r
+

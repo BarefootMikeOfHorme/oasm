@@ -1,0 +1,236 @@
+files:
+- id: 65
+  canonicalPath: logs\StructureDebug\baseline_index_20251217_163635.json
+  total: 4270
+  originalName: logs\StructureDebug\baseline_index_20251217_163635.json
+  nameHistory:
+  - new: logs\StructureDebug\baseline_index_20251217_163635.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0135142-06:00
+  size: 98271
+  aliases: []
+  displayName: logs\StructureDebug\baseline_index_20251217_163635.json
+  mtime: 2025-12-17T16:36:42.6630688-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0135302-06:00
+- id: 66
+  canonicalPath: logs\StructureDebug\baseline_index_20251217_171314.json
+  total: 4270
+  originalName: logs\StructureDebug\baseline_index_20251217_171314.json
+  nameHistory:
+  - new: logs\StructureDebug\baseline_index_20251217_171314.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0191088-06:00
+  size: 31804
+  aliases: []
+  displayName: logs\StructureDebug\baseline_index_20251217_171314.json
+  mtime: 2025-12-17T17:13:15.5911552-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0191256-06:00
+- id: 67
+  canonicalPath: logs\StructureDebug\cli_state_20251217_163635.json
+  total: 4270
+  originalName: logs\StructureDebug\cli_state_20251217_163635.json
+  nameHistory:
+  - new: logs\StructureDebug\cli_state_20251217_163635.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0246544-06:00
+  size: 51021
+  aliases: []
+  displayName: logs\StructureDebug\cli_state_20251217_163635.json
+  mtime: 2025-12-17T16:36:44.5282204-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0246710-06:00
+- id: 68
+  canonicalPath: logs\StructureDebug\cli_state_20251217_171314.json
+  total: 4270
+  originalName: logs\StructureDebug\cli_state_20251217_171314.json
+  nameHistory:
+  - new: logs\StructureDebug\cli_state_20251217_171314.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0304010-06:00
+  size: 14885
+  aliases: []
+  displayName: logs\StructureDebug\cli_state_20251217_171314.json
+  mtime: 2025-12-17T17:13:15.8093186-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0304195-06:00
+- id: 69
+  canonicalPath: logs\StructureDebug\diagnostic_20251217_013230.log
+  total: 4270
+  originalName: logs\StructureDebug\diagnostic_20251217_013230.log
+  nameHistory:
+  - new: logs\StructureDebug\diagnostic_20251217_013230.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0360590-06:00
+  size: 19630
+  aliases: []
+  displayName: logs\StructureDebug\diagnostic_20251217_013230.log
+  mtime: 2025-12-17T01:32:43.9949118-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0360763-06:00
+- id: 70
+  canonicalPath: logs\StructureDebug\diagnostic_20251217_014436.log
+  total: 4270
+  originalName: logs\StructureDebug\diagnostic_20251217_014436.log
+  nameHistory:
+  - new: logs\StructureDebug\diagnostic_20251217_014436.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0414783-06:00
+  size: 13865
+  aliases: []
+  displayName: logs\StructureDebug\diagnostic_20251217_014436.log
+  mtime: 2025-12-17T01:44:48.6420543-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0414970-06:00
+- id: 71
+  canonicalPath: logs\StructureDebug\structure_20251217_013230.log
+  total: 4270
+  originalName: logs\StructureDebug\structure_20251217_013230.log
+  nameHistory:
+  - new: logs\StructureDebug\structure_20251217_013230.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0467340-06:00
+  size: 344944
+  aliases: []
+  displayName: logs\StructureDebug\structure_20251217_013230.log
+  mtime: 2025-12-17T01:32:32.1633627-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0467514-06:00
+- id: 72
+  canonicalPath: logs\StructureDebug\structure_20251217_014436.log
+  total: 4270
+  originalName: logs\StructureDebug\structure_20251217_014436.log
+  nameHistory:
+  - new: logs\StructureDebug\structure_20251217_014436.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0533090-06:00
+  size: 336753
+  aliases: []
+  displayName: logs\StructureDebug\structure_20251217_014436.log
+  mtime: 2025-12-17T02:05:10.8740038-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0533349-06:00
+- id: 73
+  canonicalPath: logs\StructureDebug\structure_20251217_163635.log
+  total: 4270
+  originalName: logs\StructureDebug\structure_20251217_163635.log
+  nameHistory:
+  - new: logs\StructureDebug\structure_20251217_163635.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0594745-06:00
+  size: 44383
+  aliases: []
+  displayName: logs\StructureDebug\structure_20251217_163635.log
+  mtime: 2025-12-17T16:36:42.6431358-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0594984-06:00
+- id: 74
+  canonicalPath: logs\StructureDebug\structure_20251217_171314.log
+  total: 4270
+  originalName: logs\StructureDebug\structure_20251217_171314.log
+  nameHistory:
+  - new: logs\StructureDebug\structure_20251217_171314.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0656560-06:00
+  size: 13397
+  aliases: []
+  displayName: logs\StructureDebug\structure_20251217_171314.log
+  mtime: 2025-12-17T17:13:15.5850683-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0656774-06:00
+generatedAt: 2025-12-18T01:53:37.2476981-06:00
+fileCount: 10
+folderId: logs_StructureDebug
+folderPath: logs\StructureDebug
+

@@ -1,0 +1,52 @@
+files:
+- id: 2069
+  canonicalPath: target\release\.fingerprint\thiserror-fa146a30dcee840a\run-build-script-build-script-build
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-fa146a30dcee840a\run-build-script-build-script-build
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-fa146a30dcee840a\run-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3282375-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-fa146a30dcee840a\run-build-script-build-script-build
+  mtime: 2025-12-17T23:56:44.7400995-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3282547-06:00
+- id: 2070
+  canonicalPath: target\release\.fingerprint\thiserror-fa146a30dcee840a\run-build-script-build-script-build.json
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-fa146a30dcee840a\run-build-script-build-script-build.json
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-fa146a30dcee840a\run-build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3344679-06:00
+  size: 397
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-fa146a30dcee840a\run-build-script-build-script-build.json
+  mtime: 2025-12-17T23:56:44.7400995-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3344865-06:00
+generatedAt: 2025-12-18T01:53:39.4098596-06:00
+fileCount: 2
+folderId: target_release_.fingerprint_thiserror-fa146a30dcee840a
+folderPath: target\release\.fingerprint\thiserror-fa146a30dcee840a
+

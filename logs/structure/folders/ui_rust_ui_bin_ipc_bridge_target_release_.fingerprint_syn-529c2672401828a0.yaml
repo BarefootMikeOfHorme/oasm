@@ -1,0 +1,98 @@
+files:
+- id: 2971
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\dep-lib-syn
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\dep-lib-syn
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\dep-lib-syn
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.3214662-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\dep-lib-syn
+  mtime: 2025-12-16T21:32:17.6875860-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.3214806-06:00
+- id: 2972
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.3268904-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\invoked.timestamp
+  mtime: 2025-12-16T21:32:17.6875860-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.3269070-06:00
+- id: 2973
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\lib-syn
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\lib-syn
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\lib-syn
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.3325618-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\lib-syn
+  mtime: 2025-12-16T21:32:19.7509210-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.3325765-06:00
+- id: 2974
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\lib-syn.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\lib-syn.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\lib-syn.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.3378248-06:00
+  size: 796
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0\lib-syn.json
+  mtime: 2025-12-16T21:32:19.7524525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.3378388-06:00
+generatedAt: 2025-12-18T01:53:40.5115901-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_.fingerprint_syn-529c2672401828a0
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\syn-529c2672401828a0
+

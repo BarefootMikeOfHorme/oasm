@@ -1,0 +1,98 @@
+files:
+- id: 3084
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\dep-lib-itoa
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\dep-lib-itoa
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\dep-lib-itoa
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.9385701-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\dep-lib-itoa
+  mtime: 2025-12-16T21:19:28.8089868-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.9385840-06:00
+- id: 3085
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.9439281-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\invoked.timestamp
+  mtime: 2025-12-16T21:19:28.8089868-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.9439421-06:00
+- id: 3086
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\lib-itoa
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\lib-itoa
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\lib-itoa
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.9491862-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\lib-itoa
+  mtime: 2025-12-16T21:19:28.9222846-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.9492001-06:00
+- id: 3087
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\lib-itoa.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\lib-itoa.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\lib-itoa.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.9545708-06:00
+  size: 400
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01\lib-itoa.json
+  mtime: 2025-12-16T21:19:28.9222846-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.9545845-06:00
+generatedAt: 2025-12-18T01:53:41.4227423-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_x86_64-pc-windows-msvc_release_.fingerprint_itoa-b660ede5d1a13f01
+folderPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\itoa-b660ede5d1a13f01
+

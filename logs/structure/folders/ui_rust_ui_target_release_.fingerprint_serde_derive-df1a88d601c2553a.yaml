@@ -1,0 +1,98 @@
+files:
+- id: 3875
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\dep-lib-serde_derive
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\dep-lib-serde_derive
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\dep-lib-serde_derive
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.3410859-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\dep-lib-serde_derive
+  mtime: 2025-12-16T22:47:42.6974154-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.3411046-06:00
+- id: 3876
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.3465705-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\invoked.timestamp
+  mtime: 2025-12-16T22:47:42.6974154-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.3465864-06:00
+- id: 3877
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.3519339-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive
+  mtime: 2025-12-16T22:47:44.0995710-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.3519504-06:00
+- id: 3878
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.3572722-06:00
+  size: 584
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive.json
+  mtime: 2025-12-16T22:47:44.1011075-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.3572858-06:00
+generatedAt: 2025-12-18T01:53:38.3949085-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_serde_derive-df1a88d601c2553a
+folderPath: ui\rust_ui\target\release\.fingerprint\serde_derive-df1a88d601c2553a
+

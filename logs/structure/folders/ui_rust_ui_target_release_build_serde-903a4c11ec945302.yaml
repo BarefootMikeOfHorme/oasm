@@ -1,0 +1,98 @@
+files:
+- id: 4068
+  canonicalPath: ui\rust_ui\target\release\build\serde-903a4c11ec945302\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\serde-903a4c11ec945302\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\serde-903a4c11ec945302\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.3907996-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\serde-903a4c11ec945302\invoked.timestamp
+  mtime: 2025-12-16T22:47:39.3047172-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.3908153-06:00
+- id: 4070
+  canonicalPath: ui\rust_ui\target\release\build\serde-903a4c11ec945302\output
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\serde-903a4c11ec945302\output
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\serde-903a4c11ec945302\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4015662-06:00
+  size: 582
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\serde-903a4c11ec945302\output
+  mtime: 2025-12-16T22:47:39.3047172-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4015803-06:00
+- id: 4071
+  canonicalPath: ui\rust_ui\target\release\build\serde-903a4c11ec945302\root-output
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\serde-903a4c11ec945302\root-output
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\serde-903a4c11ec945302\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4067066-06:00
+  size: 103
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\serde-903a4c11ec945302\root-output
+  mtime: 2025-12-16T22:47:39.5184618-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4067195-06:00
+- id: 4072
+  canonicalPath: ui\rust_ui\target\release\build\serde-903a4c11ec945302\stderr
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\serde-903a4c11ec945302\stderr
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\serde-903a4c11ec945302\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4122054-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\serde-903a4c11ec945302\stderr
+  mtime: 2025-12-16T22:47:39.5184618-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4122181-06:00
+generatedAt: 2025-12-18T01:53:36.0497391-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_build_serde-903a4c11ec945302
+folderPath: ui\rust_ui\target\release\build\serde-903a4c11ec945302
+

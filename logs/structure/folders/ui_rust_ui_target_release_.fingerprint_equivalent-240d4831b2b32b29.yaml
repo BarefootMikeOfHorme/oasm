@@ -1,0 +1,98 @@
+files:
+- id: 3759
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\dep-lib-equivalent
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\dep-lib-equivalent
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\dep-lib-equivalent
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.7009289-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\dep-lib-equivalent
+  mtime: 2025-12-16T22:47:38.9650346-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.7009434-06:00
+- id: 3760
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.7061093-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\invoked.timestamp
+  mtime: 2025-12-16T22:47:38.9650346-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.7061234-06:00
+- id: 3761
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.7114678-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent
+  mtime: 2025-12-16T22:47:39.0993014-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.7114838-06:00
+- id: 3762
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.7178292-06:00
+  size: 358
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent.json
+  mtime: 2025-12-16T22:47:39.0993014-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.7178426-06:00
+generatedAt: 2025-12-18T01:53:41.4953246-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_equivalent-240d4831b2b32b29
+folderPath: ui\rust_ui\target\release\.fingerprint\equivalent-240d4831b2b32b29
+

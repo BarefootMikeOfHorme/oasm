@@ -1,0 +1,1593 @@
+files:
+- id: 1355
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0kbiz9u2clx3sqlpotg52e84w.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0kbiz9u2clx3sqlpotg52e84w.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0kbiz9u2clx3sqlpotg52e84w.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4038718-06:00
+  size: 3581
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0kbiz9u2clx3sqlpotg52e84w.o
+  mtime: 2025-12-17T23:59:32.3865342-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4038858-06:00
+- id: 1356
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0l416hnsljqqs6iim8yr5rrkz.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0l416hnsljqqs6iim8yr5rrkz.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0l416hnsljqqs6iim8yr5rrkz.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4094587-06:00
+  size: 6488
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0l416hnsljqqs6iim8yr5rrkz.o
+  mtime: 2025-12-17T23:59:32.3849906-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4094734-06:00
+- id: 1357
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0loh00iz3b5joj5p4twnnfbky.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0loh00iz3b5joj5p4twnnfbky.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0loh00iz3b5joj5p4twnnfbky.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4151811-06:00
+  size: 869
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0loh00iz3b5joj5p4twnnfbky.o
+  mtime: 2025-12-17T23:59:32.3942781-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4151950-06:00
+- id: 1358
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0uadprraxyaizkkxxxth4h00r.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0uadprraxyaizkkxxxth4h00r.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0uadprraxyaizkkxxxth4h00r.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4208954-06:00
+  size: 555
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\0uadprraxyaizkkxxxth4h00r.o
+  mtime: 2025-12-17T23:59:32.3983714-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4209102-06:00
+- id: 1359
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\15q6xvj0ijrelcrqgon5r5n26.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\15q6xvj0ijrelcrqgon5r5n26.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\15q6xvj0ijrelcrqgon5r5n26.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4264765-06:00
+  size: 10913
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\15q6xvj0ijrelcrqgon5r5n26.o
+  mtime: 2025-12-17T23:59:32.3757796-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4264905-06:00
+- id: 1360
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\15xe0jbczrlp4jxjn7nirrn82.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\15xe0jbczrlp4jxjn7nirrn82.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\15xe0jbczrlp4jxjn7nirrn82.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4320368-06:00
+  size: 1765
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\15xe0jbczrlp4jxjn7nirrn82.o
+  mtime: 2025-12-17T23:59:32.3849906-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4320506-06:00
+- id: 1361
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1dqhnof2atfe13zz70z1ipbfe.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1dqhnof2atfe13zz70z1ipbfe.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1dqhnof2atfe13zz70z1ipbfe.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4374940-06:00
+  size: 3845
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1dqhnof2atfe13zz70z1ipbfe.o
+  mtime: 2025-12-17T23:59:32.3927334-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4375079-06:00
+- id: 1362
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1gonfwwhauwsqw9jb4hglm3gf.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1gonfwwhauwsqw9jb4hglm3gf.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1gonfwwhauwsqw9jb4hglm3gf.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4434410-06:00
+  size: 1062
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1gonfwwhauwsqw9jb4hglm3gf.o
+  mtime: 2025-12-17T23:59:32.4035036-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4434565-06:00
+- id: 1363
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1imp6rc5uigygh20rdctksnmg.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1imp6rc5uigygh20rdctksnmg.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1imp6rc5uigygh20rdctksnmg.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4491199-06:00
+  size: 1462
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1imp6rc5uigygh20rdctksnmg.o
+  mtime: 2025-12-17T23:59:32.3927334-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4491351-06:00
+- id: 1364
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1nby934n77wolgbkj6j53v2mr.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1nby934n77wolgbkj6j53v2mr.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1nby934n77wolgbkj6j53v2mr.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4548053-06:00
+  size: 2758
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1nby934n77wolgbkj6j53v2mr.o
+  mtime: 2025-12-17T23:59:32.3911852-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4548197-06:00
+- id: 1365
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1xht300cwi7yksbeyzsfp3ciq.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1xht300cwi7yksbeyzsfp3ciq.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1xht300cwi7yksbeyzsfp3ciq.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4605719-06:00
+  size: 36906
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1xht300cwi7yksbeyzsfp3ciq.o
+  mtime: 2025-12-17T23:59:32.3834531-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4605906-06:00
+- id: 1366
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1yweg0fhz9pa9mk5d7kvkfr1b.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1yweg0fhz9pa9mk5d7kvkfr1b.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1yweg0fhz9pa9mk5d7kvkfr1b.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4661295-06:00
+  size: 1993
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\1yweg0fhz9pa9mk5d7kvkfr1b.o
+  mtime: 2025-12-17T23:59:32.3849906-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4661436-06:00
+- id: 1367
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\2g0psmlt7ol82yaxl8tb30qzy.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\2g0psmlt7ol82yaxl8tb30qzy.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\2g0psmlt7ol82yaxl8tb30qzy.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4719033-06:00
+  size: 19980
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\2g0psmlt7ol82yaxl8tb30qzy.o
+  mtime: 2025-12-17T23:59:32.3778465-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4719246-06:00
+- id: 1368
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\2vbseqd31g7p0nz2kn5ppz36f.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\2vbseqd31g7p0nz2kn5ppz36f.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\2vbseqd31g7p0nz2kn5ppz36f.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4772225-06:00
+  size: 1621
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\2vbseqd31g7p0nz2kn5ppz36f.o
+  mtime: 2025-12-17T23:59:32.4035036-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4772355-06:00
+- id: 1369
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\2vlu0vbl1zb44cnaaqgea4byv.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\2vlu0vbl1zb44cnaaqgea4byv.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\2vlu0vbl1zb44cnaaqgea4byv.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4825320-06:00
+  size: 2605
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\2vlu0vbl1zb44cnaaqgea4byv.o
+  mtime: 2025-12-17T23:59:32.3988854-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4825457-06:00
+- id: 1370
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\38b6eukr9mtqwz2zehe6oflht.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\38b6eukr9mtqwz2zehe6oflht.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\38b6eukr9mtqwz2zehe6oflht.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4882930-06:00
+  size: 470
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\38b6eukr9mtqwz2zehe6oflht.o
+  mtime: 2025-12-17T23:59:32.3711323-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4883113-06:00
+- id: 1371
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3hqqaum4sebfpfwdexetka71l.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3hqqaum4sebfpfwdexetka71l.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3hqqaum4sebfpfwdexetka71l.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4935986-06:00
+  size: 1353
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3hqqaum4sebfpfwdexetka71l.o
+  mtime: 2025-12-17T23:59:32.3757796-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4936129-06:00
+- id: 1372
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3lic5wvpowptnv10gmagaw1b8.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3lic5wvpowptnv10gmagaw1b8.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3lic5wvpowptnv10gmagaw1b8.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.4989724-06:00
+  size: 1754
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3lic5wvpowptnv10gmagaw1b8.o
+  mtime: 2025-12-17T23:59:32.3958174-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.4989870-06:00
+- id: 1373
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3mmztzi752iuq1g22i3cal7cv.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3mmztzi752iuq1g22i3cal7cv.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3mmztzi752iuq1g22i3cal7cv.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5042979-06:00
+  size: 981
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3mmztzi752iuq1g22i3cal7cv.o
+  mtime: 2025-12-17T23:59:32.3958174-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5043120-06:00
+- id: 1374
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3pkl5d3e6oj72c0pys6thz9n8.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3pkl5d3e6oj72c0pys6thz9n8.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3pkl5d3e6oj72c0pys6thz9n8.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5096512-06:00
+  size: 933
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3pkl5d3e6oj72c0pys6thz9n8.o
+  mtime: 2025-12-17T23:59:32.4035036-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5096663-06:00
+- id: 1375
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3t3c3s9f5bpkkxb1mnp72j7l4.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3t3c3s9f5bpkkxb1mnp72j7l4.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3t3c3s9f5bpkkxb1mnp72j7l4.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5150570-06:00
+  size: 1387
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3t3c3s9f5bpkkxb1mnp72j7l4.o
+  mtime: 2025-12-17T23:59:32.3911852-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5150712-06:00
+- id: 1376
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3yqezztrdxddjbcjcwo9xqbbu.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3yqezztrdxddjbcjcwo9xqbbu.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3yqezztrdxddjbcjcwo9xqbbu.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5203842-06:00
+  size: 1400
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\3yqezztrdxddjbcjcwo9xqbbu.o
+  mtime: 2025-12-17T23:59:32.3849906-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5203984-06:00
+- id: 1377
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\40bhuatx5xgzjia9rozeg8sgw.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\40bhuatx5xgzjia9rozeg8sgw.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\40bhuatx5xgzjia9rozeg8sgw.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5258611-06:00
+  size: 2432
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\40bhuatx5xgzjia9rozeg8sgw.o
+  mtime: 2025-12-17T23:59:32.3834531-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5258743-06:00
+- id: 1378
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4dpiuqn0t2ys4a9e6hpkb45yr.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4dpiuqn0t2ys4a9e6hpkb45yr.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4dpiuqn0t2ys4a9e6hpkb45yr.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5312740-06:00
+  size: 4018
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4dpiuqn0t2ys4a9e6hpkb45yr.o
+  mtime: 2025-12-17T23:59:32.3973549-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5312880-06:00
+- id: 1379
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4f0e2ex11arn1vhn5e80kf622.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4f0e2ex11arn1vhn5e80kf622.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4f0e2ex11arn1vhn5e80kf622.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5367629-06:00
+  size: 1109
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4f0e2ex11arn1vhn5e80kf622.o
+  mtime: 2025-12-17T23:59:32.4066172-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5367804-06:00
+- id: 1380
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4fx6sld1rtoqkbi2a39zvx02h.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4fx6sld1rtoqkbi2a39zvx02h.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4fx6sld1rtoqkbi2a39zvx02h.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5421672-06:00
+  size: 1328
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4fx6sld1rtoqkbi2a39zvx02h.o
+  mtime: 2025-12-17T23:59:32.3803909-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5421808-06:00
+- id: 1381
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4pzj6cj4kevyziqv8qmdbuz7d.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4pzj6cj4kevyziqv8qmdbuz7d.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4pzj6cj4kevyziqv8qmdbuz7d.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5474733-06:00
+  size: 11116
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4pzj6cj4kevyziqv8qmdbuz7d.o
+  mtime: 2025-12-17T23:59:32.3880809-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5474867-06:00
+- id: 1382
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4us8rspvsog5rjusbowjzhzr6.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4us8rspvsog5rjusbowjzhzr6.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4us8rspvsog5rjusbowjzhzr6.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5528373-06:00
+  size: 1435
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4us8rspvsog5rjusbowjzhzr6.o
+  mtime: 2025-12-17T23:59:32.3834531-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5528507-06:00
+- id: 1383
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4ynhqugcn3h5lkcq969j5en80.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4ynhqugcn3h5lkcq969j5en80.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4ynhqugcn3h5lkcq969j5en80.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5581280-06:00
+  size: 2562
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\4ynhqugcn3h5lkcq969j5en80.o
+  mtime: 2025-12-17T23:59:32.3927334-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5581409-06:00
+- id: 1384
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\5k4uf1ja6wizq0bux86iksic4.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\5k4uf1ja6wizq0bux86iksic4.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\5k4uf1ja6wizq0bux86iksic4.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5634086-06:00
+  size: 1696
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\5k4uf1ja6wizq0bux86iksic4.o
+  mtime: 2025-12-17T23:59:32.3988854-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5634215-06:00
+- id: 1385
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6068p0vkey0y0ps6ogos98hyg.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6068p0vkey0y0ps6ogos98hyg.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6068p0vkey0y0ps6ogos98hyg.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5698000-06:00
+  size: 2445
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6068p0vkey0y0ps6ogos98hyg.o
+  mtime: 2025-12-17T23:59:32.4050725-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5698207-06:00
+- id: 1386
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\61sydl3953jy48oquvoicaz9q.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\61sydl3953jy48oquvoicaz9q.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\61sydl3953jy48oquvoicaz9q.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5755932-06:00
+  size: 1803
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\61sydl3953jy48oquvoicaz9q.o
+  mtime: 2025-12-17T23:59:32.3942781-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5756076-06:00
+- id: 1387
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6ddgk5ew2iw642po8mmxu116j.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6ddgk5ew2iw642po8mmxu116j.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6ddgk5ew2iw642po8mmxu116j.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5812053-06:00
+  size: 1458
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6ddgk5ew2iw642po8mmxu116j.o
+  mtime: 2025-12-17T23:59:32.4035036-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5812200-06:00
+- id: 1388
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6o9ztmzljjaj7vx9qq8ciazc6.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6o9ztmzljjaj7vx9qq8ciazc6.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6o9ztmzljjaj7vx9qq8ciazc6.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5866139-06:00
+  size: 526
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6o9ztmzljjaj7vx9qq8ciazc6.o
+  mtime: 2025-12-17T23:59:32.3742385-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5866280-06:00
+- id: 1389
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6p0l9vepnaeb5xpp0q3n4q1sq.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6p0l9vepnaeb5xpp0q3n4q1sq.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6p0l9vepnaeb5xpp0q3n4q1sq.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5920182-06:00
+  size: 1726
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6p0l9vepnaeb5xpp0q3n4q1sq.o
+  mtime: 2025-12-17T23:59:32.3973549-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5920316-06:00
+- id: 1390
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6w59f6242ukez06m67ljyqxgp.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6w59f6242ukez06m67ljyqxgp.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6w59f6242ukez06m67ljyqxgp.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.5974458-06:00
+  size: 3167
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\6w59f6242ukez06m67ljyqxgp.o
+  mtime: 2025-12-17T23:59:32.3988854-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.5974602-06:00
+- id: 1391
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\74p4sms6p2zitodqnqfx3ksb7.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\74p4sms6p2zitodqnqfx3ksb7.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\74p4sms6p2zitodqnqfx3ksb7.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6029781-06:00
+  size: 8271
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\74p4sms6p2zitodqnqfx3ksb7.o
+  mtime: 2025-12-17T23:59:32.3803909-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6029977-06:00
+- id: 1392
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\74wnj298oc36sqfzl4fc1jeov.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\74wnj298oc36sqfzl4fc1jeov.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\74wnj298oc36sqfzl4fc1jeov.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6083224-06:00
+  size: 1340
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\74wnj298oc36sqfzl4fc1jeov.o
+  mtime: 2025-12-17T23:59:32.4035036-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6083360-06:00
+- id: 1393
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\75hcdnqbuq8jpijemg0k1ef7w.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\75hcdnqbuq8jpijemg0k1ef7w.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\75hcdnqbuq8jpijemg0k1ef7w.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6137256-06:00
+  size: 853
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\75hcdnqbuq8jpijemg0k1ef7w.o
+  mtime: 2025-12-17T23:59:32.3742385-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6137484-06:00
+- id: 1394
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\76mqv9l0l3mh0l7pl4osu8o1q.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\76mqv9l0l3mh0l7pl4osu8o1q.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\76mqv9l0l3mh0l7pl4osu8o1q.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6202289-06:00
+  size: 1716
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\76mqv9l0l3mh0l7pl4osu8o1q.o
+  mtime: 2025-12-17T23:59:32.4050725-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6202446-06:00
+- id: 1395
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\7w3co1zejugvn300r9fbbtnlp.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\7w3co1zejugvn300r9fbbtnlp.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\7w3co1zejugvn300r9fbbtnlp.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6258328-06:00
+  size: 1131
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\7w3co1zejugvn300r9fbbtnlp.o
+  mtime: 2025-12-17T23:59:32.4019467-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6258469-06:00
+- id: 1396
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\8i8ajwocq4pgqu81jcbr1rc5c.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\8i8ajwocq4pgqu81jcbr1rc5c.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\8i8ajwocq4pgqu81jcbr1rc5c.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6314140-06:00
+  size: 1562
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\8i8ajwocq4pgqu81jcbr1rc5c.o
+  mtime: 2025-12-17T23:59:32.4019467-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6314292-06:00
+- id: 1397
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\8mjubh2ux773mtbfjjz25bk9p.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\8mjubh2ux773mtbfjjz25bk9p.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\8mjubh2ux773mtbfjjz25bk9p.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6366942-06:00
+  size: 2592
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\8mjubh2ux773mtbfjjz25bk9p.o
+  mtime: 2025-12-17T23:59:32.3988854-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6367086-06:00
+- id: 1398
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\8vqel04kpr7u925fjqtt8mmbw.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\8vqel04kpr7u925fjqtt8mmbw.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\8vqel04kpr7u925fjqtt8mmbw.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6422837-06:00
+  size: 2593
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\8vqel04kpr7u925fjqtt8mmbw.o
+  mtime: 2025-12-17T23:59:32.3958174-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6422977-06:00
+- id: 1399
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9a637ri31i2n6pi4guxozsep6.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9a637ri31i2n6pi4guxozsep6.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9a637ri31i2n6pi4guxozsep6.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6477588-06:00
+  size: 1317
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9a637ri31i2n6pi4guxozsep6.o
+  mtime: 2025-12-17T23:59:32.3819031-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6477721-06:00
+- id: 1400
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9gvdt9akzkunnjpoae6u1gf02.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9gvdt9akzkunnjpoae6u1gf02.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9gvdt9akzkunnjpoae6u1gf02.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6532097-06:00
+  size: 1570
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9gvdt9akzkunnjpoae6u1gf02.o
+  mtime: 2025-12-17T23:59:32.3958174-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6532232-06:00
+- id: 1401
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9u7pq4tcawefc9y0nsdkk0m1c.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9u7pq4tcawefc9y0nsdkk0m1c.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9u7pq4tcawefc9y0nsdkk0m1c.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6585229-06:00
+  size: 4259
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9u7pq4tcawefc9y0nsdkk0m1c.o
+  mtime: 2025-12-17T23:59:32.3865342-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6585389-06:00
+- id: 1402
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9va865m8nylp1hayfxiumg82m.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9va865m8nylp1hayfxiumg82m.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9va865m8nylp1hayfxiumg82m.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6642345-06:00
+  size: 794
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\9va865m8nylp1hayfxiumg82m.o
+  mtime: 2025-12-17T23:59:32.3788573-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6642490-06:00
+- id: 1403
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\a7v8vhqsi09kmkklgxrk1k6kk.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\a7v8vhqsi09kmkklgxrk1k6kk.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\a7v8vhqsi09kmkklgxrk1k6kk.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6696561-06:00
+  size: 1447
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\a7v8vhqsi09kmkklgxrk1k6kk.o
+  mtime: 2025-12-17T23:59:32.3942781-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6696708-06:00
+- id: 1404
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\ao9552stprbqrm4yu8vjydoaz.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\ao9552stprbqrm4yu8vjydoaz.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\ao9552stprbqrm4yu8vjydoaz.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6752813-06:00
+  size: 1189
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\ao9552stprbqrm4yu8vjydoaz.o
+  mtime: 2025-12-17T23:59:32.4004349-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6752987-06:00
+- id: 1405
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\bnhky1oeeeapa8et591rxiyud.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\bnhky1oeeeapa8et591rxiyud.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\bnhky1oeeeapa8et591rxiyud.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6807157-06:00
+  size: 1673
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\bnhky1oeeeapa8et591rxiyud.o
+  mtime: 2025-12-17T23:59:32.4019467-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6807309-06:00
+- id: 1406
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\c1pjfdy191z37wrp0v29ggx1o.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\c1pjfdy191z37wrp0v29ggx1o.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\c1pjfdy191z37wrp0v29ggx1o.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6864208-06:00
+  size: 1146
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\c1pjfdy191z37wrp0v29ggx1o.o
+  mtime: 2025-12-17T23:59:32.4004349-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6864355-06:00
+- id: 1407
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\cbd5i2vi6pp2vfl1xco8rtduo.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\cbd5i2vi6pp2vfl1xco8rtduo.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\cbd5i2vi6pp2vfl1xco8rtduo.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6917630-06:00
+  size: 14044
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\cbd5i2vi6pp2vfl1xco8rtduo.o
+  mtime: 2025-12-17T23:59:32.3778465-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6917770-06:00
+- id: 1408
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\cg6rg8h0a48g2fc6s9mvi2eot.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\cg6rg8h0a48g2fc6s9mvi2eot.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\cg6rg8h0a48g2fc6s9mvi2eot.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.6973067-06:00
+  size: 1567
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\cg6rg8h0a48g2fc6s9mvi2eot.o
+  mtime: 2025-12-17T23:59:32.4050725-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.6973203-06:00
+- id: 1409
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\d00hkxfj66i9wztkdqjfyip3v.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\d00hkxfj66i9wztkdqjfyip3v.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\d00hkxfj66i9wztkdqjfyip3v.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7029343-06:00
+  size: 983
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\d00hkxfj66i9wztkdqjfyip3v.o
+  mtime: 2025-12-17T23:59:32.3911852-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7029557-06:00
+- id: 1410
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\d0pfci6y4ywlzjocuzwo4ross.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\d0pfci6y4ywlzjocuzwo4ross.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\d0pfci6y4ywlzjocuzwo4ross.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7082521-06:00
+  size: 7436
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\d0pfci6y4ywlzjocuzwo4ross.o
+  mtime: 2025-12-17T23:59:32.3803909-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7082668-06:00
+- id: 1411
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dbu649a5xm5dv0icp8d8gpkvi.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dbu649a5xm5dv0icp8d8gpkvi.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dbu649a5xm5dv0icp8d8gpkvi.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7135783-06:00
+  size: 2408
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dbu649a5xm5dv0icp8d8gpkvi.o
+  mtime: 2025-12-17T23:59:32.3880809-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7135918-06:00
+- id: 1412
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dep-graph.bin
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dep-graph.bin
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dep-graph.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7187962-06:00
+  size: 849356
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dep-graph.bin
+  mtime: 2025-12-17T23:59:32.4086611-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7188098-06:00
+- id: 1413
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dm9tcafddekiftnl7tqn0p2je.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dm9tcafddekiftnl7tqn0p2je.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dm9tcafddekiftnl7tqn0p2je.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7243721-06:00
+  size: 1171
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dm9tcafddekiftnl7tqn0p2je.o
+  mtime: 2025-12-17T23:59:32.3865342-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7243899-06:00
+- id: 1414
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dukv8uhpmy3azuf1lm91fx4oq.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dukv8uhpmy3azuf1lm91fx4oq.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dukv8uhpmy3azuf1lm91fx4oq.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7295709-06:00
+  size: 909
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dukv8uhpmy3azuf1lm91fx4oq.o
+  mtime: 2025-12-17T23:59:32.3803909-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7295848-06:00
+- id: 1415
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dy09ys2qsojmzc57oprotdrxs.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dy09ys2qsojmzc57oprotdrxs.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dy09ys2qsojmzc57oprotdrxs.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7350823-06:00
+  size: 1527
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\dy09ys2qsojmzc57oprotdrxs.o
+  mtime: 2025-12-17T23:59:32.4035036-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7350957-06:00
+- id: 1416
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\e0hvpuym0mf6c4mmwc14oakrf.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\e0hvpuym0mf6c4mmwc14oakrf.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\e0hvpuym0mf6c4mmwc14oakrf.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7406510-06:00
+  size: 3435
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\e0hvpuym0mf6c4mmwc14oakrf.o
+  mtime: 2025-12-17T23:59:32.4004349-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7406647-06:00
+- id: 1417
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\e2x9skl4rs6nvqeve7qtik8hp.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\e2x9skl4rs6nvqeve7qtik8hp.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\e2x9skl4rs6nvqeve7qtik8hp.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7460587-06:00
+  size: 3486
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\e2x9skl4rs6nvqeve7qtik8hp.o
+  mtime: 2025-12-17T23:59:32.3942781-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7460727-06:00
+- id: 1418
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\e86z5dl4itfhno1s2dxlwgrgv.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\e86z5dl4itfhno1s2dxlwgrgv.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\e86z5dl4itfhno1s2dxlwgrgv.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7512729-06:00
+  size: 4760
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\e86z5dl4itfhno1s2dxlwgrgv.o
+  mtime: 2025-12-17T23:59:32.3911852-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7512869-06:00
+- id: 1419
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\ehru9oiypawk6c517oe2ngzi3.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\ehru9oiypawk6c517oe2ngzi3.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\ehru9oiypawk6c517oe2ngzi3.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7564716-06:00
+  size: 2328
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\ehru9oiypawk6c517oe2ngzi3.o
+  mtime: 2025-12-17T23:59:32.3819031-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7564853-06:00
+- id: 1420
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\enhtluwyjz2pyuyuzauone1qf.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\enhtluwyjz2pyuyuzauone1qf.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\enhtluwyjz2pyuyuzauone1qf.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7618284-06:00
+  size: 894
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\enhtluwyjz2pyuyuzauone1qf.o
+  mtime: 2025-12-17T23:59:32.3757796-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7618425-06:00
+- id: 1421
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\eoysqcijd863owg3x2f8lze2v.o
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\eoysqcijd863owg3x2f8lze2v.o
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\eoysqcijd863owg3x2f8lze2v.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7668983-06:00
+  size: 974
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\eoysqcijd863owg3x2f8lze2v.o
+  mtime: 2025-12-17T23:59:32.3911852-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7669114-06:00
+- id: 1422
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\query-cache.bin
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\query-cache.bin
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\query-cache.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7723259-06:00
+  size: 307741
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\query-cache.bin
+  mtime: 2025-12-17T23:59:32.4081481-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7723405-06:00
+- id: 1423
+  canonicalPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\work-products.bin
+  total: 4270
+  originalName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\work-products.bin
+  nameHistory:
+  - new: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\work-products.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7776289-06:00
+  size: 5066
+  aliases: []
+  displayName: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07\work-products.bin
+  mtime: 2025-12-17T23:59:32.4927132-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7776413-06:00
+generatedAt: 2025-12-18T01:53:40.0808334-06:00
+fileCount: 69
+folderId: target_debug_incremental_build_script_build-1g4vxompzux0y_s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07
+folderPath: target\debug\incremental\build_script_build-1g4vxompzux0y\s-he0agksuz3-1yvqjmb-a860390tf8v11tf8qvxdc0y07
+

@@ -1,0 +1,98 @@
+files:
+- id: 546
+  canonicalPath: target\debug\.fingerprint\log-67ed13b2849989c0\dep-lib-log
+  total: 4270
+  originalName: target\debug\.fingerprint\log-67ed13b2849989c0\dep-lib-log
+  nameHistory:
+  - new: target\debug\.fingerprint\log-67ed13b2849989c0\dep-lib-log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.7039680-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\log-67ed13b2849989c0\dep-lib-log
+  mtime: 2025-12-17T23:59:31.3010673-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.7039820-06:00
+- id: 547
+  canonicalPath: target\debug\.fingerprint\log-67ed13b2849989c0\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\log-67ed13b2849989c0\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\log-67ed13b2849989c0\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.7097596-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\log-67ed13b2849989c0\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.3010673-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.7097742-06:00
+- id: 548
+  canonicalPath: target\debug\.fingerprint\log-67ed13b2849989c0\lib-log
+  total: 4270
+  originalName: target\debug\.fingerprint\log-67ed13b2849989c0\lib-log
+  nameHistory:
+  - new: target\debug\.fingerprint\log-67ed13b2849989c0\lib-log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.7158700-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\log-67ed13b2849989c0\lib-log
+  mtime: 2025-12-17T23:59:31.6541747-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.7158848-06:00
+- id: 549
+  canonicalPath: target\debug\.fingerprint\log-67ed13b2849989c0\lib-log.json
+  total: 4270
+  originalName: target\debug\.fingerprint\log-67ed13b2849989c0\lib-log.json
+  nameHistory:
+  - new: target\debug\.fingerprint\log-67ed13b2849989c0\lib-log.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.7218989-06:00
+  size: 845
+  aliases: []
+  displayName: target\debug\.fingerprint\log-67ed13b2849989c0\lib-log.json
+  mtime: 2025-12-17T23:59:31.6551789-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.7219136-06:00
+generatedAt: 2025-12-18T01:53:40.5749594-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_log-67ed13b2849989c0
+folderPath: target\debug\.fingerprint\log-67ed13b2849989c0
+

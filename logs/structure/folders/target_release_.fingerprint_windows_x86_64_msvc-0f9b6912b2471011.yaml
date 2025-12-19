@@ -1,0 +1,98 @@
+files:
+- id: 2145
+  canonicalPath: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\dep-lib-windows_x86_64_msvc
+  total: 4270
+  originalName: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\dep-lib-windows_x86_64_msvc
+  nameHistory:
+  - new: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\dep-lib-windows_x86_64_msvc
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.7519867-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\dep-lib-windows_x86_64_msvc
+  mtime: 2025-12-17T23:56:43.9338097-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.7520032-06:00
+- id: 2146
+  canonicalPath: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.7576532-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.9338097-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.7576670-06:00
+- id: 2147
+  canonicalPath: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\lib-windows_x86_64_msvc
+  total: 4270
+  originalName: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\lib-windows_x86_64_msvc
+  nameHistory:
+  - new: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\lib-windows_x86_64_msvc
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.7629970-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\lib-windows_x86_64_msvc
+  mtime: 2025-12-17T23:56:44.2790106-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.7630123-06:00
+- id: 2148
+  canonicalPath: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\lib-windows_x86_64_msvc.json
+  total: 4270
+  originalName: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\lib-windows_x86_64_msvc.json
+  nameHistory:
+  - new: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\lib-windows_x86_64_msvc.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.7682877-06:00
+  size: 443
+  aliases: []
+  displayName: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011\lib-windows_x86_64_msvc.json
+  mtime: 2025-12-17T23:56:44.2795871-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.7683009-06:00
+generatedAt: 2025-12-18T01:53:41.6406505-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_windows_x86_64_msvc-0f9b6912b2471011
+folderPath: target\release\.fingerprint\windows_x86_64_msvc-0f9b6912b2471011
+

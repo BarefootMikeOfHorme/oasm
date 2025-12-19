@@ -1,0 +1,98 @@
+files:
+- id: 2303
+  canonicalPath: target\release\build\serde-903a4c11ec945302\invoked.timestamp
+  total: 4270
+  originalName: target\release\build\serde-903a4c11ec945302\invoked.timestamp
+  nameHistory:
+  - new: target\release\build\serde-903a4c11ec945302\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6404484-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\build\serde-903a4c11ec945302\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.9252664-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6404624-06:00
+- id: 2305
+  canonicalPath: target\release\build\serde-903a4c11ec945302\output
+  total: 4270
+  originalName: target\release\build\serde-903a4c11ec945302\output
+  nameHistory:
+  - new: target\release\build\serde-903a4c11ec945302\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6517631-06:00
+  size: 582
+  aliases: []
+  displayName: target\release\build\serde-903a4c11ec945302\output
+  mtime: 2025-12-17T23:56:43.9252664-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6517768-06:00
+- id: 2306
+  canonicalPath: target\release\build\serde-903a4c11ec945302\root-output
+  total: 4270
+  originalName: target\release\build\serde-903a4c11ec945302\root-output
+  nameHistory:
+  - new: target\release\build\serde-903a4c11ec945302\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6570285-06:00
+  size: 92
+  aliases: []
+  displayName: target\release\build\serde-903a4c11ec945302\root-output
+  mtime: 2025-12-17T23:56:44.1931572-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6570422-06:00
+- id: 2307
+  canonicalPath: target\release\build\serde-903a4c11ec945302\stderr
+  total: 4270
+  originalName: target\release\build\serde-903a4c11ec945302\stderr
+  nameHistory:
+  - new: target\release\build\serde-903a4c11ec945302\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6628593-06:00
+  size: 0
+  aliases: []
+  displayName: target\release\build\serde-903a4c11ec945302\stderr
+  mtime: 2025-12-17T23:56:44.1931572-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6628733-06:00
+generatedAt: 2025-12-18T01:53:37.8897014-06:00
+fileCount: 4
+folderId: target_release_build_serde-903a4c11ec945302
+folderPath: target\release\build\serde-903a4c11ec945302
+

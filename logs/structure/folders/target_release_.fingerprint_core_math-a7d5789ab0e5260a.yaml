@@ -1,0 +1,98 @@
+files:
+- id: 1743
+  canonicalPath: target\release\.fingerprint\core_math-a7d5789ab0e5260a\dep-lib-core_math
+  total: 4270
+  originalName: target\release\.fingerprint\core_math-a7d5789ab0e5260a\dep-lib-core_math
+  nameHistory:
+  - new: target\release\.fingerprint\core_math-a7d5789ab0e5260a\dep-lib-core_math
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5281909-06:00
+  size: 30
+  aliases: []
+  displayName: target\release\.fingerprint\core_math-a7d5789ab0e5260a\dep-lib-core_math
+  mtime: 2025-12-17T23:56:49.2316658-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5282042-06:00
+- id: 1744
+  canonicalPath: target\release\.fingerprint\core_math-a7d5789ab0e5260a\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\core_math-a7d5789ab0e5260a\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\core_math-a7d5789ab0e5260a\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5334817-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\core_math-a7d5789ab0e5260a\invoked.timestamp
+  mtime: 2025-12-17T23:56:49.2316658-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5334954-06:00
+- id: 1745
+  canonicalPath: target\release\.fingerprint\core_math-a7d5789ab0e5260a\lib-core_math
+  total: 4270
+  originalName: target\release\.fingerprint\core_math-a7d5789ab0e5260a\lib-core_math
+  nameHistory:
+  - new: target\release\.fingerprint\core_math-a7d5789ab0e5260a\lib-core_math
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5386064-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\core_math-a7d5789ab0e5260a\lib-core_math
+  mtime: 2025-12-17T23:56:49.4856528-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5386195-06:00
+- id: 1746
+  canonicalPath: target\release\.fingerprint\core_math-a7d5789ab0e5260a\lib-core_math.json
+  total: 4270
+  originalName: target\release\.fingerprint\core_math-a7d5789ab0e5260a\lib-core_math.json
+  nameHistory:
+  - new: target\release\.fingerprint\core_math-a7d5789ab0e5260a\lib-core_math.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5440118-06:00
+  size: 485
+  aliases: []
+  displayName: target\release\.fingerprint\core_math-a7d5789ab0e5260a\lib-core_math.json
+  mtime: 2025-12-17T23:56:49.4856528-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5440252-06:00
+generatedAt: 2025-12-18T01:53:37.8426099-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_core_math-a7d5789ab0e5260a
+folderPath: target\release\.fingerprint\core_math-a7d5789ab0e5260a
+

@@ -1,0 +1,29 @@
+files:
+- id: 335
+  canonicalPath: shells\wpshell\utils\env_setup.ps1
+  total: 4270
+  originalName: shells\wpshell\utils\env_setup.ps1
+  nameHistory:
+  - new: shells\wpshell\utils\env_setup.ps1
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.5274206-06:00
+  size: 125
+  aliases: []
+  displayName: shells\wpshell\utils\env_setup.ps1
+  mtime: 2025-12-17T23:45:27.4748550-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.5274387-06:00
+generatedAt: 2025-12-18T01:53:38.2009692-06:00
+fileCount: 1
+folderId: shells_wpshell_utils
+folderPath: shells\wpshell\utils
+

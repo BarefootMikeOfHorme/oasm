@@ -1,0 +1,98 @@
+files:
+- id: 354
+  canonicalPath: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\dep-lib-anstyle_parse
+  total: 4270
+  originalName: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\dep-lib-anstyle_parse
+  nameHistory:
+  - new: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\dep-lib-anstyle_parse
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.6331807-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\dep-lib-anstyle_parse
+  mtime: 2025-12-17T23:59:31.3987959-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.6331959-06:00
+- id: 355
+  canonicalPath: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.6384640-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.3987959-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.6384794-06:00
+- id: 356
+  canonicalPath: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\lib-anstyle_parse
+  total: 4270
+  originalName: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\lib-anstyle_parse
+  nameHistory:
+  - new: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\lib-anstyle_parse
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.6443749-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\lib-anstyle_parse
+  mtime: 2025-12-17T23:59:31.7136801-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.6443932-06:00
+- id: 357
+  canonicalPath: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\lib-anstyle_parse.json
+  total: 4270
+  originalName: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\lib-anstyle_parse.json
+  nameHistory:
+  - new: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\lib-anstyle_parse.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.6499471-06:00
+  size: 477
+  aliases: []
+  displayName: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0\lib-anstyle_parse.json
+  mtime: 2025-12-17T23:59:31.7145373-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.6499644-06:00
+generatedAt: 2025-12-18T01:53:39.9481967-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_anstyle-parse-4e8d37acff174ab0
+folderPath: target\debug\.fingerprint\anstyle-parse-4e8d37acff174ab0
+

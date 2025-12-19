@@ -1,0 +1,121 @@
+files:
+- id: 864
+  canonicalPath: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build-6cfa10f2aeec52db.d
+  total: 4270
+  originalName: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build-6cfa10f2aeec52db.d
+  nameHistory:
+  - new: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build-6cfa10f2aeec52db.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5486657-06:00
+  size: 559
+  aliases: []
+  displayName: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build-6cfa10f2aeec52db.d
+  mtime: 2025-12-17T23:59:31.4775451-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5486827-06:00
+- id: 865
+  canonicalPath: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build-6cfa10f2aeec52db.exe
+  total: 4270
+  originalName: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build-6cfa10f2aeec52db.exe
+  nameHistory:
+  - new: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build-6cfa10f2aeec52db.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5544337-06:00
+  size: 321536
+  aliases: []
+  displayName: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build-6cfa10f2aeec52db.exe
+  mtime: 2025-12-17T23:59:31.7665981-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5544470-06:00
+- id: 866
+  canonicalPath: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build-6cfa10f2aeec52db.pdb
+  total: 4270
+  originalName: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build-6cfa10f2aeec52db.pdb
+  nameHistory:
+  - new: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build-6cfa10f2aeec52db.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5604172-06:00
+  size: 1658880
+  aliases: []
+  displayName: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build-6cfa10f2aeec52db.pdb
+  mtime: 2025-12-17T23:59:31.7682490-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5604331-06:00
+- id: 867
+  canonicalPath: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5666708-06:00
+  size: 1658880
+  aliases: []
+  displayName: target\debug\build\anyhow-6cfa10f2aeec52db\build_script_build.pdb
+  mtime: 2025-12-17T23:59:31.7682490-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5666857-06:00
+- id: 868
+  canonicalPath: target\debug\build\anyhow-6cfa10f2aeec52db\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\anyhow-6cfa10f2aeec52db\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\anyhow-6cfa10f2aeec52db\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5729489-06:00
+  size: 321536
+  aliases: []
+  displayName: target\debug\build\anyhow-6cfa10f2aeec52db\build-script-build.exe
+  mtime: 2025-12-17T23:59:31.7665981-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5729642-06:00
+generatedAt: 2025-12-18T01:53:38.5197993-06:00
+fileCount: 5
+folderId: target_debug_build_anyhow-6cfa10f2aeec52db
+folderPath: target\debug\build\anyhow-6cfa10f2aeec52db
+

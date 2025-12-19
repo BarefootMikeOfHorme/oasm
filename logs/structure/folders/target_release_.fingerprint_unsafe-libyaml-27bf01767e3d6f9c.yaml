@@ -1,0 +1,98 @@
+files:
+- id: 2121
+  canonicalPath: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\dep-lib-unsafe_libyaml
+  total: 4270
+  originalName: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\dep-lib-unsafe_libyaml
+  nameHistory:
+  - new: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\dep-lib-unsafe_libyaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.6209826-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\dep-lib-unsafe_libyaml
+  mtime: 2025-12-17T23:56:43.7006698-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.6209976-06:00
+- id: 2122
+  canonicalPath: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.6262773-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.7006698-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.6262910-06:00
+- id: 2123
+  canonicalPath: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\lib-unsafe_libyaml
+  total: 4270
+  originalName: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\lib-unsafe_libyaml
+  nameHistory:
+  - new: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\lib-unsafe_libyaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.6317575-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\lib-unsafe_libyaml
+  mtime: 2025-12-17T23:56:45.3132721-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.6317732-06:00
+- id: 2124
+  canonicalPath: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\lib-unsafe_libyaml.json
+  total: 4270
+  originalName: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\lib-unsafe_libyaml.json
+  nameHistory:
+  - new: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\lib-unsafe_libyaml.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.6370511-06:00
+  size: 366
+  aliases: []
+  displayName: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c\lib-unsafe_libyaml.json
+  mtime: 2025-12-17T23:56:45.3132721-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.6370648-06:00
+generatedAt: 2025-12-18T01:53:41.6666719-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_unsafe-libyaml-27bf01767e3d6f9c
+folderPath: target\release\.fingerprint\unsafe-libyaml-27bf01767e3d6f9c
+

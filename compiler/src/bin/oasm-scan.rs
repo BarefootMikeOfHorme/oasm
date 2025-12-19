@@ -23,13 +23,17 @@ struct Args {
     #[arg(short, long, default_value = "logs/StructureDebug")]
     output: PathBuf,
 
-    /// Output format (json, yaml, both)
-    #[arg(short, long, default_value = "both")]
+    /// Output format (json, yaml, both, dashboard)
+    #[arg(short, long, default_value = "dashboard")]
     format: String,
 
     /// Verbose output
     #[arg(short, long)]
     verbose: bool,
+
+    /// Enable dashboard format output (JSONL + plain text)
+    #[arg(long)]
+    dashboard: bool,
 }
 
 fn main() -> Result<()> {
@@ -46,6 +50,56 @@ fn main() -> Result<()> {
 
     // Run scan
     let scanner = Scanner::new(&args.root);
+
+    // Dashboard format output
+    if args.format == "dashboard" || args.dashboard {
+        let dashboard_rows = scanner.scan_with_dashboard()
+            .context("Failed to scan with dashboard format")?;
+
+        let timestamp = chrono::Utc::now().format("%Y%m%dT%H%M%S").to_string();
+
+        // Write JSONL (one JSON object per line)
+        let jsonl_path = args.output.join(format!("scan_dashboard_{}.jsonl", timestamp));
+        let mut jsonl_content = String::new();
+        for row in &dashboard_rows {
+            if let Ok(json) = row.to_jsonl() {
+                jsonl_content.push_str(&json);
+                jsonl_content.push('\n');
+            }
+        }
+        fs::write(&jsonl_path, jsonl_content)
+            .context("Failed to write JSONL file")?;
+        println!("✓ JSONL dashboard: {}", jsonl_path.display());
+
+        // Write plain text dashboard
+        let plain_path = args.output.join(format!("scan_dashboard_{}.txt", timestamp));
+        let mut plain_content = String::new();
+        plain_content.push_str("=== OASM Scan Dashboard ===\n");
+        plain_content.push_str(&format!("Timestamp: {}\n", timestamp));
+        plain_content.push_str(&format!("Total files: {}\n\n", dashboard_rows.len()));
+
+        for row in &dashboard_rows {
+            plain_content.push_str(&row.to_plain_text());
+            plain_content.push('\n');
+        }
+
+        fs::write(&plain_path, plain_content)
+            .context("Failed to write plain text dashboard")?;
+        println!("✓ Plain text dashboard: {}", plain_path.display());
+
+        // Also print to stdout
+        if args.verbose {
+            println!("\n📊 Dashboard Output:");
+            for row in &dashboard_rows {
+                println!("{}", row.to_plain_text());
+            }
+        }
+
+        println!("\n✅ Scan complete! ({} files processed)", dashboard_rows.len());
+        return Ok(());
+    }
+
+    // Original format outputs
     let results = scanner.scan()
         .context("Failed to scan project")?;
 

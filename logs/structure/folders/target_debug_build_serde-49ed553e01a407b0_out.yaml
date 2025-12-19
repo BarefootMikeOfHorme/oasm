@@ -1,0 +1,29 @@
+files:
+- id: 979
+  canonicalPath: target\debug\build\serde-49ed553e01a407b0\out\private.rs
+  total: 4270
+  originalName: target\debug\build\serde-49ed553e01a407b0\out\private.rs
+  nameHistory:
+  - new: target\debug\build\serde-49ed553e01a407b0\out\private.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.2117247-06:00
+  size: 142
+  aliases: []
+  displayName: target\debug\build\serde-49ed553e01a407b0\out\private.rs
+  mtime: 2025-12-17T23:59:32.0317220-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.2117384-06:00
+generatedAt: 2025-12-18T01:53:41.0226868-06:00
+fileCount: 1
+folderId: target_debug_build_serde-49ed553e01a407b0_out
+folderPath: target\debug\build\serde-49ed553e01a407b0\out
+

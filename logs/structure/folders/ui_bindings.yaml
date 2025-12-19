@@ -1,0 +1,29 @@
+files:
+- id: 2700
+  canonicalPath: ui\bindings\Cargo.toml
+  total: 4270
+  originalName: ui\bindings\Cargo.toml
+  nameHistory:
+  - new: ui\bindings\Cargo.toml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.8080697-06:00
+  size: 197
+  aliases: []
+  displayName: ui\bindings\Cargo.toml
+  mtime: 2025-12-16T19:04:28.3687525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.8080835-06:00
+generatedAt: 2025-12-18T01:53:38.0353880-06:00
+fileCount: 1
+folderId: ui_bindings
+folderPath: ui\bindings
+

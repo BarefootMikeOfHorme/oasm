@@ -1,0 +1,98 @@
+files:
+- id: 3124
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\dep-lib-serde_json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\dep-lib-serde_json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\dep-lib-serde_json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.1553821-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\dep-lib-serde_json
+  mtime: 2025-12-16T21:19:30.4771497-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.1554038-06:00
+- id: 3125
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.1606263-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\invoked.timestamp
+  mtime: 2025-12-16T21:19:30.4771497-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.1606417-06:00
+- id: 3126
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\lib-serde_json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\lib-serde_json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\lib-serde_json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.1660086-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\lib-serde_json
+  mtime: 2025-12-16T21:19:31.3353120-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.1660234-06:00
+- id: 3127
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\lib-serde_json.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\lib-serde_json.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\lib-serde_json.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.1713636-06:00
+  size: 864
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308\lib-serde_json.json
+  mtime: 2025-12-16T21:19:31.3353120-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.1713799-06:00
+generatedAt: 2025-12-18T01:53:42.2981723-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_x86_64-pc-windows-msvc_release_.fingerprint_serde_json-6f8999c7bdd03308
+folderPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_json-6f8999c7bdd03308
+

@@ -1,0 +1,29 @@
+files:
+- id: 122
+  canonicalPath: runtime\daemon\tests\integration.rs
+  total: 4270
+  originalName: runtime\daemon\tests\integration.rs
+  nameHistory:
+  - new: runtime\daemon\tests\integration.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.3514434-06:00
+  size: 518
+  aliases: []
+  displayName: runtime\daemon\tests\integration.rs
+  mtime: 2025-12-17T00:32:27.0616509-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.3514679-06:00
+generatedAt: 2025-12-18T01:53:41.6113846-06:00
+fileCount: 1
+folderId: runtime_daemon_tests
+folderPath: runtime\daemon\tests
+

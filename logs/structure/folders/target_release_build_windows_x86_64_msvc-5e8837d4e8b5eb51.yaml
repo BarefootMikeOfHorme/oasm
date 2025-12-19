@@ -1,0 +1,98 @@
+files:
+- id: 2327
+  canonicalPath: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\invoked.timestamp
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\invoked.timestamp
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7765087-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.8942153-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7765233-06:00
+- id: 2328
+  canonicalPath: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\output
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\output
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7818358-06:00
+  size: 138
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\output
+  mtime: 2025-12-17T23:56:43.8942153-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7818499-06:00
+- id: 2329
+  canonicalPath: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\root-output
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\root-output
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7870661-06:00
+  size: 106
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\root-output
+  mtime: 2025-12-17T23:56:43.9670820-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7870800-06:00
+- id: 2330
+  canonicalPath: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\stderr
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\stderr
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7923888-06:00
+  size: 0
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51\stderr
+  mtime: 2025-12-17T23:56:43.9670820-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7924014-06:00
+generatedAt: 2025-12-18T01:53:41.3394720-06:00
+fileCount: 4
+folderId: target_release_build_windows_x86_64_msvc-5e8837d4e8b5eb51
+folderPath: target\release\build\windows_x86_64_msvc-5e8837d4e8b5eb51
+

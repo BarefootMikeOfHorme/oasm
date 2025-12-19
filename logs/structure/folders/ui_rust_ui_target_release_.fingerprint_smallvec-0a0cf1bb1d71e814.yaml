@@ -1,0 +1,98 @@
+files:
+- id: 3911
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\dep-lib-smallvec
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\dep-lib-smallvec
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\dep-lib-smallvec
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.5332951-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\dep-lib-smallvec
+  mtime: 2025-12-16T22:47:38.9634979-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.5333133-06:00
+- id: 3912
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.5384690-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\invoked.timestamp
+  mtime: 2025-12-16T22:47:38.9634979-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.5384820-06:00
+- id: 3913
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.5437035-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec
+  mtime: 2025-12-16T22:47:39.2815746-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.5437172-06:00
+- id: 3914
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.5490500-06:00
+  size: 595
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec.json
+  mtime: 2025-12-16T22:47:39.2815746-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.5490642-06:00
+generatedAt: 2025-12-18T01:53:37.0314009-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_smallvec-0a0cf1bb1d71e814
+folderPath: ui\rust_ui\target\release\.fingerprint\smallvec-0a0cf1bb1d71e814
+

@@ -1,0 +1,98 @@
+files:
+- id: 4035
+  canonicalPath: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.2120522-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\invoked.timestamp
+  mtime: 2025-12-17T00:00:56.1949518-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.2120659-06:00
+- id: 4036
+  canonicalPath: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\output
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\output
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.2174997-06:00
+  size: 165
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\output
+  mtime: 2025-12-17T00:00:56.1949518-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.2175133-06:00
+- id: 4037
+  canonicalPath: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\root-output
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\root-output
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.2234351-06:00
+  size: 105
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\root-output
+  mtime: 2025-12-17T00:00:56.2028047-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.2234523-06:00
+- id: 4038
+  canonicalPath: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\stderr
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\stderr
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.2288450-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0\stderr
+  mtime: 2025-12-16T22:47:39.6903646-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.2288641-06:00
+generatedAt: 2025-12-18T01:53:40.0176788-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_build_rust_ui-44761b4ca37f57a0
+folderPath: ui\rust_ui\target\release\build\rust_ui-44761b4ca37f57a0
+

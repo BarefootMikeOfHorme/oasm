@@ -1,0 +1,121 @@
+files:
+- id: 997
+  canonicalPath: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build-3e2ee7f34cfcbb0c.d
+  total: 4270
+  originalName: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build-3e2ee7f34cfcbb0c.d
+  nameHistory:
+  - new: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build-3e2ee7f34cfcbb0c.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.3179447-06:00
+  size: 561
+  aliases: []
+  displayName: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build-3e2ee7f34cfcbb0c.d
+  mtime: 2025-12-17T23:59:31.3795962-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.3179584-06:00
+- id: 998
+  canonicalPath: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build-3e2ee7f34cfcbb0c.exe
+  total: 4270
+  originalName: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build-3e2ee7f34cfcbb0c.exe
+  nameHistory:
+  - new: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build-3e2ee7f34cfcbb0c.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.3238212-06:00
+  size: 225280
+  aliases: []
+  displayName: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build-3e2ee7f34cfcbb0c.exe
+  mtime: 2025-12-17T23:59:31.7509259-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.3238356-06:00
+- id: 999
+  canonicalPath: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build-3e2ee7f34cfcbb0c.pdb
+  total: 4270
+  originalName: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build-3e2ee7f34cfcbb0c.pdb
+  nameHistory:
+  - new: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build-3e2ee7f34cfcbb0c.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.3298346-06:00
+  size: 1372160
+  aliases: []
+  displayName: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build-3e2ee7f34cfcbb0c.pdb
+  mtime: 2025-12-17T23:59:31.7529316-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.3298490-06:00
+- id: 1000
+  canonicalPath: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.3363421-06:00
+  size: 1372160
+  aliases: []
+  displayName: target\debug\build\typenum-3e2ee7f34cfcbb0c\build_script_build.pdb
+  mtime: 2025-12-17T23:59:31.7529316-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.3363585-06:00
+- id: 1001
+  canonicalPath: target\debug\build\typenum-3e2ee7f34cfcbb0c\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\typenum-3e2ee7f34cfcbb0c\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\typenum-3e2ee7f34cfcbb0c\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.3426877-06:00
+  size: 225280
+  aliases: []
+  displayName: target\debug\build\typenum-3e2ee7f34cfcbb0c\build-script-build.exe
+  mtime: 2025-12-17T23:59:31.7509259-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.3427022-06:00
+generatedAt: 2025-12-18T01:53:41.4335733-06:00
+fileCount: 5
+folderId: target_debug_build_typenum-3e2ee7f34cfcbb0c
+folderPath: target\debug\build\typenum-3e2ee7f34cfcbb0c
+

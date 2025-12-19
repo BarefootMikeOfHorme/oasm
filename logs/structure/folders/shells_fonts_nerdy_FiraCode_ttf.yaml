@@ -1,0 +1,144 @@
+files:
+- id: 256
+  canonicalPath: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Bold.ttf
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Bold.ttf
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Bold.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0878017-06:00
+  size: 319368
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Bold.ttf
+  mtime: 2021-12-06T20:57:14.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0878186-06:00
+- id: 257
+  canonicalPath: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Light.ttf
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Light.ttf
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Light.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0935972-06:00
+  size: 288380
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Light.ttf
+  mtime: 2021-12-06T20:57:14.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0936135-06:00
+- id: 258
+  canonicalPath: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Medium.ttf
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Medium.ttf
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Medium.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.0990039-06:00
+  size: 283684
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Medium.ttf
+  mtime: 2021-12-06T20:57:14.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.0990210-06:00
+- id: 259
+  canonicalPath: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Regular.ttf
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Regular.ttf
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Regular.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.1045717-06:00
+  size: 289624
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Regular.ttf
+  mtime: 2021-12-06T20:57:14.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.1045890-06:00
+- id: 260
+  canonicalPath: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Retina.ttf
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Retina.ttf
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Retina.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.1098332-06:00
+  size: 285428
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\ttf\FiraCode-Retina.ttf
+  mtime: 2021-12-06T20:57:14.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.1098490-06:00
+- id: 261
+  canonicalPath: shells\fonts\nerdy\FiraCode\ttf\FiraCode-SemiBold.ttf
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\ttf\FiraCode-SemiBold.ttf
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\ttf\FiraCode-SemiBold.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.1151648-06:00
+  size: 304248
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\ttf\FiraCode-SemiBold.ttf
+  mtime: 2021-12-06T20:57:14.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.1151810-06:00
+generatedAt: 2025-12-18T01:53:41.8783994-06:00
+fileCount: 6
+folderId: shells_fonts_nerdy_FiraCode_ttf
+folderPath: shells\fonts\nerdy\FiraCode\ttf
+

@@ -1,0 +1,144 @@
+files:
+- id: 3340
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.cargo-lock
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.cargo-lock
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.cargo-lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.3528663-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.cargo-lock
+  mtime: 2025-12-16T21:19:38.4619131-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.3528803-06:00
+- id: 3462
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.d
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.d
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.0325086-06:00
+  size: 216
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.d
+  mtime: 2025-12-16T21:19:38.9146649-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.0325231-06:00
+- id: 3463
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.0377033-06:00
+  size: 329728
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll
+  mtime: 2025-12-16T21:32:30.9422677-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.0377168-06:00
+- id: 3464
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll.exp
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll.exp
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.0432553-06:00
+  size: 1083
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll.exp
+  mtime: 2025-12-16T21:32:30.9239666-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.0432700-06:00
+- id: 3465
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll.lib
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll.lib
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.0485406-06:00
+  size: 2058
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.dll.lib
+  mtime: 2025-12-16T21:32:30.9255218-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.0485540-06:00
+- id: 3466
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.0538046-06:00
+  size: 1437696
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\plugin_loader.pdb
+  mtime: 2025-12-16T21:32:30.9437898-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.0538189-06:00
+generatedAt: 2025-12-18T01:53:37.3468003-06:00
+fileCount: 6
+folderId: ui_rust_ui_bin_plugin_loader_target_x86_64-pc-windows-msvc_release
+folderPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release
+

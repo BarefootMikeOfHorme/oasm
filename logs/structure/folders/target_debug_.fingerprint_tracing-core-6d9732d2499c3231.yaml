@@ -1,0 +1,98 @@
+files:
+- id: 766
+  canonicalPath: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\dep-lib-tracing_core
+  total: 4270
+  originalName: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\dep-lib-tracing_core
+  nameHistory:
+  - new: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\dep-lib-tracing_core
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.9853180-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\dep-lib-tracing_core
+  mtime: 2025-12-17T23:59:31.5334339-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.9853341-06:00
+- id: 767
+  canonicalPath: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.9908806-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.5334339-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.9908946-06:00
+- id: 768
+  canonicalPath: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\lib-tracing_core
+  total: 4270
+  originalName: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\lib-tracing_core
+  nameHistory:
+  - new: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\lib-tracing_core
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.9964836-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\lib-tracing_core
+  mtime: 2025-12-17T23:59:32.2149435-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.9964974-06:00
+- id: 769
+  canonicalPath: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\lib-tracing_core.json
+  total: 4270
+  originalName: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\lib-tracing_core.json
+  nameHistory:
+  - new: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\lib-tracing_core.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.0021910-06:00
+  size: 503
+  aliases: []
+  displayName: target\debug\.fingerprint\tracing-core-6d9732d2499c3231\lib-tracing_core.json
+  mtime: 2025-12-17T23:59:32.2149435-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.0022045-06:00
+generatedAt: 2025-12-18T01:53:38.6664137-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_tracing-core-6d9732d2499c3231
+folderPath: target\debug\.fingerprint\tracing-core-6d9732d2499c3231
+

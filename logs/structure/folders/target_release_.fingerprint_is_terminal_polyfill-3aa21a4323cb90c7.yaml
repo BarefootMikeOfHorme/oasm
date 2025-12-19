@@ -1,0 +1,98 @@
+files:
+- id: 1837
+  canonicalPath: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\dep-lib-is_terminal_polyfill
+  total: 4270
+  originalName: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\dep-lib-is_terminal_polyfill
+  nameHistory:
+  - new: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\dep-lib-is_terminal_polyfill
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.0422678-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\dep-lib-is_terminal_polyfill
+  mtime: 2025-12-17T23:56:43.4830914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.0422807-06:00
+- id: 1838
+  canonicalPath: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.0474876-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.4830914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.0475007-06:00
+- id: 1839
+  canonicalPath: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\lib-is_terminal_polyfill
+  total: 4270
+  originalName: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\lib-is_terminal_polyfill
+  nameHistory:
+  - new: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\lib-is_terminal_polyfill
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.0524352-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\lib-is_terminal_polyfill
+  mtime: 2025-12-17T23:56:43.6829341-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.0524479-06:00
+- id: 1840
+  canonicalPath: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\lib-is_terminal_polyfill.json
+  total: 4270
+  originalName: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\lib-is_terminal_polyfill.json
+  nameHistory:
+  - new: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\lib-is_terminal_polyfill.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.0575369-06:00
+  size: 401
+  aliases: []
+  displayName: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7\lib-is_terminal_polyfill.json
+  mtime: 2025-12-17T23:56:43.6829341-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.0575496-06:00
+generatedAt: 2025-12-18T01:53:37.4690206-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_is_terminal_polyfill-3aa21a4323cb90c7
+folderPath: target\release\.fingerprint\is_terminal_polyfill-3aa21a4323cb90c7
+

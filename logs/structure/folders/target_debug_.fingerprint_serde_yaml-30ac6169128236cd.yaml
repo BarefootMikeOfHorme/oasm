@@ -1,0 +1,98 @@
+files:
+- id: 694
+  canonicalPath: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\dep-lib-serde_yaml
+  total: 4270
+  originalName: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\dep-lib-serde_yaml
+  nameHistory:
+  - new: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\dep-lib-serde_yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.5556212-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\dep-lib-serde_yaml
+  mtime: 2025-12-17T23:59:37.3787951-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.5556365-06:00
+- id: 695
+  canonicalPath: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.5613670-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\invoked.timestamp
+  mtime: 2025-12-17T23:59:37.3787951-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.5613831-06:00
+- id: 696
+  canonicalPath: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\lib-serde_yaml
+  total: 4270
+  originalName: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\lib-serde_yaml
+  nameHistory:
+  - new: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\lib-serde_yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.5672953-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\lib-serde_yaml
+  mtime: 2025-12-17T23:59:38.2361246-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.5673111-06:00
+- id: 697
+  canonicalPath: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\lib-serde_yaml.json
+  total: 4270
+  originalName: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\lib-serde_yaml.json
+  nameHistory:
+  - new: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\lib-serde_yaml.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.5728717-06:00
+  size: 650
+  aliases: []
+  displayName: target\debug\.fingerprint\serde_yaml-30ac6169128236cd\lib-serde_yaml.json
+  mtime: 2025-12-17T23:59:38.2361246-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.5728868-06:00
+generatedAt: 2025-12-18T01:53:41.3198996-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_serde_yaml-30ac6169128236cd
+folderPath: target\debug\.fingerprint\serde_yaml-30ac6169128236cd
+

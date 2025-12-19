@@ -1,0 +1,29 @@
+files:
+- id: 4088
+  canonicalPath: ui\rust_ui\target\release\build\typenum-eb4bb7b332c4749d\out\tests.rs
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\typenum-eb4bb7b332c4749d\out\tests.rs
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\typenum-eb4bb7b332c4749d\out\tests.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.5084021-06:00
+  size: 622641
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\typenum-eb4bb7b332c4749d\out\tests.rs
+  mtime: 2025-12-16T22:47:39.5596427-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.5084175-06:00
+generatedAt: 2025-12-18T01:53:38.4898328-06:00
+fileCount: 1
+folderId: ui_rust_ui_target_release_build_typenum-eb4bb7b332c4749d_out
+folderPath: ui\rust_ui\target\release\build\typenum-eb4bb7b332c4749d\out
+

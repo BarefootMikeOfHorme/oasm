@@ -1,0 +1,121 @@
+files:
+- id: 2238
+  canonicalPath: target\release\build\num-traits-c68f3ff52f10671a\build_script_build-c68f3ff52f10671a.d
+  total: 4270
+  originalName: target\release\build\num-traits-c68f3ff52f10671a\build_script_build-c68f3ff52f10671a.d
+  nameHistory:
+  - new: target\release\build\num-traits-c68f3ff52f10671a\build_script_build-c68f3ff52f10671a.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2729283-06:00
+  size: 580
+  aliases: []
+  displayName: target\release\build\num-traits-c68f3ff52f10671a\build_script_build-c68f3ff52f10671a.d
+  mtime: 2025-12-17T23:56:44.4298222-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2729424-06:00
+- id: 2239
+  canonicalPath: target\release\build\num-traits-c68f3ff52f10671a\build_script_build-c68f3ff52f10671a.exe
+  total: 4270
+  originalName: target\release\build\num-traits-c68f3ff52f10671a\build_script_build-c68f3ff52f10671a.exe
+  nameHistory:
+  - new: target\release\build\num-traits-c68f3ff52f10671a\build_script_build-c68f3ff52f10671a.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2783263-06:00
+  size: 371712
+  aliases: []
+  displayName: target\release\build\num-traits-c68f3ff52f10671a\build_script_build-c68f3ff52f10671a.exe
+  mtime: 2025-12-17T23:56:44.5239277-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2783427-06:00
+- id: 2240
+  canonicalPath: target\release\build\num-traits-c68f3ff52f10671a\build_script_build-c68f3ff52f10671a.pdb
+  total: 4270
+  originalName: target\release\build\num-traits-c68f3ff52f10671a\build_script_build-c68f3ff52f10671a.pdb
+  nameHistory:
+  - new: target\release\build\num-traits-c68f3ff52f10671a\build_script_build-c68f3ff52f10671a.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2840768-06:00
+  size: 1699840
+  aliases: []
+  displayName: target\release\build\num-traits-c68f3ff52f10671a\build_script_build-c68f3ff52f10671a.pdb
+  mtime: 2025-12-17T23:56:44.5254662-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2840933-06:00
+- id: 2241
+  canonicalPath: target\release\build\num-traits-c68f3ff52f10671a\build_script_build.pdb
+  total: 4270
+  originalName: target\release\build\num-traits-c68f3ff52f10671a\build_script_build.pdb
+  nameHistory:
+  - new: target\release\build\num-traits-c68f3ff52f10671a\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2894027-06:00
+  size: 1699840
+  aliases: []
+  displayName: target\release\build\num-traits-c68f3ff52f10671a\build_script_build.pdb
+  mtime: 2025-12-17T23:56:44.5254662-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2894174-06:00
+- id: 2242
+  canonicalPath: target\release\build\num-traits-c68f3ff52f10671a\build-script-build.exe
+  total: 4270
+  originalName: target\release\build\num-traits-c68f3ff52f10671a\build-script-build.exe
+  nameHistory:
+  - new: target\release\build\num-traits-c68f3ff52f10671a\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2966444-06:00
+  size: 371712
+  aliases: []
+  displayName: target\release\build\num-traits-c68f3ff52f10671a\build-script-build.exe
+  mtime: 2025-12-17T23:56:44.5239277-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2966599-06:00
+generatedAt: 2025-12-18T01:53:41.3737990-06:00
+fileCount: 5
+folderId: target_release_build_num-traits-c68f3ff52f10671a
+folderPath: target\release\build\num-traits-c68f3ff52f10671a
+

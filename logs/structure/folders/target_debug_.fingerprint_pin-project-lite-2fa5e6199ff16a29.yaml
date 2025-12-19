@@ -1,0 +1,98 @@
+files:
+- id: 608
+  canonicalPath: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\dep-lib-pin_project_lite
+  total: 4270
+  originalName: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\dep-lib-pin_project_lite
+  nameHistory:
+  - new: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\dep-lib-pin_project_lite
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.0560745-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\dep-lib-pin_project_lite
+  mtime: 2025-12-17T23:59:31.3026000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.0560907-06:00
+- id: 609
+  canonicalPath: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.0618160-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.3026000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.0618308-06:00
+- id: 610
+  canonicalPath: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\lib-pin_project_lite
+  total: 4270
+  originalName: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\lib-pin_project_lite
+  nameHistory:
+  - new: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\lib-pin_project_lite
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.0672671-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\lib-pin_project_lite
+  mtime: 2025-12-17T23:59:31.5224816-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.0672806-06:00
+- id: 611
+  canonicalPath: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\lib-pin_project_lite.json
+  total: 4270
+  originalName: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\lib-pin_project_lite.json
+  nameHistory:
+  - new: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\lib-pin_project_lite.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.0729419-06:00
+  size: 368
+  aliases: []
+  displayName: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29\lib-pin_project_lite.json
+  mtime: 2025-12-17T23:59:31.5244409-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.0729578-06:00
+generatedAt: 2025-12-18T01:53:38.6749169-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_pin-project-lite-2fa5e6199ff16a29
+folderPath: target\debug\.fingerprint\pin-project-lite-2fa5e6199ff16a29
+

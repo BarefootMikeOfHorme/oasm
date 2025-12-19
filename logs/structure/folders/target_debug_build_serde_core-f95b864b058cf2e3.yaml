@@ -1,0 +1,121 @@
+files:
+- id: 959
+  canonicalPath: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build-f95b864b058cf2e3.d
+  total: 4270
+  originalName: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build-f95b864b058cf2e3.d
+  nameHistory:
+  - new: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build-f95b864b058cf2e3.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.0960132-06:00
+  size: 579
+  aliases: []
+  displayName: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build-f95b864b058cf2e3.d
+  mtime: 2025-12-17T23:59:31.3420925-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.0960353-06:00
+- id: 960
+  canonicalPath: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build-f95b864b058cf2e3.exe
+  total: 4270
+  originalName: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build-f95b864b058cf2e3.exe
+  nameHistory:
+  - new: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build-f95b864b058cf2e3.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1016228-06:00
+  size: 304128
+  aliases: []
+  displayName: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build-f95b864b058cf2e3.exe
+  mtime: 2025-12-17T23:59:31.6701265-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1016386-06:00
+- id: 961
+  canonicalPath: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build-f95b864b058cf2e3.pdb
+  total: 4270
+  originalName: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build-f95b864b058cf2e3.pdb
+  nameHistory:
+  - new: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build-f95b864b058cf2e3.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1073773-06:00
+  size: 1601536
+  aliases: []
+  displayName: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build-f95b864b058cf2e3.pdb
+  mtime: 2025-12-17T23:59:31.6716479-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1073914-06:00
+- id: 962
+  canonicalPath: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1131613-06:00
+  size: 1601536
+  aliases: []
+  displayName: target\debug\build\serde_core-f95b864b058cf2e3\build_script_build.pdb
+  mtime: 2025-12-17T23:59:31.6716479-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1131765-06:00
+- id: 963
+  canonicalPath: target\debug\build\serde_core-f95b864b058cf2e3\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\serde_core-f95b864b058cf2e3\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\serde_core-f95b864b058cf2e3\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1188186-06:00
+  size: 304128
+  aliases: []
+  displayName: target\debug\build\serde_core-f95b864b058cf2e3\build-script-build.exe
+  mtime: 2025-12-17T23:59:31.6701265-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1188343-06:00
+generatedAt: 2025-12-18T01:53:40.6935109-06:00
+fileCount: 5
+folderId: target_debug_build_serde_core-f95b864b058cf2e3
+folderPath: target\debug\build\serde_core-f95b864b058cf2e3
+

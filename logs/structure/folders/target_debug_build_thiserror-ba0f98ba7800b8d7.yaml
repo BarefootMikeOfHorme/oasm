@@ -1,0 +1,121 @@
+files:
+- id: 983
+  canonicalPath: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build-ba0f98ba7800b8d7.d
+  total: 4270
+  originalName: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build-ba0f98ba7800b8d7.d
+  nameHistory:
+  - new: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build-ba0f98ba7800b8d7.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.2346988-06:00
+  size: 571
+  aliases: []
+  displayName: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build-ba0f98ba7800b8d7.d
+  mtime: 2025-12-17T23:59:31.7764949-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.2347120-06:00
+- id: 984
+  canonicalPath: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build-ba0f98ba7800b8d7.exe
+  total: 4270
+  originalName: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build-ba0f98ba7800b8d7.exe
+  nameHistory:
+  - new: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build-ba0f98ba7800b8d7.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.2414609-06:00
+  size: 306688
+  aliases: []
+  displayName: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build-ba0f98ba7800b8d7.exe
+  mtime: 2025-12-17T23:59:31.9547435-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.2414832-06:00
+- id: 985
+  canonicalPath: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build-ba0f98ba7800b8d7.pdb
+  total: 4270
+  originalName: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build-ba0f98ba7800b8d7.pdb
+  nameHistory:
+  - new: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build-ba0f98ba7800b8d7.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.2485902-06:00
+  size: 1642496
+  aliases: []
+  displayName: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build-ba0f98ba7800b8d7.pdb
+  mtime: 2025-12-17T23:59:31.9563101-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.2486060-06:00
+- id: 986
+  canonicalPath: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.2545780-06:00
+  size: 1642496
+  aliases: []
+  displayName: target\debug\build\thiserror-ba0f98ba7800b8d7\build_script_build.pdb
+  mtime: 2025-12-17T23:59:31.9563101-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.2545915-06:00
+- id: 987
+  canonicalPath: target\debug\build\thiserror-ba0f98ba7800b8d7\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\thiserror-ba0f98ba7800b8d7\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\thiserror-ba0f98ba7800b8d7\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.2603488-06:00
+  size: 306688
+  aliases: []
+  displayName: target\debug\build\thiserror-ba0f98ba7800b8d7\build-script-build.exe
+  mtime: 2025-12-17T23:59:31.9547435-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.2603654-06:00
+generatedAt: 2025-12-18T01:53:38.4633196-06:00
+fileCount: 5
+folderId: target_debug_build_thiserror-ba0f98ba7800b8d7
+folderPath: target\debug\build\thiserror-ba0f98ba7800b8d7
+

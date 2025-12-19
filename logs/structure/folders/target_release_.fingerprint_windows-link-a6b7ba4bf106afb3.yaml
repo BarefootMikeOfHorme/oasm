@@ -1,0 +1,98 @@
+files:
+- id: 2165
+  canonicalPath: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\dep-lib-windows_link
+  total: 4270
+  originalName: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\dep-lib-windows_link
+  nameHistory:
+  - new: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\dep-lib-windows_link
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.8592925-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\dep-lib-windows_link
+  mtime: 2025-12-17T23:56:43.4800356-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.8593076-06:00
+- id: 2166
+  canonicalPath: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.8655406-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.4800356-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.8655563-06:00
+- id: 2167
+  canonicalPath: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link
+  total: 4270
+  originalName: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link
+  nameHistory:
+  - new: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.8709036-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link
+  mtime: 2025-12-17T23:56:43.5246485-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.8709182-06:00
+- id: 2168
+  canonicalPath: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link.json
+  total: 4270
+  originalName: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link.json
+  nameHistory:
+  - new: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.8762131-06:00
+  size: 362
+  aliases: []
+  displayName: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3\lib-windows_link.json
+  mtime: 2025-12-17T23:56:43.5246485-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.8762273-06:00
+generatedAt: 2025-12-18T01:53:40.9572189-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_windows-link-a6b7ba4bf106afb3
+folderPath: target\release\.fingerprint\windows-link-a6b7ba4bf106afb3
+

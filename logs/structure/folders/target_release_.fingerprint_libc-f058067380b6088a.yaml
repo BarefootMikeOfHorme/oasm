@@ -1,0 +1,52 @@
+files:
+- id: 1857
+  canonicalPath: target\release\.fingerprint\libc-f058067380b6088a\run-build-script-build-script-build
+  total: 4270
+  originalName: target\release\.fingerprint\libc-f058067380b6088a\run-build-script-build-script-build
+  nameHistory:
+  - new: target\release\.fingerprint\libc-f058067380b6088a\run-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.1513090-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\libc-f058067380b6088a\run-build-script-build-script-build
+  mtime: 2025-12-17T23:56:44.5849921-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.1513273-06:00
+- id: 1858
+  canonicalPath: target\release\.fingerprint\libc-f058067380b6088a\run-build-script-build-script-build.json
+  total: 4270
+  originalName: target\release\.fingerprint\libc-f058067380b6088a\run-build-script-build-script-build.json
+  nameHistory:
+  - new: target\release\.fingerprint\libc-f058067380b6088a\run-build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.1564326-06:00
+  size: 720
+  aliases: []
+  displayName: target\release\.fingerprint\libc-f058067380b6088a\run-build-script-build-script-build.json
+  mtime: 2025-12-17T23:56:44.5849921-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.1564563-06:00
+generatedAt: 2025-12-18T01:53:41.3103749-06:00
+fileCount: 2
+folderId: target_release_.fingerprint_libc-f058067380b6088a
+folderPath: target\release\.fingerprint\libc-f058067380b6088a
+

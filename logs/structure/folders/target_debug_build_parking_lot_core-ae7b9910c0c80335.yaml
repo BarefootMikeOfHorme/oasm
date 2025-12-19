@@ -1,0 +1,98 @@
+files:
+- id: 923
+  canonicalPath: target\debug\build\parking_lot_core-ae7b9910c0c80335\invoked.timestamp
+  total: 4270
+  originalName: target\debug\build\parking_lot_core-ae7b9910c0c80335\invoked.timestamp
+  nameHistory:
+  - new: target\debug\build\parking_lot_core-ae7b9910c0c80335\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8902618-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\build\parking_lot_core-ae7b9910c0c80335\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.7891994-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8902761-06:00
+- id: 924
+  canonicalPath: target\debug\build\parking_lot_core-ae7b9910c0c80335\output
+  total: 4270
+  originalName: target\debug\build\parking_lot_core-ae7b9910c0c80335\output
+  nameHistory:
+  - new: target\debug\build\parking_lot_core-ae7b9910c0c80335\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8958109-06:00
+  size: 72
+  aliases: []
+  displayName: target\debug\build\parking_lot_core-ae7b9910c0c80335\output
+  mtime: 2025-12-17T23:59:31.7891994-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8958244-06:00
+- id: 925
+  canonicalPath: target\debug\build\parking_lot_core-ae7b9910c0c80335\root-output
+  total: 4270
+  originalName: target\debug\build\parking_lot_core-ae7b9910c0c80335\root-output
+  nameHistory:
+  - new: target\debug\build\parking_lot_core-ae7b9910c0c80335\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9014872-06:00
+  size: 101
+  aliases: []
+  displayName: target\debug\build\parking_lot_core-ae7b9910c0c80335\root-output
+  mtime: 2025-12-17T23:59:31.9778563-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9015003-06:00
+- id: 926
+  canonicalPath: target\debug\build\parking_lot_core-ae7b9910c0c80335\stderr
+  total: 4270
+  originalName: target\debug\build\parking_lot_core-ae7b9910c0c80335\stderr
+  nameHistory:
+  - new: target\debug\build\parking_lot_core-ae7b9910c0c80335\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9072749-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\build\parking_lot_core-ae7b9910c0c80335\stderr
+  mtime: 2025-12-17T23:59:31.9778563-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9072879-06:00
+generatedAt: 2025-12-18T01:53:38.5437794-06:00
+fileCount: 4
+folderId: target_debug_build_parking_lot_core-ae7b9910c0c80335
+folderPath: target\debug\build\parking_lot_core-ae7b9910c0c80335
+

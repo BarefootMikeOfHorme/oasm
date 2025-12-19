@@ -1,0 +1,29 @@
+files:
+- id: 1439
+  canonicalPath: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92.lock
+  total: 4270
+  originalName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92.lock
+  nameHistory:
+  - new: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92.lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.8624075-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\incremental\core_math-18rjz1u6ikbmn\s-he0agn9v9h-0co6q92.lock
+  mtime: 2025-12-17T23:59:36.4399595-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.8624216-06:00
+generatedAt: 2025-12-18T01:53:36.4835322-06:00
+fileCount: 1
+folderId: target_debug_incremental_core_math-18rjz1u6ikbmn
+folderPath: target\debug\incremental\core_math-18rjz1u6ikbmn
+

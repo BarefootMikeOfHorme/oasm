@@ -1,0 +1,29 @@
+files:
+- id: 262
+  canonicalPath: shells\fonts\nerdy\FiraCode\variable_ttf\FiraCode-VF.ttf
+  total: 4270
+  originalName: shells\fonts\nerdy\FiraCode\variable_ttf\FiraCode-VF.ttf
+  nameHistory:
+  - new: shells\fonts\nerdy\FiraCode\variable_ttf\FiraCode-VF.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.1210893-06:00
+  size: 286320
+  aliases: []
+  displayName: shells\fonts\nerdy\FiraCode\variable_ttf\FiraCode-VF.ttf
+  mtime: 2021-12-06T20:57:14.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.1211061-06:00
+generatedAt: 2025-12-18T01:53:40.5017216-06:00
+fileCount: 1
+folderId: shells_fonts_nerdy_FiraCode_variable_ttf
+folderPath: shells\fonts\nerdy\FiraCode\variable_ttf
+

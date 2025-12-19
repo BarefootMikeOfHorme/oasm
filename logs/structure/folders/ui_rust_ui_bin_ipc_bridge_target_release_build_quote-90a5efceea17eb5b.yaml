@@ -1,0 +1,121 @@
+files:
+- id: 3010
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build-90a5efceea17eb5b.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build-90a5efceea17eb5b.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build-90a5efceea17eb5b.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5455916-06:00
+  size: 607
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build-90a5efceea17eb5b.d
+  mtime: 2025-12-16T21:19:28.8396793-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5456057-06:00
+- id: 3011
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build-90a5efceea17eb5b.exe
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build-90a5efceea17eb5b.exe
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build-90a5efceea17eb5b.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5510908-06:00
+  size: 266240
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build-90a5efceea17eb5b.exe
+  mtime: 2025-12-16T21:19:28.9391867-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5511046-06:00
+- id: 3012
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build-90a5efceea17eb5b.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build-90a5efceea17eb5b.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build-90a5efceea17eb5b.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5569667-06:00
+  size: 1568768
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build-90a5efceea17eb5b.pdb
+  mtime: 2025-12-16T21:19:28.9407072-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5569802-06:00
+- id: 3013
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5625837-06:00
+  size: 1568768
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build_script_build.pdb
+  mtime: 2025-12-16T21:19:28.9407072-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5625985-06:00
+- id: 3014
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build-script-build.exe
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build-script-build.exe
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5678007-06:00
+  size: 266240
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b\build-script-build.exe
+  mtime: 2025-12-16T21:19:28.9391867-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5678151-06:00
+generatedAt: 2025-12-18T01:53:37.5064976-06:00
+fileCount: 5
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_build_quote-90a5efceea17eb5b
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-90a5efceea17eb5b
+

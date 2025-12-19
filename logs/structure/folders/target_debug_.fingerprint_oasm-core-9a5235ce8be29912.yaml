@@ -1,0 +1,121 @@
+files:
+- id: 581
+  canonicalPath: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\dep-lib-oasm_core
+  total: 4270
+  originalName: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\dep-lib-oasm_core
+  nameHistory:
+  - new: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\dep-lib-oasm_core
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.9052524-06:00
+  size: 112
+  aliases: []
+  displayName: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\dep-lib-oasm_core
+  mtime: 2025-12-17T23:59:31.9516683-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.9052667-06:00
+- id: 582
+  canonicalPath: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.9107456-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.9516683-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.9107597-06:00
+- id: 583
+  canonicalPath: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\lib-oasm_core
+  total: 4270
+  originalName: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\lib-oasm_core
+  nameHistory:
+  - new: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\lib-oasm_core
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.9161324-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\lib-oasm_core
+  mtime: 2025-12-17T23:59:33.1025603-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.9161460-06:00
+- id: 584
+  canonicalPath: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\lib-oasm_core.json
+  total: 4270
+  originalName: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\lib-oasm_core.json
+  nameHistory:
+  - new: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\lib-oasm_core.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.9225263-06:00
+  size: 353
+  aliases: []
+  displayName: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\lib-oasm_core.json
+  mtime: 2025-12-17T23:59:33.1025603-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.9225411-06:00
+- id: 585
+  canonicalPath: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\output-lib-oasm_core
+  total: 4270
+  originalName: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\output-lib-oasm_core
+  nameHistory:
+  - new: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\output-lib-oasm_core
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.9288609-06:00
+  size: 6867
+  aliases: []
+  displayName: target\debug\.fingerprint\oasm-core-9a5235ce8be29912\output-lib-oasm_core
+  mtime: 2025-12-17T23:59:33.0826614-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.9288751-06:00
+generatedAt: 2025-12-18T01:53:41.9389852-06:00
+fileCount: 5
+folderId: target_debug_.fingerprint_oasm-core-9a5235ce8be29912
+folderPath: target\debug\.fingerprint\oasm-core-9a5235ce8be29912
+

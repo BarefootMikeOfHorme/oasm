@@ -1,0 +1,98 @@
+files:
+- id: 887
+  canonicalPath: target\debug\build\generic-array-ca8073e77ce1c041\invoked.timestamp
+  total: 4270
+  originalName: target\debug\build\generic-array-ca8073e77ce1c041\invoked.timestamp
+  nameHistory:
+  - new: target\debug\build\generic-array-ca8073e77ce1c041\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6840300-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\build\generic-array-ca8073e77ce1c041\invoked.timestamp
+  mtime: 2025-12-17T23:59:32.2456379-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6840435-06:00
+- id: 888
+  canonicalPath: target\debug\build\generic-array-ca8073e77ce1c041\output
+  total: 4270
+  originalName: target\debug\build\generic-array-ca8073e77ce1c041\output
+  nameHistory:
+  - new: target\debug\build\generic-array-ca8073e77ce1c041\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6898375-06:00
+  size: 34
+  aliases: []
+  displayName: target\debug\build\generic-array-ca8073e77ce1c041\output
+  mtime: 2025-12-17T23:59:32.2456379-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6898527-06:00
+- id: 889
+  canonicalPath: target\debug\build\generic-array-ca8073e77ce1c041\root-output
+  total: 4270
+  originalName: target\debug\build\generic-array-ca8073e77ce1c041\root-output
+  nameHistory:
+  - new: target\debug\build\generic-array-ca8073e77ce1c041\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6957739-06:00
+  size: 98
+  aliases: []
+  displayName: target\debug\build\generic-array-ca8073e77ce1c041\root-output
+  mtime: 2025-12-17T23:59:32.5620317-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6957873-06:00
+- id: 890
+  canonicalPath: target\debug\build\generic-array-ca8073e77ce1c041\stderr
+  total: 4270
+  originalName: target\debug\build\generic-array-ca8073e77ce1c041\stderr
+  nameHistory:
+  - new: target\debug\build\generic-array-ca8073e77ce1c041\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.7014403-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\build\generic-array-ca8073e77ce1c041\stderr
+  mtime: 2025-12-17T23:59:32.5605183-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.7014561-06:00
+generatedAt: 2025-12-18T01:53:41.7701601-06:00
+fileCount: 4
+folderId: target_debug_build_generic-array-ca8073e77ce1c041
+folderPath: target\debug\build\generic-array-ca8073e77ce1c041
+

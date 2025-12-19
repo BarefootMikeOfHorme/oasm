@@ -1,0 +1,144 @@
+files:
+- id: 179
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Bold-Oblique.png
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Bold-Oblique.png
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Bold-Oblique.png
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.6670502-06:00
+  size: 72965
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Bold-Oblique.png
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.6670680-06:00
+- id: 180
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Bold.png
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Bold.png
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Bold.png
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.6721892-06:00
+  size: 71500
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Bold.png
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.6722056-06:00
+- id: 181
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Light-Oblique.png
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Light-Oblique.png
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Light-Oblique.png
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.6774505-06:00
+  size: 67926
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Light-Oblique.png
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.6774661-06:00
+- id: 182
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Light.png
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Light.png
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Light.png
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.6829694-06:00
+  size: 63544
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Light.png
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.6829863-06:00
+- id: 183
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Regular-Oblique.png
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Regular-Oblique.png
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Regular-Oblique.png
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.6882655-06:00
+  size: 71950
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Regular-Oblique.png
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.6882819-06:00
+- id: 184
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Regular.png
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Regular.png
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Regular.png
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.6935427-06:00
+  size: 68414
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs\ComicNeue-Regular.png
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.6935594-06:00
+generatedAt: 2025-12-18T01:53:40.2455367-06:00
+fileCount: 6
+folderId: shells_fonts_creative_ComicNeue_comicneue-master_Fonts_TTF_ComicNeue_qaComicN1_plot_glyphs
+folderPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue\qaComicN1\plot_glyphs
+

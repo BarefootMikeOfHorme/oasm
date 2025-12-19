@@ -1,0 +1,98 @@
+files:
+- id: 3841
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\dep-lib-regex_automata
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\dep-lib-regex_automata
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\dep-lib-regex_automata
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.1547936-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\dep-lib-regex_automata
+  mtime: 2025-12-16T22:47:40.4951111-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.1548138-06:00
+- id: 3842
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.1600435-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\invoked.timestamp
+  mtime: 2025-12-16T22:47:40.4951111-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.1600570-06:00
+- id: 3843
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\lib-regex_automata
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\lib-regex_automata
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\lib-regex_automata
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.1656540-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\lib-regex_automata
+  mtime: 2025-12-16T22:47:43.3676207-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.1656691-06:00
+- id: 3844
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\lib-regex_automata.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\lib-regex_automata.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\lib-regex_automata.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.1717334-06:00
+  size: 1472
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665\lib-regex_automata.json
+  mtime: 2025-12-16T22:47:43.3676207-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.1717499-06:00
+generatedAt: 2025-12-18T01:53:41.1285584-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_regex-automata-e6fb3b5ba8388665
+folderPath: ui\rust_ui\target\release\.fingerprint\regex-automata-e6fb3b5ba8388665
+

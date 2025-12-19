@@ -1,0 +1,98 @@
+files:
+- id: 1737
+  canonicalPath: target\release\.fingerprint\colorchoice-e271a03af13e9d15\dep-lib-colorchoice
+  total: 4270
+  originalName: target\release\.fingerprint\colorchoice-e271a03af13e9d15\dep-lib-colorchoice
+  nameHistory:
+  - new: target\release\.fingerprint\colorchoice-e271a03af13e9d15\dep-lib-colorchoice
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.4949073-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\colorchoice-e271a03af13e9d15\dep-lib-colorchoice
+  mtime: 2025-12-17T23:56:43.4830914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.4949200-06:00
+- id: 1738
+  canonicalPath: target\release\.fingerprint\colorchoice-e271a03af13e9d15\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\colorchoice-e271a03af13e9d15\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\colorchoice-e271a03af13e9d15\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5004355-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\colorchoice-e271a03af13e9d15\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.4830914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5004498-06:00
+- id: 1739
+  canonicalPath: target\release\.fingerprint\colorchoice-e271a03af13e9d15\lib-colorchoice
+  total: 4270
+  originalName: target\release\.fingerprint\colorchoice-e271a03af13e9d15\lib-colorchoice
+  nameHistory:
+  - new: target\release\.fingerprint\colorchoice-e271a03af13e9d15\lib-colorchoice
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5067377-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\colorchoice-e271a03af13e9d15\lib-colorchoice
+  mtime: 2025-12-17T23:56:43.7151712-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5067511-06:00
+- id: 1740
+  canonicalPath: target\release\.fingerprint\colorchoice-e271a03af13e9d15\lib-colorchoice.json
+  total: 4270
+  originalName: target\release\.fingerprint\colorchoice-e271a03af13e9d15\lib-colorchoice.json
+  nameHistory:
+  - new: target\release\.fingerprint\colorchoice-e271a03af13e9d15\lib-colorchoice.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5121730-06:00
+  size: 360
+  aliases: []
+  displayName: target\release\.fingerprint\colorchoice-e271a03af13e9d15\lib-colorchoice.json
+  mtime: 2025-12-17T23:56:43.7151712-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5121864-06:00
+generatedAt: 2025-12-18T01:53:41.6288554-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_colorchoice-e271a03af13e9d15
+folderPath: target\release\.fingerprint\colorchoice-e271a03af13e9d15
+

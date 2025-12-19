@@ -1,0 +1,29 @@
+files:
+- id: 3720
+  canonicalPath: ui\rust_ui\target\release\.cargo-lock
+  total: 4270
+  originalName: ui\rust_ui\target\release\.cargo-lock
+  nameHistory:
+  - new: ui\rust_ui\target\release\.cargo-lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.4771393-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\target\release\.cargo-lock
+  mtime: 2025-12-16T22:47:38.8892947-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.4771621-06:00
+generatedAt: 2025-12-18T01:53:40.8543758-06:00
+fileCount: 1
+folderId: ui_rust_ui_target_release
+folderPath: ui\rust_ui\target\release
+

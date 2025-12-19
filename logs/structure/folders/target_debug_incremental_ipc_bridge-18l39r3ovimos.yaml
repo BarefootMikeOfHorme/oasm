@@ -1,0 +1,29 @@
+files:
+- id: 1466
+  canonicalPath: target\debug\incremental\ipc_bridge-18l39r3ovimos\s-he0agnw9ao-0sxmblf.lock
+  total: 4270
+  originalName: target\debug\incremental\ipc_bridge-18l39r3ovimos\s-he0agnw9ao-0sxmblf.lock
+  nameHistory:
+  - new: target\debug\incremental\ipc_bridge-18l39r3ovimos\s-he0agnw9ao-0sxmblf.lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.0056718-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\incremental\ipc_bridge-18l39r3ovimos\s-he0agnw9ao-0sxmblf.lock
+  mtime: 2025-12-17T23:59:37.4846273-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.0056870-06:00
+generatedAt: 2025-12-18T01:53:40.4661254-06:00
+fileCount: 1
+folderId: target_debug_incremental_ipc_bridge-18l39r3ovimos
+folderPath: target\debug\incremental\ipc_bridge-18l39r3ovimos
+

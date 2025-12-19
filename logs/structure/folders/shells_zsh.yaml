@@ -1,0 +1,52 @@
+files:
+- id: 337
+  canonicalPath: shells\zsh\init.zsh
+  total: 4270
+  originalName: shells\zsh\init.zsh
+  nameHistory:
+  - new: shells\zsh\init.zsh
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.5386714-06:00
+  size: 49
+  aliases: []
+  displayName: shells\zsh\init.zsh
+  mtime: 2025-12-17T22:46:00.3459624-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.5386906-06:00
+- id: 338
+  canonicalPath: shells\zsh\oasm.zsh
+  total: 4270
+  originalName: shells\zsh\oasm.zsh
+  nameHistory:
+  - new: shells\zsh\oasm.zsh
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.5442820-06:00
+  size: 52
+  aliases: []
+  displayName: shells\zsh\oasm.zsh
+  mtime: 2025-12-17T22:46:00.3474723-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.5442998-06:00
+generatedAt: 2025-12-18T01:53:39.2527404-06:00
+fileCount: 2
+folderId: shells_zsh
+folderPath: shells\zsh
+

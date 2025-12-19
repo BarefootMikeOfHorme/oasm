@@ -1,0 +1,98 @@
+files:
+- id: 2133
+  canonicalPath: target\release\.fingerprint\version_check-9646349495015550\dep-lib-version_check
+  total: 4270
+  originalName: target\release\.fingerprint\version_check-9646349495015550\dep-lib-version_check
+  nameHistory:
+  - new: target\release\.fingerprint\version_check-9646349495015550\dep-lib-version_check
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.6864058-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\version_check-9646349495015550\dep-lib-version_check
+  mtime: 2025-12-17T23:56:43.4830914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.6864213-06:00
+- id: 2134
+  canonicalPath: target\release\.fingerprint\version_check-9646349495015550\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\version_check-9646349495015550\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\version_check-9646349495015550\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.6919162-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\version_check-9646349495015550\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.4830914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.6919315-06:00
+- id: 2135
+  canonicalPath: target\release\.fingerprint\version_check-9646349495015550\lib-version_check
+  total: 4270
+  originalName: target\release\.fingerprint\version_check-9646349495015550\lib-version_check
+  nameHistory:
+  - new: target\release\.fingerprint\version_check-9646349495015550\lib-version_check
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.6975493-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\version_check-9646349495015550\lib-version_check
+  mtime: 2025-12-17T23:56:43.9640078-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.6975632-06:00
+- id: 2136
+  canonicalPath: target\release\.fingerprint\version_check-9646349495015550\lib-version_check.json
+  total: 4270
+  originalName: target\release\.fingerprint\version_check-9646349495015550\lib-version_check.json
+  nameHistory:
+  - new: target\release\.fingerprint\version_check-9646349495015550\lib-version_check.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.7030653-06:00
+  size: 364
+  aliases: []
+  displayName: target\release\.fingerprint\version_check-9646349495015550\lib-version_check.json
+  mtime: 2025-12-17T23:56:43.9640078-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.7030870-06:00
+generatedAt: 2025-12-18T01:53:38.9893501-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_version_check-9646349495015550
+folderPath: target\release\.fingerprint\version_check-9646349495015550
+

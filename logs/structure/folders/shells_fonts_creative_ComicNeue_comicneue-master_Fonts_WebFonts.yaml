@@ -1,0 +1,604 @@
+files:
+- id: 185
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Bold.woff
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Bold.woff
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Bold.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.6990356-06:00
+  size: 28328
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Bold.woff
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.6990521-06:00
+- id: 186
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Bold.woff2
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Bold.woff2
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Bold.woff2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7042920-06:00
+  size: 20716
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Bold.woff2
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7043091-06:00
+- id: 187
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-BoldItalic.woff
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-BoldItalic.woff
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-BoldItalic.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7094451-06:00
+  size: 29696
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-BoldItalic.woff
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7094628-06:00
+- id: 188
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-BoldItalic.woff2
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-BoldItalic.woff2
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-BoldItalic.woff2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7147442-06:00
+  size: 21660
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-BoldItalic.woff2
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7147612-06:00
+- id: 189
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Italic.woff
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Italic.woff
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Italic.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7204232-06:00
+  size: 30880
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Italic.woff
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7204410-06:00
+- id: 190
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Italic.woff2
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Italic.woff2
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Italic.woff2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7256820-06:00
+  size: 22408
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Italic.woff2
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7256989-06:00
+- id: 191
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Light.woff
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Light.woff
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Light.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7310487-06:00
+  size: 30068
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Light.woff
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7310666-06:00
+- id: 192
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Light.woff2
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Light.woff2
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Light.woff2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7362042-06:00
+  size: 22220
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Light.woff2
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7362204-06:00
+- id: 193
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-LightItalic.woff
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-LightItalic.woff
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-LightItalic.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7413958-06:00
+  size: 30952
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-LightItalic.woff
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7414135-06:00
+- id: 194
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-LightItalic.woff2
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-LightItalic.woff2
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-LightItalic.woff2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7465164-06:00
+  size: 22652
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-LightItalic.woff2
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7465332-06:00
+- id: 195
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Regular.woff
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Regular.woff
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Regular.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7517084-06:00
+  size: 30304
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Regular.woff
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7517243-06:00
+- id: 196
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Regular.woff2
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Regular.woff2
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Regular.woff2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7571679-06:00
+  size: 22480
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeue-Regular.woff2
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7571830-06:00
+- id: 197
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Bold.woff
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Bold.woff
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Bold.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7623575-06:00
+  size: 19204
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Bold.woff
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7623748-06:00
+- id: 198
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Bold.woff2
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Bold.woff2
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Bold.woff2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7673981-06:00
+  size: 14096
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Bold.woff2
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7674131-06:00
+- id: 199
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-BoldItalic.woff
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-BoldItalic.woff
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-BoldItalic.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7725456-06:00
+  size: 19816
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-BoldItalic.woff
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7725616-06:00
+- id: 200
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-BoldItalic.woff2
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-BoldItalic.woff2
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-BoldItalic.woff2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7777169-06:00
+  size: 14532
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-BoldItalic.woff2
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7777340-06:00
+- id: 201
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Italic.woff
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Italic.woff
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Italic.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7832752-06:00
+  size: 19808
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Italic.woff
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7832910-06:00
+- id: 202
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Italic.woff2
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Italic.woff2
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Italic.woff2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7881694-06:00
+  size: 14440
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Italic.woff2
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7881846-06:00
+- id: 203
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Light.woff
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Light.woff
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Light.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7937744-06:00
+  size: 19444
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Light.woff
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7937929-06:00
+- id: 204
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Light.woff2
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Light.woff2
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Light.woff2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.7990404-06:00
+  size: 14308
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Light.woff2
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.7990586-06:00
+- id: 205
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-LightItalic.woff
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-LightItalic.woff
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-LightItalic.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8044165-06:00
+  size: 20100
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-LightItalic.woff
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8044328-06:00
+- id: 206
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-LightItalic.woff2
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-LightItalic.woff2
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-LightItalic.woff2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8101109-06:00
+  size: 14756
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-LightItalic.woff2
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8101287-06:00
+- id: 207
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Regular.woff
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Regular.woff
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Regular.woff
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8157960-06:00
+  size: 19016
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Regular.woff
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8158137-06:00
+- id: 208
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Regular.woff2
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Regular.woff2
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Regular.woff2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8213550-06:00
+  size: 13888
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\ComicNeueAngular-Regular.woff2
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8213734-06:00
+- id: 209
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\demo.html
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\demo.html
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\demo.html
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8272912-06:00
+  size: 25243
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\demo.html
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8273119-06:00
+- id: 210
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\font.css
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\font.css
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\font.css
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8332469-06:00
+  size: 3766
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts\font.css
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8332668-06:00
+generatedAt: 2025-12-18T01:53:38.2448382-06:00
+fileCount: 26
+folderId: shells_fonts_creative_ComicNeue_comicneue-master_Fonts_WebFonts
+folderPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\WebFonts
+

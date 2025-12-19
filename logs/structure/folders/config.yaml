@@ -1,0 +1,52 @@
+files:
+- id: 33
+  canonicalPath: config\oasm.default.yaml
+  total: 4270
+  originalName: config\oasm.default.yaml
+  nameHistory:
+  - new: config\oasm.default.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8333953-06:00
+  size: 442
+  aliases: []
+  displayName: config\oasm.default.yaml
+  mtime: 2025-12-17T19:04:51.7839816-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8334122-06:00
+- id: 34
+  canonicalPath: config\runtime.yaml
+  total: 4270
+  originalName: config\runtime.yaml
+  nameHistory:
+  - new: config\runtime.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8394999-06:00
+  size: 767
+  aliases: []
+  displayName: config\runtime.yaml
+  mtime: 2025-12-17T19:04:44.7538082-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8395186-06:00
+generatedAt: 2025-12-18T01:53:38.6848365-06:00
+fileCount: 2
+folderId: config
+folderPath: config
+

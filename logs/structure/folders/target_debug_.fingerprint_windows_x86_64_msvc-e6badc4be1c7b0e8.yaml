@@ -1,0 +1,98 @@
+files:
+- id: 836
+  canonicalPath: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\dep-lib-windows_x86_64_msvc
+  total: 4270
+  originalName: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\dep-lib-windows_x86_64_msvc
+  nameHistory:
+  - new: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\dep-lib-windows_x86_64_msvc
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.3850005-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\dep-lib-windows_x86_64_msvc
+  mtime: 2025-12-17T23:59:32.0650693-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.3850137-06:00
+- id: 837
+  canonicalPath: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.3904501-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\invoked.timestamp
+  mtime: 2025-12-17T23:59:32.0650693-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.3904633-06:00
+- id: 838
+  canonicalPath: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\lib-windows_x86_64_msvc
+  total: 4270
+  originalName: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\lib-windows_x86_64_msvc
+  nameHistory:
+  - new: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\lib-windows_x86_64_msvc
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.3962274-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\lib-windows_x86_64_msvc
+  mtime: 2025-12-17T23:59:32.4850427-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.3962433-06:00
+- id: 839
+  canonicalPath: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\lib-windows_x86_64_msvc.json
+  total: 4270
+  originalName: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\lib-windows_x86_64_msvc.json
+  nameHistory:
+  - new: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\lib-windows_x86_64_msvc.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.4019534-06:00
+  size: 444
+  aliases: []
+  displayName: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8\lib-windows_x86_64_msvc.json
+  mtime: 2025-12-17T23:59:32.4850427-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.4019688-06:00
+generatedAt: 2025-12-18T01:53:39.5570881-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_windows_x86_64_msvc-e6badc4be1c7b0e8
+folderPath: target\debug\.fingerprint\windows_x86_64_msvc-e6badc4be1c7b0e8
+

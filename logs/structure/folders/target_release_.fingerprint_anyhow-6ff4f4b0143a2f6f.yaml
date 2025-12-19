@@ -1,0 +1,52 @@
+files:
+- id: 1699
+  canonicalPath: target\release\.fingerprint\anyhow-6ff4f4b0143a2f6f\run-build-script-build-script-build
+  total: 4270
+  originalName: target\release\.fingerprint\anyhow-6ff4f4b0143a2f6f\run-build-script-build-script-build
+  nameHistory:
+  - new: target\release\.fingerprint\anyhow-6ff4f4b0143a2f6f\run-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.2898394-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\anyhow-6ff4f4b0143a2f6f\run-build-script-build-script-build
+  mtime: 2025-12-17T23:56:44.4143055-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.2898530-06:00
+- id: 1700
+  canonicalPath: target\release\.fingerprint\anyhow-6ff4f4b0143a2f6f\run-build-script-build-script-build.json
+  total: 4270
+  originalName: target\release\.fingerprint\anyhow-6ff4f4b0143a2f6f\run-build-script-build-script-build.json
+  nameHistory:
+  - new: target\release\.fingerprint\anyhow-6ff4f4b0143a2f6f\run-build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.2950728-06:00
+  size: 396
+  aliases: []
+  displayName: target\release\.fingerprint\anyhow-6ff4f4b0143a2f6f\run-build-script-build-script-build.json
+  mtime: 2025-12-17T23:56:44.4143055-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.2950862-06:00
+generatedAt: 2025-12-18T01:53:39.9351938-06:00
+fileCount: 2
+folderId: target_release_.fingerprint_anyhow-6ff4f4b0143a2f6f
+folderPath: target\release\.fingerprint\anyhow-6ff4f4b0143a2f6f
+

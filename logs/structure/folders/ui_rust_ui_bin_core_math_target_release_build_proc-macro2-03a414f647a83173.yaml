@@ -1,0 +1,121 @@
+files:
+- id: 2744
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.0521217-06:00
+  size: 638
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.d
+  mtime: 2025-12-16T21:19:23.8196187-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.0521357-06:00
+- id: 2745
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.exe
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.exe
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.0574541-06:00
+  size: 317440
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.exe
+  mtime: 2025-12-16T21:19:24.0154997-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.0574679-06:00
+- id: 2746
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.0630730-06:00
+  size: 1658880
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build-03a414f647a83173.pdb
+  mtime: 2025-12-16T21:19:24.0185539-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.0630912-06:00
+- id: 2747
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.0684400-06:00
+  size: 1658880
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build_script_build.pdb
+  mtime: 2025-12-16T21:19:24.0185539-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.0684545-06:00
+- id: 2748
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build-script-build.exe
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build-script-build.exe
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.0738918-06:00
+  size: 317440
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173\build-script-build.exe
+  mtime: 2025-12-16T21:19:24.0154997-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.0739055-06:00
+generatedAt: 2025-12-18T01:53:37.8756822-06:00
+fileCount: 5
+folderId: ui_rust_ui_bin_core_math_target_release_build_proc-macro2-03a414f647a83173
+folderPath: ui\rust_ui\bin\core_math\target\release\build\proc-macro2-03a414f647a83173
+

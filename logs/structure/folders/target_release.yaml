@@ -1,0 +1,443 @@
+files:
+- id: 1666
+  canonicalPath: target\release\.cargo-lock
+  total: 4270
+  originalName: target\release\.cargo-lock
+  nameHistory:
+  - new: target\release\.cargo-lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.1045059-06:00
+  size: 0
+  aliases: []
+  displayName: target\release\.cargo-lock
+  mtime: 2025-12-17T23:56:43.3438243-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.1045275-06:00
+- id: 2345
+  canonicalPath: target\release\core_math.dll
+  total: 4270
+  originalName: target\release\core_math.dll
+  nameHistory:
+  - new: target\release\core_math.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8774376-06:00
+  size: 135168
+  aliases: []
+  displayName: target\release\core_math.dll
+  mtime: 2025-12-17T23:56:49.4039468-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8774514-06:00
+- id: 2346
+  canonicalPath: target\release\core_math.dll.exp
+  total: 4270
+  originalName: target\release\core_math.dll.exp
+  nameHistory:
+  - new: target\release\core_math.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8827386-06:00
+  size: 1109
+  aliases: []
+  displayName: target\release\core_math.dll.exp
+  mtime: 2025-12-17T23:56:49.3854692-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8827533-06:00
+- id: 2347
+  canonicalPath: target\release\core_math.dll.lib
+  total: 4270
+  originalName: target\release\core_math.dll.lib
+  nameHistory:
+  - new: target\release\core_math.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8880498-06:00
+  size: 2122
+  aliases: []
+  displayName: target\release\core_math.dll.lib
+  mtime: 2025-12-17T23:56:49.3870276-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8880629-06:00
+- id: 2348
+  canonicalPath: target\release\core_math.pdb
+  total: 4270
+  originalName: target\release\core_math.pdb
+  nameHistory:
+  - new: target\release\core_math.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8938503-06:00
+  size: 1175552
+  aliases: []
+  displayName: target\release\core_math.pdb
+  mtime: 2025-12-17T23:56:49.4054787-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8938677-06:00
+- id: 2680
+  canonicalPath: target\release\ipc_bridge.dll
+  total: 4270
+  originalName: target\release\ipc_bridge.dll
+  nameHistory:
+  - new: target\release\ipc_bridge.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.6993356-06:00
+  size: 147456
+  aliases: []
+  displayName: target\release\ipc_bridge.dll
+  mtime: 2025-12-17T23:56:50.6608162-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.6993518-06:00
+- id: 2681
+  canonicalPath: target\release\ipc_bridge.dll.exp
+  total: 4270
+  originalName: target\release\ipc_bridge.dll.exp
+  nameHistory:
+  - new: target\release\ipc_bridge.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7047548-06:00
+  size: 885
+  aliases: []
+  displayName: target\release\ipc_bridge.dll.exp
+  mtime: 2025-12-17T23:56:50.6400163-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7047688-06:00
+- id: 2682
+  canonicalPath: target\release\ipc_bridge.dll.lib
+  total: 4270
+  originalName: target\release\ipc_bridge.dll.lib
+  nameHistory:
+  - new: target\release\ipc_bridge.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7104137-06:00
+  size: 1758
+  aliases: []
+  displayName: target\release\ipc_bridge.dll.lib
+  mtime: 2025-12-17T23:56:50.6439502-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7104291-06:00
+- id: 2683
+  canonicalPath: target\release\ipc_bridge.pdb
+  total: 4270
+  originalName: target\release\ipc_bridge.pdb
+  nameHistory:
+  - new: target\release\ipc_bridge.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7158480-06:00
+  size: 1216512
+  aliases: []
+  displayName: target\release\ipc_bridge.pdb
+  mtime: 2025-12-17T23:56:50.6623544-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7158636-06:00
+- id: 2684
+  canonicalPath: target\release\liboasm_api.rlib
+  total: 4270
+  originalName: target\release\liboasm_api.rlib
+  nameHistory:
+  - new: target\release\liboasm_api.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7211852-06:00
+  size: 45294
+  aliases: []
+  displayName: target\release\liboasm_api.rlib
+  mtime: 2025-12-17T23:56:44.7541006-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7212024-06:00
+- id: 2685
+  canonicalPath: target\release\liboasm_core.rlib
+  total: 4270
+  originalName: target\release\liboasm_core.rlib
+  nameHistory:
+  - new: target\release\liboasm_core.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7265991-06:00
+  size: 259696
+  aliases: []
+  displayName: target\release\liboasm_core.rlib
+  mtime: 2025-12-17T23:56:44.9540394-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7266132-06:00
+- id: 2686
+  canonicalPath: target\release\plugin_loader.dll
+  total: 4270
+  originalName: target\release\plugin_loader.dll
+  nameHistory:
+  - new: target\release\plugin_loader.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7321709-06:00
+  size: 144896
+  aliases: []
+  displayName: target\release\plugin_loader.dll
+  mtime: 2025-12-17T23:56:49.4933774-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7321843-06:00
+- id: 2687
+  canonicalPath: target\release\plugin_loader.dll.exp
+  total: 4270
+  originalName: target\release\plugin_loader.dll.exp
+  nameHistory:
+  - new: target\release\plugin_loader.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7400833-06:00
+  size: 889
+  aliases: []
+  displayName: target\release\plugin_loader.dll.exp
+  mtime: 2025-12-17T23:56:49.4732624-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7400997-06:00
+- id: 2688
+  canonicalPath: target\release\plugin_loader.dll.lib
+  total: 4270
+  originalName: target\release\plugin_loader.dll.lib
+  nameHistory:
+  - new: target\release\plugin_loader.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7433723-06:00
+  size: 1872
+  aliases: []
+  displayName: target\release\plugin_loader.dll.lib
+  mtime: 2025-12-17T23:56:49.4748007-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7433859-06:00
+- id: 2689
+  canonicalPath: target\release\plugin_loader.pdb
+  total: 4270
+  originalName: target\release\plugin_loader.pdb
+  nameHistory:
+  - new: target\release\plugin_loader.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7485984-06:00
+  size: 1200128
+  aliases: []
+  displayName: target\release\plugin_loader.pdb
+  mtime: 2025-12-17T23:56:49.4949108-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7486122-06:00
+- id: 2690
+  canonicalPath: target\release\validation.dll
+  total: 4270
+  originalName: target\release\validation.dll
+  nameHistory:
+  - new: target\release\validation.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7537981-06:00
+  size: 1754624
+  aliases: []
+  displayName: target\release\validation.dll
+  mtime: 2025-12-17T23:56:49.5620154-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7538115-06:00
+- id: 2691
+  canonicalPath: target\release\validation.dll.exp
+  total: 4270
+  originalName: target\release\validation.dll.exp
+  nameHistory:
+  - new: target\release\validation.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7589834-06:00
+  size: 885
+  aliases: []
+  displayName: target\release\validation.dll.exp
+  mtime: 2025-12-17T23:56:49.5276780-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7589971-06:00
+- id: 2692
+  canonicalPath: target\release\validation.dll.lib
+  total: 4270
+  originalName: target\release\validation.dll.lib
+  nameHistory:
+  - new: target\release\validation.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7644118-06:00
+  size: 1758
+  aliases: []
+  displayName: target\release\validation.dll.lib
+  mtime: 2025-12-17T23:56:49.5302194-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7644283-06:00
+- id: 2693
+  canonicalPath: target\release\validation.pdb
+  total: 4270
+  originalName: target\release\validation.pdb
+  nameHistory:
+  - new: target\release\validation.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7697001-06:00
+  size: 2035712
+  aliases: []
+  displayName: target\release\validation.pdb
+  mtime: 2025-12-17T23:56:49.5635525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7697194-06:00
+generatedAt: 2025-12-18T01:53:41.3960677-06:00
+fileCount: 19
+folderId: target_release
+folderPath: target\release
+

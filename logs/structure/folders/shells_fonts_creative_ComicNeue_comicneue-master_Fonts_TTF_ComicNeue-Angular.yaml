@@ -1,0 +1,144 @@
+files:
+- id: 166
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Bold.ttf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Bold.ttf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Bold.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.5935056-06:00
+  size: 55780
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Bold.ttf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.5935301-06:00
+- id: 167
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-BoldItalic.ttf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-BoldItalic.ttf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-BoldItalic.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.5988104-06:00
+  size: 55928
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-BoldItalic.ttf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.5988285-06:00
+- id: 168
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Italic.ttf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Italic.ttf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Italic.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.6039274-06:00
+  size: 56392
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Italic.ttf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.6039441-06:00
+- id: 169
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Light.ttf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Light.ttf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Light.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.6093486-06:00
+  size: 55224
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Light.ttf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.6093666-06:00
+- id: 170
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-LightItalic.ttf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-LightItalic.ttf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-LightItalic.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.6146460-06:00
+  size: 55580
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-LightItalic.ttf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.6146627-06:00
+- id: 171
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Regular.ttf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Regular.ttf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Regular.ttf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.6197543-06:00
+  size: 56004
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular\ComicNeueAngular-Regular.ttf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.6197710-06:00
+generatedAt: 2025-12-18T01:53:37.5560026-06:00
+fileCount: 6
+folderId: shells_fonts_creative_ComicNeue_comicneue-master_Fonts_TTF_ComicNeue-Angular
+folderPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\TTF\ComicNeue-Angular
+

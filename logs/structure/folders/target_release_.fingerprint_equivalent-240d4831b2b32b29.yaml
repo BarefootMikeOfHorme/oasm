@@ -1,0 +1,98 @@
+files:
+- id: 1785
+  canonicalPath: target\release\.fingerprint\equivalent-240d4831b2b32b29\dep-lib-equivalent
+  total: 4270
+  originalName: target\release\.fingerprint\equivalent-240d4831b2b32b29\dep-lib-equivalent
+  nameHistory:
+  - new: target\release\.fingerprint\equivalent-240d4831b2b32b29\dep-lib-equivalent
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.7636120-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\equivalent-240d4831b2b32b29\dep-lib-equivalent
+  mtime: 2025-12-17T23:56:43.4846577-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.7636274-06:00
+- id: 1786
+  canonicalPath: target\release\.fingerprint\equivalent-240d4831b2b32b29\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\equivalent-240d4831b2b32b29\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\equivalent-240d4831b2b32b29\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.7688995-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\equivalent-240d4831b2b32b29\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.4846577-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.7689152-06:00
+- id: 1787
+  canonicalPath: target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent
+  total: 4270
+  originalName: target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent
+  nameHistory:
+  - new: target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.7742087-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent
+  mtime: 2025-12-17T23:56:43.6971133-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.7742229-06:00
+- id: 1788
+  canonicalPath: target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent.json
+  total: 4270
+  originalName: target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent.json
+  nameHistory:
+  - new: target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.7797272-06:00
+  size: 358
+  aliases: []
+  displayName: target\release\.fingerprint\equivalent-240d4831b2b32b29\lib-equivalent.json
+  mtime: 2025-12-17T23:56:43.6981205-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.7797412-06:00
+generatedAt: 2025-12-18T01:53:40.8777217-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_equivalent-240d4831b2b32b29
+folderPath: target\release\.fingerprint\equivalent-240d4831b2b32b29
+

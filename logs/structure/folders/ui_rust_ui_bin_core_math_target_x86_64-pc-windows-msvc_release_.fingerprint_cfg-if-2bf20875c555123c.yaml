@@ -1,0 +1,98 @@
+files:
+- id: 2781
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\dep-lib-cfg_if
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\dep-lib-cfg_if
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\dep-lib-cfg_if
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.2582114-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\dep-lib-cfg_if
+  mtime: 2025-12-16T21:19:23.7718395-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.2582250-06:00
+- id: 2782
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.2635355-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\invoked.timestamp
+  mtime: 2025-12-16T21:19:23.7718395-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.2635496-06:00
+- id: 2783
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\lib-cfg_if
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\lib-cfg_if
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\lib-cfg_if
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.2687934-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\lib-cfg_if
+  mtime: 2025-12-16T21:19:23.8580496-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.2688090-06:00
+- id: 2784
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\lib-cfg_if.json
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\lib-cfg_if.json
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\lib-cfg_if.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.2741243-06:00
+  size: 423
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c\lib-cfg_if.json
+  mtime: 2025-12-16T21:19:23.8580496-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.2741378-06:00
+generatedAt: 2025-12-18T01:53:40.1786409-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_core_math_target_x86_64-pc-windows-msvc_release_.fingerprint_cfg-if-2bf20875c555123c
+folderPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\cfg-if-2bf20875c555123c
+

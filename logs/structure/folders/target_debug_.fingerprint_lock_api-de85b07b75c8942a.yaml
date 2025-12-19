@@ -1,0 +1,98 @@
+files:
+- id: 542
+  canonicalPath: target\debug\.fingerprint\lock_api-de85b07b75c8942a\dep-lib-lock_api
+  total: 4270
+  originalName: target\debug\.fingerprint\lock_api-de85b07b75c8942a\dep-lib-lock_api
+  nameHistory:
+  - new: target\debug\.fingerprint\lock_api-de85b07b75c8942a\dep-lib-lock_api
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.6796987-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\lock_api-de85b07b75c8942a\dep-lib-lock_api
+  mtime: 2025-12-17T23:59:31.6701265-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.6797137-06:00
+- id: 543
+  canonicalPath: target\debug\.fingerprint\lock_api-de85b07b75c8942a\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\lock_api-de85b07b75c8942a\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\lock_api-de85b07b75c8942a\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.6862858-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\lock_api-de85b07b75c8942a\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.6701265-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.6863006-06:00
+- id: 544
+  canonicalPath: target\debug\.fingerprint\lock_api-de85b07b75c8942a\lib-lock_api
+  total: 4270
+  originalName: target\debug\.fingerprint\lock_api-de85b07b75c8942a\lib-lock_api
+  nameHistory:
+  - new: target\debug\.fingerprint\lock_api-de85b07b75c8942a\lib-lock_api
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.6921576-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\lock_api-de85b07b75c8942a\lib-lock_api
+  mtime: 2025-12-17T23:59:31.9486119-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.6921718-06:00
+- id: 545
+  canonicalPath: target\debug\.fingerprint\lock_api-de85b07b75c8942a\lib-lock_api.json
+  total: 4270
+  originalName: target\debug\.fingerprint\lock_api-de85b07b75c8942a\lib-lock_api.json
+  nameHistory:
+  - new: target\debug\.fingerprint\lock_api-de85b07b75c8942a\lib-lock_api.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.6979596-06:00
+  size: 528
+  aliases: []
+  displayName: target\debug\.fingerprint\lock_api-de85b07b75c8942a\lib-lock_api.json
+  mtime: 2025-12-17T23:59:31.9486119-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.6979739-06:00
+generatedAt: 2025-12-18T01:53:37.7187797-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_lock_api-de85b07b75c8942a
+folderPath: target\debug\.fingerprint\lock_api-de85b07b75c8942a
+

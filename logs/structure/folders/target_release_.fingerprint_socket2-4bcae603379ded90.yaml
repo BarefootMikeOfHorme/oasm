@@ -1,0 +1,98 @@
+files:
+- id: 2045
+  canonicalPath: target\release\.fingerprint\socket2-4bcae603379ded90\dep-lib-socket2
+  total: 4270
+  originalName: target\release\.fingerprint\socket2-4bcae603379ded90\dep-lib-socket2
+  nameHistory:
+  - new: target\release\.fingerprint\socket2-4bcae603379ded90\dep-lib-socket2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.1898735-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\socket2-4bcae603379ded90\dep-lib-socket2
+  mtime: 2025-12-17T23:56:46.1179143-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.1898910-06:00
+- id: 2046
+  canonicalPath: target\release\.fingerprint\socket2-4bcae603379ded90\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\socket2-4bcae603379ded90\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\socket2-4bcae603379ded90\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.1959144-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\socket2-4bcae603379ded90\invoked.timestamp
+  mtime: 2025-12-17T23:56:46.1179143-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.1959286-06:00
+- id: 2047
+  canonicalPath: target\release\.fingerprint\socket2-4bcae603379ded90\lib-socket2
+  total: 4270
+  originalName: target\release\.fingerprint\socket2-4bcae603379ded90\lib-socket2
+  nameHistory:
+  - new: target\release\.fingerprint\socket2-4bcae603379ded90\lib-socket2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.2023235-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\socket2-4bcae603379ded90\lib-socket2
+  mtime: 2025-12-17T23:56:46.7793024-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.2023377-06:00
+- id: 2048
+  canonicalPath: target\release\.fingerprint\socket2-4bcae603379ded90\lib-socket2.json
+  total: 4270
+  originalName: target\release\.fingerprint\socket2-4bcae603379ded90\lib-socket2.json
+  nameHistory:
+  - new: target\release\.fingerprint\socket2-4bcae603379ded90\lib-socket2.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.2080711-06:00
+  size: 428
+  aliases: []
+  displayName: target\release\.fingerprint\socket2-4bcae603379ded90\lib-socket2.json
+  mtime: 2025-12-17T23:56:46.7808210-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.2080852-06:00
+generatedAt: 2025-12-18T01:53:37.8318746-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_socket2-4bcae603379ded90
+folderPath: target\release\.fingerprint\socket2-4bcae603379ded90
+

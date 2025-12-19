@@ -1,0 +1,98 @@
+files:
+- id: 3080
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\dep-lib-ipc_bridge
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\dep-lib-ipc_bridge
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\dep-lib-ipc_bridge
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.9165630-06:00
+  size: 30
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\dep-lib-ipc_bridge
+  mtime: 2025-12-16T21:32:21.4358153-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.9165771-06:00
+- id: 3081
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.9219262-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\invoked.timestamp
+  mtime: 2025-12-16T21:32:21.4358153-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.9219402-06:00
+- id: 3082
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\lib-ipc_bridge
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\lib-ipc_bridge
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\lib-ipc_bridge
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.9275351-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\lib-ipc_bridge
+  mtime: 2025-12-16T21:32:21.9538993-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.9275488-06:00
+- id: 3083
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\lib-ipc_bridge.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\lib-ipc_bridge.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\lib-ipc_bridge.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.9332588-06:00
+  size: 648
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1\lib-ipc_bridge.json
+  mtime: 2025-12-16T21:32:21.9538993-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.9332762-06:00
+generatedAt: 2025-12-18T01:53:39.5282571-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_x86_64-pc-windows-msvc_release_.fingerprint_ipc_bridge-1ec7081fb9f998c1
+folderPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\ipc_bridge-1ec7081fb9f998c1
+

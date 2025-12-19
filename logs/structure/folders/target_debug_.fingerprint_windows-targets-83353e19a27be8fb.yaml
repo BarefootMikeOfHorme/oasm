@@ -1,0 +1,98 @@
+files:
+- id: 856
+  canonicalPath: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\dep-lib-windows_targets
+  total: 4270
+  originalName: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\dep-lib-windows_targets
+  nameHistory:
+  - new: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\dep-lib-windows_targets
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5023332-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\dep-lib-windows_targets
+  mtime: 2025-12-17T23:59:31.9168449-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5023477-06:00
+- id: 857
+  canonicalPath: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5081723-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.9168449-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5081865-06:00
+- id: 858
+  canonicalPath: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\lib-windows_targets
+  total: 4270
+  originalName: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\lib-windows_targets
+  nameHistory:
+  - new: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\lib-windows_targets
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5143172-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\lib-windows_targets
+  mtime: 2025-12-17T23:59:32.3326549-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5143314-06:00
+- id: 859
+  canonicalPath: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\lib-windows_targets.json
+  total: 4270
+  originalName: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\lib-windows_targets.json
+  nameHistory:
+  - new: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\lib-windows_targets.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5200227-06:00
+  size: 437
+  aliases: []
+  displayName: target\debug\.fingerprint\windows-targets-83353e19a27be8fb\lib-windows_targets.json
+  mtime: 2025-12-17T23:59:32.3326549-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5200375-06:00
+generatedAt: 2025-12-18T01:53:41.1544876-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_windows-targets-83353e19a27be8fb
+folderPath: target\debug\.fingerprint\windows-targets-83353e19a27be8fb
+

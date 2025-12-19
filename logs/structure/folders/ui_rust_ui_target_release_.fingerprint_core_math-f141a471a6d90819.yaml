@@ -1,0 +1,98 @@
+files:
+- id: 3743
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\dep-lib-core_math
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\dep-lib-core_math
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\dep-lib-core_math
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.6106678-06:00
+  size: 30
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\dep-lib-core_math
+  mtime: 2025-12-16T22:47:43.5955624-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.6106815-06:00
+- id: 3744
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.6160444-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\invoked.timestamp
+  mtime: 2025-12-16T22:47:43.5955624-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.6160580-06:00
+- id: 3745
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\lib-core_math
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\lib-core_math
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\lib-core_math
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.6260510-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\lib-core_math
+  mtime: 2025-12-16T22:47:43.7745626-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.6260659-06:00
+- id: 3746
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\lib-core_math.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\lib-core_math.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\lib-core_math.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.6311164-06:00
+  size: 486
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819\lib-core_math.json
+  mtime: 2025-12-16T22:47:43.7745626-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.6311313-06:00
+generatedAt: 2025-12-18T01:53:37.9266030-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_core_math-f141a471a6d90819
+folderPath: ui\rust_ui\target\release\.fingerprint\core_math-f141a471a6d90819
+

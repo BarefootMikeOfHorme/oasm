@@ -1,0 +1,98 @@
+files:
+- id: 1887
+  canonicalPath: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\dep-lib-nu_ansi_term
+  total: 4270
+  originalName: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\dep-lib-nu_ansi_term
+  nameHistory:
+  - new: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\dep-lib-nu_ansi_term
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.3150186-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\dep-lib-nu_ansi_term
+  mtime: 2025-12-17T23:56:46.2666691-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.3150581-06:00
+- id: 1888
+  canonicalPath: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.3272888-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\invoked.timestamp
+  mtime: 2025-12-17T23:56:46.2666691-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.3273044-06:00
+- id: 1889
+  canonicalPath: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\lib-nu_ansi_term
+  total: 4270
+  originalName: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\lib-nu_ansi_term
+  nameHistory:
+  - new: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\lib-nu_ansi_term
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.3336030-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\lib-nu_ansi_term
+  mtime: 2025-12-17T23:56:46.7173597-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.3336175-06:00
+- id: 1890
+  canonicalPath: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\lib-nu_ansi_term.json
+  total: 4270
+  originalName: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\lib-nu_ansi_term.json
+  nameHistory:
+  - new: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\lib-nu_ansi_term.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.3388470-06:00
+  size: 510
+  aliases: []
+  displayName: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e\lib-nu_ansi_term.json
+  mtime: 2025-12-17T23:56:46.7173597-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.3388600-06:00
+generatedAt: 2025-12-18T01:53:37.9855521-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_nu-ansi-term-287e5bdfe08df06e
+folderPath: target\release\.fingerprint\nu-ansi-term-287e5bdfe08df06e
+

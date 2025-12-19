@@ -1,0 +1,98 @@
+files:
+- id: 1701
+  canonicalPath: target\release\.fingerprint\autocfg-ece938bd21c2ba22\dep-lib-autocfg
+  total: 4270
+  originalName: target\release\.fingerprint\autocfg-ece938bd21c2ba22\dep-lib-autocfg
+  nameHistory:
+  - new: target\release\.fingerprint\autocfg-ece938bd21c2ba22\dep-lib-autocfg
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.3003160-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\autocfg-ece938bd21c2ba22\dep-lib-autocfg
+  mtime: 2025-12-17T23:56:43.4830914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.3003292-06:00
+- id: 1702
+  canonicalPath: target\release\.fingerprint\autocfg-ece938bd21c2ba22\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\autocfg-ece938bd21c2ba22\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\autocfg-ece938bd21c2ba22\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.3056249-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\autocfg-ece938bd21c2ba22\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.4830914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.3056377-06:00
+- id: 1703
+  canonicalPath: target\release\.fingerprint\autocfg-ece938bd21c2ba22\lib-autocfg
+  total: 4270
+  originalName: target\release\.fingerprint\autocfg-ece938bd21c2ba22\lib-autocfg
+  nameHistory:
+  - new: target\release\.fingerprint\autocfg-ece938bd21c2ba22\lib-autocfg
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.3108113-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\autocfg-ece938bd21c2ba22\lib-autocfg
+  mtime: 2025-12-17T23:56:44.1666292-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.3108243-06:00
+- id: 1704
+  canonicalPath: target\release\.fingerprint\autocfg-ece938bd21c2ba22\lib-autocfg.json
+  total: 4270
+  originalName: target\release\.fingerprint\autocfg-ece938bd21c2ba22\lib-autocfg.json
+  nameHistory:
+  - new: target\release\.fingerprint\autocfg-ece938bd21c2ba22\lib-autocfg.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.3161724-06:00
+  size: 351
+  aliases: []
+  displayName: target\release\.fingerprint\autocfg-ece938bd21c2ba22\lib-autocfg.json
+  mtime: 2025-12-17T23:56:44.1666292-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.3161920-06:00
+generatedAt: 2025-12-18T01:53:40.8380203-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_autocfg-ece938bd21c2ba22
+folderPath: target\release\.fingerprint\autocfg-ece938bd21c2ba22
+

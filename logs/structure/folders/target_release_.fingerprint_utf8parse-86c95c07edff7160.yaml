@@ -1,0 +1,98 @@
+files:
+- id: 2125
+  canonicalPath: target\release\.fingerprint\utf8parse-86c95c07edff7160\dep-lib-utf8parse
+  total: 4270
+  originalName: target\release\.fingerprint\utf8parse-86c95c07edff7160\dep-lib-utf8parse
+  nameHistory:
+  - new: target\release\.fingerprint\utf8parse-86c95c07edff7160\dep-lib-utf8parse
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.6422640-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\utf8parse-86c95c07edff7160\dep-lib-utf8parse
+  mtime: 2025-12-17T23:56:43.4830914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.6422775-06:00
+- id: 2126
+  canonicalPath: target\release\.fingerprint\utf8parse-86c95c07edff7160\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\utf8parse-86c95c07edff7160\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\utf8parse-86c95c07edff7160\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.6475984-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\utf8parse-86c95c07edff7160\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.4830914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.6476125-06:00
+- id: 2127
+  canonicalPath: target\release\.fingerprint\utf8parse-86c95c07edff7160\lib-utf8parse
+  total: 4270
+  originalName: target\release\.fingerprint\utf8parse-86c95c07edff7160\lib-utf8parse
+  nameHistory:
+  - new: target\release\.fingerprint\utf8parse-86c95c07edff7160\lib-utf8parse
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.6529582-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\utf8parse-86c95c07edff7160\lib-utf8parse
+  mtime: 2025-12-17T23:56:43.6829341-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.6529726-06:00
+- id: 2128
+  canonicalPath: target\release\.fingerprint\utf8parse-86c95c07edff7160\lib-utf8parse.json
+  total: 4270
+  originalName: target\release\.fingerprint\utf8parse-86c95c07edff7160\lib-utf8parse.json
+  nameHistory:
+  - new: target\release\.fingerprint\utf8parse-86c95c07edff7160\lib-utf8parse.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.6584128-06:00
+  size: 391
+  aliases: []
+  displayName: target\release\.fingerprint\utf8parse-86c95c07edff7160\lib-utf8parse.json
+  mtime: 2025-12-17T23:56:43.6829341-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.6584302-06:00
+generatedAt: 2025-12-18T01:53:37.0793860-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_utf8parse-86c95c07edff7160
+folderPath: target\release\.fingerprint\utf8parse-86c95c07edff7160
+

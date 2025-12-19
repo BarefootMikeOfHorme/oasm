@@ -1,0 +1,98 @@
+files:
+- id: 658
+  canonicalPath: target\debug\.fingerprint\same-file-05410c40ff5cc25e\dep-lib-same_file
+  total: 4270
+  originalName: target\debug\.fingerprint\same-file-05410c40ff5cc25e\dep-lib-same_file
+  nameHistory:
+  - new: target\debug\.fingerprint\same-file-05410c40ff5cc25e\dep-lib-same_file
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.3470070-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\same-file-05410c40ff5cc25e\dep-lib-same_file
+  mtime: 2025-12-17T23:59:33.7395306-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.3470214-06:00
+- id: 659
+  canonicalPath: target\debug\.fingerprint\same-file-05410c40ff5cc25e\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\same-file-05410c40ff5cc25e\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\same-file-05410c40ff5cc25e\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.3523411-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\same-file-05410c40ff5cc25e\invoked.timestamp
+  mtime: 2025-12-17T23:59:33.7395306-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.3523555-06:00
+- id: 660
+  canonicalPath: target\debug\.fingerprint\same-file-05410c40ff5cc25e\lib-same_file
+  total: 4270
+  originalName: target\debug\.fingerprint\same-file-05410c40ff5cc25e\lib-same_file
+  nameHistory:
+  - new: target\debug\.fingerprint\same-file-05410c40ff5cc25e\lib-same_file
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.3579663-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\same-file-05410c40ff5cc25e\lib-same_file
+  mtime: 2025-12-17T23:59:33.8814046-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.3579800-06:00
+- id: 661
+  canonicalPath: target\debug\.fingerprint\same-file-05410c40ff5cc25e\lib-same_file.json
+  total: 4270
+  originalName: target\debug\.fingerprint\same-file-05410c40ff5cc25e\lib-same_file.json
+  nameHistory:
+  - new: target\debug\.fingerprint\same-file-05410c40ff5cc25e\lib-same_file.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.3640441-06:00
+  size: 415
+  aliases: []
+  displayName: target\debug\.fingerprint\same-file-05410c40ff5cc25e\lib-same_file.json
+  mtime: 2025-12-17T23:59:33.8814046-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.3640599-06:00
+generatedAt: 2025-12-18T01:53:37.8479309-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_same-file-05410c40ff5cc25e
+folderPath: target\debug\.fingerprint\same-file-05410c40ff5cc25e
+

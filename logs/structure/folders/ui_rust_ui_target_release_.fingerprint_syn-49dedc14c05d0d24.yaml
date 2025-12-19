@@ -1,0 +1,98 @@
+files:
+- id: 3915
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\dep-lib-syn
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\dep-lib-syn
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\dep-lib-syn
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.5547651-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\dep-lib-syn
+  mtime: 2025-12-16T22:47:40.0833452-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.5547789-06:00
+- id: 3916
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.5598892-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\invoked.timestamp
+  mtime: 2025-12-16T22:47:40.0833452-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.5599040-06:00
+- id: 3917
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.5662395-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn
+  mtime: 2025-12-16T22:47:42.6958998-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.5662599-06:00
+- id: 3918
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.5721912-06:00
+  size: 809
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn.json
+  mtime: 2025-12-16T22:47:42.6974154-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.5722050-06:00
+generatedAt: 2025-12-18T01:53:40.5972691-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_syn-49dedc14c05d0d24
+folderPath: ui\rust_ui\target\release\.fingerprint\syn-49dedc14c05d0d24
+

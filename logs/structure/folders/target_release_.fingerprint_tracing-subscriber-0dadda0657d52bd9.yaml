@@ -1,0 +1,98 @@
+files:
+- id: 2103
+  canonicalPath: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\dep-lib-tracing_subscriber
+  total: 4270
+  originalName: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\dep-lib-tracing_subscriber
+  nameHistory:
+  - new: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\dep-lib-tracing_subscriber
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.5209973-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\dep-lib-tracing_subscriber
+  mtime: 2025-12-17T23:56:46.4717869-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.5210119-06:00
+- id: 2104
+  canonicalPath: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.5261132-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\invoked.timestamp
+  mtime: 2025-12-17T23:56:46.4717869-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.5261262-06:00
+- id: 2105
+  canonicalPath: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\lib-tracing_subscriber
+  total: 4270
+  originalName: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\lib-tracing_subscriber
+  nameHistory:
+  - new: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\lib-tracing_subscriber
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.5312501-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\lib-tracing_subscriber
+  mtime: 2025-12-17T23:56:47.9425585-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.5312707-06:00
+- id: 2106
+  canonicalPath: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\lib-tracing_subscriber.json
+  total: 4270
+  originalName: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\lib-tracing_subscriber.json
+  nameHistory:
+  - new: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\lib-tracing_subscriber.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.5365688-06:00
+  size: 1282
+  aliases: []
+  displayName: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9\lib-tracing_subscriber.json
+  mtime: 2025-12-17T23:56:47.9425585-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.5365827-06:00
+generatedAt: 2025-12-18T01:53:41.7054190-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_tracing-subscriber-0dadda0657d52bd9
+folderPath: target\release\.fingerprint\tracing-subscriber-0dadda0657d52bd9
+

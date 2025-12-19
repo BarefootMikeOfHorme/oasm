@@ -1,0 +1,52 @@
+files:
+- id: 84
+  canonicalPath: runtime\daemon\Cargo.toml
+  total: 4270
+  originalName: runtime\daemon\Cargo.toml
+  nameHistory:
+  - new: runtime\daemon\Cargo.toml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1267996-06:00
+  size: 351
+  aliases: []
+  displayName: runtime\daemon\Cargo.toml
+  mtime: 2025-12-17T01:38:18.2066310-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1268182-06:00
+- id: 85
+  canonicalPath: runtime\daemon\daemon.yaml
+  total: 4270
+  originalName: runtime\daemon\daemon.yaml
+  nameHistory:
+  - new: runtime\daemon\daemon.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1321563-06:00
+  size: 381
+  aliases: []
+  displayName: runtime\daemon\daemon.yaml
+  mtime: 2025-12-17T00:41:00.4578784-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1321733-06:00
+generatedAt: 2025-12-18T01:53:41.5431698-06:00
+fileCount: 2
+folderId: runtime_daemon
+folderPath: runtime\daemon
+

@@ -1,0 +1,98 @@
+files:
+- id: 636
+  canonicalPath: target\debug\.fingerprint\regex-74d61e588da228dc\dep-lib-regex
+  total: 4270
+  originalName: target\debug\.fingerprint\regex-74d61e588da228dc\dep-lib-regex
+  nameHistory:
+  - new: target\debug\.fingerprint\regex-74d61e588da228dc\dep-lib-regex
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.2162776-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\regex-74d61e588da228dc\dep-lib-regex
+  mtime: 2025-12-17T23:59:34.6076525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.2162928-06:00
+- id: 637
+  canonicalPath: target\debug\.fingerprint\regex-74d61e588da228dc\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\regex-74d61e588da228dc\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\regex-74d61e588da228dc\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.2216403-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\regex-74d61e588da228dc\invoked.timestamp
+  mtime: 2025-12-17T23:59:34.6076525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.2216548-06:00
+- id: 638
+  canonicalPath: target\debug\.fingerprint\regex-74d61e588da228dc\lib-regex
+  total: 4270
+  originalName: target\debug\.fingerprint\regex-74d61e588da228dc\lib-regex
+  nameHistory:
+  - new: target\debug\.fingerprint\regex-74d61e588da228dc\lib-regex
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.2274381-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\regex-74d61e588da228dc\lib-regex
+  mtime: 2025-12-17T23:59:34.9426581-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.2274538-06:00
+- id: 639
+  canonicalPath: target\debug\.fingerprint\regex-74d61e588da228dc\lib-regex.json
+  total: 4270
+  originalName: target\debug\.fingerprint\regex-74d61e588da228dc\lib-regex.json
+  nameHistory:
+  - new: target\debug\.fingerprint\regex-74d61e588da228dc\lib-regex.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.2331749-06:00
+  size: 1223
+  aliases: []
+  displayName: target\debug\.fingerprint\regex-74d61e588da228dc\lib-regex.json
+  mtime: 2025-12-17T23:59:34.9426581-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.2331906-06:00
+generatedAt: 2025-12-18T01:53:40.7961217-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_regex-74d61e588da228dc
+folderPath: target\debug\.fingerprint\regex-74d61e588da228dc
+

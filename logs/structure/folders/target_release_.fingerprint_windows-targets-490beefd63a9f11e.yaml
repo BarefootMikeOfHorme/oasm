@@ -1,0 +1,98 @@
+files:
+- id: 2181
+  canonicalPath: target\release\.fingerprint\windows-targets-490beefd63a9f11e\dep-lib-windows_targets
+  total: 4270
+  originalName: target\release\.fingerprint\windows-targets-490beefd63a9f11e\dep-lib-windows_targets
+  nameHistory:
+  - new: target\release\.fingerprint\windows-targets-490beefd63a9f11e\dep-lib-windows_targets
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.9510154-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\windows-targets-490beefd63a9f11e\dep-lib-windows_targets
+  mtime: 2025-12-17T23:56:44.2816222-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.9510296-06:00
+- id: 2182
+  canonicalPath: target\release\.fingerprint\windows-targets-490beefd63a9f11e\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\windows-targets-490beefd63a9f11e\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\windows-targets-490beefd63a9f11e\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.9561843-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\windows-targets-490beefd63a9f11e\invoked.timestamp
+  mtime: 2025-12-17T23:56:44.2816222-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.9561984-06:00
+- id: 2183
+  canonicalPath: target\release\.fingerprint\windows-targets-490beefd63a9f11e\lib-windows_targets
+  total: 4270
+  originalName: target\release\.fingerprint\windows-targets-490beefd63a9f11e\lib-windows_targets
+  nameHistory:
+  - new: target\release\.fingerprint\windows-targets-490beefd63a9f11e\lib-windows_targets
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.9618848-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\windows-targets-490beefd63a9f11e\lib-windows_targets
+  mtime: 2025-12-17T23:56:44.5768704-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.9619008-06:00
+- id: 2184
+  canonicalPath: target\release\.fingerprint\windows-targets-490beefd63a9f11e\lib-windows_targets.json
+  total: 4270
+  originalName: target\release\.fingerprint\windows-targets-490beefd63a9f11e\lib-windows_targets.json
+  nameHistory:
+  - new: target\release\.fingerprint\windows-targets-490beefd63a9f11e\lib-windows_targets.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.9674533-06:00
+  size: 437
+  aliases: []
+  displayName: target\release\.fingerprint\windows-targets-490beefd63a9f11e\lib-windows_targets.json
+  mtime: 2025-12-17T23:56:44.5768704-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.9674704-06:00
+generatedAt: 2025-12-18T01:53:37.5508764-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_windows-targets-490beefd63a9f11e
+folderPath: target\release\.fingerprint\windows-targets-490beefd63a9f11e
+

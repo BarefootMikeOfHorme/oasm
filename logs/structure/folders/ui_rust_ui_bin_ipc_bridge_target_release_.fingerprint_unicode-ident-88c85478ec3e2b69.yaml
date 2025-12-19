@@ -1,0 +1,98 @@
+files:
+- id: 2983
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\dep-lib-unicode_ident
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\dep-lib-unicode_ident
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\dep-lib-unicode_ident
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.3894792-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\dep-lib-unicode_ident
+  mtime: 2025-12-16T21:19:28.8089868-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.3894964-06:00
+- id: 2984
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.3956077-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\invoked.timestamp
+  mtime: 2025-12-16T21:19:28.8089868-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.3956276-06:00
+- id: 2985
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\lib-unicode_ident
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\lib-unicode_ident
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\lib-unicode_ident
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.4012086-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\lib-unicode_ident
+  mtime: 2025-12-16T21:19:28.9049029-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.4012267-06:00
+- id: 2986
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\lib-unicode_ident.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\lib-unicode_ident.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\lib-unicode_ident.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.4062556-06:00
+  size: 364
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69\lib-unicode_ident.json
+  mtime: 2025-12-16T21:19:28.9049029-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.4062714-06:00
+generatedAt: 2025-12-18T01:53:41.0804640-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_.fingerprint_unicode-ident-88c85478ec3e2b69
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\unicode-ident-88c85478ec3e2b69
+

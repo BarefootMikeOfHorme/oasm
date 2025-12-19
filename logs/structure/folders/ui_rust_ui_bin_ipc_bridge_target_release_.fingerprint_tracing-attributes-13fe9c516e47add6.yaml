@@ -1,0 +1,98 @@
+files:
+- id: 2979
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\dep-lib-tracing_attributes
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\dep-lib-tracing_attributes
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\dep-lib-tracing_attributes
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.3667558-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\dep-lib-tracing_attributes
+  mtime: 2025-12-16T21:32:19.7524525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.3667685-06:00
+- id: 2980
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.3725608-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\invoked.timestamp
+  mtime: 2025-12-16T21:32:19.7524525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.3725757-06:00
+- id: 2981
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\lib-tracing_attributes
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\lib-tracing_attributes
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\lib-tracing_attributes
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.3783497-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\lib-tracing_attributes
+  mtime: 2025-12-16T21:32:20.2524966-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.3783678-06:00
+- id: 2982
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\lib-tracing_attributes.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\lib-tracing_attributes.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\lib-tracing_attributes.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.3839035-06:00
+  size: 564
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6\lib-tracing_attributes.json
+  mtime: 2025-12-16T21:32:20.2524966-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.3839183-06:00
+generatedAt: 2025-12-18T01:53:40.3215667-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_.fingerprint_tracing-attributes-13fe9c516e47add6
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\tracing-attributes-13fe9c516e47add6
+

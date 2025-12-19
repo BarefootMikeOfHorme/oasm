@@ -1,0 +1,282 @@
+One line per dashboard row (JSONL + identical plain text).
+
+JSONL fields (exact):
+
+id — integer (sequential, starts at 1 for the run)
+
+n — integer (same as id)
+
+alias — string (basename truncated to 20 chars; on collision append #xxxx where xxxx = first 4 hex of sha256)
+
+relPath — string (path relative to project root, backslashes allowed)
+
+link — string (file:// absolute path)
+
+progress — string ("<current>/<total>")
+
+visual — string (progress bar, e.g., "///////////")
+
+totals — object {crit:int, block:int, warn:int} (initially zeros)
+
+diagnostics — array (initially [])
+
+timestamp — ISO8601 string when emitted
+
+Plain text line (exact style): [<file#>/<total>] [debug]      <relPath>       [<visual>]     [▼<crit>/<block>/<warn>] [▼LINKS}   - cli dashboard
+                                    [2/130]    [Structure] bindings\build.rs [///////////]            [▼0/0/1]           [▼]     - cli dashboard
+[2/130][Structure]bindings\build.rs[///////////][▼0/0/1][▼] - what the dashboard should look like 
+
+
+
+
+# CliDashboardModel.ps1
+# Pure in-memory generator for the CLI dashboard row format.
+# No file I/O. Drop into any script and call the functions below.
+
+Set-StrictMode -Version Latest
+
+# --- Helpers ---
+function Get-Timestamp { (Get-Date).ToString('yyyy-MM-ddTHH:mm:ssZ') }
+function Compute-ShortHash([string]$input) {
+  if ($null -eq $input) { return $null }
+  $sha = [System.Security.Cryptography.SHA256]::Create()
+  $bytes = [System.Text.Encoding]::UTF8.GetBytes($input)
+  $hash = $sha.ComputeHash($bytes)
+  ([BitConverter]::ToString($hash)).Replace('-','').ToLowerInvariant().Substring(0,4)
+}
+function ShortAlias([string]$basename) {
+  $a = ($basename -replace '\s+','_' -replace '[^A-Za-z0-9_.-]','')
+  if ($a.Length -gt 20) { $a = $a.Substring(0,20) }
+  return $a
+}
+function Make-VisualBar([int]$index, [int]$total, [int]$length = 11) {
+  if ($total -le 0) { return (' ' * $length) }
+  $filled = [int]([math]::Round(($index / $total) * $length))
+  if ($filled -lt 0) { $filled = 0 } elseif ($filled -gt $length) { $filled = $length }
+  return ('/' * $filled).PadRight($length,' ')
+}
+
+# --- Stateful counter (optional deterministic numbering) ---
+$script:CliState = @{
+  total = 0
+  next = 1
+  aliasSet = @{}
+}
+
+function Initialize-CliCounter([int]$Total) {
+  $script:CliState.total = [int]$Total
+  $script:CliState.next = 1
+  $script:CliState.aliasSet = @{}
+}
+
+function Get-NextCliId {
+  $id = $script:CliState.next
+  $script:CliState.next = $script:CliState.next + 1
+  return $id
+}
+
+# --- Core: build a single dashboard row object (in-memory) ---
+function New-CliRowObject {
+  param(
+    [Parameter(Mandatory=$true)][string]$RelPath,
+    [string]$FullPath = $null,
+    [int]$Id = 0,
+    [int]$Total = 0,
+    [string]$Level = 'debug',
+    [hashtable]$Totals = @{ crit=0; block=0; warn=0 }
+  )
+
+  if ($Id -le 0) { $Id = Get-NextCliId }
+  $n = $Id
+
+  $basename = Split-Path $RelPath -Leaf
+  $shaSeed = if ($FullPath) { $FullPath } else { $RelPath }
+  $shortHash = Compute-ShortHash $shaSeed
+  $aliasBase = ShortAlias $basename
+
+  if ($script:CliState.aliasSet.ContainsKey($aliasBase)) {
+    $alias = if ($shortHash) { "$aliasBase#$shortHash" } else { "$aliasBase#dup" }
+  } else {
+    $alias = $aliasBase
+    $script:CliState.aliasSet[$aliasBase] = $true
+  }
+
+  $link = if ($FullPath) { "file://$($FullPath -replace '\\','/')" } else { $RelPath }
+  $progress = if ($Total -gt 0) { "$Id/$Total" } elseif ($script:CliState.total -gt 0) { "$Id/$($script:CliState.total)" } else { "$Id/?" }
+  $visual = Make-VisualBar -index $Id -total ($Total -gt 0 ? $Total : $script:CliState.total)
+
+  $row = [PSCustomObject]@{
+    id = $Id
+    n = $n
+    alias = $alias
+    relPath = $RelPath
+    link = $link
+    progress = $progress
+    visual = $visual.TrimEnd()
+    totals = $Totals
+    diagnostics = @()
+    timestamp = Get-Timestamp
+    level = $Level
+  }
+
+  return $row
+}
+
+# --- Utility: build dashboard rows from a list of paths (deterministic IDs) ---
+function Build-CliRowsFromList {
+  param(
+    [Parameter(Mandatory=$true)][string[]]$RelPaths,
+    [string[]]$FullPaths = $null,
+    [string]$Level = 'debug'
+  )
+  # deterministic ordering by relPath
+  $pairs = @()
+  for ($i=0; $i -lt $RelPaths.Count; $i++) {
+    $pairs += [PSCustomObject]@{ rel = $RelPaths[$i]; full = if ($FullPaths -and $i -lt $FullPaths.Count) { $FullPaths[$i] } else { $null } }
+  }
+  $sorted = $pairs | Sort-Object -Property rel
+  Initialize-CliCounter -Total $sorted.Count
+
+  $rows = @()
+  foreach ($p in $sorted) {
+    $rows += New-CliRowObject -RelPath $p.rel -FullPath $p.full -Total $sorted.Count -Level $Level
+  }
+  return ,$rows
+}
+
+# --- Example usage (in-memory only) ---
+<#
+# Example:
+$paths = @('src/router.rs','compiler/src/lib.rs','README.md')
+$fulls = @('C:\proj\src\router.rs','C:\proj\compiler\src\lib.rs','C:\proj\README.md')
+$rows = Build-CliRowsFromList -RelPaths $paths -FullPaths $fulls -Level 'debug'
+$rows | Format-Table -AutoSize
+#>
+
+# In-memory CLI dashboard generator (command-block; no file I/O)
+# Paste into a PowerShell session and call Build-CliRowsFromList or New-CliRow.
+
+Set-StrictMode -Version Latest
+$ErrorActionPreference = 'Stop'
+
+function Get-Timestamp { (Get-Date).ToString('yyyy-MM-ddTHH:mm:ssZ') }
+
+function Compute-ShortHash([string]$seed) {
+  if (-not $seed) { return $null }
+  $sha = [System.Security.Cryptography.SHA256]::Create()
+  $b = [System.Text.Encoding]::UTF8.GetBytes($seed)
+  $h = $sha.ComputeHash($b)
+  $sha.Dispose()
+  return ([BitConverter]::ToString($h)).Replace('-','').ToLowerInvariant().Substring(0,4)
+}
+
+function ShortAlias([string]$basename) {
+  $a = ($basename -replace '\s+','_' -replace '[^A-Za-z0-9_.-]','')
+  if ($a.Length -gt 20) { $a = $a.Substring(0,20) }
+  return $a
+}
+
+function Make-VisualBar([int]$index, [int]$total, [int]$len = 11) {
+  if ($total -le 0) { return (' ' * $len) }
+  $filled = [int]([math]::Round(($index / $total) * $len))
+  if ($filled -lt 0) { $filled = 0 } elseif ($filled -gt $len) { $filled = $len }
+  return ('/' * $filled).PadRight($len,' ')
+}
+
+# Stateful counter and alias set (session-scoped)
+$script:CliState = @{ total = 0; next = 1; aliasSet = @{} }
+
+function Initialize-CliCounter([int]$Total) {
+  $script:CliState.total = [int]$Total
+  $script:CliState.next = 1
+  $script:CliState.aliasSet = @{}
+}
+
+function Get-NextCliId {
+  $id = $script:CliState.next
+  $script:CliState.next = $script:CliState.next + 1
+  return $id
+}
+
+# Build a single dashboard row object (in-memory) and formatted plain line
+function New-CliRow {
+  param(
+    [Parameter(Mandatory=$true)][string]$RelPath,
+    [int]$Index = 0,
+    [int]$Total = 0,
+    [string]$Section = 'Structure',
+    [int]$Crit = 0,
+    [int]$Block = 0,
+    [int]$Warn = 0,
+    [string]$SeedForHash = $null
+  )
+
+  if ($Index -le 0) { $Index = Get-NextCliId }
+  $id = [int]$Index
+  $n = $id
+
+  $basename = Split-Path $RelPath -Leaf
+  $shortHash = Compute-ShortHash $SeedForHash
+  $aliasBase = ShortAlias $basename
+
+  if ($script:CliState.aliasSet.ContainsKey($aliasBase)) {
+    $alias = if ($shortHash) { "$aliasBase#$shortHash" } else { "$aliasBase#dup" }
+  } else {
+    $alias = $aliasBase
+    $script:CliState.aliasSet[$aliasBase] = $true
+  }
+
+  $progress = if ($Total -gt 0) { "$id/$Total" } elseif ($script:CliState.total -gt 0) { "$id/$($script:CliState.total)" } else { "$id/?" }
+  $visual = Make-VisualBar -index $id -total ($Total -gt 0 ? $Total : $script:CliState.total)
+  $timestamp = Get-Timestamp
+
+  $row = [PSCustomObject]@{
+    id = $id
+    n = $n
+    alias = $alias
+    relPath = $RelPath
+    link = $RelPath
+    progress = $progress
+    visual = $visual.TrimEnd()
+    totals = @{ crit = $Crit; block = $Block; warn = $Warn }
+    diagnostics = @()
+    timestamp = $timestamp
+    section = $Section
+  }
+
+  $plain = "[{0}][{1}]{2}[{3}][▼{4}/{5}/{6}][▼]" -f $progress, $Section, $RelPath, $visual.TrimEnd(), $Crit, $Block, $Warn
+
+  return @{ row = $row; plain = $plain }
+}
+
+# Build deterministic rows from a list (sorts relPaths, assigns ids 1..N)
+function Build-CliRowsFromList {
+  param(
+    [Parameter(Mandatory=$true)][string[]]$RelPaths,
+    [string[]]$FullPaths = $null,
+    [string]$Section = 'Structure'
+  )
+
+  $pairs = for ($i=0; $i -lt $RelPaths.Count; $i++) {
+    [PSCustomObject]@{ rel = $RelPaths[$i]; full = if ($FullPaths -and $i -lt $FullPaths.Count) { $FullPaths[$i] } else { $null } }
+  }
+  $sorted = $pairs | Sort-Object -Property rel
+  Initialize-CliCounter -Total $sorted.Count
+
+  $results = @()
+  $idx = 0
+  foreach ($p in $sorted) {
+    $idx++
+    $seed = if ($p.full) { $p.full } else { $p.rel }
+    $res = New-CliRow -RelPath $p.rel -Index $idx -Total $sorted.Count -Section $Section -SeedForHash $seed
+    $results += $res
+  }
+  return ,$results
+}
+
+# Example (uncomment to run):
+# $paths = @('bindings\build.rs','src\router.rs','compiler\src\lib.rs')
+# $rows = Build-CliRowsFromList -RelPaths $paths -Section 'Structure'
+# foreach ($r in $rows) { $r.plain; $r.row } 
+
+

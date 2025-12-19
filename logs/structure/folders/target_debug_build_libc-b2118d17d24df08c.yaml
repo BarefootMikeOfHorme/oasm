@@ -1,0 +1,98 @@
+files:
+- id: 905
+  canonicalPath: target\debug\build\libc-b2118d17d24df08c\invoked.timestamp
+  total: 4270
+  originalName: target\debug\build\libc-b2118d17d24df08c\invoked.timestamp
+  nameHistory:
+  - new: target\debug\build\libc-b2118d17d24df08c\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.7878711-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\build\libc-b2118d17d24df08c\invoked.timestamp
+  mtime: 2025-12-17T23:59:32.0655839-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.7878845-06:00
+- id: 906
+  canonicalPath: target\debug\build\libc-b2118d17d24df08c\output
+  total: 4270
+  originalName: target\debug\build\libc-b2118d17d24df08c\output
+  nameHistory:
+  - new: target\debug\build\libc-b2118d17d24df08c\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.7936675-06:00
+  size: 1249
+  aliases: []
+  displayName: target\debug\build\libc-b2118d17d24df08c\output
+  mtime: 2025-12-17T23:59:32.0655839-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.7936812-06:00
+- id: 907
+  canonicalPath: target\debug\build\libc-b2118d17d24df08c\root-output
+  total: 4270
+  originalName: target\debug\build\libc-b2118d17d24df08c\root-output
+  nameHistory:
+  - new: target\debug\build\libc-b2118d17d24df08c\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.7993893-06:00
+  size: 89
+  aliases: []
+  displayName: target\debug\build\libc-b2118d17d24df08c\root-output
+  mtime: 2025-12-17T23:59:32.4989096-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.7994039-06:00
+- id: 908
+  canonicalPath: target\debug\build\libc-b2118d17d24df08c\stderr
+  total: 4270
+  originalName: target\debug\build\libc-b2118d17d24df08c\stderr
+  nameHistory:
+  - new: target\debug\build\libc-b2118d17d24df08c\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8051021-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\build\libc-b2118d17d24df08c\stderr
+  mtime: 2025-12-17T23:59:32.4989096-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8051152-06:00
+generatedAt: 2025-12-18T01:53:39.1435207-06:00
+fileCount: 4
+folderId: target_debug_build_libc-b2118d17d24df08c
+folderPath: target\debug\build\libc-b2118d17d24df08c
+

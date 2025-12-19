@@ -1,0 +1,98 @@
+files:
+- id: 3369
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\dep-lib-plugin_loader
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\dep-lib-plugin_loader
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\dep-lib-plugin_loader
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.5203035-06:00
+  size: 30
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\dep-lib-plugin_loader
+  mtime: 2025-12-16T21:32:30.5550212-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.5203174-06:00
+- id: 3370
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.5254501-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\invoked.timestamp
+  mtime: 2025-12-16T21:32:30.5550212-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.5254635-06:00
+- id: 3371
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\lib-plugin_loader
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\lib-plugin_loader
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\lib-plugin_loader
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.5303778-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\lib-plugin_loader
+  mtime: 2025-12-16T21:32:31.0427273-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.5303913-06:00
+- id: 3372
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\lib-plugin_loader.json
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\lib-plugin_loader.json
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\lib-plugin_loader.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.5355352-06:00
+  size: 598
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef\lib-plugin_loader.json
+  mtime: 2025-12-16T21:32:31.0442491-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.5355491-06:00
+generatedAt: 2025-12-18T01:53:37.8648183-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_plugin_loader_target_x86_64-pc-windows-msvc_release_.fingerprint_plugin_loader-bd55c7d8554b4bef
+folderPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\plugin_loader-bd55c7d8554b4bef
+

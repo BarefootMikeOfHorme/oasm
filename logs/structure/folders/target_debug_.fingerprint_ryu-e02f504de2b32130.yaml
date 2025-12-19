@@ -1,0 +1,98 @@
+files:
+- id: 654
+  canonicalPath: target\debug\.fingerprint\ryu-e02f504de2b32130\dep-lib-ryu
+  total: 4270
+  originalName: target\debug\.fingerprint\ryu-e02f504de2b32130\dep-lib-ryu
+  nameHistory:
+  - new: target\debug\.fingerprint\ryu-e02f504de2b32130\dep-lib-ryu
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.3243923-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\ryu-e02f504de2b32130\dep-lib-ryu
+  mtime: 2025-12-17T23:59:31.3026000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.3244066-06:00
+- id: 655
+  canonicalPath: target\debug\.fingerprint\ryu-e02f504de2b32130\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\ryu-e02f504de2b32130\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\ryu-e02f504de2b32130\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.3301770-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\ryu-e02f504de2b32130\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.3026000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.3301918-06:00
+- id: 656
+  canonicalPath: target\debug\.fingerprint\ryu-e02f504de2b32130\lib-ryu
+  total: 4270
+  originalName: target\debug\.fingerprint\ryu-e02f504de2b32130\lib-ryu
+  nameHistory:
+  - new: target\debug\.fingerprint\ryu-e02f504de2b32130\lib-ryu
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.3356720-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\ryu-e02f504de2b32130\lib-ryu
+  mtime: 2025-12-17T23:59:31.6551789-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.3356911-06:00
+- id: 657
+  canonicalPath: target\debug\.fingerprint\ryu-e02f504de2b32130\lib-ryu.json
+  total: 4270
+  originalName: target\debug\.fingerprint\ryu-e02f504de2b32130\lib-ryu.json
+  nameHistory:
+  - new: target\debug\.fingerprint\ryu-e02f504de2b32130\lib-ryu.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.3411948-06:00
+  size: 365
+  aliases: []
+  displayName: target\debug\.fingerprint\ryu-e02f504de2b32130\lib-ryu.json
+  mtime: 2025-12-17T23:59:31.6551789-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.3412088-06:00
+generatedAt: 2025-12-18T01:53:36.0616954-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_ryu-e02f504de2b32130
+folderPath: target\debug\.fingerprint\ryu-e02f504de2b32130
+

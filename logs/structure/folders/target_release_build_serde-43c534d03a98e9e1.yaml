@@ -1,0 +1,121 @@
+files:
+- id: 2298
+  canonicalPath: target\release\build\serde-43c534d03a98e9e1\build_script_build-43c534d03a98e9e1.d
+  total: 4270
+  originalName: target\release\build\serde-43c534d03a98e9e1\build_script_build-43c534d03a98e9e1.d
+  nameHistory:
+  - new: target\release\build\serde-43c534d03a98e9e1\build_script_build-43c534d03a98e9e1.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6134471-06:00
+  size: 558
+  aliases: []
+  displayName: target\release\build\serde-43c534d03a98e9e1\build_script_build-43c534d03a98e9e1.d
+  mtime: 2025-12-17T23:56:43.5416665-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6134607-06:00
+- id: 2299
+  canonicalPath: target\release\build\serde-43c534d03a98e9e1\build_script_build-43c534d03a98e9e1.exe
+  total: 4270
+  originalName: target\release\build\serde-43c534d03a98e9e1\build_script_build-43c534d03a98e9e1.exe
+  nameHistory:
+  - new: target\release\build\serde-43c534d03a98e9e1\build_script_build-43c534d03a98e9e1.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6185855-06:00
+  size: 289280
+  aliases: []
+  displayName: target\release\build\serde-43c534d03a98e9e1\build_script_build-43c534d03a98e9e1.exe
+  mtime: 2025-12-17T23:56:43.8050523-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6185991-06:00
+- id: 2300
+  canonicalPath: target\release\build\serde-43c534d03a98e9e1\build_script_build-43c534d03a98e9e1.pdb
+  total: 4270
+  originalName: target\release\build\serde-43c534d03a98e9e1\build_script_build-43c534d03a98e9e1.pdb
+  nameHistory:
+  - new: target\release\build\serde-43c534d03a98e9e1\build_script_build-43c534d03a98e9e1.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6242966-06:00
+  size: 1601536
+  aliases: []
+  displayName: target\release\build\serde-43c534d03a98e9e1\build_script_build-43c534d03a98e9e1.pdb
+  mtime: 2025-12-17T23:56:43.8084825-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6243099-06:00
+- id: 2301
+  canonicalPath: target\release\build\serde-43c534d03a98e9e1\build_script_build.pdb
+  total: 4270
+  originalName: target\release\build\serde-43c534d03a98e9e1\build_script_build.pdb
+  nameHistory:
+  - new: target\release\build\serde-43c534d03a98e9e1\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6297067-06:00
+  size: 1601536
+  aliases: []
+  displayName: target\release\build\serde-43c534d03a98e9e1\build_script_build.pdb
+  mtime: 2025-12-17T23:56:43.8084825-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6297210-06:00
+- id: 2302
+  canonicalPath: target\release\build\serde-43c534d03a98e9e1\build-script-build.exe
+  total: 4270
+  originalName: target\release\build\serde-43c534d03a98e9e1\build-script-build.exe
+  nameHistory:
+  - new: target\release\build\serde-43c534d03a98e9e1\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6351424-06:00
+  size: 289280
+  aliases: []
+  displayName: target\release\build\serde-43c534d03a98e9e1\build-script-build.exe
+  mtime: 2025-12-17T23:56:43.8050523-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6351567-06:00
+generatedAt: 2025-12-18T01:53:41.4505429-06:00
+fileCount: 5
+folderId: target_release_build_serde-43c534d03a98e9e1
+folderPath: target\release\build\serde-43c534d03a98e9e1
+

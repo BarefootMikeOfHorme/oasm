@@ -1,0 +1,121 @@
+files:
+- id: 40
+  canonicalPath: crates\oasm-core\src\blocks.rs
+  total: 4270
+  originalName: crates\oasm-core\src\blocks.rs
+  nameHistory:
+  - new: crates\oasm-core\src\blocks.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8756185-06:00
+  size: 3601
+  aliases: []
+  displayName: crates\oasm-core\src\blocks.rs
+  mtime: 2025-12-17T19:45:10.8162315-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8756354-06:00
+- id: 41
+  canonicalPath: crates\oasm-core\src\instructions.rs
+  total: 4270
+  originalName: crates\oasm-core\src\instructions.rs
+  nameHistory:
+  - new: crates\oasm-core\src\instructions.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8811224-06:00
+  size: 5797
+  aliases: []
+  displayName: crates\oasm-core\src\instructions.rs
+  mtime: 2025-12-17T19:45:53.8420612-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8811387-06:00
+- id: 42
+  canonicalPath: crates\oasm-core\src\lib.rs
+  total: 4270
+  originalName: crates\oasm-core\src\lib.rs
+  nameHistory:
+  - new: crates\oasm-core\src\lib.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8866841-06:00
+  size: 4118
+  aliases: []
+  displayName: crates\oasm-core\src\lib.rs
+  mtime: 2025-12-17T19:43:37.8296474-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8866996-06:00
+- id: 43
+  canonicalPath: crates\oasm-core\src\modules.rs
+  total: 4270
+  originalName: crates\oasm-core\src\modules.rs
+  nameHistory:
+  - new: crates\oasm-core\src\modules.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8921186-06:00
+  size: 183
+  aliases: []
+  displayName: crates\oasm-core\src\modules.rs
+  mtime: 2025-12-18T00:01:29.7541055-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8921344-06:00
+- id: 44
+  canonicalPath: crates\oasm-core\src\rules.rs
+  total: 4270
+  originalName: crates\oasm-core\src\rules.rs
+  nameHistory:
+  - new: crates\oasm-core\src\rules.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8975358-06:00
+  size: 3710
+  aliases: []
+  displayName: crates\oasm-core\src\rules.rs
+  mtime: 2025-12-17T19:45:29.5114351-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8975532-06:00
+generatedAt: 2025-12-18T01:53:37.3116907-06:00
+fileCount: 5
+folderId: crates_oasm-core_src
+folderPath: crates\oasm-core\src
+

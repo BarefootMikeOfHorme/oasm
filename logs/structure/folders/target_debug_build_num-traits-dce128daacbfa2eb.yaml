@@ -1,0 +1,121 @@
+files:
+- id: 913
+  canonicalPath: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build-dce128daacbfa2eb.d
+  total: 4270
+  originalName: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build-dce128daacbfa2eb.d
+  nameHistory:
+  - new: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build-dce128daacbfa2eb.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8336520-06:00
+  size: 576
+  aliases: []
+  displayName: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build-dce128daacbfa2eb.d
+  mtime: 2025-12-17T23:59:32.2955798-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8336657-06:00
+- id: 914
+  canonicalPath: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build-dce128daacbfa2eb.exe
+  total: 4270
+  originalName: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build-dce128daacbfa2eb.exe
+  nameHistory:
+  - new: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build-dce128daacbfa2eb.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8391211-06:00
+  size: 391680
+  aliases: []
+  displayName: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build-dce128daacbfa2eb.exe
+  mtime: 2025-12-17T23:59:32.3834531-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8391388-06:00
+- id: 915
+  canonicalPath: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build-dce128daacbfa2eb.pdb
+  total: 4270
+  originalName: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build-dce128daacbfa2eb.pdb
+  nameHistory:
+  - new: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build-dce128daacbfa2eb.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8451323-06:00
+  size: 1716224
+  aliases: []
+  displayName: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build-dce128daacbfa2eb.pdb
+  mtime: 2025-12-17T23:59:32.3849906-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8451460-06:00
+- id: 916
+  canonicalPath: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8506100-06:00
+  size: 1716224
+  aliases: []
+  displayName: target\debug\build\num-traits-dce128daacbfa2eb\build_script_build.pdb
+  mtime: 2025-12-17T23:59:32.3849906-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8506239-06:00
+- id: 917
+  canonicalPath: target\debug\build\num-traits-dce128daacbfa2eb\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\num-traits-dce128daacbfa2eb\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\num-traits-dce128daacbfa2eb\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.8562423-06:00
+  size: 391680
+  aliases: []
+  displayName: target\debug\build\num-traits-dce128daacbfa2eb\build-script-build.exe
+  mtime: 2025-12-17T23:59:32.3834531-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.8562559-06:00
+generatedAt: 2025-12-18T01:53:41.6461594-06:00
+fileCount: 5
+folderId: target_debug_build_num-traits-dce128daacbfa2eb
+folderPath: target\debug\build\num-traits-dce128daacbfa2eb
+

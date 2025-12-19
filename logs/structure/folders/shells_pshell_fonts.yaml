@@ -1,0 +1,29 @@
+files:
+- id: 327
+  canonicalPath: shells\pshell\fonts\README.md
+  total: 4270
+  originalName: shells\pshell\fonts\README.md
+  nameHistory:
+  - new: shells\pshell\fonts\README.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4811410-06:00
+  size: 118
+  aliases: []
+  displayName: shells\pshell\fonts\README.md
+  mtime: 2025-12-17T23:45:27.4687407-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4811558-06:00
+generatedAt: 2025-12-18T01:53:38.7769964-06:00
+fileCount: 1
+folderId: shells_pshell_fonts
+folderPath: shells\pshell\fonts
+

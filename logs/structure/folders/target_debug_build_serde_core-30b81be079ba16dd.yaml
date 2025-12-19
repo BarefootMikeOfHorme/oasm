@@ -1,0 +1,98 @@
+files:
+- id: 954
+  canonicalPath: target\debug\build\serde_core-30b81be079ba16dd\invoked.timestamp
+  total: 4270
+  originalName: target\debug\build\serde_core-30b81be079ba16dd\invoked.timestamp
+  nameHistory:
+  - new: target\debug\build\serde_core-30b81be079ba16dd\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.0661079-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\build\serde_core-30b81be079ba16dd\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.7846334-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.0661266-06:00
+- id: 956
+  canonicalPath: target\debug\build\serde_core-30b81be079ba16dd\output
+  total: 4270
+  originalName: target\debug\build\serde_core-30b81be079ba16dd\output
+  nameHistory:
+  - new: target\debug\build\serde_core-30b81be079ba16dd\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.0780054-06:00
+  size: 484
+  aliases: []
+  displayName: target\debug\build\serde_core-30b81be079ba16dd\output
+  mtime: 2025-12-17T23:59:31.7846334-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.0780225-06:00
+- id: 957
+  canonicalPath: target\debug\build\serde_core-30b81be079ba16dd\root-output
+  total: 4270
+  originalName: target\debug\build\serde_core-30b81be079ba16dd\root-output
+  nameHistory:
+  - new: target\debug\build\serde_core-30b81be079ba16dd\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.0838824-06:00
+  size: 95
+  aliases: []
+  displayName: target\debug\build\serde_core-30b81be079ba16dd\root-output
+  mtime: 2025-12-17T23:59:31.9532057-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.0838994-06:00
+- id: 958
+  canonicalPath: target\debug\build\serde_core-30b81be079ba16dd\stderr
+  total: 4270
+  originalName: target\debug\build\serde_core-30b81be079ba16dd\stderr
+  nameHistory:
+  - new: target\debug\build\serde_core-30b81be079ba16dd\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.0901593-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\build\serde_core-30b81be079ba16dd\stderr
+  mtime: 2025-12-17T23:59:31.9532057-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.0901821-06:00
+generatedAt: 2025-12-18T01:53:38.2143797-06:00
+fileCount: 4
+folderId: target_debug_build_serde_core-30b81be079ba16dd
+folderPath: target\debug\build\serde_core-30b81be079ba16dd
+

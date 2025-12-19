@@ -1,0 +1,29 @@
+files:
+- id: 1426
+  canonicalPath: target\debug\incremental\compiler-3jtp8v76fs8x7\s-he0ago6hy2-1w1c3y0.lock
+  total: 4270
+  originalName: target\debug\incremental\compiler-3jtp8v76fs8x7\s-he0ago6hy2-1w1c3y0.lock
+  nameHistory:
+  - new: target\debug\incremental\compiler-3jtp8v76fs8x7\s-he0ago6hy2-1w1c3y0.lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:19.7935603-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\incremental\compiler-3jtp8v76fs8x7\s-he0ago6hy2-1w1c3y0.lock
+  mtime: 2025-12-17T23:59:37.9633868-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:19.7935736-06:00
+generatedAt: 2025-12-18T01:53:36.1620644-06:00
+fileCount: 1
+folderId: target_debug_incremental_compiler-3jtp8v76fs8x7
+folderPath: target\debug\incremental\compiler-3jtp8v76fs8x7
+

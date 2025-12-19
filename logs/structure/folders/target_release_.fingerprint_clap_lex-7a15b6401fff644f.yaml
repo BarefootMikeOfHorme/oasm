@@ -1,0 +1,98 @@
+files:
+- id: 1729
+  canonicalPath: target\release\.fingerprint\clap_lex-7a15b6401fff644f\dep-lib-clap_lex
+  total: 4270
+  originalName: target\release\.fingerprint\clap_lex-7a15b6401fff644f\dep-lib-clap_lex
+  nameHistory:
+  - new: target\release\.fingerprint\clap_lex-7a15b6401fff644f\dep-lib-clap_lex
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.4525643-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\clap_lex-7a15b6401fff644f\dep-lib-clap_lex
+  mtime: 2025-12-17T23:56:43.8599668-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.4525781-06:00
+- id: 1730
+  canonicalPath: target\release\.fingerprint\clap_lex-7a15b6401fff644f\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\clap_lex-7a15b6401fff644f\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\clap_lex-7a15b6401fff644f\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.4576844-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\clap_lex-7a15b6401fff644f\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.8599668-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.4576972-06:00
+- id: 1731
+  canonicalPath: target\release\.fingerprint\clap_lex-7a15b6401fff644f\lib-clap_lex
+  total: 4270
+  originalName: target\release\.fingerprint\clap_lex-7a15b6401fff644f\lib-clap_lex
+  nameHistory:
+  - new: target\release\.fingerprint\clap_lex-7a15b6401fff644f\lib-clap_lex
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.4629201-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\clap_lex-7a15b6401fff644f\lib-clap_lex
+  mtime: 2025-12-17T23:56:44.2801014-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.4629336-06:00
+- id: 1732
+  canonicalPath: target\release\.fingerprint\clap_lex-7a15b6401fff644f\lib-clap_lex.json
+  total: 4270
+  originalName: target\release\.fingerprint\clap_lex-7a15b6401fff644f\lib-clap_lex.json
+  nameHistory:
+  - new: target\release\.fingerprint\clap_lex-7a15b6401fff644f\lib-clap_lex.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.4684670-06:00
+  size: 353
+  aliases: []
+  displayName: target\release\.fingerprint\clap_lex-7a15b6401fff644f\lib-clap_lex.json
+  mtime: 2025-12-17T23:56:44.2811164-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.4684824-06:00
+generatedAt: 2025-12-18T01:53:40.7541362-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_clap_lex-7a15b6401fff644f
+folderPath: target\release\.fingerprint\clap_lex-7a15b6401fff644f
+

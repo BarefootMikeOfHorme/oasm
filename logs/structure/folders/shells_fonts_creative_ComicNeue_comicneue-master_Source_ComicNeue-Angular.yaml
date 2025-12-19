@@ -1,0 +1,144 @@
+files:
+- id: 215
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Bold_Italic.glyphs
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Bold_Italic.glyphs
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Bold_Italic.glyphs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8606675-06:00
+  size: 268166
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Bold_Italic.glyphs
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8606852-06:00
+- id: 216
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Bold.glyphs
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Bold.glyphs
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Bold.glyphs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8658461-06:00
+  size: 272565
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Bold.glyphs
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8658628-06:00
+- id: 217
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Italic.glyphs
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Italic.glyphs
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Italic.glyphs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8713239-06:00
+  size: 274262
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Italic.glyphs
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8713414-06:00
+- id: 218
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Light_Italic.glyphs
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Light_Italic.glyphs
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Light_Italic.glyphs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8768786-06:00
+  size: 272273
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Light_Italic.glyphs
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8768945-06:00
+- id: 219
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Light.glyphs
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Light.glyphs
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Light.glyphs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8823452-06:00
+  size: 274210
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular_Light.glyphs
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8823658-06:00
+- id: 220
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular-Regular.glyphs
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular-Regular.glyphs
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular-Regular.glyphs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8876804-06:00
+  size: 278813
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular\ComicNeue-Angular-Regular.glyphs
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8876977-06:00
+generatedAt: 2025-12-18T01:53:38.6486132-06:00
+fileCount: 6
+folderId: shells_fonts_creative_ComicNeue_comicneue-master_Source_ComicNeue-Angular
+folderPath: shells\fonts\creative\ComicNeue\comicneue-master\Source\ComicNeue-Angular
+

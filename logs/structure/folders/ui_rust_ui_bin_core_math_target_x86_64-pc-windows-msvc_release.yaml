@@ -1,0 +1,144 @@
+files:
+- id: 2780
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.cargo-lock
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.cargo-lock
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.cargo-lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.2530297-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.cargo-lock
+  mtime: 2025-12-16T20:55:00.6699681-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.2530441-06:00
+- id: 2847
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6280390-06:00
+  size: 204
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.d
+  mtime: 2025-12-16T21:19:28.1583379-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6280542-06:00
+- id: 2848
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6336680-06:00
+  size: 320000
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll
+  mtime: 2025-12-16T21:32:15.4982005-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6336823-06:00
+- id: 2849
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll.exp
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll.exp
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6387429-06:00
+  size: 1227
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll.exp
+  mtime: 2025-12-16T21:32:15.4798719-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6387608-06:00
+- id: 2850
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll.lib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll.lib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6442009-06:00
+  size: 2232
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.dll.lib
+  mtime: 2025-12-16T21:32:15.4814029-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6442159-06:00
+- id: 2851
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6497374-06:00
+  size: 1421312
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\core_math.pdb
+  mtime: 2025-12-16T21:32:15.4997852-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6497514-06:00
+generatedAt: 2025-12-18T01:53:38.9518244-06:00
+fileCount: 6
+folderId: ui_rust_ui_bin_core_math_target_x86_64-pc-windows-msvc_release
+folderPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release
+

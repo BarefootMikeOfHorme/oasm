@@ -1,0 +1,52 @@
+files:
+- id: 3718
+  canonicalPath: ui\rust_ui\target\.rustc_info.json
+  total: 4270
+  originalName: ui\rust_ui\target\.rustc_info.json
+  nameHistory:
+  - new: ui\rust_ui\target\.rustc_info.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.4633138-06:00
+  size: 1121
+  aliases: []
+  displayName: ui\rust_ui\target\.rustc_info.json
+  mtime: 2025-12-16T22:47:45.7683286-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.4633296-06:00
+- id: 3719
+  canonicalPath: ui\rust_ui\target\CACHEDIR.TAG
+  total: 4270
+  originalName: ui\rust_ui\target\CACHEDIR.TAG
+  nameHistory:
+  - new: ui\rust_ui\target\CACHEDIR.TAG
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.4697643-06:00
+  size: 177
+  aliases: []
+  displayName: ui\rust_ui\target\CACHEDIR.TAG
+  mtime: 2025-12-16T22:47:38.8892947-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.4697849-06:00
+generatedAt: 2025-12-18T01:53:38.0843397-06:00
+fileCount: 2
+folderId: ui_rust_ui_target
+folderPath: ui\rust_ui\target
+

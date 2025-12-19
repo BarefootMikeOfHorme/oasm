@@ -1,0 +1,98 @@
+files:
+- id: 732
+  canonicalPath: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\dep-lib-tempfile
+  total: 4270
+  originalName: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\dep-lib-tempfile
+  nameHistory:
+  - new: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\dep-lib-tempfile
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.7785612-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\dep-lib-tempfile
+  mtime: 2025-12-17T23:59:33.6371525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.7785747-06:00
+- id: 733
+  canonicalPath: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.7843860-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\invoked.timestamp
+  mtime: 2025-12-17T23:59:33.6371525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.7844002-06:00
+- id: 734
+  canonicalPath: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\lib-tempfile
+  total: 4270
+  originalName: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\lib-tempfile
+  nameHistory:
+  - new: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\lib-tempfile
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.7900129-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\lib-tempfile
+  mtime: 2025-12-17T23:59:34.0112260-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.7900277-06:00
+- id: 735
+  canonicalPath: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\lib-tempfile.json
+  total: 4270
+  originalName: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\lib-tempfile.json
+  nameHistory:
+  - new: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\lib-tempfile.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.7958946-06:00
+  size: 658
+  aliases: []
+  displayName: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef\lib-tempfile.json
+  mtime: 2025-12-17T23:59:34.0112260-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.7959083-06:00
+generatedAt: 2025-12-18T01:53:40.2068753-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_tempfile-6d77b0812ec5c9ef
+folderPath: target\debug\.fingerprint\tempfile-6d77b0812ec5c9ef
+

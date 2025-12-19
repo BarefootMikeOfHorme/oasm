@@ -1,0 +1,75 @@
+files:
+- id: 46
+  canonicalPath: docs\governance_rules.md
+  total: 4270
+  originalName: docs\governance_rules.md
+  nameHistory:
+  - new: docs\governance_rules.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9084571-06:00
+  size: 271
+  aliases: []
+  displayName: docs\governance_rules.md
+  mtime: 2025-12-16T19:25:38.0683100-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9084753-06:00
+- id: 47
+  canonicalPath: docs\module_usage.md
+  total: 4270
+  originalName: docs\module_usage.md
+  nameHistory:
+  - new: docs\module_usage.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9139884-06:00
+  size: 468
+  aliases: []
+  displayName: docs\module_usage.md
+  mtime: 2025-12-16T19:25:38.0637462-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9140045-06:00
+- id: 48
+  canonicalPath: docs\ui_integration.md
+  total: 4270
+  originalName: docs\ui_integration.md
+  nameHistory:
+  - new: docs\ui_integration.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9195532-06:00
+  size: 266
+  aliases: []
+  displayName: docs\ui_integration.md
+  mtime: 2025-12-16T19:25:38.0652599-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9195698-06:00
+generatedAt: 2025-12-18T01:53:38.4201375-06:00
+fileCount: 3
+folderId: docs
+folderPath: docs
+

@@ -1,0 +1,121 @@
+files:
+- id: 2
+  canonicalPath: bindings\bindings.rs
+  total: 4270
+  originalName: bindings\bindings.rs
+  nameHistory:
+  - new: bindings\bindings.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.6416948-06:00
+  size: 685
+  aliases: []
+  displayName: bindings\bindings.rs
+  mtime: 2025-12-17T18:56:54.1463670-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.6417189-06:00
+- id: 3
+  canonicalPath: bindings\build.rs
+  total: 4270
+  originalName: bindings\build.rs
+  nameHistory:
+  - new: bindings\build.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.6456110-06:00
+  size: 304
+  aliases: []
+  displayName: bindings\build.rs
+  mtime: 2025-12-16T19:42:50.8255162-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.6456314-06:00
+- id: 4
+  canonicalPath: bindings\Cargo.toml
+  total: 4270
+  originalName: bindings\Cargo.toml
+  nameHistory:
+  - new: bindings\Cargo.toml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.6501312-06:00
+  size: 246
+  aliases: []
+  displayName: bindings\Cargo.toml
+  mtime: 2025-12-16T19:42:50.8209415-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.6501549-06:00
+- id: 5
+  canonicalPath: bindings\ffi.rs
+  total: 4270
+  originalName: bindings\ffi.rs
+  nameHistory:
+  - new: bindings\ffi.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.6544455-06:00
+  size: 247
+  aliases: []
+  displayName: bindings\ffi.rs
+  mtime: 2025-12-16T19:42:50.8224542-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.6544653-06:00
+- id: 6
+  canonicalPath: bindings\native_lib.c
+  total: 4270
+  originalName: bindings\native_lib.c
+  nameHistory:
+  - new: bindings\native_lib.c
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.6589678-06:00
+  size: 1560
+  aliases: []
+  displayName: bindings\native_lib.c
+  mtime: 2025-12-17T19:03:33.1273948-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.6589901-06:00
+generatedAt: 2025-12-18T01:53:39.8974866-06:00
+fileCount: 5
+folderId: bindings
+folderPath: bindings
+

@@ -1,0 +1,121 @@
+files:
+- id: 2992
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build-20e54360312af4d7.d
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build-20e54360312af4d7.d
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build-20e54360312af4d7.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.4418330-06:00
+  size: 640
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build-20e54360312af4d7.d
+  mtime: 2025-12-16T21:19:28.8350763-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.4418486-06:00
+- id: 2993
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build-20e54360312af4d7.exe
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build-20e54360312af4d7.exe
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build-20e54360312af4d7.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.4478653-06:00
+  size: 317440
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build-20e54360312af4d7.exe
+  mtime: 2025-12-16T21:19:28.9468096-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.4478832-06:00
+- id: 2994
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build-20e54360312af4d7.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build-20e54360312af4d7.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build-20e54360312af4d7.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.4539016-06:00
+  size: 1658880
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build-20e54360312af4d7.pdb
+  mtime: 2025-12-16T21:19:28.9514057-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.4539167-06:00
+- id: 2995
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.4596077-06:00
+  size: 1658880
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build_script_build.pdb
+  mtime: 2025-12-16T21:19:28.9514057-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.4596332-06:00
+- id: 2996
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build-script-build.exe
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build-script-build.exe
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.4661669-06:00
+  size: 317440
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7\build-script-build.exe
+  mtime: 2025-12-16T21:19:28.9468096-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.4661816-06:00
+generatedAt: 2025-12-18T01:53:36.2024352-06:00
+fileCount: 5
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_build_proc-macro2-20e54360312af4d7
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\build\proc-macro2-20e54360312af4d7
+

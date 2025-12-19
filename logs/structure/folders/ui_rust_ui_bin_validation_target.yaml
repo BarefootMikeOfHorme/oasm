@@ -1,0 +1,52 @@
+files:
+- id: 3472
+  canonicalPath: ui\rust_ui\bin\validation\target\.rustc_info.json
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\.rustc_info.json
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\.rustc_info.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.0866545-06:00
+  size: 1888
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\.rustc_info.json
+  mtime: 2025-12-16T21:19:38.1734725-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.0866843-06:00
+- id: 3473
+  canonicalPath: ui\rust_ui\bin\validation\target\CACHEDIR.TAG
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\CACHEDIR.TAG
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\CACHEDIR.TAG
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.0940033-06:00
+  size: 177
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\CACHEDIR.TAG
+  mtime: 2025-12-16T21:19:33.1453743-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.0940235-06:00
+generatedAt: 2025-12-18T01:53:39.9442048-06:00
+fileCount: 2
+folderId: ui_rust_ui_bin_validation_target
+folderPath: ui\rust_ui\bin\validation\target
+

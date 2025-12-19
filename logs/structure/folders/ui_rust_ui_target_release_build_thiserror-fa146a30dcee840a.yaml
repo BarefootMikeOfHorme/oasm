@@ -1,0 +1,98 @@
+files:
+- id: 4078
+  canonicalPath: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4479384-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\invoked.timestamp
+  mtime: 2025-12-16T22:47:39.3475068-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4479528-06:00
+- id: 4079
+  canonicalPath: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\output
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\output
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4544828-06:00
+  size: 189
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\output
+  mtime: 2025-12-16T22:47:39.3475068-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4544995-06:00
+- id: 4080
+  canonicalPath: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\root-output
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\root-output
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4601725-06:00
+  size: 107
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\root-output
+  mtime: 2025-12-16T22:47:39.6903646-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4601904-06:00
+- id: 4081
+  canonicalPath: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\stderr
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\stderr
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4664601-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a\stderr
+  mtime: 2025-12-16T22:47:39.6903646-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4664838-06:00
+generatedAt: 2025-12-18T01:53:39.3462399-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_build_thiserror-fa146a30dcee840a
+folderPath: ui\rust_ui\target\release\build\thiserror-fa146a30dcee840a
+

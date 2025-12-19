@@ -1,0 +1,121 @@
+files:
+- id: 945
+  canonicalPath: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build-1757e21dd937e4f7.d
+  total: 4270
+  originalName: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build-1757e21dd937e4f7.d
+  nameHistory:
+  - new: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build-1757e21dd937e4f7.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.0142761-06:00
+  size: 321
+  aliases: []
+  displayName: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build-1757e21dd937e4f7.d
+  mtime: 2025-12-17T23:59:32.3017355-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.0142912-06:00
+- id: 946
+  canonicalPath: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build-1757e21dd937e4f7.exe
+  total: 4270
+  originalName: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build-1757e21dd937e4f7.exe
+  nameHistory:
+  - new: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build-1757e21dd937e4f7.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.0198621-06:00
+  size: 297472
+  aliases: []
+  displayName: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build-1757e21dd937e4f7.exe
+  mtime: 2025-12-17T23:59:32.5882526-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.0198760-06:00
+- id: 947
+  canonicalPath: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build-1757e21dd937e4f7.pdb
+  total: 4270
+  originalName: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build-1757e21dd937e4f7.pdb
+  nameHistory:
+  - new: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build-1757e21dd937e4f7.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.0258696-06:00
+  size: 1634304
+  aliases: []
+  displayName: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build-1757e21dd937e4f7.pdb
+  mtime: 2025-12-17T23:59:32.5898294-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.0258869-06:00
+- id: 948
+  canonicalPath: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.0316772-06:00
+  size: 1634304
+  aliases: []
+  displayName: target\debug\build\rust_ui-1757e21dd937e4f7\build_script_build.pdb
+  mtime: 2025-12-17T23:59:32.5898294-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.0316917-06:00
+- id: 949
+  canonicalPath: target\debug\build\rust_ui-1757e21dd937e4f7\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\rust_ui-1757e21dd937e4f7\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\rust_ui-1757e21dd937e4f7\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.0372573-06:00
+  size: 297472
+  aliases: []
+  displayName: target\debug\build\rust_ui-1757e21dd937e4f7\build-script-build.exe
+  mtime: 2025-12-17T23:59:32.5882526-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.0372714-06:00
+generatedAt: 2025-12-18T01:53:38.7385407-06:00
+fileCount: 5
+folderId: target_debug_build_rust_ui-1757e21dd937e4f7
+folderPath: target\debug\build\rust_ui-1757e21dd937e4f7
+

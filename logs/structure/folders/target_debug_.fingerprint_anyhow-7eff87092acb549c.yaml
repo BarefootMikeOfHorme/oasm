@@ -1,0 +1,98 @@
+files:
+- id: 370
+  canonicalPath: target\debug\.fingerprint\anyhow-7eff87092acb549c\dep-lib-anyhow
+  total: 4270
+  originalName: target\debug\.fingerprint\anyhow-7eff87092acb549c\dep-lib-anyhow
+  nameHistory:
+  - new: target\debug\.fingerprint\anyhow-7eff87092acb549c\dep-lib-anyhow
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.7228686-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\anyhow-7eff87092acb549c\dep-lib-anyhow
+  mtime: 2025-12-17T23:59:32.3357466-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.7228841-06:00
+- id: 371
+  canonicalPath: target\debug\.fingerprint\anyhow-7eff87092acb549c\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\anyhow-7eff87092acb549c\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\anyhow-7eff87092acb549c\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.7286767-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\anyhow-7eff87092acb549c\invoked.timestamp
+  mtime: 2025-12-17T23:59:32.3357466-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.7287013-06:00
+- id: 372
+  canonicalPath: target\debug\.fingerprint\anyhow-7eff87092acb549c\lib-anyhow
+  total: 4270
+  originalName: target\debug\.fingerprint\anyhow-7eff87092acb549c\lib-anyhow
+  nameHistory:
+  - new: target\debug\.fingerprint\anyhow-7eff87092acb549c\lib-anyhow
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.7346028-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\anyhow-7eff87092acb549c\lib-anyhow
+  mtime: 2025-12-17T23:59:32.8722734-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.7346196-06:00
+- id: 373
+  canonicalPath: target\debug\.fingerprint\anyhow-7eff87092acb549c\lib-anyhow.json
+  total: 4270
+  originalName: target\debug\.fingerprint\anyhow-7eff87092acb549c\lib-anyhow.json
+  nameHistory:
+  - new: target\debug\.fingerprint\anyhow-7eff87092acb549c\lib-anyhow.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.7400164-06:00
+  size: 472
+  aliases: []
+  displayName: target\debug\.fingerprint\anyhow-7eff87092acb549c\lib-anyhow.json
+  mtime: 2025-12-17T23:59:32.8722734-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.7400330-06:00
+generatedAt: 2025-12-18T01:53:41.7646368-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_anyhow-7eff87092acb549c
+folderPath: target\debug\.fingerprint\anyhow-7eff87092acb549c
+

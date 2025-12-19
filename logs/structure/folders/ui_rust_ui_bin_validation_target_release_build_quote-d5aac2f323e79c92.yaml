@@ -1,0 +1,98 @@
+files:
+- id: 3521
+  canonicalPath: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.3690796-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\invoked.timestamp
+  mtime: 2025-12-16T21:32:22.4958531-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.3690951-06:00
+- id: 3522
+  canonicalPath: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\output
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\output
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.3749357-06:00
+  size: 83
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\output
+  mtime: 2025-12-16T21:32:22.4958531-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.3749486-06:00
+- id: 3523
+  canonicalPath: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\root-output
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\root-output
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.3808035-06:00
+  size: 118
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\root-output
+  mtime: 2025-12-16T21:32:22.5577473-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.3808191-06:00
+- id: 3524
+  canonicalPath: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\stderr
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\stderr
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.3861546-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92\stderr
+  mtime: 2025-12-16T21:32:22.5577473-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.3861683-06:00
+generatedAt: 2025-12-18T01:53:41.4574639-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_validation_target_release_build_quote-d5aac2f323e79c92
+folderPath: ui\rust_ui\bin\validation\target\release\build\quote-d5aac2f323e79c92
+

@@ -1,0 +1,98 @@
+files:
+- id: 2053
+  canonicalPath: target\release\.fingerprint\syn-49dedc14c05d0d24\dep-lib-syn
+  total: 4270
+  originalName: target\release\.fingerprint\syn-49dedc14c05d0d24\dep-lib-syn
+  nameHistory:
+  - new: target\release\.fingerprint\syn-49dedc14c05d0d24\dep-lib-syn
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.2360369-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\syn-49dedc14c05d0d24\dep-lib-syn
+  mtime: 2025-12-17T23:56:44.9914276-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.2360516-06:00
+- id: 2054
+  canonicalPath: target\release\.fingerprint\syn-49dedc14c05d0d24\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\syn-49dedc14c05d0d24\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\syn-49dedc14c05d0d24\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.2414404-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\syn-49dedc14c05d0d24\invoked.timestamp
+  mtime: 2025-12-17T23:56:44.9914276-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.2414537-06:00
+- id: 2055
+  canonicalPath: target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn
+  total: 4270
+  originalName: target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn
+  nameHistory:
+  - new: target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.2471577-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn
+  mtime: 2025-12-17T23:56:48.0906276-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.2471731-06:00
+- id: 2056
+  canonicalPath: target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn.json
+  total: 4270
+  originalName: target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn.json
+  nameHistory:
+  - new: target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.2526306-06:00
+  size: 809
+  aliases: []
+  displayName: target\release\.fingerprint\syn-49dedc14c05d0d24\lib-syn.json
+  mtime: 2025-12-17T23:56:48.0906276-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.2526454-06:00
+generatedAt: 2025-12-18T01:53:39.8923146-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_syn-49dedc14c05d0d24
+folderPath: target\release\.fingerprint\syn-49dedc14c05d0d24
+

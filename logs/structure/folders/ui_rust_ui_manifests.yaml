@@ -1,0 +1,29 @@
+files:
+- id: 3710
+  canonicalPath: ui\rust_ui\manifests\bindings.yaml
+  total: 4270
+  originalName: ui\rust_ui\manifests\bindings.yaml
+  nameHistory:
+  - new: ui\rust_ui\manifests\bindings.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.4178398-06:00
+  size: 814
+  aliases: []
+  displayName: ui\rust_ui\manifests\bindings.yaml
+  mtime: 2025-12-16T21:00:55.7910820-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.4178523-06:00
+generatedAt: 2025-12-18T01:53:40.8690718-06:00
+fileCount: 1
+folderId: ui_rust_ui_manifests
+folderPath: ui\rust_ui\manifests
+

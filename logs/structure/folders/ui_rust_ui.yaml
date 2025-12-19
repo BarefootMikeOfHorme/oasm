@@ -1,0 +1,121 @@
+files:
+- id: 3698
+  canonicalPath: ui\rust_ui\build.rs
+  total: 4270
+  originalName: ui\rust_ui\build.rs
+  nameHistory:
+  - new: ui\rust_ui\build.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3536005-06:00
+  size: 1480
+  aliases: []
+  displayName: ui\rust_ui\build.rs
+  mtime: 2025-12-17T23:52:54.5746174-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3536135-06:00
+- id: 3699
+  canonicalPath: ui\rust_ui\Cargo.lock
+  total: 4270
+  originalName: ui\rust_ui\Cargo.lock
+  nameHistory:
+  - new: ui\rust_ui\Cargo.lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3587115-06:00
+  size: 12638
+  aliases: []
+  displayName: ui\rust_ui\Cargo.lock
+  mtime: 2025-12-16T21:32:32.7074562-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3587381-06:00
+- id: 3700
+  canonicalPath: ui\rust_ui\Cargo.toml
+  total: 4270
+  originalName: ui\rust_ui\Cargo.toml
+  nameHistory:
+  - new: ui\rust_ui\Cargo.toml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3640007-06:00
+  size: 842
+  aliases: []
+  displayName: ui\rust_ui\Cargo.toml
+  mtime: 2025-12-17T23:52:54.5730918-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3640139-06:00
+- id: 3701
+  canonicalPath: ui\rust_ui\cargo.yaml
+  total: 4270
+  originalName: ui\rust_ui\cargo.yaml
+  nameHistory:
+  - new: ui\rust_ui\cargo.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3693378-06:00
+  size: 727
+  aliases: []
+  displayName: ui\rust_ui\cargo.yaml
+  mtime: 2025-12-17T23:52:54.5715639-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3693519-06:00
+- id: 3711
+  canonicalPath: ui\rust_ui\rust_ui.yaml
+  total: 4270
+  originalName: ui\rust_ui\rust_ui.yaml
+  nameHistory:
+  - new: ui\rust_ui\rust_ui.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.4232835-06:00
+  size: 242
+  aliases: []
+  displayName: ui\rust_ui\rust_ui.yaml
+  mtime: 2025-12-17T00:41:00.5312169-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.4232962-06:00
+generatedAt: 2025-12-18T01:53:39.2730743-06:00
+fileCount: 5
+folderId: ui_rust_ui
+folderPath: ui\rust_ui
+

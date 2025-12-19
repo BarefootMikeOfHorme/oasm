@@ -1,0 +1,236 @@
+files:
+- id: 148
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\.gitignore
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\.gitignore
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\.gitignore
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4940259-06:00
+  size: 15
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\.gitignore
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4940418-06:00
+- id: 149
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\AUTHORS.txt
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\AUTHORS.txt
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\AUTHORS.txt
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4991671-06:00
+  size: 290
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\AUTHORS.txt
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4991837-06:00
+- id: 150
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Booklet-ComicNeue.pdf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Booklet-ComicNeue.pdf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Booklet-ComicNeue.pdf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.5049930-06:00
+  size: 1170642
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Booklet-ComicNeue.pdf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.5050103-06:00
+- id: 151
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\CONTRIBUTORS.txt
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\CONTRIBUTORS.txt
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\CONTRIBUTORS.txt
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.5107182-06:00
+  size: 627
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\CONTRIBUTORS.txt
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.5107368-06:00
+- id: 152
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\DESCRIPTION.en_us.html
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\DESCRIPTION.en_us.html
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\DESCRIPTION.en_us.html
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.5163216-06:00
+  size: 435
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\DESCRIPTION.en_us.html
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.5163391-06:00
+- id: 153
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\FONTLOG.txt
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\FONTLOG.txt
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\FONTLOG.txt
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.5218745-06:00
+  size: 1630
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\FONTLOG.txt
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.5218919-06:00
+- id: 211
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\OFL-FAQ.txt
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\OFL-FAQ.txt
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\OFL-FAQ.txt
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8387870-06:00
+  size: 58443
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\OFL-FAQ.txt
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8388058-06:00
+- id: 212
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\OFL.txt
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\OFL.txt
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\OFL.txt
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8442964-06:00
+  size: 4390
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\OFL.txt
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8443140-06:00
+- id: 213
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\README.md
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\README.md
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\README.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8498318-06:00
+  size: 130
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\README.md
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8498496-06:00
+- id: 214
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\requirements.txt
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\requirements.txt
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\requirements.txt
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.8552715-06:00
+  size: 58
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\requirements.txt
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.8552890-06:00
+generatedAt: 2025-12-18T01:53:39.9136842-06:00
+fileCount: 10
+folderId: shells_fonts_creative_ComicNeue_comicneue-master
+folderPath: shells\fonts\creative\ComicNeue\comicneue-master
+

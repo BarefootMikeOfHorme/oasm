@@ -1,0 +1,98 @@
+files:
+- id: 2823
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\dep-lib-tracing
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\dep-lib-tracing
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\dep-lib-tracing
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.4978489-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\dep-lib-tracing
+  mtime: 2025-12-16T21:19:27.3518460-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.4978654-06:00
+- id: 2824
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.5031640-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\invoked.timestamp
+  mtime: 2025-12-16T21:19:27.3518460-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.5031790-06:00
+- id: 2825
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.5093276-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing
+  mtime: 2025-12-16T21:19:27.6673354-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.5093426-06:00
+- id: 2826
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing.json
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing.json
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.5147800-06:00
+  size: 1062
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e\lib-tracing.json
+  mtime: 2025-12-16T21:19:27.6673354-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.5147945-06:00
+generatedAt: 2025-12-18T01:53:39.2894855-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_core_math_target_x86_64-pc-windows-msvc_release_.fingerprint_tracing-1b8171e4465a6a9e
+folderPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-1b8171e4465a6a9e
+

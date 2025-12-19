@@ -1,0 +1,52 @@
+files:
+- id: 3116
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_core-bd2bb202f8aeded2\run-build-script-build-script-build
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_core-bd2bb202f8aeded2\run-build-script-build-script-build
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_core-bd2bb202f8aeded2\run-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.1098324-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_core-bd2bb202f8aeded2\run-build-script-build-script-build
+  mtime: 2025-12-16T21:19:29.2076479-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.1098466-06:00
+- id: 3117
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_core-bd2bb202f8aeded2\run-build-script-build-script-build.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_core-bd2bb202f8aeded2\run-build-script-build-script-build.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_core-bd2bb202f8aeded2\run-build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.1153511-06:00
+  size: 360
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_core-bd2bb202f8aeded2\run-build-script-build-script-build.json
+  mtime: 2025-12-16T21:19:29.2076479-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.1153669-06:00
+generatedAt: 2025-12-18T01:53:39.4871105-06:00
+fileCount: 2
+folderId: ui_rust_ui_bin_ipc_bridge_target_x86_64-pc-windows-msvc_release_.fingerprint_serde_core-bd2bb202f8aeded2
+folderPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\serde_core-bd2bb202f8aeded2
+

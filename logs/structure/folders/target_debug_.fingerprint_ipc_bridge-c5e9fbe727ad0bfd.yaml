@@ -1,0 +1,98 @@
+files:
+- id: 508
+  canonicalPath: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\dep-lib-ipc_bridge
+  total: 4270
+  originalName: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\dep-lib-ipc_bridge
+  nameHistory:
+  - new: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\dep-lib-ipc_bridge
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.4913562-06:00
+  size: 30
+  aliases: []
+  displayName: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\dep-lib-ipc_bridge
+  mtime: 2025-12-17T23:59:37.4693081-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.4913740-06:00
+- id: 509
+  canonicalPath: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.4971398-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\invoked.timestamp
+  mtime: 2025-12-17T23:59:37.4693081-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.4971567-06:00
+- id: 510
+  canonicalPath: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\lib-ipc_bridge
+  total: 4270
+  originalName: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\lib-ipc_bridge
+  nameHistory:
+  - new: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\lib-ipc_bridge
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.5026328-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\lib-ipc_bridge
+  mtime: 2025-12-17T23:59:37.7659382-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.5026514-06:00
+- id: 511
+  canonicalPath: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\lib-ipc_bridge.json
+  total: 4270
+  originalName: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\lib-ipc_bridge.json
+  nameHistory:
+  - new: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\lib-ipc_bridge.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.5081527-06:00
+  size: 604
+  aliases: []
+  displayName: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd\lib-ipc_bridge.json
+  mtime: 2025-12-17T23:59:37.7659382-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.5081682-06:00
+generatedAt: 2025-12-18T01:53:40.0308105-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_ipc_bridge-c5e9fbe727ad0bfd
+folderPath: target\debug\.fingerprint\ipc_bridge-c5e9fbe727ad0bfd
+

@@ -1,0 +1,52 @@
+files:
+- id: 834
+  canonicalPath: target\debug\.fingerprint\windows_x86_64_msvc-db444a7080dfa927\run-build-script-build-script-build
+  total: 4270
+  originalName: target\debug\.fingerprint\windows_x86_64_msvc-db444a7080dfa927\run-build-script-build-script-build
+  nameHistory:
+  - new: target\debug\.fingerprint\windows_x86_64_msvc-db444a7080dfa927\run-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.3733574-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\windows_x86_64_msvc-db444a7080dfa927\run-build-script-build-script-build
+  mtime: 2025-12-17T23:59:31.7472897-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.3733730-06:00
+- id: 835
+  canonicalPath: target\debug\.fingerprint\windows_x86_64_msvc-db444a7080dfa927\run-build-script-build-script-build.json
+  total: 4270
+  originalName: target\debug\.fingerprint\windows_x86_64_msvc-db444a7080dfa927\run-build-script-build-script-build.json
+  nameHistory:
+  - new: target\debug\.fingerprint\windows_x86_64_msvc-db444a7080dfa927\run-build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.3792558-06:00
+  size: 257
+  aliases: []
+  displayName: target\debug\.fingerprint\windows_x86_64_msvc-db444a7080dfa927\run-build-script-build-script-build.json
+  mtime: 2025-12-17T23:59:31.7544606-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.3792708-06:00
+generatedAt: 2025-12-18T01:53:38.2288399-06:00
+fileCount: 2
+folderId: target_debug_.fingerprint_windows_x86_64_msvc-db444a7080dfa927
+folderPath: target\debug\.fingerprint\windows_x86_64_msvc-db444a7080dfa927
+

@@ -1,0 +1,121 @@
+files:
+- id: 931
+  canonicalPath: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build-8f31028d2b6d1e23.d
+  total: 4270
+  originalName: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build-8f31028d2b6d1e23.d
+  nameHistory:
+  - new: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build-8f31028d2b6d1e23.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9352891-06:00
+  size: 584
+  aliases: []
+  displayName: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build-8f31028d2b6d1e23.d
+  mtime: 2025-12-17T23:59:31.4127545-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9353015-06:00
+- id: 932
+  canonicalPath: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build-8f31028d2b6d1e23.exe
+  total: 4270
+  originalName: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build-8f31028d2b6d1e23.exe
+  nameHistory:
+  - new: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build-8f31028d2b6d1e23.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9408911-06:00
+  size: 323584
+  aliases: []
+  displayName: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build-8f31028d2b6d1e23.exe
+  mtime: 2025-12-17T23:59:31.6969457-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9409044-06:00
+- id: 933
+  canonicalPath: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build-8f31028d2b6d1e23.pdb
+  total: 4270
+  originalName: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build-8f31028d2b6d1e23.pdb
+  nameHistory:
+  - new: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build-8f31028d2b6d1e23.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9463171-06:00
+  size: 1667072
+  aliases: []
+  displayName: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build-8f31028d2b6d1e23.pdb
+  mtime: 2025-12-17T23:59:31.6989523-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9463297-06:00
+- id: 934
+  canonicalPath: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9522411-06:00
+  size: 1667072
+  aliases: []
+  displayName: target\debug\build\proc-macro2-8f31028d2b6d1e23\build_script_build.pdb
+  mtime: 2025-12-17T23:59:31.6989523-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9522545-06:00
+- id: 935
+  canonicalPath: target\debug\build\proc-macro2-8f31028d2b6d1e23\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\proc-macro2-8f31028d2b6d1e23\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\proc-macro2-8f31028d2b6d1e23\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9578072-06:00
+  size: 323584
+  aliases: []
+  displayName: target\debug\build\proc-macro2-8f31028d2b6d1e23\build-script-build.exe
+  mtime: 2025-12-17T23:59:31.6969457-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9578201-06:00
+generatedAt: 2025-12-18T01:53:38.7010358-06:00
+fileCount: 5
+folderId: target_debug_build_proc-macro2-8f31028d2b6d1e23
+folderPath: target\debug\build\proc-macro2-8f31028d2b6d1e23
+

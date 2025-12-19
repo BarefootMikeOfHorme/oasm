@@ -1,0 +1,98 @@
+files:
+- id: 3296
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\dep-lib-tracing_attributes
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\dep-lib-tracing_attributes
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\dep-lib-tracing_attributes
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.0972908-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\dep-lib-tracing_attributes
+  mtime: 2025-12-16T21:32:29.7712852-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.0973043-06:00
+- id: 3297
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.1029616-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\invoked.timestamp
+  mtime: 2025-12-16T21:32:29.7712852-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.1029753-06:00
+- id: 3298
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\lib-tracing_attributes
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\lib-tracing_attributes
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\lib-tracing_attributes
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.1081653-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\lib-tracing_attributes
+  mtime: 2025-12-16T21:32:30.2511995-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.1081801-06:00
+- id: 3299
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\lib-tracing_attributes.json
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\lib-tracing_attributes.json
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\lib-tracing_attributes.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.1146319-06:00
+  size: 563
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d\lib-tracing_attributes.json
+  mtime: 2025-12-16T21:32:30.2511995-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.1146517-06:00
+generatedAt: 2025-12-18T01:53:35.7816137-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_plugin_loader_target_release_.fingerprint_tracing-attributes-5037b287cd05986d
+folderPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\tracing-attributes-5037b287cd05986d
+

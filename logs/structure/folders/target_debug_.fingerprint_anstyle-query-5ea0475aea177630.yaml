@@ -1,0 +1,98 @@
+files:
+- id: 358
+  canonicalPath: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\dep-lib-anstyle_query
+  total: 4270
+  originalName: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\dep-lib-anstyle_query
+  nameHistory:
+  - new: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\dep-lib-anstyle_query
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.6552093-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\dep-lib-anstyle_query
+  mtime: 2025-12-17T23:59:33.6371525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.6552243-06:00
+- id: 359
+  canonicalPath: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.6607688-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\invoked.timestamp
+  mtime: 2025-12-17T23:59:33.6371525-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.6607885-06:00
+- id: 360
+  canonicalPath: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\lib-anstyle_query
+  total: 4270
+  originalName: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\lib-anstyle_query
+  nameHistory:
+  - new: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\lib-anstyle_query
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.6664586-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\lib-anstyle_query
+  mtime: 2025-12-17T23:59:33.7950401-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.6664764-06:00
+- id: 361
+  canonicalPath: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\lib-anstyle_query.json
+  total: 4270
+  originalName: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\lib-anstyle_query.json
+  nameHistory:
+  - new: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\lib-anstyle_query.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.6717942-06:00
+  size: 425
+  aliases: []
+  displayName: target\debug\.fingerprint\anstyle-query-5ea0475aea177630\lib-anstyle_query.json
+  mtime: 2025-12-17T23:59:33.7950401-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.6718111-06:00
+generatedAt: 2025-12-18T01:53:37.3583979-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_anstyle-query-5ea0475aea177630
+folderPath: target\debug\.fingerprint\anstyle-query-5ea0475aea177630
+

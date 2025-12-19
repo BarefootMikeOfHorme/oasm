@@ -1,0 +1,98 @@
+files:
+- id: 3019
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.5957334-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\invoked.timestamp
+  mtime: 2025-12-16T21:32:17.1735820-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.5957554-06:00
+- id: 3020
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\output
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\output
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.6011425-06:00
+  size: 83
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\output
+  mtime: 2025-12-16T21:32:17.1735820-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.6011570-06:00
+- id: 3021
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\root-output
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\root-output
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.6064924-06:00
+  size: 118
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\root-output
+  mtime: 2025-12-16T21:32:17.2353233-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.6065070-06:00
+- id: 3022
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\stderr
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\stderr
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.6117344-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92\stderr
+  mtime: 2025-12-16T21:32:17.2336488-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.6117480-06:00
+generatedAt: 2025-12-18T01:53:41.8232986-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_build_quote-d5aac2f323e79c92
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\build\quote-d5aac2f323e79c92
+

@@ -1,0 +1,98 @@
+files:
+- id: 350
+  canonicalPath: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\dep-lib-anstyle
+  total: 4270
+  originalName: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\dep-lib-anstyle
+  nameHistory:
+  - new: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\dep-lib-anstyle
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.6106906-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\dep-lib-anstyle
+  mtime: 2025-12-17T23:59:31.3010673-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.6107044-06:00
+- id: 351
+  canonicalPath: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.6168954-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.3010673-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.6169158-06:00
+- id: 352
+  canonicalPath: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\lib-anstyle
+  total: 4270
+  originalName: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\lib-anstyle
+  nameHistory:
+  - new: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\lib-anstyle
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.6222270-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\lib-anstyle
+  mtime: 2025-12-17T23:59:31.6617286-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.6222433-06:00
+- id: 353
+  canonicalPath: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\lib-anstyle.json
+  total: 4270
+  originalName: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\lib-anstyle.json
+  nameHistory:
+  - new: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\lib-anstyle.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.6277942-06:00
+  size: 391
+  aliases: []
+  displayName: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b\lib-anstyle.json
+  mtime: 2025-12-17T23:59:31.6617286-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.6278116-06:00
+generatedAt: 2025-12-18T01:53:36.0373752-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_anstyle-3f67ee316b74ad1b
+folderPath: target\debug\.fingerprint\anstyle-3f67ee316b74ad1b
+

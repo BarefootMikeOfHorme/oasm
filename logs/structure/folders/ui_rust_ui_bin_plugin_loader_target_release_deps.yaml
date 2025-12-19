@@ -1,0 +1,397 @@
+files:
+- id: 3322
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\libproc_macro2-9c813890e2e09801.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\libproc_macro2-9c813890e2e09801.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\libproc_macro2-9c813890e2e09801.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.2511301-06:00
+  size: 1258918
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\libproc_macro2-9c813890e2e09801.rlib
+  mtime: 2025-12-16T21:32:27.7191304-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.2511447-06:00
+- id: 3323
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\libproc_macro2-9c813890e2e09801.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\libproc_macro2-9c813890e2e09801.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\libproc_macro2-9c813890e2e09801.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.2567087-06:00
+  size: 330522
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\libproc_macro2-9c813890e2e09801.rmeta
+  mtime: 2025-12-16T21:32:27.6147205-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.2567219-06:00
+- id: 3324
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\libquote-9a4452c95c758e4e.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\libquote-9a4452c95c758e4e.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\libquote-9a4452c95c758e4e.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.2634375-06:00
+  size: 520334
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\libquote-9a4452c95c758e4e.rlib
+  mtime: 2025-12-16T21:32:27.7690906-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.2634506-06:00
+- id: 3325
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\libquote-9a4452c95c758e4e.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\libquote-9a4452c95c758e4e.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\libquote-9a4452c95c758e4e.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.2692097-06:00
+  size: 269461
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\libquote-9a4452c95c758e4e.rmeta
+  mtime: 2025-12-16T21:32:27.7120195-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.2692236-06:00
+- id: 3326
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\libsyn-6bb4a5bbe2be888c.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\libsyn-6bb4a5bbe2be888c.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\libsyn-6bb4a5bbe2be888c.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.2749311-06:00
+  size: 12002928
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\libsyn-6bb4a5bbe2be888c.rlib
+  mtime: 2025-12-16T21:32:29.7408504-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.2749447-06:00
+- id: 3327
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\libsyn-6bb4a5bbe2be888c.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\libsyn-6bb4a5bbe2be888c.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\libsyn-6bb4a5bbe2be888c.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.2807547-06:00
+  size: 4013484
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\libsyn-6bb4a5bbe2be888c.rmeta
+  mtime: 2025-12-16T21:32:29.4259523-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.2807698-06:00
+- id: 3328
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\libunicode_ident-88c85478ec3e2b69.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\libunicode_ident-88c85478ec3e2b69.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\libunicode_ident-88c85478ec3e2b69.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.2861156-06:00
+  size: 51126
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\libunicode_ident-88c85478ec3e2b69.rlib
+  mtime: 2025-12-16T21:32:27.0811617-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.2861285-06:00
+- id: 3329
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\libunicode_ident-88c85478ec3e2b69.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\libunicode_ident-88c85478ec3e2b69.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\libunicode_ident-88c85478ec3e2b69.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.2916066-06:00
+  size: 34125
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\libunicode_ident-88c85478ec3e2b69.rmeta
+  mtime: 2025-12-16T21:32:27.0497140-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.2916192-06:00
+- id: 3330
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\proc_macro2-9c813890e2e09801.d
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\proc_macro2-9c813890e2e09801.d
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\proc_macro2-9c813890e2e09801.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.2974782-06:00
+  size: 5417
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\proc_macro2-9c813890e2e09801.d
+  mtime: 2025-12-16T21:32:27.4532339-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.2974906-06:00
+- id: 3331
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\quote-9a4452c95c758e4e.d
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\quote-9a4452c95c758e4e.d
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\quote-9a4452c95c758e4e.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.3027333-06:00
+  size: 3295
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\quote-9a4452c95c758e4e.d
+  mtime: 2025-12-16T21:32:27.6458852-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.3027473-06:00
+- id: 3332
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\syn-6bb4a5bbe2be888c.d
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\syn-6bb4a5bbe2be888c.d
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\syn-6bb4a5bbe2be888c.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.3079735-06:00
+  size: 21766
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\syn-6bb4a5bbe2be888c.d
+  mtime: 2025-12-16T21:32:27.9314301-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.3079869-06:00
+- id: 3333
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.d
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.d
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.3134659-06:00
+  size: 1302
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.d
+  mtime: 2025-12-16T21:32:29.8407996-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.3134805-06:00
+- id: 3334
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.3186572-06:00
+  size: 2208256
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.dll
+  mtime: 2025-12-16T21:32:30.2085728-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.3186713-06:00
+- id: 3335
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.dll.exp
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.dll.exp
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.3238873-06:00
+  size: 1338
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.dll.exp
+  mtime: 2025-12-16T21:32:30.1796017-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.3239011-06:00
+- id: 3336
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.dll.lib
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.dll.lib
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.3299626-06:00
+  size: 2710
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.dll.lib
+  mtime: 2025-12-16T21:32:30.1826286-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.3299788-06:00
+- id: 3337
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.3358182-06:00
+  size: 3067904
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\tracing_attributes-5037b287cd05986d.pdb
+  mtime: 2025-12-16T21:32:30.2116182-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.3358350-06:00
+- id: 3338
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\deps\unicode_ident-88c85478ec3e2b69.d
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\deps\unicode_ident-88c85478ec3e2b69.d
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\deps\unicode_ident-88c85478ec3e2b69.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.3412690-06:00
+  size: 1278
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\deps\unicode_ident-88c85478ec3e2b69.d
+  mtime: 2025-12-16T21:32:27.0281421-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.3412841-06:00
+generatedAt: 2025-12-18T01:53:39.4973609-06:00
+fileCount: 17
+folderId: ui_rust_ui_bin_plugin_loader_target_release_deps
+folderPath: ui\rust_ui\bin\plugin_loader\target\release\deps
+

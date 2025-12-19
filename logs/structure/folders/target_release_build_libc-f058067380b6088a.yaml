@@ -1,0 +1,98 @@
+files:
+- id: 2230
+  canonicalPath: target\release\build\libc-f058067380b6088a\invoked.timestamp
+  total: 4270
+  originalName: target\release\build\libc-f058067380b6088a\invoked.timestamp
+  nameHistory:
+  - new: target\release\build\libc-f058067380b6088a\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2274673-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\build\libc-f058067380b6088a\invoked.timestamp
+  mtime: 2025-12-17T23:56:44.2816222-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2274875-06:00
+- id: 2231
+  canonicalPath: target\release\build\libc-f058067380b6088a\output
+  total: 4270
+  originalName: target\release\build\libc-f058067380b6088a\output
+  nameHistory:
+  - new: target\release\build\libc-f058067380b6088a\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2333217-06:00
+  size: 1249
+  aliases: []
+  displayName: target\release\build\libc-f058067380b6088a\output
+  mtime: 2025-12-17T23:56:44.2816222-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2333366-06:00
+- id: 2232
+  canonicalPath: target\release\build\libc-f058067380b6088a\root-output
+  total: 4270
+  originalName: target\release\build\libc-f058067380b6088a\root-output
+  nameHistory:
+  - new: target\release\build\libc-f058067380b6088a\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2388927-06:00
+  size: 91
+  aliases: []
+  displayName: target\release\build\libc-f058067380b6088a\root-output
+  mtime: 2025-12-17T23:56:44.5834516-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2389066-06:00
+- id: 2233
+  canonicalPath: target\release\build\libc-f058067380b6088a\stderr
+  total: 4270
+  originalName: target\release\build\libc-f058067380b6088a\stderr
+  nameHistory:
+  - new: target\release\build\libc-f058067380b6088a\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.2446928-06:00
+  size: 0
+  aliases: []
+  displayName: target\release\build\libc-f058067380b6088a\stderr
+  mtime: 2025-12-17T23:56:44.5834516-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.2447104-06:00
+generatedAt: 2025-12-18T01:53:39.2186914-06:00
+fileCount: 4
+folderId: target_release_build_libc-f058067380b6088a
+folderPath: target\release\build\libc-f058067380b6088a
+

@@ -1,0 +1,121 @@
+files:
+- id: 2308
+  canonicalPath: target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.d
+  total: 4270
+  originalName: target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.d
+  nameHistory:
+  - new: target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6681759-06:00
+  size: 575
+  aliases: []
+  displayName: target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.d
+  mtime: 2025-12-17T23:56:44.1681730-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6681893-06:00
+- id: 2309
+  canonicalPath: target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.exe
+  total: 4270
+  originalName: target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.exe
+  nameHistory:
+  - new: target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6736373-06:00
+  size: 300032
+  aliases: []
+  displayName: target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.exe
+  mtime: 2025-12-17T23:56:44.3248809-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6736506-06:00
+- id: 2310
+  canonicalPath: target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.pdb
+  total: 4270
+  originalName: target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.pdb
+  nameHistory:
+  - new: target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6791477-06:00
+  size: 1626112
+  aliases: []
+  displayName: target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.pdb
+  mtime: 2025-12-17T23:56:44.3279891-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6791617-06:00
+- id: 2311
+  canonicalPath: target\release\build\thiserror-02fd1504d27c08cc\build_script_build.pdb
+  total: 4270
+  originalName: target\release\build\thiserror-02fd1504d27c08cc\build_script_build.pdb
+  nameHistory:
+  - new: target\release\build\thiserror-02fd1504d27c08cc\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6846946-06:00
+  size: 1626112
+  aliases: []
+  displayName: target\release\build\thiserror-02fd1504d27c08cc\build_script_build.pdb
+  mtime: 2025-12-17T23:56:44.3279891-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6847078-06:00
+- id: 2312
+  canonicalPath: target\release\build\thiserror-02fd1504d27c08cc\build-script-build.exe
+  total: 4270
+  originalName: target\release\build\thiserror-02fd1504d27c08cc\build-script-build.exe
+  nameHistory:
+  - new: target\release\build\thiserror-02fd1504d27c08cc\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6901090-06:00
+  size: 300032
+  aliases: []
+  displayName: target\release\build\thiserror-02fd1504d27c08cc\build-script-build.exe
+  mtime: 2025-12-17T23:56:44.3248809-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6901224-06:00
+generatedAt: 2025-12-18T01:53:38.5257421-06:00
+fileCount: 5
+folderId: target_release_build_thiserror-02fd1504d27c08cc
+folderPath: target\release\build\thiserror-02fd1504d27c08cc
+

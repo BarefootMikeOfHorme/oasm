@@ -1,0 +1,98 @@
+files:
+- id: 992
+  canonicalPath: target\debug\build\typenum-3e16120c58f74b73\invoked.timestamp
+  total: 4270
+  originalName: target\debug\build\typenum-3e16120c58f74b73\invoked.timestamp
+  nameHistory:
+  - new: target\debug\build\typenum-3e16120c58f74b73\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.2897971-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\build\typenum-3e16120c58f74b73\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.8698923-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.2898120-06:00
+- id: 994
+  canonicalPath: target\debug\build\typenum-3e16120c58f74b73\output
+  total: 4270
+  originalName: target\debug\build\typenum-3e16120c58f74b73\output
+  nameHistory:
+  - new: target\debug\build\typenum-3e16120c58f74b73\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.3010906-06:00
+  size: 29
+  aliases: []
+  displayName: target\debug\build\typenum-3e16120c58f74b73\output
+  mtime: 2025-12-17T23:59:31.8698923-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.3011042-06:00
+- id: 995
+  canonicalPath: target\debug\build\typenum-3e16120c58f74b73\root-output
+  total: 4270
+  originalName: target\debug\build\typenum-3e16120c58f74b73\root-output
+  nameHistory:
+  - new: target\debug\build\typenum-3e16120c58f74b73\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.3067361-06:00
+  size: 92
+  aliases: []
+  displayName: target\debug\build\typenum-3e16120c58f74b73\root-output
+  mtime: 2025-12-17T23:59:32.2180290-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.3067490-06:00
+- id: 996
+  canonicalPath: target\debug\build\typenum-3e16120c58f74b73\stderr
+  total: 4270
+  originalName: target\debug\build\typenum-3e16120c58f74b73\stderr
+  nameHistory:
+  - new: target\debug\build\typenum-3e16120c58f74b73\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.3124684-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\build\typenum-3e16120c58f74b73\stderr
+  mtime: 2025-12-17T23:59:32.2180290-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.3124820-06:00
+generatedAt: 2025-12-18T01:53:38.2395493-06:00
+fileCount: 4
+folderId: target_debug_build_typenum-3e16120c58f74b73
+folderPath: target\debug\build\typenum-3e16120c58f74b73
+

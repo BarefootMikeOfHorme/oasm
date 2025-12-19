@@ -1,0 +1,949 @@
+files:
+- id: 1570
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\1kqtzihvnh7hmtjhoffamh8zn.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\1kqtzihvnh7hmtjhoffamh8zn.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\1kqtzihvnh7hmtjhoffamh8zn.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5728173-06:00
+  size: 24285
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\1kqtzihvnh7hmtjhoffamh8zn.o
+  mtime: 2025-12-17T23:59:36.5393975-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5728308-06:00
+- id: 1571
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\1v7bm5kdwejl30g91q2u5tiiy.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\1v7bm5kdwejl30g91q2u5tiiy.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\1v7bm5kdwejl30g91q2u5tiiy.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5782475-06:00
+  size: 12859
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\1v7bm5kdwejl30g91q2u5tiiy.o
+  mtime: 2025-12-17T23:59:36.5409315-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5782627-06:00
+- id: 1572
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\1z0pg25pmm8yz9ls99w4q3z5u.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\1z0pg25pmm8yz9ls99w4q3z5u.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\1z0pg25pmm8yz9ls99w4q3z5u.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5837556-06:00
+  size: 18545
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\1z0pg25pmm8yz9ls99w4q3z5u.o
+  mtime: 2025-12-17T23:59:36.5332352-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5837703-06:00
+- id: 1573
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2b1jyue5mr8k5oosiptge2cof.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2b1jyue5mr8k5oosiptge2cof.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2b1jyue5mr8k5oosiptge2cof.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5888987-06:00
+  size: 10858
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2b1jyue5mr8k5oosiptge2cof.o
+  mtime: 2025-12-17T23:59:36.5286486-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5889132-06:00
+- id: 1574
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2b9oll78babtw9fcd73i9ii0s.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2b9oll78babtw9fcd73i9ii0s.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2b9oll78babtw9fcd73i9ii0s.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.5948136-06:00
+  size: 18832
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2b9oll78babtw9fcd73i9ii0s.o
+  mtime: 2025-12-17T23:59:36.5209925-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.5948331-06:00
+- id: 1575
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2dgg6ks0uyyw953xss9luta6s.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2dgg6ks0uyyw953xss9luta6s.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2dgg6ks0uyyw953xss9luta6s.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6008627-06:00
+  size: 5615
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2dgg6ks0uyyw953xss9luta6s.o
+  mtime: 2025-12-17T23:59:36.5301793-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6008806-06:00
+- id: 1576
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2lb2w4h9o82r7no263e1pnarn.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2lb2w4h9o82r7no263e1pnarn.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2lb2w4h9o82r7no263e1pnarn.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6066662-06:00
+  size: 13868
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2lb2w4h9o82r7no263e1pnarn.o
+  mtime: 2025-12-17T23:59:36.5363255-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6066810-06:00
+- id: 1577
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2scnzfn6czg3nfvfeuf0bxykv.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2scnzfn6czg3nfvfeuf0bxykv.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2scnzfn6czg3nfvfeuf0bxykv.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6125897-06:00
+  size: 4088
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2scnzfn6czg3nfvfeuf0bxykv.o
+  mtime: 2025-12-17T23:59:36.5393975-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6126092-06:00
+- id: 1578
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2u6kzw6iigi2t5nbb3du8tbtn.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2u6kzw6iigi2t5nbb3du8tbtn.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2u6kzw6iigi2t5nbb3du8tbtn.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6176587-06:00
+  size: 12381
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2u6kzw6iigi2t5nbb3du8tbtn.o
+  mtime: 2025-12-17T23:59:36.5271176-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6176733-06:00
+- id: 1579
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2udx6u7l7piekw2oansqw3y2u.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2udx6u7l7piekw2oansqw3y2u.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2udx6u7l7piekw2oansqw3y2u.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6230322-06:00
+  size: 63305
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2udx6u7l7piekw2oansqw3y2u.o
+  mtime: 2025-12-17T23:59:36.5347705-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6230460-06:00
+- id: 1580
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2x5vsd1ua74mbeama78awjsvf.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2x5vsd1ua74mbeama78awjsvf.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2x5vsd1ua74mbeama78awjsvf.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6285812-06:00
+  size: 87769
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\2x5vsd1ua74mbeama78awjsvf.o
+  mtime: 2025-12-17T23:59:36.5286486-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6285964-06:00
+- id: 1581
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\32rsbwfxiw1jj9ohead07wihx.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\32rsbwfxiw1jj9ohead07wihx.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\32rsbwfxiw1jj9ohead07wihx.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6342266-06:00
+  size: 7053
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\32rsbwfxiw1jj9ohead07wihx.o
+  mtime: 2025-12-17T23:59:36.5271176-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6342402-06:00
+- id: 1582
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3941ufht0ichufq8ay5zbcazt.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3941ufht0ichufq8ay5zbcazt.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3941ufht0ichufq8ay5zbcazt.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6393848-06:00
+  size: 18588
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3941ufht0ichufq8ay5zbcazt.o
+  mtime: 2025-12-17T23:59:36.5301793-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6393983-06:00
+- id: 1583
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3m0b27dvvvev144aybqiq8mjc.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3m0b27dvvvev144aybqiq8mjc.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3m0b27dvvvev144aybqiq8mjc.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6452557-06:00
+  size: 32900
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3m0b27dvvvev144aybqiq8mjc.o
+  mtime: 2025-12-17T23:59:36.5347705-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6452707-06:00
+- id: 1584
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3nkv9mbv41lxy3bk8xtcmlz06.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3nkv9mbv41lxy3bk8xtcmlz06.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3nkv9mbv41lxy3bk8xtcmlz06.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6505567-06:00
+  size: 62575
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3nkv9mbv41lxy3bk8xtcmlz06.o
+  mtime: 2025-12-17T23:59:36.5316945-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6505702-06:00
+- id: 1585
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3sx2tgiukq5j3zek0kjgzna58.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3sx2tgiukq5j3zek0kjgzna58.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3sx2tgiukq5j3zek0kjgzna58.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6561279-06:00
+  size: 28844
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\3sx2tgiukq5j3zek0kjgzna58.o
+  mtime: 2025-12-17T23:59:36.5255804-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6561433-06:00
+- id: 1586
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\4bszsc6cpvquwigqy48ntun13.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\4bszsc6cpvquwigqy48ntun13.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\4bszsc6cpvquwigqy48ntun13.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6613125-06:00
+  size: 6831
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\4bszsc6cpvquwigqy48ntun13.o
+  mtime: 2025-12-17T23:59:36.5194325-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6613273-06:00
+- id: 1587
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\50tl2pz0puul3mv3cn9hvipzd.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\50tl2pz0puul3mv3cn9hvipzd.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\50tl2pz0puul3mv3cn9hvipzd.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6666060-06:00
+  size: 6375
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\50tl2pz0puul3mv3cn9hvipzd.o
+  mtime: 2025-12-17T23:59:36.5363255-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6666189-06:00
+- id: 1588
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\6x11xffn7fa0cd9u8yfypo2z6.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\6x11xffn7fa0cd9u8yfypo2z6.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\6x11xffn7fa0cd9u8yfypo2z6.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6729829-06:00
+  size: 16453
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\6x11xffn7fa0cd9u8yfypo2z6.o
+  mtime: 2025-12-17T23:59:36.5301793-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6729990-06:00
+- id: 1589
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\75cx6ip80zxagi6u4ily6iumv.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\75cx6ip80zxagi6u4ily6iumv.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\75cx6ip80zxagi6u4ily6iumv.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6775778-06:00
+  size: 3584
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\75cx6ip80zxagi6u4ily6iumv.o
+  mtime: 2025-12-17T23:59:36.5225217-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6775974-06:00
+- id: 1590
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\76lsxnqc1io0yw5bt3b8ljzwb.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\76lsxnqc1io0yw5bt3b8ljzwb.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\76lsxnqc1io0yw5bt3b8ljzwb.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6828038-06:00
+  size: 2758
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\76lsxnqc1io0yw5bt3b8ljzwb.o
+  mtime: 2025-12-17T23:59:36.5133271-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6828201-06:00
+- id: 1591
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\7pl97bv0yxfk6p9jwgr3z8u2a.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\7pl97bv0yxfk6p9jwgr3z8u2a.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\7pl97bv0yxfk6p9jwgr3z8u2a.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6880520-06:00
+  size: 19476
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\7pl97bv0yxfk6p9jwgr3z8u2a.o
+  mtime: 2025-12-17T23:59:36.5378619-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6880665-06:00
+- id: 1592
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\7zgxucs54iz0ao01f30pm3gy7.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\7zgxucs54iz0ao01f30pm3gy7.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\7zgxucs54iz0ao01f30pm3gy7.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6934265-06:00
+  size: 5300
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\7zgxucs54iz0ao01f30pm3gy7.o
+  mtime: 2025-12-17T23:59:36.5378619-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6934413-06:00
+- id: 1593
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8nvaxktdckl3fzoh3ewh14wiw.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8nvaxktdckl3fzoh3ewh14wiw.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8nvaxktdckl3fzoh3ewh14wiw.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.6988130-06:00
+  size: 24181
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8nvaxktdckl3fzoh3ewh14wiw.o
+  mtime: 2025-12-17T23:59:36.5378619-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.6988281-06:00
+- id: 1594
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8qjwc9rslz2ini9xaccvll3fy.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8qjwc9rslz2ini9xaccvll3fy.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8qjwc9rslz2ini9xaccvll3fy.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7042379-06:00
+  size: 9797
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8qjwc9rslz2ini9xaccvll3fy.o
+  mtime: 2025-12-17T23:59:36.5178947-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7042517-06:00
+- id: 1595
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8svj3s7sveoxizgqa1uxik4vi.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8svj3s7sveoxizgqa1uxik4vi.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8svj3s7sveoxizgqa1uxik4vi.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7099525-06:00
+  size: 14431
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8svj3s7sveoxizgqa1uxik4vi.o
+  mtime: 2025-12-17T23:59:36.5332352-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7099678-06:00
+- id: 1596
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8txx45oitw8sqqhsrcfhnr3jx.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8txx45oitw8sqqhsrcfhnr3jx.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8txx45oitw8sqqhsrcfhnr3jx.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7160380-06:00
+  size: 7664
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\8txx45oitw8sqqhsrcfhnr3jx.o
+  mtime: 2025-12-17T23:59:36.5378619-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7160517-06:00
+- id: 1597
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\9uc9vdur1r0laenko417ukzit.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\9uc9vdur1r0laenko417ukzit.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\9uc9vdur1r0laenko417ukzit.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7213960-06:00
+  size: 4682
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\9uc9vdur1r0laenko417ukzit.o
+  mtime: 2025-12-17T23:59:36.5209925-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7214095-06:00
+- id: 1598
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\b6kjtbmmdpec0v39dk8n4qwie.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\b6kjtbmmdpec0v39dk8n4qwie.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\b6kjtbmmdpec0v39dk8n4qwie.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7268759-06:00
+  size: 5643
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\b6kjtbmmdpec0v39dk8n4qwie.o
+  mtime: 2025-12-17T23:59:36.5163694-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7268921-06:00
+- id: 1599
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\bcfbura5okuxhcijbcxps0ezy.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\bcfbura5okuxhcijbcxps0ezy.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\bcfbura5okuxhcijbcxps0ezy.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7325046-06:00
+  size: 84905
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\bcfbura5okuxhcijbcxps0ezy.o
+  mtime: 2025-12-17T23:59:36.5286486-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7325187-06:00
+- id: 1600
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\bl4wnrmsfsqlbxt2wyeoyhqx3.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\bl4wnrmsfsqlbxt2wyeoyhqx3.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\bl4wnrmsfsqlbxt2wyeoyhqx3.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7377191-06:00
+  size: 22132
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\bl4wnrmsfsqlbxt2wyeoyhqx3.o
+  mtime: 2025-12-17T23:59:36.5178947-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7377328-06:00
+- id: 1601
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\brgea1scu1mho5dpjkcns4xmu.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\brgea1scu1mho5dpjkcns4xmu.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\brgea1scu1mho5dpjkcns4xmu.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7433715-06:00
+  size: 8017
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\brgea1scu1mho5dpjkcns4xmu.o
+  mtime: 2025-12-17T23:59:36.5393975-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7433886-06:00
+- id: 1602
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\c1swjqmfgys98irz5ngfa2i6m.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\c1swjqmfgys98irz5ngfa2i6m.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\c1swjqmfgys98irz5ngfa2i6m.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7491222-06:00
+  size: 69017
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\c1swjqmfgys98irz5ngfa2i6m.o
+  mtime: 2025-12-17T23:59:36.5209925-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7491398-06:00
+- id: 1603
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\dep-graph.bin
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\dep-graph.bin
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\dep-graph.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7547857-06:00
+  size: 868887
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\dep-graph.bin
+  mtime: 2025-12-17T23:59:36.5409315-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7548012-06:00
+- id: 1604
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\dni2i0ahb28u21a86woi9zshy.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\dni2i0ahb28u21a86woi9zshy.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\dni2i0ahb28u21a86woi9zshy.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7600787-06:00
+  size: 27302
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\dni2i0ahb28u21a86woi9zshy.o
+  mtime: 2025-12-17T23:59:36.5347705-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7600954-06:00
+- id: 1605
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\drg34povbds6kyxk97wphfwhj.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\drg34povbds6kyxk97wphfwhj.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\drg34povbds6kyxk97wphfwhj.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7659653-06:00
+  size: 39637
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\drg34povbds6kyxk97wphfwhj.o
+  mtime: 2025-12-17T23:59:36.5363255-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7659860-06:00
+- id: 1606
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\du4hyqbx1ydu1kupcbmrlkte3.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\du4hyqbx1ydu1kupcbmrlkte3.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\du4hyqbx1ydu1kupcbmrlkte3.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7714847-06:00
+  size: 4956
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\du4hyqbx1ydu1kupcbmrlkte3.o
+  mtime: 2025-12-17T23:59:36.5255804-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7715046-06:00
+- id: 1607
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\e01uwo9i9p47y6ifcwznv93z9.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\e01uwo9i9p47y6ifcwznv93z9.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\e01uwo9i9p47y6ifcwznv93z9.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7769328-06:00
+  size: 50804
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\e01uwo9i9p47y6ifcwznv93z9.o
+  mtime: 2025-12-17T23:59:36.5225217-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7769540-06:00
+- id: 1608
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\ehsrs9cv63pkt1wvkccqhiskj.o
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\ehsrs9cv63pkt1wvkccqhiskj.o
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\ehsrs9cv63pkt1wvkccqhiskj.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7834491-06:00
+  size: 35414
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\ehsrs9cv63pkt1wvkccqhiskj.o
+  mtime: 2025-12-17T23:59:36.5178947-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7834706-06:00
+- id: 1609
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\query-cache.bin
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\query-cache.bin
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\query-cache.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7897801-06:00
+  size: 300192
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\query-cache.bin
+  mtime: 2025-12-17T23:59:36.5409315-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7898013-06:00
+- id: 1610
+  canonicalPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\work-products.bin
+  total: 4270
+  originalName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\work-products.bin
+  nameHistory:
+  - new: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\work-products.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.7959210-06:00
+  size: 2938
+  aliases: []
+  displayName: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva\work-products.bin
+  mtime: 2025-12-17T23:59:36.5792440-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.7959424-06:00
+generatedAt: 2025-12-18T01:53:41.2213098-06:00
+fileCount: 41
+folderId: target_debug_incremental_plugin_loader-3dwsad58ya4gv_s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva
+folderPath: target\debug\incremental\plugin_loader-3dwsad58ya4gv\s-he0agn9tra-1wjyfcx-58by0f0e6ef8pvofvpmhj9pva
+

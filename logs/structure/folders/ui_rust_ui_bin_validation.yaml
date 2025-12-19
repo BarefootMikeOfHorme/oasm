@@ -1,0 +1,52 @@
+files:
+- id: 3469
+  canonicalPath: ui\rust_ui\bin\validation\Cargo.lock
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\Cargo.lock
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\Cargo.lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.0700442-06:00
+  size: 6088
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\Cargo.lock
+  mtime: 2025-12-16T21:32:22.2275996-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.0700586-06:00
+- id: 3470
+  canonicalPath: ui\rust_ui\bin\validation\Cargo.toml
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\Cargo.toml
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\Cargo.toml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.0753699-06:00
+  size: 235
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\Cargo.toml
+  mtime: 2025-12-16T21:32:14.8244964-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.0753830-06:00
+generatedAt: 2025-12-18T01:53:36.2387464-06:00
+fileCount: 2
+folderId: ui_rust_ui_bin_validation
+folderPath: ui\rust_ui\bin\validation
+

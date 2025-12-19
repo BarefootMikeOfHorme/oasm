@@ -1,0 +1,98 @@
+files:
+- id: 3849
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\dep-lib-regex_syntax
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\dep-lib-regex_syntax
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\dep-lib-regex_syntax
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.1991876-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\dep-lib-regex_syntax
+  mtime: 2025-12-16T22:47:38.9634979-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.1992023-06:00
+- id: 3850
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.2048594-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\invoked.timestamp
+  mtime: 2025-12-16T22:47:38.9634979-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.2048742-06:00
+- id: 3851
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.2102376-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax
+  mtime: 2025-12-16T22:47:41.6850231-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.2102524-06:00
+- id: 3852
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.2154777-06:00
+  size: 705
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f\lib-regex_syntax.json
+  mtime: 2025-12-16T22:47:41.6865869-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.2154915-06:00
+generatedAt: 2025-12-18T01:53:39.1988630-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_regex-syntax-a8121f8d429e0c1f
+folderPath: ui\rust_ui\target\release\.fingerprint\regex-syntax-a8121f8d429e0c1f
+

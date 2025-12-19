@@ -1,0 +1,52 @@
+files:
+- id: 9
+  canonicalPath: compiler\Cargo.toml
+  total: 4270
+  originalName: compiler\Cargo.toml
+  nameHistory:
+  - new: compiler\Cargo.toml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.6745436-06:00
+  size: 663
+  aliases: []
+  displayName: compiler\Cargo.toml
+  mtime: 2025-12-18T00:01:29.7571669-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.6745638-06:00
+- id: 10
+  canonicalPath: compiler\compiler.yaml
+  total: 4270
+  originalName: compiler\compiler.yaml
+  nameHistory:
+  - new: compiler\compiler.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.6794471-06:00
+  size: 771
+  aliases: []
+  displayName: compiler\compiler.yaml
+  mtime: 2025-12-17T23:59:04.2154962-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.6794701-06:00
+generatedAt: 2025-12-18T01:53:39.3707010-06:00
+fileCount: 2
+folderId: compiler
+folderPath: compiler
+

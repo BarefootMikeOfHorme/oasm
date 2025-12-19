@@ -1,0 +1,282 @@
+files:
+- id: 1
+  canonicalPath: archivebuild.zip
+  total: 4270
+  originalName: archivebuild.zip
+  nameHistory:
+  - new: archivebuild.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.6294000-06:00
+  size: 59387
+  aliases: []
+  displayName: archivebuild.zip
+  mtime: 2025-12-16T18:18:20.4713167-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.6302191-06:00
+- id: 7
+  canonicalPath: Cargo.lock
+  total: 4270
+  originalName: Cargo.lock
+  nameHistory:
+  - new: Cargo.lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.6638848-06:00
+  size: 40505
+  aliases: []
+  displayName: Cargo.lock
+  mtime: 2025-12-17T23:59:31.1266832-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.6639051-06:00
+- id: 8
+  canonicalPath: Cargo.toml
+  total: 4270
+  originalName: Cargo.toml
+  nameHistory:
+  - new: Cargo.toml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.6691547-06:00
+  size: 1154
+  aliases: []
+  displayName: Cargo.toml
+  mtime: 2025-12-17T23:55:02.7943065-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.6691787-06:00
+- id: 32
+  canonicalPath: COMPLETE_SYSTEM_SUMMARY.md
+  total: 4270
+  originalName: COMPLETE_SYSTEM_SUMMARY.md
+  nameHistory:
+  - new: COMPLETE_SYSTEM_SUMMARY.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8274028-06:00
+  size: 7589
+  aliases: []
+  displayName: COMPLETE_SYSTEM_SUMMARY.md
+  mtime: 2025-12-17T19:32:51.4883198-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8274278-06:00
+- id: 35
+  canonicalPath: cratemanifest.yaml
+  total: 4270
+  originalName: cratemanifest.yaml
+  nameHistory:
+  - new: cratemanifest.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8467929-06:00
+  size: 349
+  aliases: []
+  displayName: cratemanifest.yaml
+  mtime: 2025-12-17T00:39:07.3548324-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8468098-06:00
+- id: 45
+  canonicalPath: DataCollectionPowershellBlock.txt
+  total: 4270
+  originalName: DataCollectionPowershellBlock.txt
+  nameHistory:
+  - new: DataCollectionPowershellBlock.txt
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9030685-06:00
+  size: 2878
+  aliases: []
+  displayName: DataCollectionPowershellBlock.txt
+  mtime: 2025-12-17T02:16:54.8740825-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9030851-06:00
+- id: 53
+  canonicalPath: EXECUTIVE_FUNCTION_SYSTEM.md
+  total: 4270
+  originalName: EXECUTIVE_FUNCTION_SYSTEM.md
+  nameHistory:
+  - new: EXECUTIVE_FUNCTION_SYSTEM.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9474914-06:00
+  size: 7237
+  aliases: []
+  displayName: EXECUTIVE_FUNCTION_SYSTEM.md
+  mtime: 2025-12-17T19:26:04.7231737-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9475094-06:00
+- id: 54
+  canonicalPath: folderstructure.txt
+  total: 4270
+  originalName: folderstructure.txt
+  nameHistory:
+  - new: folderstructure.txt
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9534395-06:00
+  size: 2197
+  aliases: []
+  displayName: folderstructure.txt
+  mtime: 2025-12-17T00:05:30.0340488-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9534591-06:00
+- id: 75
+  canonicalPath: MANIFEST_SYSTEM.md
+  total: 4270
+  originalName: MANIFEST_SYSTEM.md
+  nameHistory:
+  - new: MANIFEST_SYSTEM.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0718928-06:00
+  size: 6884
+  aliases: []
+  displayName: MANIFEST_SYSTEM.md
+  mtime: 2025-12-17T19:31:39.0547078-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0719183-06:00
+- id: 79
+  canonicalPath: MODULAR_ARCHITECTURE.md
+  total: 4270
+  originalName: MODULAR_ARCHITECTURE.md
+  nameHistory:
+  - new: MODULAR_ARCHITECTURE.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0961930-06:00
+  size: 6511
+  aliases: []
+  displayName: MODULAR_ARCHITECTURE.md
+  mtime: 2025-12-17T19:56:05.6780274-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0962095-06:00
+- id: 82
+  canonicalPath: OASM_VISION.md
+  total: 4270
+  originalName: OASM_VISION.md
+  nameHistory:
+  - new: OASM_VISION.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1151543-06:00
+  size: 12196
+  aliases: []
+  displayName: OASM_VISION.md
+  mtime: 2025-12-17T19:37:10.3083602-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1151730-06:00
+- id: 83
+  canonicalPath: README.md
+  total: 4270
+  originalName: README.md
+  nameHistory:
+  - new: README.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.1212598-06:00
+  size: 3060
+  aliases: []
+  displayName: README.md
+  mtime: 2025-12-17T19:59:27.9683679-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.1212768-06:00
+generatedAt: 2025-12-18T01:53:36.9038897-06:00
+fileCount: 12
+folderId: .
+folderPath: .
+

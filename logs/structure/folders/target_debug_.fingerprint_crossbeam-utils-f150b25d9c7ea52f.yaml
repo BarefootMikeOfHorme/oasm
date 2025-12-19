@@ -1,0 +1,52 @@
+files:
+- id: 438
+  canonicalPath: target\debug\.fingerprint\crossbeam-utils-f150b25d9c7ea52f\run-build-script-build-script-build
+  total: 4270
+  originalName: target\debug\.fingerprint\crossbeam-utils-f150b25d9c7ea52f\run-build-script-build-script-build
+  nameHistory:
+  - new: target\debug\.fingerprint\crossbeam-utils-f150b25d9c7ea52f\run-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.0986150-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\crossbeam-utils-f150b25d9c7ea52f\run-build-script-build-script-build
+  mtime: 2025-12-17T23:59:32.1614442-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.0986308-06:00
+- id: 439
+  canonicalPath: target\debug\.fingerprint\crossbeam-utils-f150b25d9c7ea52f\run-build-script-build-script-build.json
+  total: 4270
+  originalName: target\debug\.fingerprint\crossbeam-utils-f150b25d9c7ea52f\run-build-script-build-script-build.json
+  nameHistory:
+  - new: target\debug\.fingerprint\crossbeam-utils-f150b25d9c7ea52f\run-build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.1042552-06:00
+  size: 342
+  aliases: []
+  displayName: target\debug\.fingerprint\crossbeam-utils-f150b25d9c7ea52f\run-build-script-build-script-build.json
+  mtime: 2025-12-17T23:59:32.1619589-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.1042727-06:00
+generatedAt: 2025-12-18T01:53:41.5185161-06:00
+fileCount: 2
+folderId: target_debug_.fingerprint_crossbeam-utils-f150b25d9c7ea52f
+folderPath: target\debug\.fingerprint\crossbeam-utils-f150b25d9c7ea52f
+

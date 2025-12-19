@@ -1,0 +1,121 @@
+files:
+- id: 973
+  canonicalPath: target\debug\build\serde-226b1c3826c13038\build_script_build-226b1c3826c13038.d
+  total: 4270
+  originalName: target\debug\build\serde-226b1c3826c13038\build_script_build-226b1c3826c13038.d
+  nameHistory:
+  - new: target\debug\build\serde-226b1c3826c13038\build_script_build-226b1c3826c13038.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1770091-06:00
+  size: 554
+  aliases: []
+  displayName: target\debug\build\serde-226b1c3826c13038\build_script_build-226b1c3826c13038.d
+  mtime: 2025-12-17T23:59:31.3544787-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1770234-06:00
+- id: 974
+  canonicalPath: target\debug\build\serde-226b1c3826c13038\build_script_build-226b1c3826c13038.exe
+  total: 4270
+  originalName: target\debug\build\serde-226b1c3826c13038\build_script_build-226b1c3826c13038.exe
+  nameHistory:
+  - new: target\debug\build\serde-226b1c3826c13038\build_script_build-226b1c3826c13038.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1829897-06:00
+  size: 302080
+  aliases: []
+  displayName: target\debug\build\serde-226b1c3826c13038\build_script_build-226b1c3826c13038.exe
+  mtime: 2025-12-17T23:59:31.6779372-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1830041-06:00
+- id: 975
+  canonicalPath: target\debug\build\serde-226b1c3826c13038\build_script_build-226b1c3826c13038.pdb
+  total: 4270
+  originalName: target\debug\build\serde-226b1c3826c13038\build_script_build-226b1c3826c13038.pdb
+  nameHistory:
+  - new: target\debug\build\serde-226b1c3826c13038\build_script_build-226b1c3826c13038.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1887208-06:00
+  size: 1593344
+  aliases: []
+  displayName: target\debug\build\serde-226b1c3826c13038\build_script_build-226b1c3826c13038.pdb
+  mtime: 2025-12-17T23:59:31.6794653-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1887354-06:00
+- id: 976
+  canonicalPath: target\debug\build\serde-226b1c3826c13038\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\serde-226b1c3826c13038\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\serde-226b1c3826c13038\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1944196-06:00
+  size: 1593344
+  aliases: []
+  displayName: target\debug\build\serde-226b1c3826c13038\build_script_build.pdb
+  mtime: 2025-12-17T23:59:31.6794653-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1944332-06:00
+- id: 977
+  canonicalPath: target\debug\build\serde-226b1c3826c13038\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\serde-226b1c3826c13038\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\serde-226b1c3826c13038\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.2003201-06:00
+  size: 302080
+  aliases: []
+  displayName: target\debug\build\serde-226b1c3826c13038\build-script-build.exe
+  mtime: 2025-12-17T23:59:31.6779372-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.2003334-06:00
+generatedAt: 2025-12-18T01:53:38.8656531-06:00
+fileCount: 5
+folderId: target_debug_build_serde-226b1c3826c13038
+folderPath: target\debug\build\serde-226b1c3826c13038
+

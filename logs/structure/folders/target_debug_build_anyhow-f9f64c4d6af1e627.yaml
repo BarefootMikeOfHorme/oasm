@@ -1,0 +1,98 @@
+files:
+- id: 869
+  canonicalPath: target\debug\build\anyhow-f9f64c4d6af1e627\invoked.timestamp
+  total: 4270
+  originalName: target\debug\build\anyhow-f9f64c4d6af1e627\invoked.timestamp
+  nameHistory:
+  - new: target\debug\build\anyhow-f9f64c4d6af1e627\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5786872-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\build\anyhow-f9f64c4d6af1e627\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.8739280-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5787015-06:00
+- id: 870
+  canonicalPath: target\debug\build\anyhow-f9f64c4d6af1e627\output
+  total: 4270
+  originalName: target\debug\build\anyhow-f9f64c4d6af1e627\output
+  nameHistory:
+  - new: target\debug\build\anyhow-f9f64c4d6af1e627\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5848757-06:00
+  size: 633
+  aliases: []
+  displayName: target\debug\build\anyhow-f9f64c4d6af1e627\output
+  mtime: 2025-12-17T23:59:31.8739280-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5848930-06:00
+- id: 871
+  canonicalPath: target\debug\build\anyhow-f9f64c4d6af1e627\root-output
+  total: 4270
+  originalName: target\debug\build\anyhow-f9f64c4d6af1e627\root-output
+  nameHistory:
+  - new: target\debug\build\anyhow-f9f64c4d6af1e627\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5905306-06:00
+  size: 91
+  aliases: []
+  displayName: target\debug\build\anyhow-f9f64c4d6af1e627\root-output
+  mtime: 2025-12-17T23:59:32.3342072-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5905456-06:00
+- id: 872
+  canonicalPath: target\debug\build\anyhow-f9f64c4d6af1e627\stderr
+  total: 4270
+  originalName: target\debug\build\anyhow-f9f64c4d6af1e627\stderr
+  nameHistory:
+  - new: target\debug\build\anyhow-f9f64c4d6af1e627\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.5965786-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\build\anyhow-f9f64c4d6af1e627\stderr
+  mtime: 2025-12-17T23:59:32.3326549-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.5965931-06:00
+generatedAt: 2025-12-18T01:53:41.1800510-06:00
+fileCount: 4
+folderId: target_debug_build_anyhow-f9f64c4d6af1e627
+folderPath: target\debug\build\anyhow-f9f64c4d6af1e627
+

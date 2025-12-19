@@ -1,0 +1,88 @@
+🖥️ Emulator & UI Concept
+Rust emulator = control layer, Warp‑style blocks
+
+CLI emulator: syntax highlighting, auto‑completion, expandable diagnostics
+
+Developer UI: dashboards, CFG/DFG visualizer, pattern explorer, rule authoring terminal
+
+User UI: simplified summaries, guided repair, safe defaults
+
+Popups: ephemeral diffs, collapse after apply/rollback, “Recent” tray for recall
+
+AI integration: proposals only, schema‑validated, test‑gated
+
+🔧 Repair Loop
+Always produce a diff (manual or automated)
+
+Snapshot = only changed lines, red - removals, green + additions
+
+Timestamp + run_id + seq for lineage
+
+Lifecycle: stage → preview → confirm/apply → collapse → log persists
+
+Grouping: fix‑mode → rule → file
+
+Provenance: confidence, tests planned/outcome, impact counts
+
+Git integration: commit diff + YAML log together, signed if dev mode
+
+🧪 Debugging & Testing Loop
+Aggressive parse recovery, span‑precise errors
+
+Analysis passes: symbols, types/sizes, CFG/DFG, relocations, ABI checks
+
+Lint bundles: hygiene, security, performance, portability
+
+Targeted re‑check after repairs, scoped to impacted files
+
+Logs: compressed summaries, expandable depth only when needed
+
+Continuous testing: triggered automatically on diff proposals
+
+📂 Data Formats & Storage
+HDF5: immutable deep artifacts (CFG/DFG, templates, test fixtures, large datasets)
+
+CBOR: runtime binary schema, fast IPC between daemons
+
+YAML: user‑facing configs, comments allowed, validated → converted → executed only in CBOR
+
+JSON: lineage, revision history, audit trails, Git‑friendly
+
+Daemons: watch, convert, validate, notify — never decide
+
+⚙️ Rust + PyO3 + PS Integration
+Rust core: parser, analysis, diagnostics, autofix, encoder, ABI bridge
+
+PyO3 layer: heuristics, clustering, semi‑automated fixes, visualization
+
+PowerShell module: orchestration, dashboards, provenance logging
+
+FFI exports: run_preflight, apply_batch, run_compile, query_graph
+
+Cmdlets: Invoke‑AsmPreflight, Invoke‑AsmBatchApply, Invoke‑AsmCompile, Get‑AsmStatus
+
+Isolation: scoped workspaces, read‑only scans, explicit include whitelists
+
+📜 Diff Logging & Snapshots
+YAML header: run_id, seq, timestamp, actor, summary, confidence, intent, tests, impact
+
+Payload: unified diff, - red removals, + green additions, optional context lines
+
+Compression: gzip/zstd, retention policy (hot/warm/cold)
+
+Session index: ordered diffs, totals, Git SHAs, provenance links
+
+Visual snapshot: ephemeral popup with timestamp + metadata header, collapses after apply
+
+🛡️ Principles & Guardrails
+One diagnostic graph, UI as lenses
+
+No silent merges, every diff confirmed or rule‑driven
+
+Atomic apply/rollback with snapshots
+
+Deterministic IDs, sorted outputs, reproducible runs
+
+Role gating: dev vs user vs ops profiles
+
+AI = speculative engine, not authority; proposals only

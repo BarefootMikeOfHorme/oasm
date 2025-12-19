@@ -1,0 +1,52 @@
+files:
+- id: 670
+  canonicalPath: target\debug\.fingerprint\serde_core-30b81be079ba16dd\run-build-script-build-script-build
+  total: 4270
+  originalName: target\debug\.fingerprint\serde_core-30b81be079ba16dd\run-build-script-build-script-build
+  nameHistory:
+  - new: target\debug\.fingerprint\serde_core-30b81be079ba16dd\run-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.4172564-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\serde_core-30b81be079ba16dd\run-build-script-build-script-build
+  mtime: 2025-12-17T23:59:31.9547435-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.4172702-06:00
+- id: 671
+  canonicalPath: target\debug\.fingerprint\serde_core-30b81be079ba16dd\run-build-script-build-script-build.json
+  total: 4270
+  originalName: target\debug\.fingerprint\serde_core-30b81be079ba16dd\run-build-script-build-script-build.json
+  nameHistory:
+  - new: target\debug\.fingerprint\serde_core-30b81be079ba16dd\run-build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.4231737-06:00
+  size: 333
+  aliases: []
+  displayName: target\debug\.fingerprint\serde_core-30b81be079ba16dd\run-build-script-build-script-build.json
+  mtime: 2025-12-17T23:59:31.9547435-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.4231896-06:00
+generatedAt: 2025-12-18T01:53:38.4539962-06:00
+fileCount: 2
+folderId: target_debug_.fingerprint_serde_core-30b81be079ba16dd
+folderPath: target\debug\.fingerprint\serde_core-30b81be079ba16dd
+

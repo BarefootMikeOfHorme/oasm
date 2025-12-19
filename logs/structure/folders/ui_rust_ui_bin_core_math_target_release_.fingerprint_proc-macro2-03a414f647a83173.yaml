@@ -1,0 +1,98 @@
+files:
+- id: 2712
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.8757915-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build
+  mtime: 2025-12-16T21:19:24.2576079-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.8758052-06:00
+- id: 2713
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build.json
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build.json
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.8812236-06:00
+  size: 462
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\build-script-build-script-build.json
+  mtime: 2025-12-16T21:19:24.2576079-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.8812456-06:00
+- id: 2714
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\dep-build-script-build-script-build
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\dep-build-script-build-script-build
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\dep-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.8864944-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\dep-build-script-build-script-build
+  mtime: 2025-12-16T21:19:23.7703191-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.8865087-06:00
+- id: 2715
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.8919951-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173\invoked.timestamp
+  mtime: 2025-12-16T21:19:23.7703191-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.8920093-06:00
+generatedAt: 2025-12-18T01:53:36.4894583-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_core_math_target_release_.fingerprint_proc-macro2-03a414f647a83173
+folderPath: ui\rust_ui\bin\core_math\target\release\.fingerprint\proc-macro2-03a414f647a83173
+

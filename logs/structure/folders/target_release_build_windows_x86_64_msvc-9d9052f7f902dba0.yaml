@@ -1,0 +1,121 @@
+files:
+- id: 2331
+  canonicalPath: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build-9d9052f7f902dba0.d
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build-9d9052f7f902dba0.d
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build-9d9052f7f902dba0.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7993585-06:00
+  size: 625
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build-9d9052f7f902dba0.d
+  mtime: 2025-12-17T23:56:43.6067826-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7993726-06:00
+- id: 2332
+  canonicalPath: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build-9d9052f7f902dba0.exe
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build-9d9052f7f902dba0.exe
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build-9d9052f7f902dba0.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8048760-06:00
+  size: 148480
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build-9d9052f7f902dba0.exe
+  mtime: 2025-12-17T23:56:43.7832694-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8048895-06:00
+- id: 2333
+  canonicalPath: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build-9d9052f7f902dba0.pdb
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build-9d9052f7f902dba0.pdb
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build-9d9052f7f902dba0.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8100880-06:00
+  size: 1306624
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build-9d9052f7f902dba0.pdb
+  mtime: 2025-12-17T23:56:43.7869593-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8101011-06:00
+- id: 2334
+  canonicalPath: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build.pdb
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build.pdb
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8157826-06:00
+  size: 1306624
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build_script_build.pdb
+  mtime: 2025-12-17T23:56:43.7869593-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8158002-06:00
+- id: 2335
+  canonicalPath: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build-script-build.exe
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build-script-build.exe
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8211468-06:00
+  size: 148480
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0\build-script-build.exe
+  mtime: 2025-12-17T23:56:43.7832694-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8211619-06:00
+generatedAt: 2025-12-18T01:53:41.0590385-06:00
+fileCount: 5
+folderId: target_release_build_windows_x86_64_msvc-9d9052f7f902dba0
+folderPath: target\release\build\windows_x86_64_msvc-9d9052f7f902dba0
+

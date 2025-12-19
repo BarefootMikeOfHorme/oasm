@@ -1,0 +1,52 @@
+files:
+- id: 2706
+  canonicalPath: ui\rust_ui\bin\core_math\Cargo.lock
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\Cargo.lock
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\Cargo.lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.8427101-06:00
+  size: 4929
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\Cargo.lock
+  mtime: 2025-12-16T21:19:23.7199216-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.8427239-06:00
+- id: 2707
+  canonicalPath: ui\rust_ui\bin\core_math\Cargo.toml
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\Cargo.toml
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\Cargo.toml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.8481580-06:00
+  size: 218
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\Cargo.toml
+  mtime: 2025-12-16T21:32:14.7224876-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.8481722-06:00
+generatedAt: 2025-12-18T01:53:41.5601907-06:00
+fileCount: 2
+folderId: ui_rust_ui_bin_core_math
+folderPath: ui\rust_ui\bin\core_math
+

@@ -1,0 +1,52 @@
+files:
+- id: 120
+  canonicalPath: runtime\daemon\templates\disable_module_ipc_bridge.json
+  total: 4270
+  originalName: runtime\daemon\templates\disable_module_ipc_bridge.json
+  nameHistory:
+  - new: runtime\daemon\templates\disable_module_ipc_bridge.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.3385409-06:00
+  size: 262
+  aliases: []
+  displayName: runtime\daemon\templates\disable_module_ipc_bridge.json
+  mtime: 2025-12-17T00:09:14.5384559-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.3385618-06:00
+- id: 121
+  canonicalPath: runtime\daemon\templates\reset_ui_theme.json
+  total: 4270
+  originalName: runtime\daemon\templates\reset_ui_theme.json
+  nameHistory:
+  - new: runtime\daemon\templates\reset_ui_theme.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.3451353-06:00
+  size: 242
+  aliases: []
+  displayName: runtime\daemon\templates\reset_ui_theme.json
+  mtime: 2025-12-17T00:14:15.6488048-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.3451589-06:00
+generatedAt: 2025-12-18T01:53:36.1832418-06:00
+fileCount: 2
+folderId: runtime_daemon_templates
+folderPath: runtime\daemon\templates
+

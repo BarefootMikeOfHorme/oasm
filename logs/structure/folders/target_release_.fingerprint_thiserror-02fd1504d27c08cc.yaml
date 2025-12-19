@@ -1,0 +1,98 @@
+files:
+- id: 2061
+  canonicalPath: target\release\.fingerprint\thiserror-02fd1504d27c08cc\build-script-build-script-build
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-02fd1504d27c08cc\build-script-build-script-build
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-02fd1504d27c08cc\build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.2806207-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-02fd1504d27c08cc\build-script-build-script-build
+  mtime: 2025-12-17T23:56:44.4313524-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.2806358-06:00
+- id: 2062
+  canonicalPath: target\release\.fingerprint\thiserror-02fd1504d27c08cc\build-script-build-script-build.json
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-02fd1504d27c08cc\build-script-build-script-build.json
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-02fd1504d27c08cc\build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.2859034-06:00
+  size: 374
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-02fd1504d27c08cc\build-script-build-script-build.json
+  mtime: 2025-12-17T23:56:44.4313524-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.2859177-06:00
+- id: 2063
+  canonicalPath: target\release\.fingerprint\thiserror-02fd1504d27c08cc\dep-build-script-build-script-build
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-02fd1504d27c08cc\dep-build-script-build-script-build
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-02fd1504d27c08cc\dep-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.2917108-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-02fd1504d27c08cc\dep-build-script-build-script-build
+  mtime: 2025-12-17T23:56:43.9166373-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.2917255-06:00
+- id: 2064
+  canonicalPath: target\release\.fingerprint\thiserror-02fd1504d27c08cc\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-02fd1504d27c08cc\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-02fd1504d27c08cc\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.2975326-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-02fd1504d27c08cc\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.9166373-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.2975573-06:00
+generatedAt: 2025-12-18T01:53:37.9121914-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_thiserror-02fd1504d27c08cc
+folderPath: target\release\.fingerprint\thiserror-02fd1504d27c08cc
+

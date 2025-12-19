@@ -1,0 +1,98 @@
+files:
+- id: 3805
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\dep-lib-nu_ansi_term
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\dep-lib-nu_ansi_term
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\dep-lib-nu_ansi_term
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.9504185-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\dep-lib-nu_ansi_term
+  mtime: 2025-12-16T22:47:39.9861373-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.9504363-06:00
+- id: 3806
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.9555372-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\invoked.timestamp
+  mtime: 2025-12-16T22:47:39.9861373-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.9555518-06:00
+- id: 3807
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\lib-nu_ansi_term
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\lib-nu_ansi_term
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\lib-nu_ansi_term
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.9613744-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\lib-nu_ansi_term
+  mtime: 2025-12-16T22:47:40.3034258-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.9613942-06:00
+- id: 3808
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\lib-nu_ansi_term.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\lib-nu_ansi_term.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\lib-nu_ansi_term.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.9669191-06:00
+  size: 509
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf\lib-nu_ansi_term.json
+  mtime: 2025-12-16T22:47:40.3034258-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.9669378-06:00
+generatedAt: 2025-12-18T01:53:40.4809237-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_nu-ansi-term-72e447d1f6b3abdf
+folderPath: ui\rust_ui\target\release\.fingerprint\nu-ansi-term-72e447d1f6b3abdf
+

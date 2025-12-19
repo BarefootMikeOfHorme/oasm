@@ -1,0 +1,144 @@
+files:
+- id: 59
+  canonicalPath: logs\DryRunDebug\compile_20251217_013230.log
+  total: 4270
+  originalName: logs\DryRunDebug\compile_20251217_013230.log
+  nameHistory:
+  - new: logs\DryRunDebug\compile_20251217_013230.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9808619-06:00
+  size: 19630
+  aliases: []
+  displayName: logs\DryRunDebug\compile_20251217_013230.log
+  mtime: 2025-12-17T01:32:43.9949118-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9808803-06:00
+- id: 60
+  canonicalPath: logs\DryRunDebug\compile_20251217_014436.log
+  total: 4270
+  originalName: logs\DryRunDebug\compile_20251217_014436.log
+  nameHistory:
+  - new: logs\DryRunDebug\compile_20251217_014436.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9862758-06:00
+  size: 13865
+  aliases: []
+  displayName: logs\DryRunDebug\compile_20251217_014436.log
+  mtime: 2025-12-17T01:44:48.6420543-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9862928-06:00
+- id: 61
+  canonicalPath: logs\DryRunDebug\diagnostic_20251217_163635.log
+  total: 4270
+  originalName: logs\DryRunDebug\diagnostic_20251217_163635.log
+  nameHistory:
+  - new: logs\DryRunDebug\diagnostic_20251217_163635.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9915423-06:00
+  size: 5671
+  aliases: []
+  displayName: logs\DryRunDebug\diagnostic_20251217_163635.log
+  mtime: 2025-12-17T16:36:44.4972457-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9915587-06:00
+- id: 62
+  canonicalPath: logs\DryRunDebug\diagnostic_20251217_171314.log
+  total: 4270
+  originalName: logs\DryRunDebug\diagnostic_20251217_171314.log
+  nameHistory:
+  - new: logs\DryRunDebug\diagnostic_20251217_171314.log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9967979-06:00
+  size: 3597
+  aliases: []
+  displayName: logs\DryRunDebug\diagnostic_20251217_171314.log
+  mtime: 2025-12-17T17:13:15.7986329-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9968136-06:00
+- id: 63
+  canonicalPath: logs\DryRunDebug\diagnostic_index_20251217_163635.json
+  total: 4270
+  originalName: logs\DryRunDebug\diagnostic_index_20251217_163635.json
+  nameHistory:
+  - new: logs\DryRunDebug\diagnostic_index_20251217_163635.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0025221-06:00
+  size: 51847
+  aliases: []
+  displayName: logs\DryRunDebug\diagnostic_index_20251217_163635.json
+  mtime: 2025-12-17T16:36:44.5450364-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0025391-06:00
+- id: 64
+  canonicalPath: logs\DryRunDebug\diagnostic_index_20251217_171314.json
+  total: 4270
+  originalName: logs\DryRunDebug\diagnostic_index_20251217_171314.json
+  nameHistory:
+  - new: logs\DryRunDebug\diagnostic_index_20251217_171314.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.0081736-06:00
+  size: 17056
+  aliases: []
+  displayName: logs\DryRunDebug\diagnostic_index_20251217_171314.json
+  mtime: 2025-12-17T17:13:15.8140148-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.0081908-06:00
+generatedAt: 2025-12-18T01:53:38.5317734-06:00
+fileCount: 6
+folderId: logs_DryRunDebug
+folderPath: logs\DryRunDebug
+

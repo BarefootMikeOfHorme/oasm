@@ -1,0 +1,98 @@
+files:
+- id: 1921
+  canonicalPath: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\dep-lib-parking_lot_core
+  total: 4270
+  originalName: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\dep-lib-parking_lot_core
+  nameHistory:
+  - new: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\dep-lib-parking_lot_core
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.5062405-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\dep-lib-parking_lot_core
+  mtime: 2025-12-17T23:56:44.2235347-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.5062533-06:00
+- id: 1922
+  canonicalPath: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.5117491-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\invoked.timestamp
+  mtime: 2025-12-17T23:56:44.2235347-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.5117647-06:00
+- id: 1923
+  canonicalPath: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\lib-parking_lot_core
+  total: 4270
+  originalName: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\lib-parking_lot_core
+  nameHistory:
+  - new: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\lib-parking_lot_core
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.5170177-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\lib-parking_lot_core
+  mtime: 2025-12-17T23:56:44.8864263-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.5170309-06:00
+- id: 1924
+  canonicalPath: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\lib-parking_lot_core.json
+  total: 4270
+  originalName: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\lib-parking_lot_core.json
+  nameHistory:
+  - new: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\lib-parking_lot_core.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.5222655-06:00
+  size: 683
+  aliases: []
+  displayName: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59\lib-parking_lot_core.json
+  mtime: 2025-12-17T23:56:44.8871339-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.5222791-06:00
+generatedAt: 2025-12-18T01:53:40.0634044-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_parking_lot_core-b169e50acb91ee59
+folderPath: target\release\.fingerprint\parking_lot_core-b169e50acb91ee59
+

@@ -1,0 +1,121 @@
+files:
+- id: 2289
+  canonicalPath: target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.d
+  total: 4270
+  originalName: target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.d
+  nameHistory:
+  - new: target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.5635355-06:00
+  size: 583
+  aliases: []
+  displayName: target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.d
+  mtime: 2025-12-17T23:56:43.5778531-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.5635506-06:00
+- id: 2290
+  canonicalPath: target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.exe
+  total: 4270
+  originalName: target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.exe
+  nameHistory:
+  - new: target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.5689501-06:00
+  size: 138752
+  aliases: []
+  displayName: target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.exe
+  mtime: 2025-12-17T23:56:43.7750461-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.5689637-06:00
+- id: 2291
+  canonicalPath: target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.pdb
+  total: 4270
+  originalName: target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.pdb
+  nameHistory:
+  - new: target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.5745419-06:00
+  size: 1282048
+  aliases: []
+  displayName: target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.pdb
+  mtime: 2025-12-17T23:56:43.7777404-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.5745556-06:00
+- id: 2292
+  canonicalPath: target\release\build\serde_json-2befb111f01e96fd\build_script_build.pdb
+  total: 4270
+  originalName: target\release\build\serde_json-2befb111f01e96fd\build_script_build.pdb
+  nameHistory:
+  - new: target\release\build\serde_json-2befb111f01e96fd\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.5799112-06:00
+  size: 1282048
+  aliases: []
+  displayName: target\release\build\serde_json-2befb111f01e96fd\build_script_build.pdb
+  mtime: 2025-12-17T23:56:43.7777404-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.5799253-06:00
+- id: 2293
+  canonicalPath: target\release\build\serde_json-2befb111f01e96fd\build-script-build.exe
+  total: 4270
+  originalName: target\release\build\serde_json-2befb111f01e96fd\build-script-build.exe
+  nameHistory:
+  - new: target\release\build\serde_json-2befb111f01e96fd\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.5859263-06:00
+  size: 138752
+  aliases: []
+  displayName: target\release\build\serde_json-2befb111f01e96fd\build-script-build.exe
+  mtime: 2025-12-17T23:56:43.7750461-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.5859416-06:00
+generatedAt: 2025-12-18T01:53:40.6026069-06:00
+fileCount: 5
+folderId: target_release_build_serde_json-2befb111f01e96fd
+folderPath: target\release\build\serde_json-2befb111f01e96fd
+

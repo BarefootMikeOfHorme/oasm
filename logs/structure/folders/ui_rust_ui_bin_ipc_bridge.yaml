@@ -1,0 +1,52 @@
+files:
+- id: 2905
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\Cargo.lock
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\Cargo.lock
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\Cargo.lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9549881-06:00
+  size: 6515
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\Cargo.lock
+  mtime: 2025-12-16T21:32:16.8920644-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9550022-06:00
+- id: 2906
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\Cargo.toml
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\Cargo.toml
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\Cargo.toml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9602695-06:00
+  size: 288
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\Cargo.toml
+  mtime: 2025-12-16T21:32:14.7731036-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9602843-06:00
+generatedAt: 2025-12-18T01:53:36.0291186-06:00
+fileCount: 2
+folderId: ui_rust_ui_bin_ipc_bridge
+folderPath: ui\rust_ui\bin\ipc_bridge
+

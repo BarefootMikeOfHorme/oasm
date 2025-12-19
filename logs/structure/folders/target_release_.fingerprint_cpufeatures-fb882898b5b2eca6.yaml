@@ -1,0 +1,98 @@
+files:
+- id: 1747
+  canonicalPath: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\dep-lib-cpufeatures
+  total: 4270
+  originalName: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\dep-lib-cpufeatures
+  nameHistory:
+  - new: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\dep-lib-cpufeatures
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5495486-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\dep-lib-cpufeatures
+  mtime: 2025-12-17T23:56:44.1766971-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5495620-06:00
+- id: 1748
+  canonicalPath: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5547586-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\invoked.timestamp
+  mtime: 2025-12-17T23:56:44.1766971-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5547713-06:00
+- id: 1749
+  canonicalPath: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures
+  total: 4270
+  originalName: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures
+  nameHistory:
+  - new: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5599752-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures
+  mtime: 2025-12-17T23:56:44.4684493-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5599891-06:00
+- id: 1750
+  canonicalPath: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures.json
+  total: 4270
+  originalName: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures.json
+  nameHistory:
+  - new: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5651921-06:00
+  size: 359
+  aliases: []
+  displayName: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures.json
+  mtime: 2025-12-17T23:56:44.4684493-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5652055-06:00
+generatedAt: 2025-12-18T01:53:38.9769323-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_cpufeatures-fb882898b5b2eca6
+folderPath: target\release\.fingerprint\cpufeatures-fb882898b5b2eca6
+

@@ -1,0 +1,98 @@
+files:
+- id: 532
+  canonicalPath: target\debug\.fingerprint\libc-ad97fba485af7d02\dep-lib-libc
+  total: 4270
+  originalName: target\debug\.fingerprint\libc-ad97fba485af7d02\dep-lib-libc
+  nameHistory:
+  - new: target\debug\.fingerprint\libc-ad97fba485af7d02\dep-lib-libc
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.6255602-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\libc-ad97fba485af7d02\dep-lib-libc
+  mtime: 2025-12-17T23:59:32.5009658-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.6255740-06:00
+- id: 533
+  canonicalPath: target\debug\.fingerprint\libc-ad97fba485af7d02\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\libc-ad97fba485af7d02\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\libc-ad97fba485af7d02\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.6311195-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\libc-ad97fba485af7d02\invoked.timestamp
+  mtime: 2025-12-17T23:59:32.5009658-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.6311358-06:00
+- id: 534
+  canonicalPath: target\debug\.fingerprint\libc-ad97fba485af7d02\lib-libc
+  total: 4270
+  originalName: target\debug\.fingerprint\libc-ad97fba485af7d02\lib-libc
+  nameHistory:
+  - new: target\debug\.fingerprint\libc-ad97fba485af7d02\lib-libc
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.6364805-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\libc-ad97fba485af7d02\lib-libc
+  mtime: 2025-12-17T23:59:32.7638657-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.6364946-06:00
+- id: 535
+  canonicalPath: target\debug\.fingerprint\libc-ad97fba485af7d02\lib-libc.json
+  total: 4270
+  originalName: target\debug\.fingerprint\libc-ad97fba485af7d02\lib-libc.json
+  nameHistory:
+  - new: target\debug\.fingerprint\libc-ad97fba485af7d02\lib-libc.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.6419945-06:00
+  size: 568
+  aliases: []
+  displayName: target\debug\.fingerprint\libc-ad97fba485af7d02\lib-libc.json
+  mtime: 2025-12-17T23:59:32.7638657-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.6420088-06:00
+generatedAt: 2025-12-18T01:53:42.2868519-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_libc-ad97fba485af7d02
+folderPath: target\debug\.fingerprint\libc-ad97fba485af7d02
+

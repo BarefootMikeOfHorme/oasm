@@ -1,0 +1,98 @@
+files:
+- id: 1871
+  canonicalPath: target\release\.fingerprint\log-9d84952f5a8bb9c2\dep-lib-log
+  total: 4270
+  originalName: target\release\.fingerprint\log-9d84952f5a8bb9c2\dep-lib-log
+  nameHistory:
+  - new: target\release\.fingerprint\log-9d84952f5a8bb9c2\dep-lib-log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2273943-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\log-9d84952f5a8bb9c2\dep-lib-log
+  mtime: 2025-12-17T23:56:43.4815639-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2274078-06:00
+- id: 1872
+  canonicalPath: target\release\.fingerprint\log-9d84952f5a8bb9c2\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\log-9d84952f5a8bb9c2\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\log-9d84952f5a8bb9c2\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2326173-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\log-9d84952f5a8bb9c2\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.4815639-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2326311-06:00
+- id: 1873
+  canonicalPath: target\release\.fingerprint\log-9d84952f5a8bb9c2\lib-log
+  total: 4270
+  originalName: target\release\.fingerprint\log-9d84952f5a8bb9c2\lib-log
+  nameHistory:
+  - new: target\release\.fingerprint\log-9d84952f5a8bb9c2\lib-log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2379717-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\log-9d84952f5a8bb9c2\lib-log
+  mtime: 2025-12-17T23:56:43.8150272-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2379850-06:00
+- id: 1874
+  canonicalPath: target\release\.fingerprint\log-9d84952f5a8bb9c2\lib-log.json
+  total: 4270
+  originalName: target\release\.fingerprint\log-9d84952f5a8bb9c2\lib-log.json
+  nameHistory:
+  - new: target\release\.fingerprint\log-9d84952f5a8bb9c2\lib-log.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2433141-06:00
+  size: 846
+  aliases: []
+  displayName: target\release\.fingerprint\log-9d84952f5a8bb9c2\lib-log.json
+  mtime: 2025-12-17T23:56:43.8178342-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2433421-06:00
+generatedAt: 2025-12-18T01:53:38.0057049-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_log-9d84952f5a8bb9c2
+folderPath: target\release\.fingerprint\log-9d84952f5a8bb9c2
+

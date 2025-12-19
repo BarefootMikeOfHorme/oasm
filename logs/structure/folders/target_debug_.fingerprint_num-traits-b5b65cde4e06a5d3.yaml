@@ -1,0 +1,52 @@
+files:
+- id: 570
+  canonicalPath: target\debug\.fingerprint\num-traits-b5b65cde4e06a5d3\run-build-script-build-script-build
+  total: 4270
+  originalName: target\debug\.fingerprint\num-traits-b5b65cde4e06a5d3\run-build-script-build-script-build
+  nameHistory:
+  - new: target\debug\.fingerprint\num-traits-b5b65cde4e06a5d3\run-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.8421695-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\num-traits-b5b65cde4e06a5d3\run-build-script-build-script-build
+  mtime: 2025-12-17T23:59:32.7392671-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.8421889-06:00
+- id: 571
+  canonicalPath: target\debug\.fingerprint\num-traits-b5b65cde4e06a5d3\run-build-script-build-script-build.json
+  total: 4270
+  originalName: target\debug\.fingerprint\num-traits-b5b65cde4e06a5d3\run-build-script-build-script-build.json
+  nameHistory:
+  - new: target\debug\.fingerprint\num-traits-b5b65cde4e06a5d3\run-build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.8478949-06:00
+  size: 333
+  aliases: []
+  displayName: target\debug\.fingerprint\num-traits-b5b65cde4e06a5d3\run-build-script-build-script-build.json
+  mtime: 2025-12-17T23:59:32.7392671-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.8479094-06:00
+generatedAt: 2025-12-18T01:53:36.1108930-06:00
+fileCount: 2
+folderId: target_debug_.fingerprint_num-traits-b5b65cde4e06a5d3
+folderPath: target\debug\.fingerprint\num-traits-b5b65cde4e06a5d3
+

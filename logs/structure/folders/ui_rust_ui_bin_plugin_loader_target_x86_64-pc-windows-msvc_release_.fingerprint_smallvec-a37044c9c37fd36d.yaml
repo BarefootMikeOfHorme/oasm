@@ -1,0 +1,98 @@
+files:
+- id: 3377
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\dep-lib-smallvec
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\dep-lib-smallvec
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\dep-lib-smallvec
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.5607790-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\dep-lib-smallvec
+  mtime: 2025-12-16T21:32:27.0051418-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.5607948-06:00
+- id: 3378
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.5658041-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\invoked.timestamp
+  mtime: 2025-12-16T21:32:27.0051418-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.5658276-06:00
+- id: 3379
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\lib-smallvec
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\lib-smallvec
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\lib-smallvec
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.5708677-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\lib-smallvec
+  mtime: 2025-12-16T21:32:27.1990173-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.5708909-06:00
+- id: 3380
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\lib-smallvec.json
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\lib-smallvec.json
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\lib-smallvec.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.5759112-06:00
+  size: 637
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d\lib-smallvec.json
+  mtime: 2025-12-16T21:32:27.1990173-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.5759232-06:00
+generatedAt: 2025-12-18T01:53:41.6870120-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_plugin_loader_target_x86_64-pc-windows-msvc_release_.fingerprint_smallvec-a37044c9c37fd36d
+folderPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\smallvec-a37044c9c37fd36d
+

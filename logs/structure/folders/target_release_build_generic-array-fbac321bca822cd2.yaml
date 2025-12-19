@@ -1,0 +1,98 @@
+files:
+- id: 2212
+  canonicalPath: target\release\build\generic-array-fbac321bca822cd2\invoked.timestamp
+  total: 4270
+  originalName: target\release\build\generic-array-fbac321bca822cd2\invoked.timestamp
+  nameHistory:
+  - new: target\release\build\generic-array-fbac321bca822cd2\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.1266410-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\build\generic-array-fbac321bca822cd2\invoked.timestamp
+  mtime: 2025-12-17T23:56:44.4298222-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.1266577-06:00
+- id: 2213
+  canonicalPath: target\release\build\generic-array-fbac321bca822cd2\output
+  total: 4270
+  originalName: target\release\build\generic-array-fbac321bca822cd2\output
+  nameHistory:
+  - new: target\release\build\generic-array-fbac321bca822cd2\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.1325464-06:00
+  size: 34
+  aliases: []
+  displayName: target\release\build\generic-array-fbac321bca822cd2\output
+  mtime: 2025-12-17T23:56:44.4298222-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.1325629-06:00
+- id: 2214
+  canonicalPath: target\release\build\generic-array-fbac321bca822cd2\root-output
+  total: 4270
+  originalName: target\release\build\generic-array-fbac321bca822cd2\root-output
+  nameHistory:
+  - new: target\release\build\generic-array-fbac321bca822cd2\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.1387349-06:00
+  size: 100
+  aliases: []
+  displayName: target\release\build\generic-array-fbac321bca822cd2\root-output
+  mtime: 2025-12-17T23:56:44.6446350-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.1387537-06:00
+- id: 2215
+  canonicalPath: target\release\build\generic-array-fbac321bca822cd2\stderr
+  total: 4270
+  originalName: target\release\build\generic-array-fbac321bca822cd2\stderr
+  nameHistory:
+  - new: target\release\build\generic-array-fbac321bca822cd2\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.1446596-06:00
+  size: 0
+  aliases: []
+  displayName: target\release\build\generic-array-fbac321bca822cd2\stderr
+  mtime: 2025-12-17T23:56:44.6446350-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.1446762-06:00
+generatedAt: 2025-12-18T01:53:41.6145963-06:00
+fileCount: 4
+folderId: target_release_build_generic-array-fbac321bca822cd2
+folderPath: target\release\build\generic-array-fbac321bca822cd2
+

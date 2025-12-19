@@ -1,0 +1,98 @@
+files:
+- id: 2322
+  canonicalPath: target\release\build\typenum-eb4bb7b332c4749d\invoked.timestamp
+  total: 4270
+  originalName: target\release\build\typenum-eb4bb7b332c4749d\invoked.timestamp
+  nameHistory:
+  - new: target\release\build\typenum-eb4bb7b332c4749d\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7487153-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\build\typenum-eb4bb7b332c4749d\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.9749437-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7487300-06:00
+- id: 2324
+  canonicalPath: target\release\build\typenum-eb4bb7b332c4749d\output
+  total: 4270
+  originalName: target\release\build\typenum-eb4bb7b332c4749d\output
+  nameHistory:
+  - new: target\release\build\typenum-eb4bb7b332c4749d\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7599073-06:00
+  size: 29
+  aliases: []
+  displayName: target\release\build\typenum-eb4bb7b332c4749d\output
+  mtime: 2025-12-17T23:56:43.9749437-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7599208-06:00
+- id: 2325
+  canonicalPath: target\release\build\typenum-eb4bb7b332c4749d\root-output
+  total: 4270
+  originalName: target\release\build\typenum-eb4bb7b332c4749d\root-output
+  nameHistory:
+  - new: target\release\build\typenum-eb4bb7b332c4749d\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7653100-06:00
+  size: 94
+  aliases: []
+  displayName: target\release\build\typenum-eb4bb7b332c4749d\root-output
+  mtime: 2025-12-17T23:56:44.2774809-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7653241-06:00
+- id: 2326
+  canonicalPath: target\release\build\typenum-eb4bb7b332c4749d\stderr
+  total: 4270
+  originalName: target\release\build\typenum-eb4bb7b332c4749d\stderr
+  nameHistory:
+  - new: target\release\build\typenum-eb4bb7b332c4749d\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7710450-06:00
+  size: 0
+  aliases: []
+  displayName: target\release\build\typenum-eb4bb7b332c4749d\stderr
+  mtime: 2025-12-17T23:56:44.2774809-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7710610-06:00
+generatedAt: 2025-12-18T01:53:38.5606841-06:00
+fileCount: 4
+folderId: target_release_build_typenum-eb4bb7b332c4749d
+folderPath: target\release\build\typenum-eb4bb7b332c4749d
+

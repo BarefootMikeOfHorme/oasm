@@ -1,0 +1,98 @@
+files:
+- id: 3345
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\dep-lib-lazy_static
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\dep-lib-lazy_static
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\dep-lib-lazy_static
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.3841178-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\dep-lib-lazy_static
+  mtime: 2025-12-16T21:32:27.0051418-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.3841329-06:00
+- id: 3346
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.3899736-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\invoked.timestamp
+  mtime: 2025-12-16T21:32:27.0051418-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.3899884-06:00
+- id: 3347
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\lib-lazy_static
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\lib-lazy_static
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\lib-lazy_static
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.3955191-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\lib-lazy_static
+  mtime: 2025-12-16T21:32:27.0932107-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.3955346-06:00
+- id: 3348
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\lib-lazy_static.json
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\lib-lazy_static.json
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\lib-lazy_static.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.4009538-06:00
+  size: 427
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85\lib-lazy_static.json
+  mtime: 2025-12-16T21:32:27.0932107-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.4009686-06:00
+generatedAt: 2025-12-18T01:53:39.0073918-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_plugin_loader_target_x86_64-pc-windows-msvc_release_.fingerprint_lazy_static-a0ef20d316af5f85
+folderPath: ui\rust_ui\bin\plugin_loader\target\x86_64-pc-windows-msvc\release\.fingerprint\lazy_static-a0ef20d316af5f85
+

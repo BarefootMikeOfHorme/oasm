@@ -1,0 +1,52 @@
+files:
+- id: 3266
+  canonicalPath: ui\rust_ui\bin\plugin_loader\Cargo.lock
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\Cargo.lock
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\Cargo.lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.9348078-06:00
+  size: 5189
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\Cargo.lock
+  mtime: 2025-12-16T21:32:26.9561483-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.9348245-06:00
+- id: 3267
+  canonicalPath: ui\rust_ui\bin\plugin_loader\Cargo.toml
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\Cargo.toml
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\Cargo.toml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.9408098-06:00
+  size: 253
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\Cargo.toml
+  mtime: 2025-12-16T21:32:14.8692576-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.9408284-06:00
+generatedAt: 2025-12-18T01:53:35.9238622-06:00
+fileCount: 2
+folderId: ui_rust_ui_bin_plugin_loader
+folderPath: ui\rust_ui\bin\plugin_loader
+

@@ -1,0 +1,121 @@
+files:
+- id: 4073
+  canonicalPath: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.d
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.d
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4172644-06:00
+  size: 597
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.d
+  mtime: 2025-12-16T22:47:39.0659614-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4172772-06:00
+- id: 4074
+  canonicalPath: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.exe
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.exe
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4230250-06:00
+  size: 300032
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.exe
+  mtime: 2025-12-16T22:47:39.2488853-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4230401-06:00
+- id: 4075
+  canonicalPath: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.pdb
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.pdb
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4293994-06:00
+  size: 1626112
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build-02fd1504d27c08cc.pdb
+  mtime: 2025-12-16T22:47:39.2521067-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4294179-06:00
+- id: 4076
+  canonicalPath: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build.pdb
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build.pdb
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4361592-06:00
+  size: 1626112
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build_script_build.pdb
+  mtime: 2025-12-16T22:47:39.2521067-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4361752-06:00
+- id: 4077
+  canonicalPath: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build-script-build.exe
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build-script-build.exe
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4417382-06:00
+  size: 300032
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc\build-script-build.exe
+  mtime: 2025-12-16T22:47:39.2488853-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4417529-06:00
+generatedAt: 2025-12-18T01:53:38.7667363-06:00
+fileCount: 5
+folderId: ui_rust_ui_target_release_build_thiserror-02fd1504d27c08cc
+folderPath: ui\rust_ui\target\release\build\thiserror-02fd1504d27c08cc
+

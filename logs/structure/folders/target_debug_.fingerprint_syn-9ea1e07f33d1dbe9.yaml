@@ -1,0 +1,98 @@
+files:
+- id: 728
+  canonicalPath: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\dep-lib-syn
+  total: 4270
+  originalName: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\dep-lib-syn
+  nameHistory:
+  - new: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\dep-lib-syn
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.7558583-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\dep-lib-syn
+  mtime: 2025-12-17T23:59:32.9628745-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.7558718-06:00
+- id: 729
+  canonicalPath: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.7614905-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\invoked.timestamp
+  mtime: 2025-12-17T23:59:32.9628745-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.7615041-06:00
+- id: 730
+  canonicalPath: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\lib-syn
+  total: 4270
+  originalName: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\lib-syn
+  nameHistory:
+  - new: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\lib-syn
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.7671619-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\lib-syn
+  mtime: 2025-12-17T23:59:35.6350123-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.7671761-06:00
+- id: 731
+  canonicalPath: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\lib-syn.json
+  total: 4270
+  originalName: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\lib-syn.json
+  nameHistory:
+  - new: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\lib-syn.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:15.7728818-06:00
+  size: 808
+  aliases: []
+  displayName: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9\lib-syn.json
+  mtime: 2025-12-17T23:59:35.6355221-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:15.7728949-06:00
+generatedAt: 2025-12-18T01:53:39.8819561-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_syn-9ea1e07f33d1dbe9
+folderPath: target\debug\.fingerprint\syn-9ea1e07f33d1dbe9
+

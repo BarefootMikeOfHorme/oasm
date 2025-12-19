@@ -1,0 +1,121 @@
+files:
+- id: 4054
+  canonicalPath: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.d
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.d
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.3158182-06:00
+  size: 605
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.d
+  mtime: 2025-12-16T22:47:39.0353383-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.3158309-06:00
+- id: 4055
+  canonicalPath: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.exe
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.exe
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.3212425-06:00
+  size: 138752
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.exe
+  mtime: 2025-12-16T22:47:39.1582435-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.3212555-06:00
+- id: 4056
+  canonicalPath: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.pdb
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.pdb
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.3266230-06:00
+  size: 1282048
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build-2befb111f01e96fd.pdb
+  mtime: 2025-12-16T22:47:39.1610032-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.3266375-06:00
+- id: 4057
+  canonicalPath: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build.pdb
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build.pdb
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.3320805-06:00
+  size: 1282048
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build_script_build.pdb
+  mtime: 2025-12-16T22:47:39.1610032-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.3320939-06:00
+- id: 4058
+  canonicalPath: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build-script-build.exe
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build-script-build.exe
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.3373562-06:00
+  size: 138752
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd\build-script-build.exe
+  mtime: 2025-12-16T22:47:39.1582435-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.3373691-06:00
+generatedAt: 2025-12-18T01:53:35.9848643-06:00
+fileCount: 5
+folderId: ui_rust_ui_target_release_build_serde_json-2befb111f01e96fd
+folderPath: ui\rust_ui\target\release\build\serde_json-2befb111f01e96fd
+

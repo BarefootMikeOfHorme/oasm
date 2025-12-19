@@ -1,0 +1,98 @@
+files:
+- id: 1773
+  canonicalPath: target\release\.fingerprint\digest-5806d20dcf6c63a4\dep-lib-digest
+  total: 4270
+  originalName: target\release\.fingerprint\digest-5806d20dcf6c63a4\dep-lib-digest
+  nameHistory:
+  - new: target\release\.fingerprint\digest-5806d20dcf6c63a4\dep-lib-digest
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.6958649-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\digest-5806d20dcf6c63a4\dep-lib-digest
+  mtime: 2025-12-17T23:56:45.5654598-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.6958827-06:00
+- id: 1774
+  canonicalPath: target\release\.fingerprint\digest-5806d20dcf6c63a4\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\digest-5806d20dcf6c63a4\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\digest-5806d20dcf6c63a4\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.7026484-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\digest-5806d20dcf6c63a4\invoked.timestamp
+  mtime: 2025-12-17T23:56:45.5654598-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.7026683-06:00
+- id: 1775
+  canonicalPath: target\release\.fingerprint\digest-5806d20dcf6c63a4\lib-digest
+  total: 4270
+  originalName: target\release\.fingerprint\digest-5806d20dcf6c63a4\lib-digest
+  nameHistory:
+  - new: target\release\.fingerprint\digest-5806d20dcf6c63a4\lib-digest
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.7084197-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\digest-5806d20dcf6c63a4\lib-digest
+  mtime: 2025-12-17T23:56:45.7311645-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.7084348-06:00
+- id: 1776
+  canonicalPath: target\release\.fingerprint\digest-5806d20dcf6c63a4\lib-digest.json
+  total: 4270
+  originalName: target\release\.fingerprint\digest-5806d20dcf6c63a4\lib-digest.json
+  nameHistory:
+  - new: target\release\.fingerprint\digest-5806d20dcf6c63a4\lib-digest.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.7141318-06:00
+  size: 684
+  aliases: []
+  displayName: target\release\.fingerprint\digest-5806d20dcf6c63a4\lib-digest.json
+  mtime: 2025-12-17T23:56:45.7311645-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.7141464-06:00
+generatedAt: 2025-12-18T01:53:37.1420418-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_digest-5806d20dcf6c63a4
+folderPath: target\release\.fingerprint\digest-5806d20dcf6c63a4
+

@@ -1,0 +1,29 @@
+files:
+- id: 2697
+  canonicalPath: templates\schemas\smartobject_container.yaml
+  total: 4270
+  originalName: templates\schemas\smartobject_container.yaml
+  nameHistory:
+  - new: templates\schemas\smartobject_container.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.7912807-06:00
+  size: 2167
+  aliases: []
+  displayName: templates\schemas\smartobject_container.yaml
+  mtime: 2025-12-17T19:21:31.2792253-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.7912953-06:00
+generatedAt: 2025-12-18T01:53:40.4727498-06:00
+fileCount: 1
+folderId: templates_schemas
+folderPath: templates\schemas
+

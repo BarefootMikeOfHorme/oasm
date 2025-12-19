@@ -1,0 +1,190 @@
+files:
+- id: 2704
+  canonicalPath: ui\rust_ui\bin\core_math.c
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math.c
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math.c
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.8313075-06:00
+  size: 209
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math.c
+  mtime: 2025-12-16T21:01:45.9854188-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.8313223-06:00
+- id: 2705
+  canonicalPath: ui\rust_ui\bin\core_math.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.8372453-06:00
+  size: 320000
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math.dll
+  mtime: 2025-12-16T21:32:15.4982005-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.8372598-06:00
+- id: 2903
+  canonicalPath: ui\rust_ui\bin\ipc_bridge.c
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge.c
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge.c
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9440125-06:00
+  size: 149
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge.c
+  mtime: 2025-12-16T21:01:46.1099474-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9440304-06:00
+- id: 2904
+  canonicalPath: ui\rust_ui\bin\ipc_bridge.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9495291-06:00
+  size: 322048
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge.dll
+  mtime: 2025-12-16T21:32:21.8608122-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9495439-06:00
+- id: 3264
+  canonicalPath: ui\rust_ui\bin\plugin_loader.c
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader.c
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader.c
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.9232465-06:00
+  size: 112
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader.c
+  mtime: 2025-12-16T21:01:46.3641805-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.9232600-06:00
+- id: 3265
+  canonicalPath: ui\rust_ui\bin\plugin_loader.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.9288324-06:00
+  size: 329728
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader.dll
+  mtime: 2025-12-16T21:32:30.9422677-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.9288473-06:00
+- id: 3467
+  canonicalPath: ui\rust_ui\bin\validation.c
+  total: 4270
+  originalName: ui\rust_ui\bin\validation.c
+  nameHistory:
+  - new: ui\rust_ui\bin\validation.c
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.0594158-06:00
+  size: 122
+  aliases: []
+  displayName: ui\rust_ui\bin\validation.c
+  mtime: 2025-12-16T21:01:46.2378977-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.0594313-06:00
+- id: 3468
+  canonicalPath: ui\rust_ui\bin\validation.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\validation.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\validation.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.0648595-06:00
+  size: 1927168
+  aliases: []
+  displayName: ui\rust_ui\bin\validation.dll
+  mtime: 2025-12-16T21:32:26.2829251-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.0648733-06:00
+generatedAt: 2025-12-18T01:53:41.2027083-06:00
+fileCount: 8
+folderId: ui_rust_ui_bin
+folderPath: ui\rust_ui\bin
+

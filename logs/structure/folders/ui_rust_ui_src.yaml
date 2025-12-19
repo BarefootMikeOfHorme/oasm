@@ -1,0 +1,144 @@
+files:
+- id: 3712
+  canonicalPath: ui\rust_ui\src\config.rs
+  total: 4270
+  originalName: ui\rust_ui\src\config.rs
+  nameHistory:
+  - new: ui\rust_ui\src\config.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.4292111-06:00
+  size: 2983
+  aliases: []
+  displayName: ui\rust_ui\src\config.rs
+  mtime: 2025-12-17T01:50:52.7826278-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.4292311-06:00
+- id: 3713
+  canonicalPath: ui\rust_ui\src\main.rs
+  total: 4270
+  originalName: ui\rust_ui\src\main.rs
+  nameHistory:
+  - new: ui\rust_ui\src\main.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.4350026-06:00
+  size: 1258
+  aliases: []
+  displayName: ui\rust_ui\src\main.rs
+  mtime: 2025-12-16T21:32:14.4010307-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.4350208-06:00
+- id: 3714
+  canonicalPath: ui\rust_ui\src\python_bridge.rs
+  total: 4270
+  originalName: ui\rust_ui\src\python_bridge.rs
+  nameHistory:
+  - new: ui\rust_ui\src\python_bridge.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.4407528-06:00
+  size: 223
+  aliases: []
+  displayName: ui\rust_ui\src\python_bridge.rs
+  mtime: 2025-12-16T19:41:49.0712902-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.4407699-06:00
+- id: 3715
+  canonicalPath: ui\rust_ui\src\startup.rs
+  total: 4270
+  originalName: ui\rust_ui\src\startup.rs
+  nameHistory:
+  - new: ui\rust_ui\src\startup.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.4470532-06:00
+  size: 1613
+  aliases: []
+  displayName: ui\rust_ui\src\startup.rs
+  mtime: 2025-12-17T18:59:35.0960887-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.4470743-06:00
+- id: 3716
+  canonicalPath: ui\rust_ui\src\terminal.rs
+  total: 4270
+  originalName: ui\rust_ui\src\terminal.rs
+  nameHistory:
+  - new: ui\rust_ui\src\terminal.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.4525527-06:00
+  size: 226
+  aliases: []
+  displayName: ui\rust_ui\src\terminal.rs
+  mtime: 2025-12-16T19:41:49.0728137-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.4525725-06:00
+- id: 3717
+  canonicalPath: ui\rust_ui\src\validation.rs
+  total: 4270
+  originalName: ui\rust_ui\src\validation.rs
+  nameHistory:
+  - new: ui\rust_ui\src\validation.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.4576745-06:00
+  size: 2895
+  aliases: []
+  displayName: ui\rust_ui\src\validation.rs
+  mtime: 2025-12-17T18:57:33.7035309-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.4576943-06:00
+generatedAt: 2025-12-18T01:53:36.2438619-06:00
+fileCount: 6
+folderId: ui_rust_ui_src
+folderPath: ui\rust_ui\src
+

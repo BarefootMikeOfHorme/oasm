@@ -1,0 +1,98 @@
+files:
+- id: 2795
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\dep-lib-log
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\dep-lib-log
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\dep-lib-log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.3361567-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\dep-lib-log
+  mtime: 2025-12-16T21:19:23.7718395-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.3361744-06:00
+- id: 2796
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.3419904-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\invoked.timestamp
+  mtime: 2025-12-16T21:19:23.7718395-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.3420077-06:00
+- id: 2797
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.3473059-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log
+  mtime: 2025-12-16T21:19:24.0216208-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.3473195-06:00
+- id: 2798
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log.json
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log.json
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.3529063-06:00
+  size: 888
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c\lib-log.json
+  mtime: 2025-12-16T21:19:24.0231507-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.3529195-06:00
+generatedAt: 2025-12-18T01:53:41.7914028-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_core_math_target_x86_64-pc-windows-msvc_release_.fingerprint_log-a7aec9dbeb240a2c
+folderPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\log-a7aec9dbeb240a2c
+

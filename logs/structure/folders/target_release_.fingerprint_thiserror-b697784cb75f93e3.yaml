@@ -1,0 +1,98 @@
+files:
+- id: 2065
+  canonicalPath: target\release\.fingerprint\thiserror-b697784cb75f93e3\dep-lib-thiserror
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-b697784cb75f93e3\dep-lib-thiserror
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-b697784cb75f93e3\dep-lib-thiserror
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3049935-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-b697784cb75f93e3\dep-lib-thiserror
+  mtime: 2025-12-17T23:56:48.8723351-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3050145-06:00
+- id: 2066
+  canonicalPath: target\release\.fingerprint\thiserror-b697784cb75f93e3\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-b697784cb75f93e3\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-b697784cb75f93e3\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3099253-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-b697784cb75f93e3\invoked.timestamp
+  mtime: 2025-12-17T23:56:48.8723351-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3099372-06:00
+- id: 2067
+  canonicalPath: target\release\.fingerprint\thiserror-b697784cb75f93e3\lib-thiserror
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-b697784cb75f93e3\lib-thiserror
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-b697784cb75f93e3\lib-thiserror
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3159967-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-b697784cb75f93e3\lib-thiserror
+  mtime: 2025-12-17T23:56:49.0219996-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3160151-06:00
+- id: 2068
+  canonicalPath: target\release\.fingerprint\thiserror-b697784cb75f93e3\lib-thiserror.json
+  total: 4270
+  originalName: target\release\.fingerprint\thiserror-b697784cb75f93e3\lib-thiserror.json
+  nameHistory:
+  - new: target\release\.fingerprint\thiserror-b697784cb75f93e3\lib-thiserror.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.3221434-06:00
+  size: 490
+  aliases: []
+  displayName: target\release\.fingerprint\thiserror-b697784cb75f93e3\lib-thiserror.json
+  mtime: 2025-12-17T23:56:49.0235447-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.3221667-06:00
+generatedAt: 2025-12-18T01:53:41.6805203-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_thiserror-b697784cb75f93e3
+folderPath: target\release\.fingerprint\thiserror-b697784cb75f93e3
+

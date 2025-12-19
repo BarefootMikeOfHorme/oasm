@@ -1,0 +1,903 @@
+files:
+- id: 1612
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\0fnzyjtgjsdl3cc2k3xw22vsq.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\0fnzyjtgjsdl3cc2k3xw22vsq.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\0fnzyjtgjsdl3cc2k3xw22vsq.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8078651-06:00
+  size: 12361
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\0fnzyjtgjsdl3cc2k3xw22vsq.o
+  mtime: 2025-12-17T23:59:36.5393975-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8078836-06:00
+- id: 1613
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\0ie6ttb1e9nqrkvzr05qpoq9c.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\0ie6ttb1e9nqrkvzr05qpoq9c.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\0ie6ttb1e9nqrkvzr05qpoq9c.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8144265-06:00
+  size: 82524
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\0ie6ttb1e9nqrkvzr05qpoq9c.o
+  mtime: 2025-12-17T23:59:36.5255804-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8144437-06:00
+- id: 1614
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\0tvr9f5ad2zdafydsi5pw1q1d.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\0tvr9f5ad2zdafydsi5pw1q1d.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\0tvr9f5ad2zdafydsi5pw1q1d.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8202393-06:00
+  size: 14651
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\0tvr9f5ad2zdafydsi5pw1q1d.o
+  mtime: 2025-12-17T23:59:36.5455440-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8202544-06:00
+- id: 1615
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1mqdt5mmln9slxaosq7w7e49m.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1mqdt5mmln9slxaosq7w7e49m.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1mqdt5mmln9slxaosq7w7e49m.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8257755-06:00
+  size: 24177
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1mqdt5mmln9slxaosq7w7e49m.o
+  mtime: 2025-12-17T23:59:36.5486107-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8257916-06:00
+- id: 1616
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1qm7gah3i0t30n7b5iiqi41pk.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1qm7gah3i0t30n7b5iiqi41pk.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1qm7gah3i0t30n7b5iiqi41pk.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8316749-06:00
+  size: 12083
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1qm7gah3i0t30n7b5iiqi41pk.o
+  mtime: 2025-12-17T23:59:36.5470789-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8316873-06:00
+- id: 1617
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1vtnbp8ci7xoekjou3jy9ejh9.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1vtnbp8ci7xoekjou3jy9ejh9.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1vtnbp8ci7xoekjou3jy9ejh9.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8370355-06:00
+  size: 156144
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1vtnbp8ci7xoekjou3jy9ejh9.o
+  mtime: 2025-12-17T23:59:36.5363255-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8370492-06:00
+- id: 1618
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1xpm6klam8rjkskv0dhp6sy7n.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1xpm6klam8rjkskv0dhp6sy7n.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1xpm6klam8rjkskv0dhp6sy7n.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8424790-06:00
+  size: 11213
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\1xpm6klam8rjkskv0dhp6sy7n.o
+  mtime: 2025-12-17T23:59:36.5301793-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8424980-06:00
+- id: 1619
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\2cjisft8y2n3pz05r6p29i7wx.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\2cjisft8y2n3pz05r6p29i7wx.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\2cjisft8y2n3pz05r6p29i7wx.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8485330-06:00
+  size: 9777
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\2cjisft8y2n3pz05r6p29i7wx.o
+  mtime: 2025-12-17T23:59:36.5209925-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8485456-06:00
+- id: 1620
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\2u1zoo1nydjm9e5un8l6lq5pp.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\2u1zoo1nydjm9e5un8l6lq5pp.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\2u1zoo1nydjm9e5un8l6lq5pp.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8536715-06:00
+  size: 56120
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\2u1zoo1nydjm9e5un8l6lq5pp.o
+  mtime: 2025-12-17T23:59:36.5393975-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8536847-06:00
+- id: 1621
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\3cc892ndcqxqfqo4yeisq6qod.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\3cc892ndcqxqfqo4yeisq6qod.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\3cc892ndcqxqfqo4yeisq6qod.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8588496-06:00
+  size: 2738
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\3cc892ndcqxqfqo4yeisq6qod.o
+  mtime: 2025-12-17T23:59:36.5194325-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8588707-06:00
+- id: 1622
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\428yk1rw0r16g3tu5fg0f8bum.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\428yk1rw0r16g3tu5fg0f8bum.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\428yk1rw0r16g3tu5fg0f8bum.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8663738-06:00
+  size: 20208
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\428yk1rw0r16g3tu5fg0f8bum.o
+  mtime: 2025-12-17T23:59:36.5424744-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8663968-06:00
+- id: 1623
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\4gghwuxsb77jzvqv44hde3k67.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\4gghwuxsb77jzvqv44hde3k67.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\4gghwuxsb77jzvqv44hde3k67.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8698443-06:00
+  size: 75117
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\4gghwuxsb77jzvqv44hde3k67.o
+  mtime: 2025-12-17T23:59:36.5470789-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8698578-06:00
+- id: 1624
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\5501k1b90spgi6lj4fuew3zei.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\5501k1b90spgi6lj4fuew3zei.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\5501k1b90spgi6lj4fuew3zei.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8752407-06:00
+  size: 117601
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\5501k1b90spgi6lj4fuew3zei.o
+  mtime: 2025-12-17T23:59:36.5393975-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8752574-06:00
+- id: 1625
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\70201x82wd8z88gbwg0o7s4aj.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\70201x82wd8z88gbwg0o7s4aj.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\70201x82wd8z88gbwg0o7s4aj.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8808181-06:00
+  size: 8068
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\70201x82wd8z88gbwg0o7s4aj.o
+  mtime: 2025-12-17T23:59:36.5316945-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8808392-06:00
+- id: 1626
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\77jz9h4s11epty40mb54vur5t.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\77jz9h4s11epty40mb54vur5t.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\77jz9h4s11epty40mb54vur5t.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8860505-06:00
+  size: 4310
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\77jz9h4s11epty40mb54vur5t.o
+  mtime: 2025-12-17T23:59:36.5255804-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8860685-06:00
+- id: 1627
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8384uftbdye4oj6vdpxns340m.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8384uftbdye4oj6vdpxns340m.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8384uftbdye4oj6vdpxns340m.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8914451-06:00
+  size: 29145
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8384uftbdye4oj6vdpxns340m.o
+  mtime: 2025-12-17T23:59:36.5255804-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8914645-06:00
+- id: 1628
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8cnuem1ovpdxgrdg8vbjkdeal.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8cnuem1ovpdxgrdg8vbjkdeal.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8cnuem1ovpdxgrdg8vbjkdeal.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.8966652-06:00
+  size: 8058
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8cnuem1ovpdxgrdg8vbjkdeal.o
+  mtime: 2025-12-17T23:59:36.5440159-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.8966793-06:00
+- id: 1629
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8euil27ztbgza8yw9kn009tco.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8euil27ztbgza8yw9kn009tco.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8euil27ztbgza8yw9kn009tco.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9020711-06:00
+  size: 15563
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8euil27ztbgza8yw9kn009tco.o
+  mtime: 2025-12-17T23:59:36.5455440-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9020861-06:00
+- id: 1630
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8oiraqe8tum9ii8j5dru3b7x9.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8oiraqe8tum9ii8j5dru3b7x9.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8oiraqe8tum9ii8j5dru3b7x9.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9076478-06:00
+  size: 13969
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\8oiraqe8tum9ii8j5dru3b7x9.o
+  mtime: 2025-12-17T23:59:36.5501491-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9076657-06:00
+- id: 1631
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\95gv6iekdha7dvtd1k6jnta9m.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\95gv6iekdha7dvtd1k6jnta9m.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\95gv6iekdha7dvtd1k6jnta9m.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9125759-06:00
+  size: 66306
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\95gv6iekdha7dvtd1k6jnta9m.o
+  mtime: 2025-12-17T23:59:36.5255804-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9125891-06:00
+- id: 1632
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\963fappafhgqq70qdr18loy2a.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\963fappafhgqq70qdr18loy2a.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\963fappafhgqq70qdr18loy2a.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9177315-06:00
+  size: 59069
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\963fappafhgqq70qdr18loy2a.o
+  mtime: 2025-12-17T23:59:36.5378619-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9177455-06:00
+- id: 1633
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\a8wazmnbv8kqo3p2eaqeygw2d.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\a8wazmnbv8kqo3p2eaqeygw2d.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\a8wazmnbv8kqo3p2eaqeygw2d.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9235500-06:00
+  size: 107029
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\a8wazmnbv8kqo3p2eaqeygw2d.o
+  mtime: 2025-12-17T23:59:36.5455440-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9235638-06:00
+- id: 1634
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ai0or6mi9vjghw7fkw7r3nho2.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ai0or6mi9vjghw7fkw7r3nho2.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ai0or6mi9vjghw7fkw7r3nho2.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9289207-06:00
+  size: 8732
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ai0or6mi9vjghw7fkw7r3nho2.o
+  mtime: 2025-12-17T23:59:36.5424744-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9289350-06:00
+- id: 1635
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ajws7jwqzw00ns2ix6ellacoc.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ajws7jwqzw00ns2ix6ellacoc.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ajws7jwqzw00ns2ix6ellacoc.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9345013-06:00
+  size: 4068
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ajws7jwqzw00ns2ix6ellacoc.o
+  mtime: 2025-12-17T23:59:36.5424744-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9345153-06:00
+- id: 1636
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\aua2duzq9aa4vuibx0z3ksly7.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\aua2duzq9aa4vuibx0z3ksly7.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\aua2duzq9aa4vuibx0z3ksly7.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9397489-06:00
+  size: 142128
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\aua2duzq9aa4vuibx0z3ksly7.o
+  mtime: 2025-12-17T23:59:36.5347705-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9397630-06:00
+- id: 1637
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\aut2xu37kmyf4f7l8i935rh9j.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\aut2xu37kmyf4f7l8i935rh9j.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\aut2xu37kmyf4f7l8i935rh9j.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9449296-06:00
+  size: 20302
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\aut2xu37kmyf4f7l8i935rh9j.o
+  mtime: 2025-12-17T23:59:36.5501491-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9449429-06:00
+- id: 1638
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\bp65uk9tfy8k9trvaugahcy93.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\bp65uk9tfy8k9trvaugahcy93.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\bp65uk9tfy8k9trvaugahcy93.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9502521-06:00
+  size: 12148
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\bp65uk9tfy8k9trvaugahcy93.o
+  mtime: 2025-12-17T23:59:36.5409315-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9502670-06:00
+- id: 1639
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\byjfpe3u0h6a9455fqcfn39lw.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\byjfpe3u0h6a9455fqcfn39lw.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\byjfpe3u0h6a9455fqcfn39lw.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9559148-06:00
+  size: 32225
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\byjfpe3u0h6a9455fqcfn39lw.o
+  mtime: 2025-12-17T23:59:36.5209925-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9559286-06:00
+- id: 1640
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\cub53o8jvhuvl2w73bdid4ico.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\cub53o8jvhuvl2w73bdid4ico.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\cub53o8jvhuvl2w73bdid4ico.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9610622-06:00
+  size: 24331
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\cub53o8jvhuvl2w73bdid4ico.o
+  mtime: 2025-12-17T23:59:36.5424744-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9610788-06:00
+- id: 1641
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\d1j3pqth9pidg54sopql3ie3n.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\d1j3pqth9pidg54sopql3ie3n.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\d1j3pqth9pidg54sopql3ie3n.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9662908-06:00
+  size: 12299
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\d1j3pqth9pidg54sopql3ie3n.o
+  mtime: 2025-12-17T23:59:36.5332352-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9663047-06:00
+- id: 1642
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\d81s4kaihuc0zkq7kp1pvqskv.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\d81s4kaihuc0zkq7kp1pvqskv.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\d81s4kaihuc0zkq7kp1pvqskv.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9714237-06:00
+  size: 5595
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\d81s4kaihuc0zkq7kp1pvqskv.o
+  mtime: 2025-12-17T23:59:36.5393975-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9714376-06:00
+- id: 1643
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\dep-graph.bin
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\dep-graph.bin
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\dep-graph.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9764942-06:00
+  size: 865857
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\dep-graph.bin
+  mtime: 2025-12-17T23:59:36.5501491-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9765072-06:00
+- id: 1644
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\dgeci8vk505j02jlytbmego75.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\dgeci8vk505j02jlytbmego75.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\dgeci8vk505j02jlytbmego75.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9817335-06:00
+  size: 9527
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\dgeci8vk505j02jlytbmego75.o
+  mtime: 2025-12-17T23:59:36.5424744-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9817467-06:00
+- id: 1645
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ecgk43tatof8k6wblh1vyhl6c.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ecgk43tatof8k6wblh1vyhl6c.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ecgk43tatof8k6wblh1vyhl6c.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9868237-06:00
+  size: 18822
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ecgk43tatof8k6wblh1vyhl6c.o
+  mtime: 2025-12-17T23:59:36.5440159-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9868367-06:00
+- id: 1646
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ed2f7dmyj77aqmfcdyrzzyfkx.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ed2f7dmyj77aqmfcdyrzzyfkx.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ed2f7dmyj77aqmfcdyrzzyfkx.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9919376-06:00
+  size: 14765
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\ed2f7dmyj77aqmfcdyrzzyfkx.o
+  mtime: 2025-12-17T23:59:36.5486107-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9919500-06:00
+- id: 1647
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\epjnixjdo258oljg622bwo5jy.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\epjnixjdo258oljg622bwo5jy.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\epjnixjdo258oljg622bwo5jy.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:20.9970515-06:00
+  size: 106340
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\epjnixjdo258oljg622bwo5jy.o
+  mtime: 2025-12-17T23:59:36.5240505-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:20.9970645-06:00
+- id: 1648
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\eu2xxesubahys4n1qkevmp30q.o
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\eu2xxesubahys4n1qkevmp30q.o
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\eu2xxesubahys4n1qkevmp30q.o
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0022799-06:00
+  size: 19779
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\eu2xxesubahys4n1qkevmp30q.o
+  mtime: 2025-12-17T23:59:36.5347705-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0022933-06:00
+- id: 1649
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\query-cache.bin
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\query-cache.bin
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\query-cache.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0073132-06:00
+  size: 247921
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\query-cache.bin
+  mtime: 2025-12-17T23:59:36.5501491-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0073329-06:00
+- id: 1650
+  canonicalPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\work-products.bin
+  total: 4270
+  originalName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\work-products.bin
+  nameHistory:
+  - new: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\work-products.bin
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0128126-06:00
+  size: 2786
+  aliases: []
+  displayName: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h\work-products.bin
+  mtime: 2025-12-17T23:59:36.5884045-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0128266-06:00
+generatedAt: 2025-12-18T01:53:37.3668925-06:00
+fileCount: 39
+folderId: target_debug_incremental_validation-25gia0q9iinjr_s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h
+folderPath: target\debug\incremental\validation-25gia0q9iinjr\s-he0agn9s4n-1ps8mp3-a1zal95rjlujpva0exdqpdz9h
+

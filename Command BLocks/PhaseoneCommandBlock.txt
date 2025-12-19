@@ -1,0 +1,321 @@
+<#
+Invoke-Phase1-OneTime.ps1
+One-time Phase‑1 initializer: create logs/schemas/templates/babies, perform single deterministic scan,
+emit CLI dashboard JSONL+TXT, longform JSONL+TXT, folder blueprint JSON+TXT, preflight and run_summary.
+This script DOES NOT write per-folder manifests or append canonical provenance.
+Usage:
+  pwsh -File Invoke-Phase1-OneTime.ps1 -Root . 
+#>
+
+param(
+  [string]$Root = (Get-Location).Path
+)
+
+Set-StrictMode -Version Latest
+$ErrorActionPreference = "Stop"
+
+# Helpers
+function Timestamp() { (Get-Date).ToString("yyyy-MM-ddTHH:mm:ssZ") }
+function TSFile() { (Get-Date).ToString("yyyyMMdd_HHmmss") }
+function Ensure-Dir([string]$p) { if (-not (Test-Path $p)) { New-Item -ItemType Directory -Path $p -Force | Out-Null } }
+function SafeWriteAtomic([string]$path, [string]$content) {
+  $dir = Split-Path $path -Parent; Ensure-Dir $dir
+  $tmp = Join-Path $dir ('.' + [guid]::NewGuid().ToString() + '.tmp')
+  $content | Out-File -LiteralPath $tmp -Encoding UTF8
+  Move-Item -LiteralPath $tmp -Destination $path -Force
+}
+function SafeAppendLine([string]$path, [string]$line) {
+  $dir = Split-Path $path -Parent; Ensure-Dir $dir
+  $tmp = Join-Path $dir ('.' + [guid]::NewGuid().ToString() + '.tmp')
+  $line | Out-File -LiteralPath $tmp -Encoding UTF8
+  Add-Content -LiteralPath $path -Value (Get-Content -LiteralPath $tmp -Raw)
+  Remove-Item -LiteralPath $tmp -Force
+}
+function Compute-SHA256([string]$file) {
+  $sha = [System.Security.Cryptography.SHA256]::Create()
+  $fs = [System.IO.File]::OpenRead($file)
+  try { $hash = $sha.ComputeHash($fs); return ([BitConverter]::ToString($hash)).Replace("-","").ToLowerInvariant() }
+  finally { $fs.Close(); $sha.Dispose() }
+}
+function ShortAlias([string]$basename, [string]$sha) {
+  $a = ($basename -replace '\s+','_' -replace '[^A-Za-z0-9_.-]','') 
+  if ($a.Length -gt 20) { $a = $a.Substring(0,20) }
+  return if ($null -ne $sha) { $a } else { $a }
+}
+
+# Resolve root
+$Root = (Resolve-Path -LiteralPath $Root).Path
+
+# Canonical folders
+$LogsRoot = Join-Path $Root "logs"
+$StructureDir = Join-Path $LogsRoot "structure"
+$FoldersDir = Join-Path $StructureDir "folders"
+$ProvDir = Join-Path $LogsRoot "provenance"
+$LogsOut = Join-Path $LogsRoot "logs"
+$TemplatesDir = Join-Path $Root "templates"
+$ScriptsPS = Join-Path $Root "scripts/PS"
+$CratesStage1 = Join-Path $Root "crates/stage1/src"
+
+# Ensure base layout (one-time run creates these)
+Ensure-Dir $LogsRoot; Ensure-Dir $StructureDir; Ensure-Dir $FoldersDir; Ensure-Dir $ProvDir; Ensure-Dir $LogsOut
+Ensure-Dir $TemplatesDir; Ensure-Dir $ScriptsPS; Ensure-Dir $CratesStage1
+
+# Config skeleton
+$ConfigPath = Join-Path $Root "oasm.config.yaml"
+if (-not (Test-Path $ConfigPath)) {
+  $cfg = @"
+exclusions:
+  - .git/
+  - node_modules/
+  - target/
+  - build/
+  - dist/
+  - logs/
+  - **/*.lock
+  - **/*.tmp
+  - **/*.bak
+  - .DS_Store
+autoRepairThreshold: 85
+arms: []
+logRetention: 10
+concurrency: 2
+"@
+  SafeWriteAtomic -path $ConfigPath -content $cfg
+}
+
+# Schemas (defaults)
+$CliSchemaPath = Join-Path $StructureDir "cli_state_schema.json"
+$DiagSchemaPath = Join-Path $StructureDir "diagnostic_index_schema.json"
+if (-not (Test-Path $CliSchemaPath)) {
+  $cliSchema = @{
+    '$schema' = "http://json-schema.org/draft-07/schema#"
+    type = "object"
+    properties = @{
+      id = @{ type = "integer" }
+      n = @{ type = "integer" }
+      alias = @{ type = "string" }
+      relPath = @{ type = "string" }
+      link = @{ type = "string" }
+      progress = @{ type = "string" }
+      visual = @{ type = "string" }
+      totals = @{ type = "object"; properties = @{ crit=@{type="integer"}; block=@{type="integer"}; warn=@{type="integer"} } }
+      diagnostics = @{ type = "array" }
+      timestamp = @{ type = "string" }
+    }
+    required = @("id","n","alias","relPath","link","timestamp")
+  } | ConvertTo-Json -Depth 6
+  SafeWriteAtomic -path $CliSchemaPath -content $cliSchema
+}
+if (-not (Test-Path $DiagSchemaPath)) {
+  $diagSchema = @{
+    '$schema' = "http://json-schema.org/draft-07/schema#"
+    type = "object"
+    properties = @{
+      fileId = @{ type = "integer" }
+      phase = @{ type = "string" }
+      status = @{ type = "string" }
+      short = @{ type = "string" }
+      details = @{ type = "string" }
+      timestamp = @{ type = "string" }
+    }
+    required = @("fileId","phase","status","short","timestamp")
+  } | ConvertTo-Json -Depth 6
+  SafeWriteAtomic -path $DiagSchemaPath -content $diagSchema
+}
+
+# Templates skeleton
+$TemplatesIndex = Join-Path $TemplatesDir "index.yaml"
+if (-not (Test-Path $TemplatesIndex)) {
+  $tpl = @"
+templates:
+  - id: sample-repair
+    matcher: 'TODO_FIX_ME'
+    patch: 'FIXED_BY_AUTOREPAIR'
+    confidence: 50
+"@
+  SafeWriteAtomic -path $TemplatesIndex -content $tpl
+}
+
+# Baby placeholders (empty placeholders that later must emit same formats)
+$babyFull = Join-Path $ScriptsPS "baby-full.ps1"
+$babyRerun = Join-Path $ScriptsPS "baby-rerun.ps1"
+$babyArm = Join-Path $ScriptsPS "baby-arm.ps1"
+if (-not (Test-Path $babyFull)) { SafeWriteAtomic -path $babyFull -content "# placeholder baby-full (manifest-driven)\n" }
+if (-not (Test-Path $babyRerun)) { SafeWriteAtomic -path $babyRerun -content "# placeholder baby-rerun (manifest-driven)\n" }
+if (-not (Test-Path $babyArm)) { SafeWriteAtomic -path $babyArm -content "# placeholder baby-arm (manifest-driven)\n" }
+
+# Preflight record
+$ts = TSFile
+$preflight = @{
+  root = $Root
+  timestamp = (Timestamp)
+  created = @("logs tree","schemas","templates","baby placeholders")
+}
+SafeWriteAtomic -path (Join-Path $LogsOut ("preflight-$ts.json")) -content ($preflight | ConvertTo-Json -Depth 6)
+
+# Load exclusions from config if present
+$exclusions = @("logs/","node_modules/",".git/","target/","build/","dist/","**/*.lock","**/*.tmp","**/*.bak",".DS_Store")
+try {
+  $cfgText = Get-Content -Raw -LiteralPath $ConfigPath -ErrorAction SilentlyContinue
+  if ($cfgText) {
+    $yaml = $cfgText -split "`n" | ForEach-Object { $_.TrimEnd() }
+    $found = $yaml | Where-Object { $_ -match '^\s*-\s*' }
+    if ($found) {
+      $exclusions = $found -replace '^\s*-\s*',''
+    }
+  }
+} catch {}
+
+# Single initial scan (no manifest dependency)
+$files = Get-ChildItem -Path $Root -Recurse -File -Force | Where-Object {
+  $full = $_.FullName.Substring($Root.Length).TrimStart('\','/')
+  foreach ($ex in $exclusions) { if ($full -like "*$ex*") { return $false } }
+  return $true
+} | Sort-Object @{Expression={$_.FullName.ToLower()}} 
+
+# Build in-memory map and prepare outputs
+$total = $files.Count
+$cliJsonPath = Join-Path $LogsOut ("cli_snapshot-$ts.jsonl")
+$cliTxtPath = Join-Path $LogsOut ("cli_snapshot-$ts.txt")
+$longJsonPath = Join-Path $LogsOut ("longform-$ts.jsonl")
+$longTxtPath = Join-Path $LogsOut ("longform.log.txt")
+$folderJsonPath = Join-Path $LogsOut ("folder_structure-$ts.json")
+$folderTxtPath = Join-Path $LogsOut ("folder_structure-$ts.txt")
+# Ensure empty files
+SafeWriteAtomic -path $cliJsonPath -content ""
+SafeWriteAtomic -path $cliTxtPath -content ""
+SafeWriteAtomic -path $longJsonPath -content ""
+SafeWriteAtomic -path $longTxtPath -content ""
+SafeWriteAtomic -path $folderJsonPath -content ""
+SafeWriteAtomic -path $folderTxtPath -content ""
+
+# Group by folder for folder blueprint
+$folderMap = @{}
+
+# Scan and emit
+$id = 0
+foreach ($f in $files) {
+  $rel = $f.FullName.Substring($Root.Length).TrimStart('\','/')
+  $id++; $n = $id
+  $sha = Compute-SHA256 $f.FullName
+  $basename = Split-Path $rel -Leaf
+  $aliasBase = ShortAlias $basename $sha
+  # disambiguation: if alias already used, append short hash
+  if ($folderMap.ContainsKey("alias:$aliasBase")) {
+    $alias = "$aliasBase#"+($sha.Substring(0,4))
+  } else {
+    $alias = $aliasBase
+    $folderMap["alias:$aliasBase"] = $true
+  }
+  $link = "file://$($f.FullName -replace '\\','/')"
+  $progress = "[$id/$total]"
+  # visual progress bar (simple)
+  $barLen = 11
+  $filled = [int]([math]::Round(($id / $total) * $barLen))
+  $visual = ('/' * $filled).PadRight($barLen,' ')
+  $totals = @{ crit=0; block=0; warn=0 }
+  $timestamp = (Timestamp)
+
+  # CLI JSON line
+  $cliObj = @{
+    id = $id
+    n = $n
+    alias = $alias
+    relPath = $rel
+    link = $link
+    progress = "$id/$total"
+    visual = $visual.TrimEnd()
+    totals = $totals
+    diagnostics = @()
+    timestamp = $timestamp
+  } | ConvertTo-Json -Depth 6
+  SafeAppendLine -path $cliJsonPath -line $cliObj
+  # CLI plain text
+  $plain = "[{0}/{1}] [debug] {2} [{3}] [▼{4}/{5}/{6}] [▼LINKS}   - cli dashboard" -f $id,$total,$rel,$visual.TrimEnd(),$totals.crit,$totals.block,$totals.warn
+  SafeAppendLine -path $cliTxtPath -line $plain
+  Write-Host $plain
+
+  # Longform metrics (placeholders for this initial run)
+  $loc = 0; $fnTotal = 0; $fnPub = 0; $fnUnsafe = 0; $imports = 0
+  $logging = @{ info=0; warn=0; error=0; println=0 }
+  $structs = 0; $enums = 0; $derives = 0
+  $errors = $null; $warnings = @()
+  $tests = 0
+  $modified = $f.LastWriteTime.ToString("yyyy-MM-ddTHH:mm:ssZ")
+  $compileRoot = $Root
+
+  $longObj = @{
+    progress = "$id/$total"
+    relPath = $rel
+    LOC = $loc
+    fn = @{ total = $fnTotal; pub = $fnPub; unsafe = $fnUnsafe }
+    Imports = $imports
+    Logging = $logging
+    Structs = $structs
+    Enums = $enums
+    Derives = $derives
+    Errors = $errors
+    Warnings = $warnings
+    Tests = $tests
+    Modified = $modified
+    CompileRoot = $compileRoot
+    timestamp = $timestamp
+  } | ConvertTo-Json -Depth 8
+  SafeAppendLine -path $longJsonPath -line $longObj
+
+  $longPlain = "[{0}/{1}] {2} | LOC={3} | fn={4}(pub={5},unsafe={6}) | Imports={7} | Logging: info={8} warn={9} error={10} println={11} | Structs={12} Enums={13} Derives={14} | Errors=None | Warnings=None | Tests={15} | Modified={16} | CompileRoot={17}" -f $id,$total,$rel,$loc,$fnTotal,$fnPub,$fnUnsafe,$imports,$logging.info,$logging.warn,$logging.error,$logging.println,$structs,$enums,$derives,$tests,$modified,$compileRoot
+  SafeAppendLine -path $longTxtPath -line $longPlain
+
+  # Folder blueprint accumulation
+  $folder = Split-Path $rel -Parent
+  if ($folder -eq "") { $folder = "." }
+  if (-not $folderMap.ContainsKey($folder)) { $folderMap[$folder] = @() }
+  $folderMap[$folder] += @{
+    id = $id
+    relPath = $rel
+    displayName = $basename
+    fileHash = $sha
+    mtime = $modified
+    size = $f.Length
+  }
+}
+
+# Write folder blueprint JSON and TXT
+$folderList = @()
+foreach ($k in $folderMap.Keys | Where-Object { $_ -notlike 'alias:*' } | Sort-Object) {
+  $filesInFolder = $folderMap[$k]
+  $folderList += @{ folderPath = $k; fileCount = $filesInFolder.Count; sample = $filesInFolder[0] }
+}
+SafeWriteAtomic -path $folderJsonPath -content ($folderList | ConvertTo-Json -Depth 6)
+$folderTxtLines = @()
+foreach ($entry in $folderList) {
+  $folderTxtLines += ("{0} : {1} files" -f $entry.folderPath, $entry.fileCount)
+  $s = $entry.sample
+  $folderTxtLines += ("  sample: {0} ({1})" -f $s.relPath, $s.fileHash)
+}
+SafeWriteAtomic -path $folderTxtPath -content ($folderTxtLines -join "`n")
+
+# Review queue skeleton
+$reviewPath = Join-Path $StructureDir ("review_queue-$ts.yaml")
+SafeWriteAtomic -path $reviewPath -content "review: []`n"
+
+# Run summary
+$runSummary = @{
+  mode = "Phase1-OneTime"
+  timestamp = (Timestamp)
+  totalFiles = $total
+  cli_snapshot = (Split-Path $cliJsonPath -Leaf)
+  longform = (Split-Path $longJsonPath -Leaf)
+  folder_structure = (Split-Path $folderJsonPath -Leaf)
+  created = @("schemas","templates","baby placeholders","cli_snapshot","longform","folder_structure","review_queue")
+}
+SafeWriteAtomic -path (Join-Path $LogsOut ("run_summary-$ts.json")) -content ($runSummary | ConvertTo-Json -Depth 6)
+
+# Final stdout summary
+Write-Host ""
+Write-Host ("Phase1 complete: scanned {0} files" -f $total)
+Write-Host ("CLI snapshot: {0}" -f $cliJsonPath)
+Write-Host ("Longform: {0}" -f $longJsonPath)
+Write-Host ("Folder blueprint: {0}" -f $folderJsonPath)
+Write-Host ("Preflight: {0}" -f (Join-Path $LogsOut ("preflight-$ts.json")))
+Write-Host ("Run summary: {0}" -f (Join-Path $LogsOut ("run_summary-$ts.json")))

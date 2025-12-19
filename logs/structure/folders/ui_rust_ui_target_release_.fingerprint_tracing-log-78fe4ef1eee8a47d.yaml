@@ -1,0 +1,98 @@
+files:
+- id: 3957
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\dep-lib-tracing_log
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\dep-lib-tracing_log
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\dep-lib-tracing_log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.7816925-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\dep-lib-tracing_log
+  mtime: 2025-12-16T22:47:39.4449303-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.7817061-06:00
+- id: 3958
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.7870985-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\invoked.timestamp
+  mtime: 2025-12-16T22:47:39.4449303-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.7871107-06:00
+- id: 3959
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\lib-tracing_log
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\lib-tracing_log
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\lib-tracing_log
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.7924030-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\lib-tracing_log
+  mtime: 2025-12-16T22:47:39.8958699-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.7924188-06:00
+- id: 3960
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\lib-tracing_log.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\lib-tracing_log.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\lib-tracing_log.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.7973019-06:00
+  size: 639
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d\lib-tracing_log.json
+  mtime: 2025-12-16T22:47:39.8958699-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.7973183-06:00
+generatedAt: 2025-12-18T01:53:40.3781673-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_tracing-log-78fe4ef1eee8a47d
+folderPath: ui\rust_ui\target\release\.fingerprint\tracing-log-78fe4ef1eee8a47d
+

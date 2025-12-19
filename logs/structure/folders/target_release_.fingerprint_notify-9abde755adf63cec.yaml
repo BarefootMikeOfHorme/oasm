@@ -1,0 +1,98 @@
+files:
+- id: 1883
+  canonicalPath: target\release\.fingerprint\notify-9abde755adf63cec\dep-lib-notify
+  total: 4270
+  originalName: target\release\.fingerprint\notify-9abde755adf63cec\dep-lib-notify
+  nameHistory:
+  - new: target\release\.fingerprint\notify-9abde755adf63cec\dep-lib-notify
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2929518-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\notify-9abde755adf63cec\dep-lib-notify
+  mtime: 2025-12-17T23:56:46.7188965-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2929652-06:00
+- id: 1884
+  canonicalPath: target\release\.fingerprint\notify-9abde755adf63cec\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\notify-9abde755adf63cec\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\notify-9abde755adf63cec\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.2994001-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\notify-9abde755adf63cec\invoked.timestamp
+  mtime: 2025-12-17T23:56:46.7188965-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.2994147-06:00
+- id: 1885
+  canonicalPath: target\release\.fingerprint\notify-9abde755adf63cec\lib-notify
+  total: 4270
+  originalName: target\release\.fingerprint\notify-9abde755adf63cec\lib-notify
+  nameHistory:
+  - new: target\release\.fingerprint\notify-9abde755adf63cec\lib-notify
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.3045910-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\notify-9abde755adf63cec\lib-notify
+  mtime: 2025-12-17T23:56:48.0042804-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.3046098-06:00
+- id: 1886
+  canonicalPath: target\release\.fingerprint\notify-9abde755adf63cec\lib-notify.json
+  total: 4270
+  originalName: target\release\.fingerprint\notify-9abde755adf63cec\lib-notify.json
+  nameHistory:
+  - new: target\release\.fingerprint\notify-9abde755adf63cec\lib-notify.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.3099378-06:00
+  size: 937
+  aliases: []
+  displayName: target\release\.fingerprint\notify-9abde755adf63cec\lib-notify.json
+  mtime: 2025-12-17T23:56:48.0042804-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.3099499-06:00
+generatedAt: 2025-12-18T01:53:41.1468211-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_notify-9abde755adf63cec
+folderPath: target\release\.fingerprint\notify-9abde755adf63cec
+

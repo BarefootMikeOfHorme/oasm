@@ -1,0 +1,121 @@
+files:
+- id: 2261
+  canonicalPath: target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.d
+  total: 4270
+  originalName: target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.d
+  nameHistory:
+  - new: target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.4040936-06:00
+  size: 555
+  aliases: []
+  displayName: target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.d
+  mtime: 2025-12-17T23:56:43.5076434-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.4041080-06:00
+- id: 2262
+  canonicalPath: target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.exe
+  total: 4270
+  originalName: target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.exe
+  nameHistory:
+  - new: target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.4099323-06:00
+  size: 266240
+  aliases: []
+  displayName: target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.exe
+  mtime: 2025-12-17T23:56:43.6956154-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.4099452-06:00
+- id: 2263
+  canonicalPath: target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.pdb
+  total: 4270
+  originalName: target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.pdb
+  nameHistory:
+  - new: target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.4156833-06:00
+  size: 1568768
+  aliases: []
+  displayName: target\release\build\quote-2aa5b3581e09e3a8\build_script_build-2aa5b3581e09e3a8.pdb
+  mtime: 2025-12-17T23:56:43.6981205-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.4157002-06:00
+- id: 2264
+  canonicalPath: target\release\build\quote-2aa5b3581e09e3a8\build_script_build.pdb
+  total: 4270
+  originalName: target\release\build\quote-2aa5b3581e09e3a8\build_script_build.pdb
+  nameHistory:
+  - new: target\release\build\quote-2aa5b3581e09e3a8\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.4213314-06:00
+  size: 1568768
+  aliases: []
+  displayName: target\release\build\quote-2aa5b3581e09e3a8\build_script_build.pdb
+  mtime: 2025-12-17T23:56:43.6981205-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.4213481-06:00
+- id: 2265
+  canonicalPath: target\release\build\quote-2aa5b3581e09e3a8\build-script-build.exe
+  total: 4270
+  originalName: target\release\build\quote-2aa5b3581e09e3a8\build-script-build.exe
+  nameHistory:
+  - new: target\release\build\quote-2aa5b3581e09e3a8\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.4268742-06:00
+  size: 266240
+  aliases: []
+  displayName: target\release\build\quote-2aa5b3581e09e3a8\build-script-build.exe
+  mtime: 2025-12-17T23:56:43.6956154-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.4268890-06:00
+generatedAt: 2025-12-18T01:53:39.4387555-06:00
+fileCount: 5
+folderId: target_release_build_quote-2aa5b3581e09e3a8
+folderPath: target\release\build\quote-2aa5b3581e09e3a8
+

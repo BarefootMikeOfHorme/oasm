@@ -1,0 +1,121 @@
+files:
+- id: 968
+  canonicalPath: target\debug\build\serde_json-87b58735857d138f\build_script_build-87b58735857d138f.d
+  total: 4270
+  originalName: target\debug\build\serde_json-87b58735857d138f\build_script_build-87b58735857d138f.d
+  nameHistory:
+  - new: target\debug\build\serde_json-87b58735857d138f\build_script_build-87b58735857d138f.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1481032-06:00
+  size: 579
+  aliases: []
+  displayName: target\debug\build\serde_json-87b58735857d138f\build_script_build-87b58735857d138f.d
+  mtime: 2025-12-17T23:59:31.4008019-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1481170-06:00
+- id: 969
+  canonicalPath: target\debug\build\serde_json-87b58735857d138f\build_script_build-87b58735857d138f.exe
+  total: 4270
+  originalName: target\debug\build\serde_json-87b58735857d138f\build_script_build-87b58735857d138f.exe
+  nameHistory:
+  - new: target\debug\build\serde_json-87b58735857d138f\build_script_build-87b58735857d138f.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1537917-06:00
+  size: 141312
+  aliases: []
+  displayName: target\debug\build\serde_json-87b58735857d138f\build_script_build-87b58735857d138f.exe
+  mtime: 2025-12-17T23:59:31.6189263-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1538052-06:00
+- id: 970
+  canonicalPath: target\debug\build\serde_json-87b58735857d138f\build_script_build-87b58735857d138f.pdb
+  total: 4270
+  originalName: target\debug\build\serde_json-87b58735857d138f\build_script_build-87b58735857d138f.pdb
+  nameHistory:
+  - new: target\debug\build\serde_json-87b58735857d138f\build_script_build-87b58735857d138f.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1595436-06:00
+  size: 1282048
+  aliases: []
+  displayName: target\debug\build\serde_json-87b58735857d138f\build_script_build-87b58735857d138f.pdb
+  mtime: 2025-12-17T23:59:31.6209412-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1595581-06:00
+- id: 971
+  canonicalPath: target\debug\build\serde_json-87b58735857d138f\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\serde_json-87b58735857d138f\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\serde_json-87b58735857d138f\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1654011-06:00
+  size: 1282048
+  aliases: []
+  displayName: target\debug\build\serde_json-87b58735857d138f\build_script_build.pdb
+  mtime: 2025-12-17T23:59:31.6209412-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1654185-06:00
+- id: 972
+  canonicalPath: target\debug\build\serde_json-87b58735857d138f\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\serde_json-87b58735857d138f\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\serde_json-87b58735857d138f\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.1713913-06:00
+  size: 141312
+  aliases: []
+  displayName: target\debug\build\serde_json-87b58735857d138f\build-script-build.exe
+  mtime: 2025-12-17T23:59:31.6189263-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.1714067-06:00
+generatedAt: 2025-12-18T01:53:36.9361229-06:00
+fileCount: 5
+folderId: target_debug_build_serde_json-87b58735857d138f
+folderPath: target\debug\build\serde_json-87b58735857d138f
+

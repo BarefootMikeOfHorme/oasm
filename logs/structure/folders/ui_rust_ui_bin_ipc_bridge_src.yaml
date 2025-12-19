@@ -1,0 +1,29 @@
+files:
+- id: 2907
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\src\lib.rs
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\src\lib.rs
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\src\lib.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9655840-06:00
+  size: 614
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\src\lib.rs
+  mtime: 2025-12-17T19:08:50.8496836-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9655981-06:00
+generatedAt: 2025-12-18T01:53:40.9488796-06:00
+fileCount: 1
+folderId: ui_rust_ui_bin_ipc_bridge_src
+folderPath: ui\rust_ui\bin\ipc_bridge\src
+

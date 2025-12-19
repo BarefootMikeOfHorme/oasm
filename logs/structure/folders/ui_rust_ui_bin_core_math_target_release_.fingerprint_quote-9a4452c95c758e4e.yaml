@@ -1,0 +1,98 @@
+files:
+- id: 2726
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\dep-lib-quote
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\dep-lib-quote
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\dep-lib-quote
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.9542048-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\dep-lib-quote
+  mtime: 2025-12-16T21:19:24.6865443-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.9542193-06:00
+- id: 2727
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.9597569-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\invoked.timestamp
+  mtime: 2025-12-16T21:19:24.6865443-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.9597715-06:00
+- id: 2728
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\lib-quote
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\lib-quote
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\lib-quote
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.9652558-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\lib-quote
+  mtime: 2025-12-16T21:19:24.8693266-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.9652705-06:00
+- id: 2729
+  canonicalPath: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\lib-quote.json
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\lib-quote.json
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\lib-quote.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:26.9707890-06:00
+  size: 533
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e\lib-quote.json
+  mtime: 2025-12-16T21:19:24.8693266-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:26.9708040-06:00
+generatedAt: 2025-12-18T01:53:37.7331904-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_core_math_target_release_.fingerprint_quote-9a4452c95c758e4e
+folderPath: ui\rust_ui\bin\core_math\target\release\.fingerprint\quote-9a4452c95c758e4e
+

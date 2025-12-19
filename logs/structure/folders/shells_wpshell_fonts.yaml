@@ -1,0 +1,29 @@
+files:
+- id: 333
+  canonicalPath: shells\wpshell\fonts\README.md
+  total: 4270
+  originalName: shells\wpshell\fonts\README.md
+  nameHistory:
+  - new: shells\wpshell\fonts\README.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.5166178-06:00
+  size: 65
+  aliases: []
+  displayName: shells\wpshell\fonts\README.md
+  mtime: 2025-12-17T23:45:27.4657113-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.5166358-06:00
+generatedAt: 2025-12-18T01:53:41.5008161-06:00
+fileCount: 1
+folderId: shells_wpshell_fonts
+folderPath: shells\wpshell\fonts
+

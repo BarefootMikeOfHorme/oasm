@@ -1,0 +1,121 @@
+files:
+- id: 2340
+  canonicalPath: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build-f71c4a2d8cf0d999.d
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build-f71c4a2d8cf0d999.d
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build-f71c4a2d8cf0d999.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8494621-06:00
+  size: 625
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build-f71c4a2d8cf0d999.d
+  mtime: 2025-12-17T23:56:43.5323950-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8494758-06:00
+- id: 2341
+  canonicalPath: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build-f71c4a2d8cf0d999.exe
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build-f71c4a2d8cf0d999.exe
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build-f71c4a2d8cf0d999.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8547975-06:00
+  size: 147968
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build-f71c4a2d8cf0d999.exe
+  mtime: 2025-12-17T23:56:43.6923073-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8548101-06:00
+- id: 2342
+  canonicalPath: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build-f71c4a2d8cf0d999.pdb
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build-f71c4a2d8cf0d999.pdb
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build-f71c4a2d8cf0d999.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8600665-06:00
+  size: 1306624
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build-f71c4a2d8cf0d999.pdb
+  mtime: 2025-12-17T23:56:43.6956154-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8600804-06:00
+- id: 2343
+  canonicalPath: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build.pdb
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build.pdb
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8666917-06:00
+  size: 1306624
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build_script_build.pdb
+  mtime: 2025-12-17T23:56:43.6956154-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8667060-06:00
+- id: 2344
+  canonicalPath: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build-script-build.exe
+  total: 4270
+  originalName: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build-script-build.exe
+  nameHistory:
+  - new: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.8720896-06:00
+  size: 147968
+  aliases: []
+  displayName: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999\build-script-build.exe
+  mtime: 2025-12-17T23:56:43.6923073-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.8721038-06:00
+generatedAt: 2025-12-18T01:53:40.0228920-06:00
+fileCount: 5
+folderId: target_release_build_windows_x86_64_msvc-f71c4a2d8cf0d999
+folderPath: target\release\build\windows_x86_64_msvc-f71c4a2d8cf0d999
+

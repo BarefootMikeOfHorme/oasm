@@ -1,0 +1,121 @@
+files:
+- id: 1901
+  canonicalPath: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\dep-lib-oasm_api
+  total: 4270
+  originalName: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\dep-lib-oasm_api
+  nameHistory:
+  - new: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\dep-lib-oasm_api
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.3995530-06:00
+  size: 30
+  aliases: []
+  displayName: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\dep-lib-oasm_api
+  mtime: 2025-12-17T23:56:44.2862687-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.3995724-06:00
+- id: 1902
+  canonicalPath: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.4052021-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\invoked.timestamp
+  mtime: 2025-12-17T23:56:44.2862687-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.4052179-06:00
+- id: 1903
+  canonicalPath: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\lib-oasm_api
+  total: 4270
+  originalName: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\lib-oasm_api
+  nameHistory:
+  - new: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\lib-oasm_api
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.4114624-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\lib-oasm_api
+  mtime: 2025-12-17T23:56:44.7789037-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.4114782-06:00
+- id: 1904
+  canonicalPath: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\lib-oasm_api.json
+  total: 4270
+  originalName: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\lib-oasm_api.json
+  nameHistory:
+  - new: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\lib-oasm_api.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.4169070-06:00
+  size: 354
+  aliases: []
+  displayName: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\lib-oasm_api.json
+  mtime: 2025-12-17T23:56:44.7804595-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.4169212-06:00
+- id: 1905
+  canonicalPath: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\output-lib-oasm_api
+  total: 4270
+  originalName: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\output-lib-oasm_api
+  nameHistory:
+  - new: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\output-lib-oasm_api
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.4223984-06:00
+  size: 11457
+  aliases: []
+  displayName: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b\output-lib-oasm_api
+  mtime: 2025-12-17T23:56:44.7551084-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.4224201-06:00
+generatedAt: 2025-12-18T01:53:40.4239059-06:00
+fileCount: 5
+folderId: target_release_.fingerprint_oasm-api-2b0843c0b5db1c3b
+folderPath: target\release\.fingerprint\oasm-api-2b0843c0b5db1c3b
+

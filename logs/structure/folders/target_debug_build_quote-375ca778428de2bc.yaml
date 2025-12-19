@@ -1,0 +1,121 @@
+files:
+- id: 936
+  canonicalPath: target\debug\build\quote-375ca778428de2bc\build_script_build-375ca778428de2bc.d
+  total: 4270
+  originalName: target\debug\build\quote-375ca778428de2bc\build_script_build-375ca778428de2bc.d
+  nameHistory:
+  - new: target\debug\build\quote-375ca778428de2bc\build_script_build-375ca778428de2bc.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9640244-06:00
+  size: 551
+  aliases: []
+  displayName: target\debug\build\quote-375ca778428de2bc\build_script_build-375ca778428de2bc.d
+  mtime: 2025-12-17T23:59:31.3375068-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9640378-06:00
+- id: 937
+  canonicalPath: target\debug\build\quote-375ca778428de2bc\build_script_build-375ca778428de2bc.exe
+  total: 4270
+  originalName: target\debug\build\quote-375ca778428de2bc\build_script_build-375ca778428de2bc.exe
+  nameHistory:
+  - new: target\debug\build\quote-375ca778428de2bc\build_script_build-375ca778428de2bc.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9694373-06:00
+  size: 272896
+  aliases: []
+  displayName: target\debug\build\quote-375ca778428de2bc\build_script_build-375ca778428de2bc.exe
+  mtime: 2025-12-17T23:59:31.6085425-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9694505-06:00
+- id: 938
+  canonicalPath: target\debug\build\quote-375ca778428de2bc\build_script_build-375ca778428de2bc.pdb
+  total: 4270
+  originalName: target\debug\build\quote-375ca778428de2bc\build_script_build-375ca778428de2bc.pdb
+  nameHistory:
+  - new: target\debug\build\quote-375ca778428de2bc\build_script_build-375ca778428de2bc.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9750456-06:00
+  size: 1568768
+  aliases: []
+  displayName: target\debug\build\quote-375ca778428de2bc\build_script_build-375ca778428de2bc.pdb
+  mtime: 2025-12-17T23:59:31.6151196-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9750584-06:00
+- id: 939
+  canonicalPath: target\debug\build\quote-375ca778428de2bc\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\quote-375ca778428de2bc\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\quote-375ca778428de2bc\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9804939-06:00
+  size: 1568768
+  aliases: []
+  displayName: target\debug\build\quote-375ca778428de2bc\build_script_build.pdb
+  mtime: 2025-12-17T23:59:31.6151196-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9805073-06:00
+- id: 940
+  canonicalPath: target\debug\build\quote-375ca778428de2bc\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\quote-375ca778428de2bc\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\quote-375ca778428de2bc\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.9861944-06:00
+  size: 272896
+  aliases: []
+  displayName: target\debug\build\quote-375ca778428de2bc\build-script-build.exe
+  mtime: 2025-12-17T23:59:31.6085425-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.9862092-06:00
+generatedAt: 2025-12-18T01:53:38.1586846-06:00
+fileCount: 5
+folderId: target_debug_build_quote-375ca778428de2bc
+folderPath: target\debug\build\quote-375ca778428de2bc
+

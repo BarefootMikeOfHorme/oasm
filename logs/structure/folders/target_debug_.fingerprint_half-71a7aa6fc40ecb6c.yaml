@@ -1,0 +1,98 @@
+files:
+- id: 492
+  canonicalPath: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\dep-lib-half
+  total: 4270
+  originalName: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\dep-lib-half
+  nameHistory:
+  - new: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\dep-lib-half
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.4020940-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\dep-lib-half
+  mtime: 2025-12-17T23:59:31.5334339-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.4021100-06:00
+- id: 493
+  canonicalPath: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.4074941-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.5334339-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.4075101-06:00
+- id: 494
+  canonicalPath: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\lib-half
+  total: 4270
+  originalName: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\lib-half
+  nameHistory:
+  - new: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\lib-half
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.4131393-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\lib-half
+  mtime: 2025-12-17T23:59:31.9516683-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.4131543-06:00
+- id: 495
+  canonicalPath: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\lib-half.json
+  total: 4270
+  originalName: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\lib-half.json
+  nameHistory:
+  - new: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\lib-half.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.4191449-06:00
+  size: 454
+  aliases: []
+  displayName: target\debug\.fingerprint\half-71a7aa6fc40ecb6c\lib-half.json
+  mtime: 2025-12-17T23:59:31.9532057-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.4191604-06:00
+generatedAt: 2025-12-18T01:53:40.8959498-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_half-71a7aa6fc40ecb6c
+folderPath: target\debug\.fingerprint\half-71a7aa6fc40ecb6c
+

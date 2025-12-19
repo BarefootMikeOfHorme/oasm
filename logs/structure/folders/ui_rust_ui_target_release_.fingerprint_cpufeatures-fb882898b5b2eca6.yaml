@@ -1,0 +1,98 @@
+files:
+- id: 3747
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\dep-lib-cpufeatures
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\dep-lib-cpufeatures
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\dep-lib-cpufeatures
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.6362396-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\dep-lib-cpufeatures
+  mtime: 2025-12-16T22:47:38.9650346-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.6362530-06:00
+- id: 3748
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.6421333-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\invoked.timestamp
+  mtime: 2025-12-16T22:47:38.9650346-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.6421457-06:00
+- id: 3749
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.6475706-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures
+  mtime: 2025-12-16T22:47:39.1231424-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.6475857-06:00
+- id: 3750
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.6531990-06:00
+  size: 359
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6\lib-cpufeatures.json
+  mtime: 2025-12-16T22:47:39.1241499-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.6532130-06:00
+generatedAt: 2025-12-18T01:53:40.1484632-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_cpufeatures-fb882898b5b2eca6
+folderPath: ui\rust_ui\target\release\.fingerprint\cpufeatures-fb882898b5b2eca6
+

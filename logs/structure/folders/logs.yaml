@@ -1,0 +1,52 @@
+files:
+- id: 55
+  canonicalPath: logs\cli_state_schema.json
+  total: 4270
+  originalName: logs\cli_state_schema.json
+  nameHistory:
+  - new: logs\cli_state_schema.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9589889-06:00
+  size: 460
+  aliases: []
+  displayName: logs\cli_state_schema.json
+  mtime: 2025-12-17T17:13:14.3544901-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9590067-06:00
+- id: 58
+  canonicalPath: logs\diagnostic_index_schema.json
+  total: 4270
+  originalName: logs\diagnostic_index_schema.json
+  nameHistory:
+  - new: logs\diagnostic_index_schema.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.9754668-06:00
+  size: 422
+  aliases: []
+  displayName: logs\diagnostic_index_schema.json
+  mtime: 2025-12-17T17:13:14.3590527-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.9754824-06:00
+generatedAt: 2025-12-18T01:53:40.5587194-06:00
+fileCount: 2
+folderId: logs
+folderPath: logs
+

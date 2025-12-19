@@ -1,0 +1,98 @@
+files:
+- id: 2963
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\build-script-build-script-build
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\build-script-build-script-build
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.2770466-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\build-script-build-script-build
+  mtime: 2025-12-16T21:19:29.0025693-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.2770632-06:00
+- id: 2964
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\build-script-build-script-build.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\build-script-build-script-build.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.2826177-06:00
+  size: 541
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\build-script-build-script-build.json
+  mtime: 2025-12-16T21:19:29.0040990-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.2826327-06:00
+- id: 2965
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\dep-build-script-build-script-build
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\dep-build-script-build-script-build
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\dep-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.2882445-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\dep-build-script-build-script-build
+  mtime: 2025-12-16T21:19:28.8089868-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.2882592-06:00
+- id: 2966
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.2935904-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd\invoked.timestamp
+  mtime: 2025-12-16T21:19:28.8089868-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.2936065-06:00
+generatedAt: 2025-12-18T01:53:38.1804121-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_.fingerprint_serde_json-2befb111f01e96fd
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\serde_json-2befb111f01e96fd
+

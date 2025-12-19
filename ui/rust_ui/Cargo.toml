@@ -10,18 +10,29 @@ bindings = []
 default = ["bindings"]
 
 [dependencies]
+# Logging / tracing
 tracing = "0.1"
 tracing-subscriber = "0.3"
+log = "0.4"
+env_logger = "0.11"
+
+# Async runtime
 tokio = { version = "1", features = ["rt-multi-thread", "macros", "time"] }
+
+# Serialization
 serde = { version = "1", features = ["derive"] }
 serde_yaml = "0.9"
 serde_json = "1.0"
+serde_cbor = "0.11"
+
+# Utilities
 sha2 = "0.10"
 libloading = "0.8"
 anyhow = "1.0"
 thiserror = "1.0"
 once_cell = "1.19"
 
+# Local crates (DLLs / plugins)
 core_math     = { path = "bin/core_math" }
 ipc_bridge    = { path = "bin/ipc_bridge" }
 validation    = { path = "bin/validation" }

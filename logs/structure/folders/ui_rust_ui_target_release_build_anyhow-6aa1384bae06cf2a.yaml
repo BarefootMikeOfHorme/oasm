@@ -1,0 +1,121 @@
+files:
+- id: 3999
+  canonicalPath: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build-6aa1384bae06cf2a.d
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build-6aa1384bae06cf2a.d
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build-6aa1384bae06cf2a.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.0084356-06:00
+  size: 585
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build-6aa1384bae06cf2a.d
+  mtime: 2025-12-16T22:47:39.0531328-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.0084549-06:00
+- id: 4000
+  canonicalPath: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build-6aa1384bae06cf2a.exe
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build-6aa1384bae06cf2a.exe
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build-6aa1384bae06cf2a.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.0141345-06:00
+  size: 314880
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build-6aa1384bae06cf2a.exe
+  mtime: 2025-12-16T22:47:39.2255076-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.0141494-06:00
+- id: 4001
+  canonicalPath: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build-6aa1384bae06cf2a.pdb
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build-6aa1384bae06cf2a.pdb
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build-6aa1384bae06cf2a.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.0195120-06:00
+  size: 1658880
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build-6aa1384bae06cf2a.pdb
+  mtime: 2025-12-16T22:47:39.2285863-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.0195269-06:00
+- id: 4002
+  canonicalPath: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build.pdb
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build.pdb
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.0250865-06:00
+  size: 1658880
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build_script_build.pdb
+  mtime: 2025-12-16T22:47:39.2285863-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.0251002-06:00
+- id: 4003
+  canonicalPath: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build-script-build.exe
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build-script-build.exe
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.0304807-06:00
+  size: 314880
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a\build-script-build.exe
+  mtime: 2025-12-16T22:47:39.2255076-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.0304948-06:00
+generatedAt: 2025-12-18T01:53:39.3399051-06:00
+fileCount: 5
+folderId: ui_rust_ui_target_release_build_anyhow-6aa1384bae06cf2a
+folderPath: ui\rust_ui\target\release\build\anyhow-6aa1384bae06cf2a
+

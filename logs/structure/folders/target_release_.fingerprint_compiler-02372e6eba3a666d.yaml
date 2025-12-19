@@ -1,0 +1,52 @@
+files:
+- id: 1741
+  canonicalPath: target\release\.fingerprint\compiler-02372e6eba3a666d\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\compiler-02372e6eba3a666d\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\compiler-02372e6eba3a666d\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5175939-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\compiler-02372e6eba3a666d\invoked.timestamp
+  mtime: 2025-12-17T23:56:50.9754456-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5176069-06:00
+- id: 1742
+  canonicalPath: target\release\.fingerprint\compiler-02372e6eba3a666d\output-lib-compiler
+  total: 4270
+  originalName: target\release\.fingerprint\compiler-02372e6eba3a666d\output-lib-compiler
+  nameHistory:
+  - new: target\release\.fingerprint\compiler-02372e6eba3a666d\output-lib-compiler
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.5229939-06:00
+  size: 13442
+  aliases: []
+  displayName: target\release\.fingerprint\compiler-02372e6eba3a666d\output-lib-compiler
+  mtime: 2025-12-17T23:56:51.1040820-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.5230076-06:00
+generatedAt: 2025-12-18T01:53:39.4136476-06:00
+fileCount: 2
+folderId: target_release_.fingerprint_compiler-02372e6eba3a666d
+folderPath: target\release\.fingerprint\compiler-02372e6eba3a666d
+

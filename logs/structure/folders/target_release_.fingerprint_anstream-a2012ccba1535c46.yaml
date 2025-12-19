@@ -1,0 +1,98 @@
+files:
+- id: 1671
+  canonicalPath: target\release\.fingerprint\anstream-a2012ccba1535c46\dep-lib-anstream
+  total: 4270
+  originalName: target\release\.fingerprint\anstream-a2012ccba1535c46\dep-lib-anstream
+  nameHistory:
+  - new: target\release\.fingerprint\anstream-a2012ccba1535c46\dep-lib-anstream
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.1373131-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\anstream-a2012ccba1535c46\dep-lib-anstream
+  mtime: 2025-12-17T23:56:46.4270246-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.1373313-06:00
+- id: 1672
+  canonicalPath: target\release\.fingerprint\anstream-a2012ccba1535c46\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\anstream-a2012ccba1535c46\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\anstream-a2012ccba1535c46\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.1428441-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\anstream-a2012ccba1535c46\invoked.timestamp
+  mtime: 2025-12-17T23:56:46.4270246-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.1428603-06:00
+- id: 1673
+  canonicalPath: target\release\.fingerprint\anstream-a2012ccba1535c46\lib-anstream
+  total: 4270
+  originalName: target\release\.fingerprint\anstream-a2012ccba1535c46\lib-anstream
+  nameHistory:
+  - new: target\release\.fingerprint\anstream-a2012ccba1535c46\lib-anstream
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.1485966-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\anstream-a2012ccba1535c46\lib-anstream
+  mtime: 2025-12-17T23:56:46.9938062-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.1486116-06:00
+- id: 1674
+  canonicalPath: target\release\.fingerprint\anstream-a2012ccba1535c46\lib-anstream.json
+  total: 4270
+  originalName: target\release\.fingerprint\anstream-a2012ccba1535c46\lib-anstream.json
+  nameHistory:
+  - new: target\release\.fingerprint\anstream-a2012ccba1535c46\lib-anstream.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.1537663-06:00
+  size: 876
+  aliases: []
+  displayName: target\release\.fingerprint\anstream-a2012ccba1535c46\lib-anstream.json
+  mtime: 2025-12-17T23:56:46.9938062-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.1537803-06:00
+generatedAt: 2025-12-18T01:53:36.5336085-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_anstream-a2012ccba1535c46
+folderPath: target\release\.fingerprint\anstream-a2012ccba1535c46
+

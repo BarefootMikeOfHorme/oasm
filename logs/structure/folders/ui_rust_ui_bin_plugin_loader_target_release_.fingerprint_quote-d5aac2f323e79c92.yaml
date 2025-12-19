@@ -1,0 +1,52 @@
+files:
+- id: 3290
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\quote-d5aac2f323e79c92\run-build-script-build-script-build
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\quote-d5aac2f323e79c92\run-build-script-build-script-build
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\quote-d5aac2f323e79c92\run-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.0656331-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\quote-d5aac2f323e79c92\run-build-script-build-script-build
+  mtime: 2025-12-16T21:32:27.2715168-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.0656463-06:00
+- id: 3291
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\quote-d5aac2f323e79c92\run-build-script-build-script-build.json
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\quote-d5aac2f323e79c92\run-build-script-build-script-build.json
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\quote-d5aac2f323e79c92\run-build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.0706683-06:00
+  size: 329
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\quote-d5aac2f323e79c92\run-build-script-build-script-build.json
+  mtime: 2025-12-16T21:32:27.2715168-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.0706816-06:00
+generatedAt: 2025-12-18T01:53:38.3641650-06:00
+fileCount: 2
+folderId: ui_rust_ui_bin_plugin_loader_target_release_.fingerprint_quote-d5aac2f323e79c92
+folderPath: ui\rust_ui\bin\plugin_loader\target\release\.fingerprint\quote-d5aac2f323e79c92
+

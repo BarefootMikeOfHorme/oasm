@@ -1,0 +1,98 @@
+files:
+- id: 434
+  canonicalPath: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\build-script-build-script-build
+  total: 4270
+  originalName: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\build-script-build-script-build
+  nameHistory:
+  - new: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.0772207-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\build-script-build-script-build
+  mtime: 2025-12-17T23:59:31.8666358-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.0772371-06:00
+- id: 435
+  canonicalPath: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\build-script-build-script-build.json
+  total: 4270
+  originalName: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\build-script-build-script-build.json
+  nameHistory:
+  - new: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\build-script-build-script-build.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.0826614-06:00
+  size: 428
+  aliases: []
+  displayName: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\build-script-build-script-build.json
+  mtime: 2025-12-17T23:59:31.8681669-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.0826764-06:00
+- id: 436
+  canonicalPath: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\dep-build-script-build-script-build
+  total: 4270
+  originalName: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\dep-build-script-build-script-build
+  nameHistory:
+  - new: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\dep-build-script-build-script-build
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.0878969-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\dep-build-script-build-script-build
+  mtime: 2025-12-17T23:59:31.3043784-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.0879116-06:00
+- id: 437
+  canonicalPath: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.0933252-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.3043784-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.0933413-06:00
+generatedAt: 2025-12-18T01:53:35.9005500-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_crossbeam-utils-944b2244646a307b
+folderPath: target\debug\.fingerprint\crossbeam-utils-944b2244646a307b
+

@@ -1,0 +1,52 @@
+files:
+- id: 339
+  canonicalPath: target\.rustc_info.json
+  total: 4270
+  originalName: target\.rustc_info.json
+  nameHistory:
+  - new: target\.rustc_info.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.5500881-06:00
+  size: 1121
+  aliases: []
+  displayName: target\.rustc_info.json
+  mtime: 2025-12-17T23:56:53.5410745-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.5501047-06:00
+- id: 340
+  canonicalPath: target\CACHEDIR.TAG
+  total: 4270
+  originalName: target\CACHEDIR.TAG
+  nameHistory:
+  - new: target\CACHEDIR.TAG
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.5549310-06:00
+  size: 177
+  aliases: []
+  displayName: target\CACHEDIR.TAG
+  mtime: 2025-12-17T23:56:43.3422995-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.5549466-06:00
+generatedAt: 2025-12-18T01:53:38.4339659-06:00
+fileCount: 2
+folderId: target
+folderPath: target
+

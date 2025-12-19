@@ -1,0 +1,144 @@
+files:
+- id: 3543
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.cargo-lock
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.cargo-lock
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.cargo-lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:31.4999686-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\.cargo-lock
+  mtime: 2025-12-16T21:19:33.1484091-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:31.4999860-06:00
+- id: 3693
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.d
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.d
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3269114-06:00
+  size: 207
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.d
+  mtime: 2025-12-16T21:19:38.1708952-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3269253-06:00
+- id: 3694
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3323960-06:00
+  size: 1927168
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.dll
+  mtime: 2025-12-16T21:32:26.2829251-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3324111-06:00
+- id: 3695
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.dll.exp
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.dll.exp
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3378595-06:00
+  size: 1078
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.dll.exp
+  mtime: 2025-12-16T21:32:26.2533854-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3378765-06:00
+- id: 3696
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.dll.lib
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.dll.lib
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3432374-06:00
+  size: 1956
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.dll.lib
+  mtime: 2025-12-16T21:32:26.2549350-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3432508-06:00
+- id: 3697
+  canonicalPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3483991-06:00
+  size: 2256896
+  aliases: []
+  displayName: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release\validation.pdb
+  mtime: 2025-12-16T21:32:26.2854705-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3484244-06:00
+generatedAt: 2025-12-18T01:53:41.5310743-06:00
+fileCount: 6
+folderId: ui_rust_ui_bin_validation_target_x86_64-pc-windows-msvc_release
+folderPath: ui\rust_ui\bin\validation\target\x86_64-pc-windows-msvc\release
+

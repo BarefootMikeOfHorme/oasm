@@ -1,0 +1,98 @@
+files:
+- id: 3801
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\dep-lib-memchr
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\dep-lib-memchr
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\dep-lib-memchr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.9284813-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\dep-lib-memchr
+  mtime: 2025-12-16T22:47:38.9634979-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.9284945-06:00
+- id: 3802
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.9338097-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\invoked.timestamp
+  mtime: 2025-12-16T22:47:38.9634979-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.9338223-06:00
+- id: 3803
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.9391308-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr
+  mtime: 2025-12-16T22:47:39.8213296-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.9391468-06:00
+- id: 3804
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.9449007-06:00
+  size: 468
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d\lib-memchr.json
+  mtime: 2025-12-16T22:47:39.8213296-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.9449188-06:00
+generatedAt: 2025-12-18T01:53:41.6026207-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_memchr-b382c1f10b6e6b3d
+folderPath: ui\rust_ui\target\release\.fingerprint\memchr-b382c1f10b6e6b3d
+

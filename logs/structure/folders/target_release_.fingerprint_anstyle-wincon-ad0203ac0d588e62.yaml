@@ -1,0 +1,98 @@
+files:
+- id: 1687
+  canonicalPath: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\dep-lib-anstyle_wincon
+  total: 4270
+  originalName: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\dep-lib-anstyle_wincon
+  nameHistory:
+  - new: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\dep-lib-anstyle_wincon
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.2234555-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\dep-lib-anstyle_wincon
+  mtime: 2025-12-17T23:56:46.2666691-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.2234688-06:00
+- id: 1688
+  canonicalPath: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.2289021-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\invoked.timestamp
+  mtime: 2025-12-17T23:56:46.2666691-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.2289156-06:00
+- id: 1689
+  canonicalPath: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\lib-anstyle_wincon
+  total: 4270
+  originalName: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\lib-anstyle_wincon
+  nameHistory:
+  - new: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\lib-anstyle_wincon
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.2342322-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\lib-anstyle_wincon
+  mtime: 2025-12-17T23:56:46.5996996-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.2342451-06:00
+- id: 1690
+  canonicalPath: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\lib-anstyle_wincon.json
+  total: 4270
+  originalName: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\lib-anstyle_wincon.json
+  nameHistory:
+  - new: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\lib-anstyle_wincon.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.2394726-06:00
+  size: 556
+  aliases: []
+  displayName: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62\lib-anstyle_wincon.json
+  mtime: 2025-12-17T23:56:46.5996996-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.2394882-06:00
+generatedAt: 2025-12-18T01:53:38.9464211-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_anstyle-wincon-ad0203ac0d588e62
+folderPath: target\release\.fingerprint\anstyle-wincon-ad0203ac0d588e62
+

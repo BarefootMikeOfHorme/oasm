@@ -1,0 +1,98 @@
+files:
+- id: 3309
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.1764182-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\invoked.timestamp
+  mtime: 2025-12-16T21:32:27.2175339-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.1764339-06:00
+- id: 3310
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\output
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\output
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.1822567-06:00
+  size: 1061
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\output
+  mtime: 2025-12-16T21:32:27.2175339-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.1822691-06:00
+- id: 3311
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\root-output
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\root-output
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.1879556-06:00
+  size: 127
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\root-output
+  mtime: 2025-12-16T21:32:27.4089918-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.1879688-06:00
+- id: 3312
+  canonicalPath: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\stderr
+  total: 4270
+  originalName: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\stderr
+  nameHistory:
+  - new: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:30.1937135-06:00
+  size: 0
+  aliases: []
+  displayName: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9\stderr
+  mtime: 2025-12-16T21:32:27.4089918-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:30.1937324-06:00
+generatedAt: 2025-12-18T01:53:37.6065475-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_plugin_loader_target_release_build_proc-macro2-217cd283ec052dc9
+folderPath: ui\rust_ui\bin\plugin_loader\target\release\build\proc-macro2-217cd283ec052dc9
+

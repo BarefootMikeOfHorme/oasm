@@ -1,0 +1,98 @@
+files:
+- id: 3813
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\dep-lib-pin_project_lite
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\dep-lib-pin_project_lite
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\dep-lib-pin_project_lite
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.9931620-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\dep-lib-pin_project_lite
+  mtime: 2025-12-16T22:47:38.9634979-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.9931802-06:00
+- id: 3814
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.9986566-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\invoked.timestamp
+  mtime: 2025-12-16T22:47:38.9634979-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.9986963-06:00
+- id: 3815
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\lib-pin_project_lite
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\lib-pin_project_lite
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\lib-pin_project_lite
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.0042822-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\lib-pin_project_lite
+  mtime: 2025-12-16T22:47:39.1008909-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.0042997-06:00
+- id: 3816
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\lib-pin_project_lite.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\lib-pin_project_lite.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\lib-pin_project_lite.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.0098461-06:00
+  size: 370
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727\lib-pin_project_lite.json
+  mtime: 2025-12-16T22:47:39.1008909-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.0098644-06:00
+generatedAt: 2025-12-18T01:53:39.8714934-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_pin-project-lite-646499972acdf727
+folderPath: ui\rust_ui\target\release\.fingerprint\pin-project-lite-646499972acdf727
+

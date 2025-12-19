@@ -1,0 +1,98 @@
+files:
+- id: 852
+  canonicalPath: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\dep-lib-windows_sys
+  total: 4270
+  originalName: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\dep-lib-windows_sys
+  nameHistory:
+  - new: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\dep-lib-windows_sys
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.4796452-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\dep-lib-windows_sys
+  mtime: 2025-12-17T23:59:32.5790563-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.4796607-06:00
+- id: 853
+  canonicalPath: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.4853568-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\invoked.timestamp
+  mtime: 2025-12-17T23:59:32.5790563-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.4853711-06:00
+- id: 854
+  canonicalPath: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\lib-windows_sys
+  total: 4270
+  originalName: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\lib-windows_sys
+  nameHistory:
+  - new: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\lib-windows_sys
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.4907965-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\lib-windows_sys
+  mtime: 2025-12-17T23:59:33.7064577-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.4908107-06:00
+- id: 855
+  canonicalPath: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\lib-windows_sys.json
+  total: 4270
+  originalName: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\lib-windows_sys.json
+  nameHistory:
+  - new: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\lib-windows_sys.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.4966219-06:00
+  size: 9586
+  aliases: []
+  displayName: target\debug\.fingerprint\windows-sys-f39f9284d20376d8\lib-windows_sys.json
+  mtime: 2025-12-17T23:59:33.7079999-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.4966362-06:00
+generatedAt: 2025-12-18T01:53:38.7073237-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_windows-sys-f39f9284d20376d8
+folderPath: target\debug\.fingerprint\windows-sys-f39f9284d20376d8
+

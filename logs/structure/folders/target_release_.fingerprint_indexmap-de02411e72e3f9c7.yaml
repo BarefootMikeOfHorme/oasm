@@ -1,0 +1,98 @@
+files:
+- id: 1829
+  canonicalPath: target\release\.fingerprint\indexmap-de02411e72e3f9c7\dep-lib-indexmap
+  total: 4270
+  originalName: target\release\.fingerprint\indexmap-de02411e72e3f9c7\dep-lib-indexmap
+  nameHistory:
+  - new: target\release\.fingerprint\indexmap-de02411e72e3f9c7\dep-lib-indexmap
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.0000643-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\indexmap-de02411e72e3f9c7\dep-lib-indexmap
+  mtime: 2025-12-17T23:56:44.3172049-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.0000778-06:00
+- id: 1830
+  canonicalPath: target\release\.fingerprint\indexmap-de02411e72e3f9c7\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\indexmap-de02411e72e3f9c7\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\indexmap-de02411e72e3f9c7\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.0053662-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\indexmap-de02411e72e3f9c7\invoked.timestamp
+  mtime: 2025-12-17T23:56:44.3172049-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.0053812-06:00
+- id: 1831
+  canonicalPath: target\release\.fingerprint\indexmap-de02411e72e3f9c7\lib-indexmap
+  total: 4270
+  originalName: target\release\.fingerprint\indexmap-de02411e72e3f9c7\lib-indexmap
+  nameHistory:
+  - new: target\release\.fingerprint\indexmap-de02411e72e3f9c7\lib-indexmap
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.0108594-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\indexmap-de02411e72e3f9c7\lib-indexmap
+  mtime: 2025-12-17T23:56:45.3593360-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.0108727-06:00
+- id: 1832
+  canonicalPath: target\release\.fingerprint\indexmap-de02411e72e3f9c7\lib-indexmap.json
+  total: 4270
+  originalName: target\release\.fingerprint\indexmap-de02411e72e3f9c7\lib-indexmap.json
+  nameHistory:
+  - new: target\release\.fingerprint\indexmap-de02411e72e3f9c7\lib-indexmap.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.0159889-06:00
+  size: 605
+  aliases: []
+  displayName: target\release\.fingerprint\indexmap-de02411e72e3f9c7\lib-indexmap.json
+  mtime: 2025-12-17T23:56:45.3608534-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.0160025-06:00
+generatedAt: 2025-12-18T01:53:40.3032934-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_indexmap-de02411e72e3f9c7
+folderPath: target\release\.fingerprint\indexmap-de02411e72e3f9c7
+

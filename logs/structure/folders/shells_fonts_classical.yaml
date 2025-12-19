@@ -1,0 +1,29 @@
+files:
+- id: 145
+  canonicalPath: shells\fonts\classical\EBGaramond.zip
+  total: 4270
+  originalName: shells\fonts\classical\EBGaramond.zip
+  nameHistory:
+  - new: shells\fonts\classical\EBGaramond.zip
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.4780084-06:00
+  size: 9
+  aliases: []
+  displayName: shells\fonts\classical\EBGaramond.zip
+  mtime: 2025-12-17T23:01:44.3686345-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.4780337-06:00
+generatedAt: 2025-12-18T01:53:36.2280844-06:00
+fileCount: 1
+folderId: shells_fonts_classical
+folderPath: shells\fonts\classical
+

@@ -1,0 +1,29 @@
+files:
+- id: 332
+  canonicalPath: shells\wpshell\cmd\assemble.ps1
+  total: 4270
+  originalName: shells\wpshell\cmd\assemble.ps1
+  nameHistory:
+  - new: shells\wpshell\cmd\assemble.ps1
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.5095844-06:00
+  size: 152
+  aliases: []
+  displayName: shells\wpshell\cmd\assemble.ps1
+  mtime: 2025-12-17T23:45:27.4738446-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.5096057-06:00
+generatedAt: 2025-12-18T01:53:37.0502716-06:00
+fileCount: 1
+folderId: shells_wpshell_cmd
+folderPath: shells\wpshell\cmd
+

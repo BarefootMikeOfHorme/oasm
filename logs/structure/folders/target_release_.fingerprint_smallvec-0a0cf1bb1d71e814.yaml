@@ -1,0 +1,98 @@
+files:
+- id: 2041
+  canonicalPath: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\dep-lib-smallvec
+  total: 4270
+  originalName: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\dep-lib-smallvec
+  nameHistory:
+  - new: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\dep-lib-smallvec
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.1654296-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\dep-lib-smallvec
+  mtime: 2025-12-17T23:56:43.4815639-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.1654509-06:00
+- id: 2042
+  canonicalPath: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.1715919-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\invoked.timestamp
+  mtime: 2025-12-17T23:56:43.4815639-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.1716040-06:00
+- id: 2043
+  canonicalPath: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec
+  total: 4270
+  originalName: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec
+  nameHistory:
+  - new: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.1777941-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec
+  mtime: 2025-12-17T23:56:43.7979562-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.1778128-06:00
+- id: 2044
+  canonicalPath: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec.json
+  total: 4270
+  originalName: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec.json
+  nameHistory:
+  - new: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:23.1840665-06:00
+  size: 595
+  aliases: []
+  displayName: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814\lib-smallvec.json
+  mtime: 2025-12-17T23:56:43.7989631-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:23.1840897-06:00
+generatedAt: 2025-12-18T01:53:37.4766052-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_smallvec-0a0cf1bb1d71e814
+folderPath: target\release\.fingerprint\smallvec-0a0cf1bb1d71e814
+

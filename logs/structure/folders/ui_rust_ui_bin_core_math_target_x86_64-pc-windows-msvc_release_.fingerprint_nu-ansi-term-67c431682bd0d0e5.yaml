@@ -1,0 +1,98 @@
+files:
+- id: 2799
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\dep-lib-nu_ansi_term
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\dep-lib-nu_ansi_term
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\dep-lib-nu_ansi_term
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.3583969-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\dep-lib-nu_ansi_term
+  mtime: 2025-12-16T21:19:24.5808482-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.3584106-06:00
+- id: 2800
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.3636926-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\invoked.timestamp
+  mtime: 2025-12-16T21:19:24.5808482-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.3637070-06:00
+- id: 2801
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\lib-nu_ansi_term
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\lib-nu_ansi_term
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\lib-nu_ansi_term
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.3690033-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\lib-nu_ansi_term
+  mtime: 2025-12-16T21:19:24.8816185-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.3690200-06:00
+- id: 2802
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\lib-nu_ansi_term.json
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\lib-nu_ansi_term.json
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\lib-nu_ansi_term.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.3754665-06:00
+  size: 551
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5\lib-nu_ansi_term.json
+  mtime: 2025-12-16T21:19:24.8816185-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.3754870-06:00
+generatedAt: 2025-12-18T01:53:38.3077188-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_core_math_target_x86_64-pc-windows-msvc_release_.fingerprint_nu-ansi-term-67c431682bd0d0e5
+folderPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\nu-ansi-term-67c431682bd0d0e5
+

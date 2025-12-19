@@ -1,0 +1,98 @@
+files:
+- id: 2313
+  canonicalPath: target\release\build\thiserror-fa146a30dcee840a\invoked.timestamp
+  total: 4270
+  originalName: target\release\build\thiserror-fa146a30dcee840a\invoked.timestamp
+  nameHistory:
+  - new: target\release\build\thiserror-fa146a30dcee840a\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.6956032-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\build\thiserror-fa146a30dcee840a\invoked.timestamp
+  mtime: 2025-12-17T23:56:44.4328914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.6956169-06:00
+- id: 2314
+  canonicalPath: target\release\build\thiserror-fa146a30dcee840a\output
+  total: 4270
+  originalName: target\release\build\thiserror-fa146a30dcee840a\output
+  nameHistory:
+  - new: target\release\build\thiserror-fa146a30dcee840a\output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7010047-06:00
+  size: 189
+  aliases: []
+  displayName: target\release\build\thiserror-fa146a30dcee840a\output
+  mtime: 2025-12-17T23:56:44.4328914-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7010183-06:00
+- id: 2315
+  canonicalPath: target\release\build\thiserror-fa146a30dcee840a\root-output
+  total: 4270
+  originalName: target\release\build\thiserror-fa146a30dcee840a\root-output
+  nameHistory:
+  - new: target\release\build\thiserror-fa146a30dcee840a\root-output
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7073281-06:00
+  size: 96
+  aliases: []
+  displayName: target\release\build\thiserror-fa146a30dcee840a\root-output
+  mtime: 2025-12-17T23:56:44.7385478-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7073492-06:00
+- id: 2316
+  canonicalPath: target\release\build\thiserror-fa146a30dcee840a\stderr
+  total: 4270
+  originalName: target\release\build\thiserror-fa146a30dcee840a\stderr
+  nameHistory:
+  - new: target\release\build\thiserror-fa146a30dcee840a\stderr
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:24.7138399-06:00
+  size: 0
+  aliases: []
+  displayName: target\release\build\thiserror-fa146a30dcee840a\stderr
+  mtime: 2025-12-17T23:56:44.7385478-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:24.7138572-06:00
+generatedAt: 2025-12-18T01:53:41.5379144-06:00
+fileCount: 4
+folderId: target_release_build_thiserror-fa146a30dcee840a
+folderPath: target\release\build\thiserror-fa146a30dcee840a
+

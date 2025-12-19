@@ -1,0 +1,75 @@
+files:
+- id: 3702
+  canonicalPath: ui\rust_ui\config\oasm.default.yaml
+  total: 4270
+  originalName: ui\rust_ui\config\oasm.default.yaml
+  nameHistory:
+  - new: ui\rust_ui\config\oasm.default.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3751390-06:00
+  size: 264
+  aliases: []
+  displayName: ui\rust_ui\config\oasm.default.yaml
+  mtime: 2025-12-16T21:32:14.6935199-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3751514-06:00
+- id: 3703
+  canonicalPath: ui\rust_ui\config\oasm.schema.yaml
+  total: 4270
+  originalName: ui\rust_ui\config\oasm.schema.yaml
+  nameHistory:
+  - new: ui\rust_ui\config\oasm.schema.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3802782-06:00
+  size: 560
+  aliases: []
+  displayName: ui\rust_ui\config\oasm.schema.yaml
+  mtime: 2025-12-16T21:32:14.6698745-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3802920-06:00
+- id: 3704
+  canonicalPath: ui\rust_ui\config\runtime.yaml
+  total: 4270
+  originalName: ui\rust_ui\config\runtime.yaml
+  nameHistory:
+  - new: ui\rust_ui\config\runtime.yaml
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:32.3856566-06:00
+  size: 1721
+  aliases: []
+  displayName: ui\rust_ui\config\runtime.yaml
+  mtime: 2025-12-16T22:54:31.5665236-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:32.3856694-06:00
+generatedAt: 2025-12-18T01:53:41.5693521-06:00
+fileCount: 3
+folderId: ui_rust_ui_config
+folderPath: ui\rust_ui\config
+

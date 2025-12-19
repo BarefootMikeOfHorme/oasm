@@ -1,0 +1,121 @@
+files:
+- id: 4082
+  canonicalPath: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.d
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.d
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4725520-06:00
+  size: 587
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.d
+  mtime: 2025-12-16T22:47:39.0039998-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4725720-06:00
+- id: 4083
+  canonicalPath: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.exe
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.exe
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4791128-06:00
+  size: 211456
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.exe
+  mtime: 2025-12-16T22:47:39.1995152-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4791364-06:00
+- id: 4084
+  canonicalPath: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.pdb
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.pdb
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4855698-06:00
+  size: 1363968
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build-955267c7dc6a6d12.pdb
+  mtime: 2025-12-16T22:47:39.2026168-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4855861-06:00
+- id: 4085
+  canonicalPath: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build.pdb
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build.pdb
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4913990-06:00
+  size: 1363968
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build_script_build.pdb
+  mtime: 2025-12-16T22:47:39.2026168-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4914165-06:00
+- id: 4086
+  canonicalPath: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build-script-build.exe
+  total: 4270
+  originalName: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build-script-build.exe
+  nameHistory:
+  - new: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.4968807-06:00
+  size: 211456
+  aliases: []
+  displayName: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12\build-script-build.exe
+  mtime: 2025-12-16T22:47:39.1995152-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.4968957-06:00
+generatedAt: 2025-12-18T01:53:38.7205615-06:00
+fileCount: 5
+folderId: ui_rust_ui_target_release_build_typenum-955267c7dc6a6d12
+folderPath: ui\rust_ui\target\release\build\typenum-955267c7dc6a6d12
+

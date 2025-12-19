@@ -1,0 +1,98 @@
+files:
+- id: 1721
+  canonicalPath: target\release\.fingerprint\clap_builder-c9378360a48da0dc\dep-lib-clap_builder
+  total: 4270
+  originalName: target\release\.fingerprint\clap_builder-c9378360a48da0dc\dep-lib-clap_builder
+  nameHistory:
+  - new: target\release\.fingerprint\clap_builder-c9378360a48da0dc\dep-lib-clap_builder
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.4094679-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\clap_builder-c9378360a48da0dc\dep-lib-clap_builder
+  mtime: 2025-12-17T23:56:46.7916697-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.4094828-06:00
+- id: 1722
+  canonicalPath: target\release\.fingerprint\clap_builder-c9378360a48da0dc\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\clap_builder-c9378360a48da0dc\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\clap_builder-c9378360a48da0dc\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.4151022-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\clap_builder-c9378360a48da0dc\invoked.timestamp
+  mtime: 2025-12-17T23:56:46.7916697-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.4151165-06:00
+- id: 1723
+  canonicalPath: target\release\.fingerprint\clap_builder-c9378360a48da0dc\lib-clap_builder
+  total: 4270
+  originalName: target\release\.fingerprint\clap_builder-c9378360a48da0dc\lib-clap_builder
+  nameHistory:
+  - new: target\release\.fingerprint\clap_builder-c9378360a48da0dc\lib-clap_builder
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.4203138-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\clap_builder-c9378360a48da0dc\lib-clap_builder
+  mtime: 2025-12-17T23:56:50.6439502-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.4203273-06:00
+- id: 1724
+  canonicalPath: target\release\.fingerprint\clap_builder-c9378360a48da0dc\lib-clap_builder.json
+  total: 4270
+  originalName: target\release\.fingerprint\clap_builder-c9378360a48da0dc\lib-clap_builder.json
+  nameHistory:
+  - new: target\release\.fingerprint\clap_builder-c9378360a48da0dc\lib-clap_builder.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.4255021-06:00
+  size: 919
+  aliases: []
+  displayName: target\release\.fingerprint\clap_builder-c9378360a48da0dc\lib-clap_builder.json
+  mtime: 2025-12-17T23:56:50.6439502-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.4255149-06:00
+generatedAt: 2025-12-18T01:53:40.2582541-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_clap_builder-c9378360a48da0dc
+folderPath: target\release\.fingerprint\clap_builder-c9378360a48da0dc
+

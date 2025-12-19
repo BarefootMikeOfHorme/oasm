@@ -1,0 +1,98 @@
+files:
+- id: 3871
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\dep-lib-serde_core
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\dep-lib-serde_core
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\dep-lib-serde_core
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.3173053-06:00
+  size: 76
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\dep-lib-serde_core
+  mtime: 2025-12-16T22:47:39.4798343-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.3173240-06:00
+- id: 3872
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.3230295-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\invoked.timestamp
+  mtime: 2025-12-16T22:47:39.4798343-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.3230476-06:00
+- id: 3873
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\lib-serde_core
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\lib-serde_core
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\lib-serde_core
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.3289046-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\lib-serde_core
+  mtime: 2025-12-16T22:47:41.5206644-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.3289244-06:00
+- id: 3874
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\lib-serde_core.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\lib-serde_core.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\lib-serde_core.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.3350171-06:00
+  size: 510
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578\lib-serde_core.json
+  mtime: 2025-12-16T22:47:41.5222081-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.3350355-06:00
+generatedAt: 2025-12-18T01:53:41.5905757-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_serde_core-88cb8f2e57290578
+folderPath: ui\rust_ui\target\release\.fingerprint\serde_core-88cb8f2e57290578
+

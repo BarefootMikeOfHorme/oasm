@@ -1,0 +1,144 @@
+files:
+- id: 160
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Bold.otf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Bold.otf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Bold.otf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.5613300-06:00
+  size: 35776
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Bold.otf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.5613466-06:00
+- id: 161
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-BoldItalic.otf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-BoldItalic.otf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-BoldItalic.otf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.5668060-06:00
+  size: 35512
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-BoldItalic.otf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.5668228-06:00
+- id: 162
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Italic.otf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Italic.otf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Italic.otf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.5723326-06:00
+  size: 38488
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Italic.otf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.5723500-06:00
+- id: 163
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Light.otf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Light.otf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Light.otf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.5777295-06:00
+  size: 38016
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Light.otf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.5777476-06:00
+- id: 164
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-LightItalic.otf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-LightItalic.otf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-LightItalic.otf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.5832164-06:00
+  size: 38480
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-LightItalic.otf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.5832336-06:00
+- id: 165
+  canonicalPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Regular.otf
+  total: 4270
+  originalName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Regular.otf
+  nameHistory:
+  - new: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Regular.otf
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:12.5882844-06:00
+  size: 38796
+  aliases: []
+  displayName: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue\ComicNeue-Regular.otf
+  mtime: 2020-11-10T18:10:38.0000000-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:12.5883016-06:00
+generatedAt: 2025-12-18T01:53:40.6586740-06:00
+fileCount: 6
+folderId: shells_fonts_creative_ComicNeue_comicneue-master_Fonts_OTF_ComicNeue
+folderPath: shells\fonts\creative\ComicNeue\comicneue-master\Fonts\OTF\ComicNeue
+

@@ -1,0 +1,52 @@
+files:
+- id: 3853
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\rust_ui-0b29d044c5a72952\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\rust_ui-0b29d044c5a72952\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\rust_ui-0b29d044c5a72952\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.2207649-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\rust_ui-0b29d044c5a72952\invoked.timestamp
+  mtime: 2025-12-17T00:00:56.2043292-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.2207793-06:00
+- id: 3854
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\rust_ui-0b29d044c5a72952\output-bin-rust_ui
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\rust_ui-0b29d044c5a72952\output-bin-rust_ui
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\rust_ui-0b29d044c5a72952\output-bin-rust_ui
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.2263930-06:00
+  size: 17676
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\rust_ui-0b29d044c5a72952\output-bin-rust_ui
+  mtime: 2025-12-17T00:00:57.1627972-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.2264109-06:00
+generatedAt: 2025-12-18T01:53:36.0110277-06:00
+fileCount: 2
+folderId: ui_rust_ui_target_release_.fingerprint_rust_ui-0b29d044c5a72952
+folderPath: ui\rust_ui\target\release\.fingerprint\rust_ui-0b29d044c5a72952
+

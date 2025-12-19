@@ -1,0 +1,98 @@
+files:
+- id: 496
+  canonicalPath: target\debug\.fingerprint\hashbrown-78fe8637e38de651\dep-lib-hashbrown
+  total: 4270
+  originalName: target\debug\.fingerprint\hashbrown-78fe8637e38de651\dep-lib-hashbrown
+  nameHistory:
+  - new: target\debug\.fingerprint\hashbrown-78fe8637e38de651\dep-lib-hashbrown
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.4248772-06:00
+  size: 14
+  aliases: []
+  displayName: target\debug\.fingerprint\hashbrown-78fe8637e38de651\dep-lib-hashbrown
+  mtime: 2025-12-17T23:59:31.3043784-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.4248939-06:00
+- id: 497
+  canonicalPath: target\debug\.fingerprint\hashbrown-78fe8637e38de651\invoked.timestamp
+  total: 4270
+  originalName: target\debug\.fingerprint\hashbrown-78fe8637e38de651\invoked.timestamp
+  nameHistory:
+  - new: target\debug\.fingerprint\hashbrown-78fe8637e38de651\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.4304932-06:00
+  size: 48
+  aliases: []
+  displayName: target\debug\.fingerprint\hashbrown-78fe8637e38de651\invoked.timestamp
+  mtime: 2025-12-17T23:59:31.3043784-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.4305117-06:00
+- id: 498
+  canonicalPath: target\debug\.fingerprint\hashbrown-78fe8637e38de651\lib-hashbrown
+  total: 4270
+  originalName: target\debug\.fingerprint\hashbrown-78fe8637e38de651\lib-hashbrown
+  nameHistory:
+  - new: target\debug\.fingerprint\hashbrown-78fe8637e38de651\lib-hashbrown
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.4358341-06:00
+  size: 16
+  aliases: []
+  displayName: target\debug\.fingerprint\hashbrown-78fe8637e38de651\lib-hashbrown
+  mtime: 2025-12-17T23:59:32.1393396-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.4358493-06:00
+- id: 499
+  canonicalPath: target\debug\.fingerprint\hashbrown-78fe8637e38de651\lib-hashbrown.json
+  total: 4270
+  originalName: target\debug\.fingerprint\hashbrown-78fe8637e38de651\lib-hashbrown.json
+  nameHistory:
+  - new: target\debug\.fingerprint\hashbrown-78fe8637e38de651\lib-hashbrown.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:14.4416709-06:00
+  size: 557
+  aliases: []
+  displayName: target\debug\.fingerprint\hashbrown-78fe8637e38de651\lib-hashbrown.json
+  mtime: 2025-12-17T23:59:32.1393396-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:14.4416854-06:00
+generatedAt: 2025-12-18T01:53:41.6612093-06:00
+fileCount: 4
+folderId: target_debug_.fingerprint_hashbrown-78fe8637e38de651
+folderPath: target\debug\.fingerprint\hashbrown-78fe8637e38de651
+

@@ -1,0 +1,443 @@
+files:
+- id: 341
+  canonicalPath: target\debug\.cargo-lock
+  total: 4270
+  originalName: target\debug\.cargo-lock
+  nameHistory:
+  - new: target\debug\.cargo-lock
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.5618292-06:00
+  size: 0
+  aliases: []
+  displayName: target\debug\.cargo-lock
+  mtime: 2025-12-17T23:59:31.1773626-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.5618516-06:00
+- id: 1020
+  canonicalPath: target\debug\core_math.dll
+  total: 4270
+  originalName: target\debug\core_math.dll
+  nameHistory:
+  - new: target\debug\core_math.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.4545232-06:00
+  size: 193536
+  aliases: []
+  displayName: target\debug\core_math.dll
+  mtime: 2025-12-17T23:59:36.5838266-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.4545412-06:00
+- id: 1021
+  canonicalPath: target\debug\core_math.dll.exp
+  total: 4270
+  originalName: target\debug\core_math.dll.exp
+  nameHistory:
+  - new: target\debug\core_math.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.4615423-06:00
+  size: 1105
+  aliases: []
+  displayName: target\debug\core_math.dll.exp
+  mtime: 2025-12-17T23:59:36.5654537-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.4615645-06:00
+- id: 1022
+  canonicalPath: target\debug\core_math.dll.lib
+  total: 4270
+  originalName: target\debug\core_math.dll.lib
+  nameHistory:
+  - new: target\debug\core_math.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.4681103-06:00
+  size: 2122
+  aliases: []
+  displayName: target\debug\core_math.dll.lib
+  mtime: 2025-12-17T23:59:36.5670015-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.4681261-06:00
+- id: 1023
+  canonicalPath: target\debug\core_math.pdb
+  total: 4270
+  originalName: target\debug\core_math.pdb
+  nameHistory:
+  - new: target\debug\core_math.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:17.4749117-06:00
+  size: 2134016
+  aliases: []
+  displayName: target\debug\core_math.pdb
+  mtime: 2025-12-17T23:59:36.5838266-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:17.4749299-06:00
+- id: 1652
+  canonicalPath: target\debug\ipc_bridge.dll
+  total: 4270
+  originalName: target\debug\ipc_bridge.dll
+  nameHistory:
+  - new: target\debug\ipc_bridge.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0232836-06:00
+  size: 252928
+  aliases: []
+  displayName: target\debug\ipc_bridge.dll
+  mtime: 2025-12-17T23:59:37.6820045-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0232975-06:00
+- id: 1653
+  canonicalPath: target\debug\ipc_bridge.dll.exp
+  total: 4270
+  originalName: target\debug\ipc_bridge.dll.exp
+  nameHistory:
+  - new: target\debug\ipc_bridge.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0285760-06:00
+  size: 881
+  aliases: []
+  displayName: target\debug\ipc_bridge.dll.exp
+  mtime: 2025-12-17T23:59:37.6621278-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0285923-06:00
+- id: 1654
+  canonicalPath: target\debug\ipc_bridge.dll.lib
+  total: 4270
+  originalName: target\debug\ipc_bridge.dll.lib
+  nameHistory:
+  - new: target\debug\ipc_bridge.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0339523-06:00
+  size: 1758
+  aliases: []
+  displayName: target\debug\ipc_bridge.dll.lib
+  mtime: 2025-12-17T23:59:37.6641740-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0339660-06:00
+- id: 1655
+  canonicalPath: target\debug\ipc_bridge.pdb
+  total: 4270
+  originalName: target\debug\ipc_bridge.pdb
+  nameHistory:
+  - new: target\debug\ipc_bridge.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0395732-06:00
+  size: 3518464
+  aliases: []
+  displayName: target\debug\ipc_bridge.pdb
+  mtime: 2025-12-17T23:59:37.6850634-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0395873-06:00
+- id: 1656
+  canonicalPath: target\debug\liboasm_api.rlib
+  total: 4270
+  originalName: target\debug\liboasm_api.rlib
+  nameHistory:
+  - new: target\debug\liboasm_api.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0449654-06:00
+  size: 715096
+  aliases: []
+  displayName: target\debug\liboasm_api.rlib
+  mtime: 2025-12-17T23:59:32.6833209-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0449781-06:00
+- id: 1657
+  canonicalPath: target\debug\liboasm_core.rlib
+  total: 4270
+  originalName: target\debug\liboasm_core.rlib
+  nameHistory:
+  - new: target\debug\liboasm_core.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0501946-06:00
+  size: 2471116
+  aliases: []
+  displayName: target\debug\liboasm_core.rlib
+  mtime: 2025-12-17T23:59:33.0735016-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0502085-06:00
+- id: 1658
+  canonicalPath: target\debug\plugin_loader.dll
+  total: 4270
+  originalName: target\debug\plugin_loader.dll
+  nameHistory:
+  - new: target\debug\plugin_loader.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0555799-06:00
+  size: 247808
+  aliases: []
+  displayName: target\debug\plugin_loader.dll
+  mtime: 2025-12-17T23:59:36.6578630-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0555931-06:00
+- id: 1659
+  canonicalPath: target\debug\plugin_loader.dll.exp
+  total: 4270
+  originalName: target\debug\plugin_loader.dll.exp
+  nameHistory:
+  - new: target\debug\plugin_loader.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0608986-06:00
+  size: 889
+  aliases: []
+  displayName: target\debug\plugin_loader.dll.exp
+  mtime: 2025-12-17T23:59:36.6384260-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0609119-06:00
+- id: 1660
+  canonicalPath: target\debug\plugin_loader.dll.lib
+  total: 4270
+  originalName: target\debug\plugin_loader.dll.lib
+  nameHistory:
+  - new: target\debug\plugin_loader.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0661387-06:00
+  size: 1872
+  aliases: []
+  displayName: target\debug\plugin_loader.dll.lib
+  mtime: 2025-12-17T23:59:36.6414924-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0661516-06:00
+- id: 1661
+  canonicalPath: target\debug\plugin_loader.pdb
+  total: 4270
+  originalName: target\debug\plugin_loader.pdb
+  nameHistory:
+  - new: target\debug\plugin_loader.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0721480-06:00
+  size: 2584576
+  aliases: []
+  displayName: target\debug\plugin_loader.pdb
+  mtime: 2025-12-17T23:59:36.6593977-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0721682-06:00
+- id: 1662
+  canonicalPath: target\debug\validation.dll
+  total: 4270
+  originalName: target\debug\validation.dll
+  nameHistory:
+  - new: target\debug\validation.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0786806-06:00
+  size: 3708928
+  aliases: []
+  displayName: target\debug\validation.dll
+  mtime: 2025-12-17T23:59:36.7466484-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0787008-06:00
+- id: 1663
+  canonicalPath: target\debug\validation.dll.exp
+  total: 4270
+  originalName: target\debug\validation.dll.exp
+  nameHistory:
+  - new: target\debug\validation.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0854223-06:00
+  size: 881
+  aliases: []
+  displayName: target\debug\validation.dll.exp
+  mtime: 2025-12-17T23:59:36.6962019-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0854442-06:00
+- id: 1664
+  canonicalPath: target\debug\validation.dll.lib
+  total: 4270
+  originalName: target\debug\validation.dll.lib
+  nameHistory:
+  - new: target\debug\validation.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0916647-06:00
+  size: 1758
+  aliases: []
+  displayName: target\debug\validation.dll.lib
+  mtime: 2025-12-17T23:59:36.6992530-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0916833-06:00
+- id: 1665
+  canonicalPath: target\debug\validation.pdb
+  total: 4270
+  originalName: target\debug\validation.pdb
+  nameHistory:
+  - new: target\debug\validation.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:21.0973936-06:00
+  size: 17068032
+  aliases: []
+  displayName: target\debug\validation.pdb
+  mtime: 2025-12-17T23:59:36.7496902-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:21.0974096-06:00
+generatedAt: 2025-12-18T01:53:40.5804158-06:00
+fileCount: 19
+folderId: target_debug
+folderPath: target\debug
+

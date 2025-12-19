@@ -1,0 +1,1179 @@
+files:
+- id: 2852
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\cfg_if-2bf20875c555123c.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\cfg_if-2bf20875c555123c.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\cfg_if-2bf20875c555123c.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6551641-06:00
+  size: 837
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\cfg_if-2bf20875c555123c.d
+  mtime: 2025-12-16T21:19:23.8119493-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6551771-06:00
+- id: 2853
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math-48fa38af60b7edea.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math-48fa38af60b7edea.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math-48fa38af60b7edea.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6606534-06:00
+  size: 490
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math-48fa38af60b7edea.d
+  mtime: 2025-12-16T21:13:15.7963863-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6606673-06:00
+- id: 2854
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6662841-06:00
+  size: 290
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.d
+  mtime: 2025-12-16T21:32:15.1028742-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6662999-06:00
+- id: 2855
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.dll
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.dll
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.dll
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6724303-06:00
+  size: 320000
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.dll
+  mtime: 2025-12-16T21:32:15.4982005-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6724454-06:00
+- id: 2856
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.dll.exp
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.dll.exp
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.dll.exp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6783503-06:00
+  size: 1227
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.dll.exp
+  mtime: 2025-12-16T21:32:15.4798719-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6783662-06:00
+- id: 2857
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.dll.lib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.dll.lib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.dll.lib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6844082-06:00
+  size: 2232
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.dll.lib
+  mtime: 2025-12-16T21:32:15.4814029-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6844248-06:00
+- id: 2858
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.pdb
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.pdb
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6901635-06:00
+  size: 1421312
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\core_math.pdb
+  mtime: 2025-12-16T21:32:15.4997852-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6901802-06:00
+- id: 2859
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\lazy_static-a0ef20d316af5f85.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\lazy_static-a0ef20d316af5f85.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\lazy_static-a0ef20d316af5f85.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.6961393-06:00
+  size: 1325
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\lazy_static-a0ef20d316af5f85.d
+  mtime: 2025-12-16T21:19:23.8364714-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.6961594-06:00
+- id: 2860
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7015280-06:00
+  size: 6148
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rlib
+  mtime: 2025-12-16T21:19:23.8410690-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7015432-06:00
+- id: 2861
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7068766-06:00
+  size: 5351
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libcfg_if-2bf20875c555123c.rmeta
+  mtime: 2025-12-16T21:19:23.8150151-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7068908-06:00
+- id: 2862
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7135639-06:00
+  size: 20554
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rlib
+  mtime: 2025-12-16T21:19:23.9104208-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7135854-06:00
+- id: 2863
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7215005-06:00
+  size: 19748
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblazy_static-a0ef20d316af5f85.rmeta
+  mtime: 2025-12-16T21:19:23.8856859-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7215169-06:00
+- id: 2864
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7252840-06:00
+  size: 232164
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rlib
+  mtime: 2025-12-16T21:19:24.0031251-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7252998-06:00
+- id: 2865
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7308590-06:00
+  size: 217851
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\liblog-a7aec9dbeb240a2c.rmeta
+  mtime: 2025-12-16T21:19:23.9355251-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7308762-06:00
+- id: 2866
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7360269-06:00
+  size: 356866
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rlib
+  mtime: 2025-12-16T21:19:24.8631884-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7360400-06:00
+- id: 2867
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7413360-06:00
+  size: 263383
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libnu_ansi_term-67c431682bd0d0e5.rmeta
+  mtime: 2025-12-16T21:19:24.7112386-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7413518-06:00
+- id: 2868
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7465470-06:00
+  size: 230066
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rlib
+  mtime: 2025-12-16T21:19:24.0021145-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7465608-06:00
+- id: 2869
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7521889-06:00
+  size: 225267
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libonce_cell-3ae5a1e518aa2f58.rmeta
+  mtime: 2025-12-16T21:19:23.9545041-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7522039-06:00
+- id: 2870
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7576626-06:00
+  size: 94976
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rlib
+  mtime: 2025-12-16T21:19:23.9056472-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7576781-06:00
+- id: 2871
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7631278-06:00
+  size: 94142
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libpin_project_lite-89216990a53cf212.rmeta
+  mtime: 2025-12-16T21:19:23.8717861-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7631426-06:00
+- id: 2872
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7685401-06:00
+  size: 1138862
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rlib
+  mtime: 2025-12-16T21:19:24.3507706-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7685550-06:00
+- id: 2873
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7739772-06:00
+  size: 1120089
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsharded_slab-6b2cecb3c80f8bdf.rmeta
+  mtime: 2025-12-16T21:19:24.2806676-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7739922-06:00
+- id: 2874
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7792946-06:00
+  size: 308052
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rlib
+  mtime: 2025-12-16T21:19:24.0308963-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7793088-06:00
+- id: 2875
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7855123-06:00
+  size: 302538
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libsmallvec-a37044c9c37fd36d.rmeta
+  mtime: 2025-12-16T21:19:23.9908557-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7855275-06:00
+- id: 2876
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7920543-06:00
+  size: 148166
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rlib
+  mtime: 2025-12-16T21:19:24.0616796-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7920716-06:00
+- id: 2877
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.7979205-06:00
+  size: 118850
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libthread_local-126fe458abf29f36.rmeta
+  mtime: 2025-12-16T21:19:23.9616267-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.7979352-06:00
+- id: 2878
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8039403-06:00
+  size: 837880
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rlib
+  mtime: 2025-12-16T21:19:24.3784239-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8039564-06:00
+- id: 2879
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8096846-06:00
+  size: 612029
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_core-128a2308ee3c9b81.rmeta
+  mtime: 2025-12-16T21:19:24.1865633-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8096981-06:00
+- id: 2880
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8156122-06:00
+  size: 157622
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rlib
+  mtime: 2025-12-16T21:19:24.3830200-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8156271-06:00
+- id: 2881
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8216870-06:00
+  size: 71090
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_log-7499bad4d043cf18.rmeta
+  mtime: 2025-12-16T21:19:24.2714593-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8217038-06:00
+- id: 2882
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8285604-06:00
+  size: 2698980
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rlib
+  mtime: 2025-12-16T21:19:25.6884912-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8285790-06:00
+- id: 2883
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8357732-06:00
+  size: 1994550
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing_subscriber-8c2aa38e587ad2e7.rmeta
+  mtime: 2025-12-16T21:19:25.3274200-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8357930-06:00
+- id: 2884
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8418058-06:00
+  size: 606000
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rlib
+  mtime: 2025-12-16T21:19:27.6459936-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8418206-06:00
+- id: 2885
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8480340-06:00
+  size: 566423
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libtracing-1b8171e4465a6a9e.rmeta
+  mtime: 2025-12-16T21:19:27.5102778-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8480500-06:00
+- id: 2886
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8534762-06:00
+  size: 5678
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rlib
+  mtime: 2025-12-16T21:19:23.8426789-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8534907-06:00
+- id: 2887
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8587827-06:00
+  size: 4870
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_link-e8e25a4f65224c68.rmeta
+  mtime: 2025-12-16T21:19:23.8165465-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8587970-06:00
+- id: 2888
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rlib
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rlib
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rlib
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8641058-06:00
+  size: 5417972
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rlib
+  mtime: 2025-12-16T21:19:24.7559545-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8641202-06:00
+- id: 2889
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rmeta
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rmeta
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rmeta
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8694009-06:00
+  size: 5162263
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\libwindows_sys-a6b199fa7eb2b116.rmeta
+  mtime: 2025-12-16T21:19:24.5793215-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8694159-06:00
+- id: 2890
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\log-a7aec9dbeb240a2c.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\log-a7aec9dbeb240a2c.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\log-a7aec9dbeb240a2c.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8748636-06:00
+  size: 2059
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\log-a7aec9dbeb240a2c.d
+  mtime: 2025-12-16T21:19:23.8534276-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8748781-06:00
+- id: 2891
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\nu_ansi_term-67c431682bd0d0e5.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\nu_ansi_term-67c431682bd0d0e5.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\nu_ansi_term-67c431682bd0d0e5.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8801913-06:00
+  size: 5285
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\nu_ansi_term-67c431682bd0d0e5.d
+  mtime: 2025-12-16T21:19:24.6175724-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8802062-06:00
+- id: 2892
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\once_cell-3ae5a1e518aa2f58.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\once_cell-3ae5a1e518aa2f58.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\once_cell-3ae5a1e518aa2f58.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8854828-06:00
+  size: 1716
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\once_cell-3ae5a1e518aa2f58.d
+  mtime: 2025-12-16T21:19:23.8549583-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8854968-06:00
+- id: 2893
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\pin_project_lite-89216990a53cf212.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\pin_project_lite-89216990a53cf212.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\pin_project_lite-89216990a53cf212.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8906986-06:00
+  size: 911
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\pin_project_lite-89216990a53cf212.d
+  mtime: 2025-12-16T21:19:23.8395342-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8907123-06:00
+- id: 2894
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\sharded_slab-6b2cecb3c80f8bdf.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\sharded_slab-6b2cecb3c80f8bdf.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\sharded_slab-6b2cecb3c80f8bdf.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.8961960-06:00
+  size: 6135
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\sharded_slab-6b2cecb3c80f8bdf.d
+  mtime: 2025-12-16T21:19:23.9462912-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.8962101-06:00
+- id: 2895
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\smallvec-a37044c9c37fd36d.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\smallvec-a37044c9c37fd36d.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\smallvec-a37044c9c37fd36d.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9017824-06:00
+  size: 855
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\smallvec-a37044c9c37fd36d.d
+  mtime: 2025-12-16T21:19:23.8534276-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9017966-06:00
+- id: 2896
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\thread_local-126fe458abf29f36.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\thread_local-126fe458abf29f36.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\thread_local-126fe458abf29f36.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9068338-06:00
+  size: 2222
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\thread_local-126fe458abf29f36.d
+  mtime: 2025-12-16T21:19:23.8641460-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9068469-06:00
+- id: 2897
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing_core-128a2308ee3c9b81.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing_core-128a2308ee3c9b81.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing_core-128a2308ee3c9b81.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9121597-06:00
+  size: 4876
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing_core-128a2308ee3c9b81.d
+  mtime: 2025-12-16T21:19:24.0092801-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9121739-06:00
+- id: 2898
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing_log-7499bad4d043cf18.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing_log-7499bad4d043cf18.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing_log-7499bad4d043cf18.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9173154-06:00
+  size: 1321
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing_log-7499bad4d043cf18.d
+  mtime: 2025-12-16T21:19:24.2213357-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9173295-06:00
+- id: 2899
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing_subscriber-8c2aa38e587ad2e7.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing_subscriber-8c2aa38e587ad2e7.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing_subscriber-8c2aa38e587ad2e7.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9224654-06:00
+  size: 16200
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing_subscriber-8c2aa38e587ad2e7.d
+  mtime: 2025-12-16T21:19:24.7985498-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9224793-06:00
+- id: 2900
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing-1b8171e4465a6a9e.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing-1b8171e4465a6a9e.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing-1b8171e4465a6a9e.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9276370-06:00
+  size: 3859
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\tracing-1b8171e4465a6a9e.d
+  mtime: 2025-12-16T21:19:27.4569945-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9276512-06:00
+- id: 2901
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\windows_link-e8e25a4f65224c68.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\windows_link-e8e25a4f65224c68.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\windows_link-e8e25a4f65224c68.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9329651-06:00
+  size: 1328
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\windows_link-e8e25a4f65224c68.d
+  mtime: 2025-12-16T21:19:23.8134876-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9329792-06:00
+- id: 2902
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\windows_sys-a6b199fa7eb2b116.d
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\windows_sys-a6b199fa7eb2b116.d
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\windows_sys-a6b199fa7eb2b116.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.9385321-06:00
+  size: 5886
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps\windows_sys-a6b199fa7eb2b116.d
+  mtime: 2025-12-16T21:19:23.9754781-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.9385462-06:00
+generatedAt: 2025-12-18T01:53:40.6086872-06:00
+fileCount: 51
+folderId: ui_rust_ui_bin_core_math_target_x86_64-pc-windows-msvc_release_deps
+folderPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\deps
+

@@ -1,0 +1,98 @@
+files:
+- id: 3162
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\dep-lib-tracing_subscriber
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\dep-lib-tracing_subscriber
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\dep-lib-tracing_subscriber
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.3636359-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\dep-lib-tracing_subscriber
+  mtime: 2025-12-16T21:32:17.8316522-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.3636552-06:00
+- id: 3163
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.3696560-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\invoked.timestamp
+  mtime: 2025-12-16T21:32:17.8316522-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.3696718-06:00
+- id: 3164
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\lib-tracing_subscriber
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\lib-tracing_subscriber
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\lib-tracing_subscriber
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.3754181-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\lib-tracing_subscriber
+  mtime: 2025-12-16T21:32:18.8084165-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.3754362-06:00
+- id: 3165
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\lib-tracing_subscriber.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\lib-tracing_subscriber.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\lib-tracing_subscriber.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:29.3810895-06:00
+  size: 1323
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7\lib-tracing_subscriber.json
+  mtime: 2025-12-16T21:32:18.8084165-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:29.3811104-06:00
+generatedAt: 2025-12-18T01:53:39.9692346-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_x86_64-pc-windows-msvc_release_.fingerprint_tracing-subscriber-8c2aa38e587ad2e7
+folderPath: ui\rust_ui\bin\ipc_bridge\target\x86_64-pc-windows-msvc\release\.fingerprint\tracing-subscriber-8c2aa38e587ad2e7
+

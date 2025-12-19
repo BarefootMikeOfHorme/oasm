@@ -1,0 +1,121 @@
+files:
+- id: 873
+  canonicalPath: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build-944b2244646a307b.d
+  total: 4270
+  originalName: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build-944b2244646a307b.d
+  nameHistory:
+  - new: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build-944b2244646a307b.d
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6022410-06:00
+  size: 1326
+  aliases: []
+  displayName: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build-944b2244646a307b.d
+  mtime: 2025-12-17T23:59:31.4794640-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6022545-06:00
+- id: 874
+  canonicalPath: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build-944b2244646a307b.exe
+  total: 4270
+  originalName: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build-944b2244646a307b.exe
+  nameHistory:
+  - new: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build-944b2244646a307b.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6079047-06:00
+  size: 193536
+  aliases: []
+  displayName: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build-944b2244646a307b.exe
+  mtime: 2025-12-17T23:59:31.7655920-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6079186-06:00
+- id: 875
+  canonicalPath: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build-944b2244646a307b.pdb
+  total: 4270
+  originalName: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build-944b2244646a307b.pdb
+  nameHistory:
+  - new: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build-944b2244646a307b.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6141952-06:00
+  size: 1314816
+  aliases: []
+  displayName: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build-944b2244646a307b.pdb
+  mtime: 2025-12-17T23:59:31.7665981-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6142094-06:00
+- id: 876
+  canonicalPath: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build.pdb
+  total: 4270
+  originalName: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build.pdb
+  nameHistory:
+  - new: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build.pdb
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6197887-06:00
+  size: 1314816
+  aliases: []
+  displayName: target\debug\build\crossbeam-utils-944b2244646a307b\build_script_build.pdb
+  mtime: 2025-12-17T23:59:31.7665981-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6198026-06:00
+- id: 877
+  canonicalPath: target\debug\build\crossbeam-utils-944b2244646a307b\build-script-build.exe
+  total: 4270
+  originalName: target\debug\build\crossbeam-utils-944b2244646a307b\build-script-build.exe
+  nameHistory:
+  - new: target\debug\build\crossbeam-utils-944b2244646a307b\build-script-build.exe
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:16.6254759-06:00
+  size: 193536
+  aliases: []
+  displayName: target\debug\build\crossbeam-utils-944b2244646a307b\build-script-build.exe
+  mtime: 2025-12-17T23:59:31.7655920-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:16.6254895-06:00
+generatedAt: 2025-12-18T01:53:36.2202681-06:00
+fileCount: 5
+folderId: target_debug_build_crossbeam-utils-944b2244646a307b
+folderPath: target\debug\build\crossbeam-utils-944b2244646a307b
+

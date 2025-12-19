@@ -1,0 +1,98 @@
+files:
+- id: 2925
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\dep-lib-proc_macro2
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\dep-lib-proc_macro2
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\dep-lib-proc_macro2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.0633227-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\dep-lib-proc_macro2
+  mtime: 2025-12-16T21:19:29.2779206-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.0633387-06:00
+- id: 2926
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.0688155-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\invoked.timestamp
+  mtime: 2025-12-16T21:19:29.2779206-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.0688320-06:00
+- id: 2927
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\lib-proc_macro2
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\lib-proc_macro2
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\lib-proc_macro2
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.0747074-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\lib-proc_macro2
+  mtime: 2025-12-16T21:19:29.6155967-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.0747237-06:00
+- id: 2928
+  canonicalPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\lib-proc_macro2.json
+  total: 4270
+  originalName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\lib-proc_macro2.json
+  nameHistory:
+  - new: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\lib-proc_macro2.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:28.0806304-06:00
+  size: 565
+  aliases: []
+  displayName: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db\lib-proc_macro2.json
+  mtime: 2025-12-16T21:19:29.6155967-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:28.0806503-06:00
+generatedAt: 2025-12-18T01:53:37.5455505-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_ipc_bridge_target_release_.fingerprint_proc-macro2-e55808a20d5733db
+folderPath: ui\rust_ui\bin\ipc_bridge\target\release\.fingerprint\proc-macro2-e55808a20d5733db
+

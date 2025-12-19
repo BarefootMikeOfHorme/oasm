@@ -1,0 +1,466 @@
+files:
+- id: 11
+  canonicalPath: compiler\src\alignment.rs
+  total: 4270
+  originalName: compiler\src\alignment.rs
+  nameHistory:
+  - new: compiler\src\alignment.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.6845394-06:00
+  size: 356
+  aliases: []
+  displayName: compiler\src\alignment.rs
+  mtime: 2025-12-17T23:41:59.4340421-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.6845605-06:00
+- id: 12
+  canonicalPath: compiler\src\audit.rs
+  total: 4270
+  originalName: compiler\src\audit.rs
+  nameHistory:
+  - new: compiler\src\audit.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.6899080-06:00
+  size: 314
+  aliases: []
+  displayName: compiler\src\audit.rs
+  mtime: 2025-12-17T23:20:06.9371018-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.6899292-06:00
+- id: 14
+  canonicalPath: compiler\src\conditional.rs
+  total: 4270
+  originalName: compiler\src\conditional.rs
+  nameHistory:
+  - new: compiler\src\conditional.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7009083-06:00
+  size: 230
+  aliases: []
+  displayName: compiler\src\conditional.rs
+  mtime: 2025-12-17T23:41:59.4309776-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7009328-06:00
+- id: 15
+  canonicalPath: compiler\src\constants.rs
+  total: 4270
+  originalName: compiler\src\constants.rs
+  nameHistory:
+  - new: compiler\src\constants.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7064562-06:00
+  size: 475
+  aliases: []
+  displayName: compiler\src\constants.rs
+  mtime: 2025-12-17T23:41:59.4294443-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7064765-06:00
+- id: 16
+  canonicalPath: compiler\src\cross_asm.rs
+  total: 4270
+  originalName: compiler\src\cross_asm.rs
+  nameHistory:
+  - new: compiler\src\cross_asm.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7119972-06:00
+  size: 900
+  aliases: []
+  displayName: compiler\src\cross_asm.rs
+  mtime: 2025-12-17T23:16:14.5759911-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7120212-06:00
+- id: 17
+  canonicalPath: compiler\src\directives.rs
+  total: 4270
+  originalName: compiler\src\directives.rs
+  nameHistory:
+  - new: compiler\src\directives.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7172242-06:00
+  size: 639
+  aliases: []
+  displayName: compiler\src\directives.rs
+  mtime: 2025-12-17T23:41:59.4325061-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7172470-06:00
+- id: 18
+  canonicalPath: compiler\src\expr_eval.rs
+  total: 4270
+  originalName: compiler\src\expr_eval.rs
+  nameHistory:
+  - new: compiler\src\expr_eval.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7227503-06:00
+  size: 133
+  aliases: []
+  displayName: compiler\src\expr_eval.rs
+  mtime: 2025-12-17T23:20:06.9470228-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7227706-06:00
+- id: 19
+  canonicalPath: compiler\src\expressions.rs
+  total: 4270
+  originalName: compiler\src\expressions.rs
+  nameHistory:
+  - new: compiler\src\expressions.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7289177-06:00
+  size: 518
+  aliases: []
+  displayName: compiler\src\expressions.rs
+  mtime: 2025-12-17T23:41:59.4248823-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7289470-06:00
+- id: 20
+  canonicalPath: compiler\src\inline_code.rs
+  total: 4270
+  originalName: compiler\src\inline_code.rs
+  nameHistory:
+  - new: compiler\src\inline_code.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7359097-06:00
+  size: 188
+  aliases: []
+  displayName: compiler\src\inline_code.rs
+  mtime: 2025-12-17T23:20:06.9388716-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7359339-06:00
+- id: 21
+  canonicalPath: compiler\src\labels.rs
+  total: 4270
+  originalName: compiler\src\labels.rs
+  nameHistory:
+  - new: compiler\src\labels.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7422433-06:00
+  size: 348
+  aliases: []
+  displayName: compiler\src\labels.rs
+  mtime: 2025-12-17T23:41:59.4263970-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7422659-06:00
+- id: 22
+  canonicalPath: compiler\src\lib.rs
+  total: 4270
+  originalName: compiler\src\lib.rs
+  nameHistory:
+  - new: compiler\src\lib.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7473664-06:00
+  size: 1061
+  aliases: []
+  displayName: compiler\src\lib.rs
+  mtime: 2025-12-17T19:24:03.4608717-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7473830-06:00
+- id: 23
+  canonicalPath: compiler\src\macro.rs
+  total: 4270
+  originalName: compiler\src\macro.rs
+  nameHistory:
+  - new: compiler\src\macro.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7530536-06:00
+  size: 532
+  aliases: []
+  displayName: compiler\src\macro.rs
+  mtime: 2025-12-17T23:41:59.4207563-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7530745-06:00
+- id: 24
+  canonicalPath: compiler\src\multi_pass.rs
+  total: 4270
+  originalName: compiler\src\multi_pass.rs
+  nameHistory:
+  - new: compiler\src\multi_pass.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7582360-06:00
+  size: 299
+  aliases: []
+  displayName: compiler\src\multi_pass.rs
+  mtime: 2025-12-17T23:20:06.9409066-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7582529-06:00
+- id: 25
+  canonicalPath: compiler\src\optimizer.rs
+  total: 4270
+  originalName: compiler\src\optimizer.rs
+  nameHistory:
+  - new: compiler\src\optimizer.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7912436-06:00
+  size: 352
+  aliases: []
+  displayName: compiler\src\optimizer.rs
+  mtime: 2025-12-17T23:41:59.4233495-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7913460-06:00
+- id: 26
+  canonicalPath: compiler\src\reloc_viewer.rs
+  total: 4270
+  originalName: compiler\src\reloc_viewer.rs
+  nameHistory:
+  - new: compiler\src\reloc_viewer.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.7939069-06:00
+  size: 207
+  aliases: []
+  displayName: compiler\src\reloc_viewer.rs
+  mtime: 2025-12-17T23:20:06.9393770-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.7939208-06:00
+- id: 27
+  canonicalPath: compiler\src\relocation.rs
+  total: 4270
+  originalName: compiler\src\relocation.rs
+  nameHistory:
+  - new: compiler\src\relocation.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8006221-06:00
+  size: 283
+  aliases: []
+  displayName: compiler\src\relocation.rs
+  mtime: 2025-12-17T23:41:59.4355696-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8006379-06:00
+- id: 28
+  canonicalPath: compiler\src\scanner.rs
+  total: 4270
+  originalName: compiler\src\scanner.rs
+  nameHistory:
+  - new: compiler\src\scanner.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8058175-06:00
+  size: 155
+  aliases: []
+  displayName: compiler\src\scanner.rs
+  mtime: 2025-12-18T00:01:29.7556348-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8058337-06:00
+- id: 29
+  canonicalPath: compiler\src\storage.rs
+  total: 4270
+  originalName: compiler\src\storage.rs
+  nameHistory:
+  - new: compiler\src\storage.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8109107-06:00
+  size: 355
+  aliases: []
+  displayName: compiler\src\storage.rs
+  mtime: 2025-12-17T23:41:59.4279190-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8109270-06:00
+- id: 30
+  canonicalPath: compiler\src\structured_consts.rs
+  total: 4270
+  originalName: compiler\src\structured_consts.rs
+  nameHistory:
+  - new: compiler\src\structured_consts.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8159443-06:00
+  size: 198
+  aliases: []
+  displayName: compiler\src\structured_consts.rs
+  mtime: 2025-12-17T23:20:06.9439609-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8159598-06:00
+- id: 31
+  canonicalPath: compiler\src\symbol_debug.rs
+  total: 4270
+  originalName: compiler\src\symbol_debug.rs
+  nameHistory:
+  - new: compiler\src\symbol_debug.rs
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:11.8213746-06:00
+  size: 272
+  aliases: []
+  displayName: compiler\src\symbol_debug.rs
+  mtime: 2025-12-17T23:20:06.9424335-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:11.8213947-06:00
+generatedAt: 2025-12-18T01:53:38.0455691-06:00
+fileCount: 20
+folderId: compiler_src
+folderPath: compiler\src
+

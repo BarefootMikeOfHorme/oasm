@@ -1,0 +1,75 @@
+files:
+- id: 329
+  canonicalPath: shells\psmodule\OASM.PowerShell.psd1
+  total: 4270
+  originalName: shells\psmodule\OASM.PowerShell.psd1
+  nameHistory:
+  - new: shells\psmodule\OASM.PowerShell.psd1
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4913494-06:00
+  size: 658
+  aliases: []
+  displayName: shells\psmodule\OASM.PowerShell.psd1
+  mtime: 2025-12-17T19:50:11.5588694-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4913644-06:00
+- id: 330
+  canonicalPath: shells\psmodule\OASM.PowerShell.psm1
+  total: 4270
+  originalName: shells\psmodule\OASM.PowerShell.psm1
+  nameHistory:
+  - new: shells\psmodule\OASM.PowerShell.psm1
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.4971677-06:00
+  size: 7995
+  aliases: []
+  displayName: shells\psmodule\OASM.PowerShell.psm1
+  mtime: 2025-12-17T19:50:00.0962142-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.4971830-06:00
+- id: 331
+  canonicalPath: shells\psmodule\README.md
+  total: 4270
+  originalName: shells\psmodule\README.md
+  nameHistory:
+  - new: shells\psmodule\README.md
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:13.5033142-06:00
+  size: 4441
+  aliases: []
+  displayName: shells\psmodule\README.md
+  mtime: 2025-12-17T19:51:05.1410831-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:13.5033322-06:00
+generatedAt: 2025-12-18T01:53:38.2090341-06:00
+fileCount: 3
+folderId: shells_psmodule
+folderPath: shells\psmodule
+

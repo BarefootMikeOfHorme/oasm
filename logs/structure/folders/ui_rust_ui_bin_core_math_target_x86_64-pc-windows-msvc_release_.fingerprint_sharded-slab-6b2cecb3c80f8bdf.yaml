@@ -1,0 +1,98 @@
+files:
+- id: 2811
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\dep-lib-sharded_slab
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\dep-lib-sharded_slab
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\dep-lib-sharded_slab
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.4326128-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\dep-lib-sharded_slab
+  mtime: 2025-12-16T21:19:23.8871955-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.4326283-06:00
+- id: 2812
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.4380595-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\invoked.timestamp
+  mtime: 2025-12-16T21:19:23.8871955-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.4380740-06:00
+- id: 2813
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.4439193-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab
+  mtime: 2025-12-16T21:19:24.3692183-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.4439359-06:00
+- id: 2814
+  canonicalPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab.json
+  total: 4270
+  originalName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab.json
+  nameHistory:
+  - new: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:27.4498269-06:00
+  size: 476
+  aliases: []
+  displayName: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf\lib-sharded_slab.json
+  mtime: 2025-12-16T21:19:24.3692183-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:27.4498438-06:00
+generatedAt: 2025-12-18T01:53:37.9338130-06:00
+fileCount: 4
+folderId: ui_rust_ui_bin_core_math_target_x86_64-pc-windows-msvc_release_.fingerprint_sharded-slab-6b2cecb3c80f8bdf
+folderPath: ui\rust_ui\bin\core_math\target\x86_64-pc-windows-msvc\release\.fingerprint\sharded-slab-6b2cecb3c80f8bdf
+

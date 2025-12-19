@@ -1,0 +1,98 @@
+files:
+- id: 3995
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\dep-lib-windows_sys
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\dep-lib-windows_sys
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\dep-lib-windows_sys
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.9867905-06:00
+  size: 14
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\dep-lib-windows_sys
+  mtime: 2025-12-16T22:47:38.9972966-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.9868034-06:00
+- id: 3996
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\invoked.timestamp
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\invoked.timestamp
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.9920188-06:00
+  size: 48
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\invoked.timestamp
+  mtime: 2025-12-16T22:47:38.9972966-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.9920326-06:00
+- id: 3997
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\lib-windows_sys
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\lib-windows_sys
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\lib-windows_sys
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:33.9972823-06:00
+  size: 16
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\lib-windows_sys
+  mtime: 2025-12-16T22:47:40.1870403-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:33.9972959-06:00
+- id: 3998
+  canonicalPath: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\lib-windows_sys.json
+  total: 4270
+  originalName: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\lib-windows_sys.json
+  nameHistory:
+  - new: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\lib-windows_sys.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:34.0027772-06:00
+  size: 8250
+  aliases: []
+  displayName: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968\lib-windows_sys.json
+  mtime: 2025-12-16T22:47:40.1870403-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:34.0027904-06:00
+generatedAt: 2025-12-18T01:53:40.9998507-06:00
+fileCount: 4
+folderId: ui_rust_ui_target_release_.fingerprint_windows-sys-c8d605b662180968
+folderPath: ui\rust_ui\target\release\.fingerprint\windows-sys-c8d605b662180968
+

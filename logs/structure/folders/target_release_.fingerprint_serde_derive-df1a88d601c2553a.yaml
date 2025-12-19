@@ -1,0 +1,98 @@
+files:
+- id: 2005
+  canonicalPath: target\release\.fingerprint\serde_derive-df1a88d601c2553a\dep-lib-serde_derive
+  total: 4270
+  originalName: target\release\.fingerprint\serde_derive-df1a88d601c2553a\dep-lib-serde_derive
+  nameHistory:
+  - new: target\release\.fingerprint\serde_derive-df1a88d601c2553a\dep-lib-serde_derive
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.9591350-06:00
+  size: 14
+  aliases: []
+  displayName: target\release\.fingerprint\serde_derive-df1a88d601c2553a\dep-lib-serde_derive
+  mtime: 2025-12-17T23:56:48.0921655-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.9591490-06:00
+- id: 2006
+  canonicalPath: target\release\.fingerprint\serde_derive-df1a88d601c2553a\invoked.timestamp
+  total: 4270
+  originalName: target\release\.fingerprint\serde_derive-df1a88d601c2553a\invoked.timestamp
+  nameHistory:
+  - new: target\release\.fingerprint\serde_derive-df1a88d601c2553a\invoked.timestamp
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.9648782-06:00
+  size: 48
+  aliases: []
+  displayName: target\release\.fingerprint\serde_derive-df1a88d601c2553a\invoked.timestamp
+  mtime: 2025-12-17T23:56:48.0921655-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.9648969-06:00
+- id: 2007
+  canonicalPath: target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive
+  total: 4270
+  originalName: target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive
+  nameHistory:
+  - new: target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.9706182-06:00
+  size: 16
+  aliases: []
+  displayName: target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive
+  mtime: 2025-12-17T23:56:49.9246603-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.9706359-06:00
+- id: 2008
+  canonicalPath: target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive.json
+  total: 4270
+  originalName: target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive.json
+  nameHistory:
+  - new: target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive.json
+    old: 
+    reason: initial scan
+    actor: Stage1
+    ts: 2025-12-18T01:53:22.9763445-06:00
+  size: 584
+  aliases: []
+  displayName: target\release\.fingerprint\serde_derive-df1a88d601c2553a\lib-serde_derive.json
+  mtime: 2025-12-17T23:56:49.9246603-06:00
+  fileHash: ""
+  phases:
+    Scan:
+      short: discovered
+      progress: 100
+      artifactHash: 
+      links: []
+      status: OK
+      updatedAt: 2025-12-18T01:53:22.9763610-06:00
+generatedAt: 2025-12-18T01:53:39.2071253-06:00
+fileCount: 4
+folderId: target_release_.fingerprint_serde_derive-df1a88d601c2553a
+folderPath: target\release\.fingerprint\serde_derive-df1a88d601c2553a
+

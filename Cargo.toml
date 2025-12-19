@@ -1,7 +1,50 @@
 [workspace]
 members = [
-    "compiler", "crates/oasm-api", "crates/oasm-core",
+    "compiler",
+    "crates/oasm-api",
+    "crates/oasm-core",
+    "crates/asm-formats",
     "runtime/daemon",
     "ui/rust_ui"
 ]
+
+# Use the modern resolver to avoid feature leakage across crates
 resolver = "2"
+
+# Centralize dependency versions for all workspace members
+[workspace.dependencies]
+anyhow = "1.0"
+thiserror = "1.0"
+once_cell = "1.19"
+
+# Logging / tracing
+tracing = "0.1"
+tracing-subscriber = "0.3"
+log = "0.4"
+env_logger = "0.11"
+
+# Async runtime
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "time"] }
+
+# Serialization
+serde = { version = "1.0", features = ["derive"] }
+serde_yaml = "0.9"
+serde_json = "1.0"
+serde_cbor = "0.11"
+
+# Crypto / utilities
+sha2 = "0.10"
+libloading = "0.8"
+
+# Local crates (DLLs / plugins)
+core_math     = { path = "bin/core_math" }
+ipc_bridge    = { path = "bin/ipc_bridge" }
+validation    = { path = "bin/validation" }
+plugin_loader = { path = "bin/plugin_loader" }
+
+[workspace.package]
+# Metadata shared across all crates
+edition = "2021"
+license = "MIT"
+authors = ["OASM Contributors <contributors@oasm.dev>"]
+description = "OASM orchestrator workspace: compiler, daemon, core, API, and UI"
