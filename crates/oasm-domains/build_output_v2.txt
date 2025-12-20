@@ -1,0 +1,81 @@
+   Compiling oasm-domains v0.1.0 (C:\Users\Administrator\Desktop\Projects\oasm\crates\oasm-domains)
+warning: unused import: `Context`
+ --> crates\asm-formats\src\templates.rs:7:22
+  |
+7 | use anyhow::{Result, Context};
+  |                      ^^^^^^^
+  |
+  = note: `#[warn(unused_imports)]` on by default
+
+warning: unused import: `Context`
+  --> crates\asm-formats\src\converters.rs:41:22
+   |
+41 | use anyhow::{Result, Context};
+   |                      ^^^^^^^
+
+warning: unused variable: `template_type`
+  --> crates\asm-formats\src\templates.rs:66:32
+   |
+66 |     pub fn find_by_type(&self, template_type: TemplateType) -> Result<Vec<String>> {
+   |                                ^^^^^^^^^^^^^ help: if this is intentional, prefix it with an underscore: `_template_type`
+   |
+   = note: `#[warn(unused_variables)]` on by default
+
+warning: unused variable: `annotation`
+   --> crates\asm-formats\src\converters.rs:298:13
+    |
+298 |         for annotation in &yaml_overlay.annotations {
+    |             ^^^^^^^^^^ help: if this is intentional, prefix it with an underscore: `_annotation`
+
+warning: variable does not need to be mutable
+   --> crates\asm-formats\src\converters.rs:290:13
+    |
+290 |         let mut lineage = self.converter.cbor_to_json_lineage(
+    |             ----^^^^^^^
+    |             |
+    |             help: remove this `mut`
+    |
+    = note: `#[warn(unused_mut)]` on by default
+
+warning: field `immutable_store_path` is never read
+   --> crates\asm-formats\src\domains.rs:312:5
+    |
+311 | pub struct CopyOnWorkManager {
+    |            ----------------- field in this struct
+312 |     immutable_store_path: PathBuf,
+    |     ^^^^^^^^^^^^^^^^^^^^
+    |
+    = note: `#[warn(dead_code)]` on by default
+
+warning: unused import: `std::collections::HashMap`
+ --> crates\oasm-core\src\rules\loader.rs:6:5
+  |
+6 | use std::collections::HashMap;
+  |     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  |
+  = note: `#[warn(unused_imports)]` on by default
+
+warning: unused import: `RuleLevel`
+ --> crates\oasm-core\src\rules\resolver.rs:3:31
+  |
+3 | use super::{HierarchicalRule, RuleLevel, ValidationMessage, ValidationResult};
+  |                               ^^^^^^^^^
+
+warning: unused import: `RuleCategory`
+ --> crates\oasm-core\src\rules\mod.rs:8:19
+  |
+8 | use crate::{Rule, RuleCategory, Severity};
+  |                   ^^^^^^^^^^^^
+
+warning: `asm-formats` (lib) generated 6 warnings (run `cargo fix --lib -p asm-formats` to apply 3 suggestions)
+warning: `oasm-core` (lib) generated 3 warnings (run `cargo fix --lib -p oasm-core` to apply 3 suggestions)
+warning: function `export_step` is never used
+  --> crates\oasm-domains\src\cad.rs:14:12
+   |
+14 |         fn export_step(shape: &ShapeWrapper, filename: &String) -> bool;
+   |            ^^^^^^^^^^^
+   |
+   = note: `#[warn(dead_code)]` on by default
+
+warning: `oasm-domains` (lib) generated 1 warning
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 2.49s

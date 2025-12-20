@@ -19,6 +19,10 @@ pub mod parser;         // Native OASM parser
 pub mod executor;       // Native instruction executor
 pub mod command_blocks; // Command block builder (batching + testing/repair loops)
 pub mod validators;     // Validators (type, topology, rules)
+pub mod state_evaluator; // Smart state evaluation logic
+pub mod macro_processor; // Macro expansion logic
+pub mod symbol_table;   // Searchable symbol tracking for debugging
+pub mod templates;      // YAML-based template loading and expansion
 
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;

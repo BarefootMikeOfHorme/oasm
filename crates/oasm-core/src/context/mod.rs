@@ -7,6 +7,7 @@ use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 use std::path::PathBuf;
 use uuid::Uuid;
+use crate::symbol_table::{SymbolTable, SymbolMetadata, SymbolType};
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Hash, Serialize, Deserialize)]
 pub struct RunId(pub Uuid);
@@ -71,6 +72,7 @@ pub struct ExecutionContext {
     pub working_directory: PathBuf,
     pub scope_stack: Vec<Scope>,
     pub objects: HashMap<String, Object>,
+    pub symbol_table: SymbolTable, // New: tracking all symbols for debugging
     pub created: DateTime<Utc>,
 }
 
@@ -83,6 +85,7 @@ impl ExecutionContext {
             working_directory,
             scope_stack: vec![Scope::new("global".to_string())],
             objects: HashMap::new(),
+            symbol_table: SymbolTable::new(),
             created: Utc::now(),
         }
     }
@@ -131,10 +134,20 @@ impl ContextManager for ExecutionContext {
             return Err(ContextError::VariableAlreadyDefined(name));
         }
         scope.variables.insert(name.clone(), Variable {
-            name,
-            var_type,
+            name: name.clone(),
+            var_type: var_type.clone(),
             value: None,
             mutable,
+        });
+
+        // Track in symbol table
+        self.symbol_table.insert(SymbolMetadata {
+            name,
+            symbol_type: SymbolType::Variable,
+            data_type: var_type,
+            created_at: Utc::now(),
+            last_modified: Utc::now(),
+            source_line: 0, // In real usage, pass from instruction
         });
         Ok(())
     }
@@ -143,6 +156,7 @@ impl ContextManager for ExecutionContext {
         for scope in self.scope_stack.iter_mut().rev() {
             if let Some(var) = scope.variables.get_mut(name) {
                 var.value = Some(value);
+                self.symbol_table.update_timestamp(name);
                 return Ok(());
             }
         }
@@ -162,11 +176,22 @@ impl ContextManager for ExecutionContext {
         let object_id = id.unwrap_or_else(|| format!("{}_{:04}", object_type, self.seq.0));
         let object = Object {
             id: object_id.clone(),
-            object_type,
+            object_type: object_type.clone(),
             properties: HashMap::new(),
             created: Utc::now(),
         };
         self.objects.insert(object_id.clone(), object);
+
+        // Track in symbol table
+        self.symbol_table.insert(SymbolMetadata {
+            name: object_id.clone(),
+            symbol_type: SymbolType::Object,
+            data_type: OasmType::Object { object_type },
+            created_at: Utc::now(),
+            last_modified: Utc::now(),
+            source_line: 0,
+        });
+
         Ok(object_id)
     }
 

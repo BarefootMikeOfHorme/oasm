@@ -41,6 +41,7 @@ pub struct CommandBlock {
     pub created: DateTime<Utc>,
     pub run_id: RunId,
     pub seq: Seq,
+    pub require_compilable_state: bool, // New flag for smart state awareness
 }
 
 /// Command block builder trait
@@ -53,6 +54,7 @@ pub trait CommandBlockBuilder {
     fn enable_checkpoints(&mut self) -> &mut Self;
     fn enable_testing(&mut self) -> &mut Self;
     fn enable_repair_loop(&mut self) -> &mut Self;
+    fn require_compilable_state(&mut self) -> &mut Self; // New method
     fn build(self) -> Result<CommandBlock, BuildError>;
 }
 
@@ -75,6 +77,7 @@ pub struct BatchBuilder {
     checkpoint_after: bool,
     test_after_execution: bool,
     repair_on_failure: bool,
+    require_compilable_state: bool,
     run_id: RunId,
     seq: Seq,
 }
@@ -91,6 +94,7 @@ impl CommandBlockBuilder for BatchBuilder {
             checkpoint_after: false,
             test_after_execution: false,
             repair_on_failure: false,
+            require_compilable_state: false,
             run_id: RunId::new(),
             seq: Seq::zero(),
         }
@@ -132,6 +136,11 @@ impl CommandBlockBuilder for BatchBuilder {
         self
     }
 
+    fn require_compilable_state(&mut self) -> &mut Self {
+        self.require_compilable_state = true;
+        self
+    }
+
     fn build(self) -> Result<CommandBlock, BuildError> {
         if self.instructions.is_empty() {
             return Err(BuildError::NoInstructions);
@@ -150,6 +159,7 @@ impl CommandBlockBuilder for BatchBuilder {
             checkpoint_after: self.checkpoint_after,
             test_after_execution: self.test_after_execution,
             repair_on_failure: self.repair_on_failure,
+            require_compilable_state: self.require_compilable_state,
             created: Utc::now(),
             run_id: self.run_id,
             seq: self.seq,

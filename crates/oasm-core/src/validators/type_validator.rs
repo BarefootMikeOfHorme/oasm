@@ -96,9 +96,8 @@ impl Default for TypeValidator {
 #[cfg(test)]
 mod tests {
     use super::*;
-    use crate::context::{Object, Variable};
+    use crate::context::Variable;
     use crate::types::{OasmType, Value};
-    use chrono::Utc;
 
     #[test]
     fn test_type_mismatch_detection() {
@@ -106,7 +105,7 @@ mod tests {
         let mut context = ValidationContext::new("test".to_string());
 
         // Add a variable with type mismatch
-        let mut var = Variable {
+        let var = Variable {
             name: "test_var".to_string(),
             var_type: OasmType::U32,
             value: Some(Value::String("not a number".to_string())),

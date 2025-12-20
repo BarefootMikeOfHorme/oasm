@@ -6,7 +6,7 @@ members = [
     "crates/asm-formats",
     "runtime/daemon",
     "ui/rust_ui"
-]
+, "crates/oasm-domains"]
 
 # Use the modern resolver to avoid feature leakage across crates
 resolver = "2"

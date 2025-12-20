@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 pyo3 = { version = "0.20", features = ["extension-module"] }
 serde = { version = "1.0", features = ["derive"] }
+oasm-core = { path = "../../crates/oasm-core" }

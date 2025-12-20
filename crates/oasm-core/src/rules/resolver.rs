@@ -236,7 +236,7 @@ impl Default for RuleResolver {
 mod tests {
     use super::*;
     use crate::rules::{RuleSource};
-    use crate::{Rule, RuleCategory, Condition};
+    use crate::{Rule, RuleCategory};
 
     #[test]
     fn test_get_base_id() {
@@ -250,6 +250,7 @@ mod tests {
     fn test_most_specific_wins() {
         let resolver = RuleResolver::new(ConflictStrategy::MostSpecificWins);
 
+        // Two rules with SAME base ID but different levels
         let core_rule = HierarchicalRule {
             rule: Rule {
                 id: "core_max_depth".to_string(),
@@ -278,11 +279,34 @@ mod tests {
             enabled: true,
         };
 
-        let rules = vec![&core_rule, &session_rule];
+        // Rule with different base ID
+        let core_type_safety = HierarchicalRule {
+            rule: Rule {
+                id: "core_type_safety".to_string(),
+                program_type: "cad".to_string(),
+                category: RuleCategory::Validation,
+                conditions: vec![],
+            },
+            level: RuleLevel::Core,
+            overrides: None,
+            source: RuleSource::Builtin,
+            enabled: true,
+        };
+
+        let rules = vec![&core_rule, &session_rule, &core_type_safety];
         let resolved = resolver.resolve_conflicts(&rules);
 
-        // Should prefer session over core
-        assert_eq!(resolved.len(), 2); // Different base IDs
+        // Should have 2 rules:
+        // 1. session_max_depth (wins over core_max_depth due to higher level)
+        // 2. core_type_safety (different base ID, no conflict)
+        assert_eq!(resolved.len(), 2);
+
+        // Verify session_max_depth is included (not core_max_depth)
+        assert!(resolved.iter().any(|r| r.rule.id == "session_max_depth"));
+        assert!(!resolved.iter().any(|r| r.rule.id == "core_max_depth"));
+
+        // Verify core_type_safety is included
+        assert!(resolved.iter().any(|r| r.rule.id == "core_type_safety"));
     }
 
     #[test]

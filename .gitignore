@@ -1,0 +1,29 @@
+# Rust build artifacts
+/target
+/debug
+/release
+*.pdb
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Logs
+/logs/Compile/*.log
+/logs/Compile/*.txt
+/logs/execution/*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# OASM specific
+archivebuild.zip
+*.tmp
+flycheck*/

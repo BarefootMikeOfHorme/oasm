@@ -1,114 +1,105 @@
-# OASM - Objex AsSeMbly Module
+# OASM: Objex AsSeMbly Module
 
-**Assembly-like enhancement module for wpshell - Like NASM/MASM, but for ANY program**
+<div align="center">
 
-[![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org)
-[![PowerShell](https://img.shields.io/badge/powershell-7.0+-blue.svg)](https://docs.microsoft.com/en-us/powershell/)
+![OASM Logo](https://img.shields.io/badge/OASM-Objex%20AsSeMbly-orange?style=for-the-badge&logo=rust)
+[![Rust](https://img.shields.io/badge/rust-1.70+-orange?style=flat-square&logo=rust)](https://www.rust-lang.org)
+[![PowerShell](https://img.shields.io/badge/powershell-7.0+-blue?style=flat-square&logo=powershell)](https://docs.microsoft.com/en-us/powershell/)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
-OASM provides **assembly-like control and enhancement** for any program running on the OASM setup: CAD editors, game engines, word processors, compressors, debuggers, and more.
+**Assembly-like enhancement for any program. Like NASM/MASM, but for high-level operations.**
 
-## 🚀 Features
+[Features](#features) • [Quick Start](#quick-start) • [Architecture](#architecture) • [Structure](#project-structure)
 
-- ✅ **Assembly-like instruction set** - CREATE, SET, EXTRUDE, VALIDATE, EXPORT, SCAN
-- ✅ **Program-specific blocks** - Tailored instruction sets for different program types
-- ✅ **Modular rule system** - Growing library of validation and constraint rules
-- ✅ **wpshell integration** - Native PowerShell cmdlets
-- ✅ **Pre-compile diagnostics** - Advanced codebase scanning
-- ✅ **Manifest system** - Easy module/file/settings location
-- ✅ **Rust + PowerShell** - Type-safe core with scripting flexibility
+</div>
 
-## 🎯 Quick Start
+---
 
-### PowerShell Module
+## Features
+
+OASM provides **low-level control** over complex software systems using an assembly-inspired instruction set.
+
+* ✨ **Universal Assembly** - Standardized instructions (`CREATE`, `SET`, `EXTRUDE`, `VALIDATE`) for diverse domains.
+* 📐 **CAD Integration** - First-class support for **OpenCASCADE (OCCT 7.9.3)**.
+* 🛡️ **Type-Safe Core** - Built in Rust for maximum performance and reliability.
+* 🐚 **Native Shells** - Deep integration with PowerShell for ease of use.
+* 🧩 **Modular Rules** - Extensible validation and constraint system.
+
+---
+
+## Quick Start
+
+### PowerShell Usage
 
 ```powershell
 # Import OASM module
 Import-Module .\shells\psmodule\OASM.PowerShell.psd1
 
-# Initialize
+# Initialize and create a CAD context
 Initialize-Oasm
-
-# Create CAD context
 $ctx = New-OasmContext -ProgramType CAD
 
-# Execute assembly
+# Execute OASM Assembly
 $source = @'
 CREATE gear
   SET teeth = 20
   SET module = 2.5
 EXTRUDE z_axis, 10
 VALIDATE topology
-EXPORT step, output/gear.step
+EXPORT step, "output/gear.step"
 '@
 
 Invoke-OasmAssembly -Source $source -Context $ctx
 ```
 
-## 🔧 Assembly Language
+---
 
-### CAD Example
-```asm
-; Create parametric gear
-CREATE gear
-  SET teeth = 20
-  SET module = 2.5
+## Project Structure
 
-; Operations
-EXTRUDE z_axis, 10
-FILLET edges[0..3], 2
+Verified and organized for clarity:
 
-; Validation
-VALIDATE topology
-
-; Export
-EXPORT step, "output/gear.step"
-```
-
-## 📚 Program Types
-
-| Program Type | Blocks | Rules |
-|--------------|--------|-------|
-| **CAD** | Primitives, Export | Topology validation |
-| **Engine** | Scene, Physics | Scene graph validation |
-| **Document** | Content, Formatting | Structure validation |
-| **Compression** | Algorithms | Format detection |
-| **Debug** | Breakpoints, Profiling | Performance rules |
-
-## 🛠️ Build
-
-```bash
-cargo build --workspace
-cargo build --bin oasm-scan
-```
-
-## 📖 PowerShell Cmdlets
-
-- `Initialize-Oasm` - Initialize OASM
-- `New-OasmContext` - Create program context
-- `Invoke-OasmAssembly` - Execute assembly
-- `Get-OasmRules` - Get rules
-- `Invoke-OasmScan` - Run scanner
-
-## 📂 Project Structure
-
-```
+```text
 oasm/
-├── crates/oasm-api/       # External API
-├── crates/oasm-core/      # Internal core
-├── compiler/              # Manifest compiler
-├── runtime/daemon/        # Supervisor
-├── shells/psmodule/       # PowerShell module
-├── examples/              # Assembly examples
-└── manifests/             # Manifest system
+├── bindings/       # Language/runtime bindings (Rust ↔ C, Python, FFI)
+├── compiler/       # OASM compiler core logic
+├── crates/         # Sub-crates (oasm-api, oasm-core, etc.)
+├── docs/           # Documentation and design notes (governance, vision, etc.)
+├── examples/       # OASM assembly source examples
+├── manifests/      # YAML configuration and cratemanifests
+├── native_libs/    # Shared libraries (DLLs)
+├── runtime/        # Runtime artifacts and supervisor daemon
+├── schemas/        # Schema definitions (YAML/JSON)
+├── scripts/        # PowerShell and automation scripts
+├── shells/         # Shell integrations (e.g., PowerShell module)
+├── ui/             # Rust-based UI implementation
+└── logs/           # Organized system and compilation logs
 ```
-
-## 📜 Documentation
-
-- [OASM Vision](OASM_VISION.md)
-- [Manifest System](MANIFEST_SYSTEM.md)
-- [Modular Architecture](MODULAR_ARCHITECTURE.md)
-- [PowerShell Module](shells/psmodule/README.md)
 
 ---
 
-**OASM: Assembly-like enhancement for every program** ⚡
+## Development
+
+### Building the Project
+
+```bash
+# Build the entire workspace
+cargo build --workspace
+
+# Build the scanner specifically
+cargo build --bin oasm-scan
+```
+
+### Core Cmdlets
+
+| Cmdlet | Description |
+| :--- | :--- |
+| `Initialize-Oasm` | Initialize the environment |
+| `New-OasmContext` | Create a new program context (e.g., CAD) |
+| `Invoke-OasmAssembly` | Run OASM assembly source |
+| `Invoke-OasmScan` | Run the codebase diagnostics scanner |
+
+---
+
+<div align="center">
+<b>OASM: Powering the next generation of modular automation.</b>
+</div>

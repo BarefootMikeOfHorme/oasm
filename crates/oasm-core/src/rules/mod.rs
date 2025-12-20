@@ -5,7 +5,7 @@ pub mod hierarchy;
 pub mod loader;
 pub mod resolver;
 
-use crate::{Rule, RuleCategory, Condition, Severity};
+use crate::{Rule, RuleCategory, Severity};
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 
@@ -86,8 +86,20 @@ impl HierarchicalRuleEngine {
         let mut rules = Vec::new();
         let mut overridden = HashMap::new();
 
-        // Get all rules for this program type
-        if let Some(rule_ids) = self.program_index.get(program_type) {
+        // Collect rule IDs from both the specific program type and "all"
+        let mut rule_ids = Vec::new();
+
+        // Add rules for specific program type
+        if let Some(ids) = self.program_index.get(program_type) {
+            rule_ids.extend(ids.clone());
+        }
+
+        // Add rules for "all" program types (universal rules)
+        if let Some(ids) = self.program_index.get("all") {
+            rule_ids.extend(ids.clone());
+        }
+
+        if !rule_ids.is_empty() {
             let mut hrules: Vec<_> = rule_ids
                 .iter()
                 .filter_map(|id| self.rules.get(id))
